@@ -82,12 +82,12 @@ Apart from the integration features known from the other models, the Buds Pro's 
 
 ### Future online manual
 
-You can find the online manual here (not yet release at time of writing):
+You can find the online manual here (not yet released at time of writing):
 <https://www.samsung.com/m-manual/mod/SM-R190/>
 or here:
 <https://www.samsung.com/m-manual/mod/SM-R190/nos/>
 
-These links may not work properly on Desktops with large screens and redirect you to a blank page or error page. Use a phone instead if you experience these problems.
+These links may not work properly on Desktops with large screens and may redirect you to a blank page or error page. Use a phone instead if you experience these problems.
 
 ### Widget
 
