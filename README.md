@@ -1,6 +1,6 @@
 # Galaxy Buds Pro - Analysis & Disassembly
 
-Disassembly and analysis of pre-release APK files found on Samsung's servers
+Disassembly and analysis of pre-release APK files found on Samsung's servers (as of December 19th 2020)
 
 ## Galaxy Buds Pro (Plugin) App
 
