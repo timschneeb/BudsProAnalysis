@@ -18,7 +18,7 @@ I found this APK while searching through Samsung's Galaxy Store servers. You can
 
 ### Video/Screencapture
 
-You can find a video of the interface here: https://streamable.com/b9hjld
+You can find a video of the interface here: https://streamable.com/1mu6vm
 
 ### New Features
 
