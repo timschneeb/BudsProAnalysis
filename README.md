@@ -99,8 +99,8 @@ These links may not work properly on Desktops with large screens and may redirec
 
 | Earbuds                                                      | Cradle                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_left_violet.png)![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/w_buds_kv_right_violet.png) | ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_cradle_violet.png) |
-| ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/w_buds_kv_left_silver.png)![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_right_silver.png) | ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_cradle_silver.png) |
+| ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_left_violet.png)![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_right_violet.png) | ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_cradle_violet.png) |
+| ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_left_silver.png)![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_right_silver.png) | ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_cradle_silver.png) |
 | ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_left_black.png)![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_right_black.png) | ![](com.samsung.accessory.atticmgr/resources/res/drawable-xxhdpi/gw_buds_kv_cradle_black.png) |
 
 ### New Bluetooth message definitions
