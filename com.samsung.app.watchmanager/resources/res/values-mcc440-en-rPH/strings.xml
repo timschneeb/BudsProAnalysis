@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_guide_contacts_description">Used to provide services that need to be linked with accounts using registered Galaxy account information.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">No es pot afegir més d&apos;%d caràcter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">No es poden afegir més de %d caràcters.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d segon</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">El mode Conversa finalitza quan no es detecta la teva veu durant %d segon</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">El mode Conversa finalitza quan no es detecta la teva veu durant %d segons</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Si ja has enllaçat els auriculars amb un telèfon o una tablet, només has d&apos;obrir la funda de càrrega per tornar a connectar-los.\10\10Si no es connecten automàticament, o si vols enllaçar-los amb un altre telèfon o tablet, posa&apos;t els auriculars i, a continuació, mantén tocats els dos auriculars durant %d segon fins que sentis un bip.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Si ja has enllaçat els auriculars amb un telèfon o una tablet, només has d&apos;obrir la funda de càrrega per tornar a connectar-los.\10\10Si no es connecten automàticament, o si vols enllaçar-los amb un altre telèfon o tablet, posa&apos;t els auriculars i, a continuació, mantén tocats els dos auriculars durant %d segons fins que sentis un bip.</item>
+    </plurals>
+</resources>

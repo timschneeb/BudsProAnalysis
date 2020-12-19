@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Negalima pridėti daugiau nei %d simbolio.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Negalima pridėti daugiau nei %d simbolius.</item>
+        <item quantity="many">Negalima pridėti daugiau nei %d simbolių.</item>
+        <item quantity="other">Negalima pridėti daugiau nei %d simbolių.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sek.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sek.</item>
+        <item quantity="many">%d sek.</item>
+        <item quantity="other">%d sek.</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pokalbio režimas pasibaigia, kai jūsų balsas neaptinkamas %d sek.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pokalbio režimas pasibaigia, kai jūsų balsas neaptinkamas %d sek.</item>
+        <item quantity="many">Pokalbio režimas pasibaigia, kai jūsų balsas neaptinkamas %d sek.</item>
+        <item quantity="other">Pokalbio režimas pasibaigia, kai jūsų balsas neaptinkamas %d sek.</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jei su telefonu ar planšetiniu kompiuteriu ausines jau esate susieję, tiesiog atidarykite įkrovimo dėklą ir prijunkite jas vėl.\10\10Jei jos neprisijungia automatiškai arba jei norite susieti naują telefoną ar planšetinį kompiuterį, užsidėkite ausines, palieskite abi ausines ir palaikykite %d sek., kol pasigirs signalas.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jei su telefonu ar planšetiniu kompiuteriu ausines jau esate susieję, tiesiog atidarykite įkrovimo dėklą ir prijunkite jas vėl.\10\10Jei jos neprisijungia automatiškai arba jei norite susieti naują telefoną ar planšetinį kompiuterį, užsidėkite ausines, palieskite abi ausines ir palaikykite %d sek., kol pasigirs signalas.</item>
+        <item quantity="many">Jei su telefonu ar planšetiniu kompiuteriu ausines jau esate susieję, tiesiog atidarykite įkrovimo dėklą ir prijunkite jas vėl.\10\10Jei jos neprisijungia automatiškai arba jei norite susieti naują telefoną ar planšetinį kompiuterį, užsidėkite ausines, palieskite abi ausines ir palaikykite %d sek., kol pasigirs signalas.</item>
+        <item quantity="other">Jei su telefonu ar planšetiniu kompiuteriu ausines jau esate susieję, tiesiog atidarykite įkrovimo dėklą ir prijunkite jas vėl.\10\10Jei jos neprisijungia automatiškai arba jei norite susieti naują telefoną ar planšetinį kompiuterį, užsidėkite ausines, palieskite abi ausines ir palaikykite %d sek., kol pasigirs signalas.</item>
+    </plurals>
+</resources>

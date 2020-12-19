@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">Var pievienot ne vairāk kā %d rakstzīmes.</item>
+        <item quantity="one">Var pievienot ne vairāk kā %d rakstzīmi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Var pievienot ne vairāk kā %d rakstzīmes.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">%d sekundes</item>
+        <item quantity="one">%d sekunde</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekundes</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">Sarunas režīms tiek pārtraukts, kad %d sekundes netiek noteikta jūsu balss</item>
+        <item quantity="one">Sarunas režīms tiek pārtraukts, kad %d sekundi netiek noteikta jūsu balss</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sarunas režīms tiek pārtraukts, kad %d sekundes netiek noteikta jūsu balss</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">Ja ieaušus jau esat savienojis pārī ar tālruni vai planšetdatoru, atveriet uzlādes pārvalku, lai tos atkal savienotu.\10\10Ja tie neizveido savienojumu automātiski vai vēlaties tos savienot pārī ar jaunu tālruni vai planšetdatoru, uzlieciet ieaušus, pēc tam pieskarieties abiem ieaušiem un turiet %d sekundes, līdz atskan pīkstiens.</item>
+        <item quantity="one">Ja ieaušus jau esat savienojis pārī ar tālruni vai planšetdatoru, atveriet uzlādes pārvalku, lai tos atkal savienotu.\10\10Ja tie neizveido savienojumu automātiski vai vēlaties tos savienot pārī ar jaunu tālruni vai planšetdatoru, uzlieciet ieaušus, pēc tam pieskarieties abiem ieaušiem un turiet %d sekundi, līdz atskan pīkstiens.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ja ieaušus jau esat savienojis pārī ar tālruni vai planšetdatoru, atveriet uzlādes pārvalku, lai tos atkal savienotu.\10\10Ja tie neizveido savienojumu automātiski vai vēlaties tos savienot pārī ar jaunu tālruni vai planšetdatoru, uzlieciet ieaušus, pēc tam pieskarieties abiem ieaušiem un turiet %d sekundes, līdz atskan pīkstiens.</item>
+    </plurals>
+</resources>

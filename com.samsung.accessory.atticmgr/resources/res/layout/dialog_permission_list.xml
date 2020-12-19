@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/shape_rounded_rectangle" android:paddingLeft="24dp" android:paddingTop="24dp" android:paddingRight="24dp" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textSize="17sp" android:textColor="#fafafa" android:id="@+id/popup_message_textview" android:layout_width="match_parent" android:layout_height="wrap_content" android:lineSpacingExtra="2sp" android:fontFamily="sec-roboto-light"/>
+    <ListView android:id="@+id/permission_list" android:focusable="false" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:divider="@null" android:dividerHeight="6dp"/>
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:id="@+id/popup_button_layout" android:layout_width="match_parent" android:layout_height="36dp" android:layout_marginTop="24dp">
+        <TextView android:textSize="16sp" android:textColor="@color/colorPrimary" android:gravity="center" android:id="@+id/cancel_btn" android:background="@drawable/background_flat_button" android:focusable="true" android:layout_width="0dp" android:layout_height="match_parent" android:text="@string/cancel" android:layout_weight="0.5" android:fontFamily="@string/roboto_medium"/>
+        <View android:layout_gravity="center_vertical" android:id="@+id/switch_divider" android:background="@color/color_app_d4d4d4_opacity_15" android:layout_width="1dp" android:layout_height="16dp"/>
+        <TextView android:textSize="16sp" android:textColor="@color/colorPrimary" android:gravity="center" android:id="@+id/settings" android:background="@drawable/background_flat_button" android:focusable="true" android:layout_width="0dp" android:layout_height="match_parent" android:text="@string/menu_settings" android:layout_weight="0.5" android:fontFamily="@string/roboto_medium"/>
+    </LinearLayout>
+</LinearLayout>

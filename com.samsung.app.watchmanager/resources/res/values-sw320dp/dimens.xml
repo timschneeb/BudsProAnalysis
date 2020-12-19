@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_item_height">152dp</dimen>
+    <dimen name="grid_item_width">117dp</dimen>
+    <dimen name="pick_gear_name_size">8dp</dimen>
+    <dimen name="promotion_top_gradation_height">169dp</dimen>
+    <dimen name="promotion_top_image_height">140dp</dimen>
+    <dimen name="promotion_top_title_height">122dp</dimen>
+</resources>

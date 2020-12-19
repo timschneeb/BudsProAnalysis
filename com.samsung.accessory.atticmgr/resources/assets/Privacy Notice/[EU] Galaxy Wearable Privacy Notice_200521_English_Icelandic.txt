@@ -1,0 +1,84 @@
+﻿Persónuverndartilkynning fyrir Galaxy Wearable
+
+
+Síðast uppfært: 1. desember 2020
+
+Hjá Samsung Electronics Co., Ltd. erum við meðvituð um hversu mikilvæg persónuvernd er viðskiptavinum okkar. Samsung er gagnastjórnandi fyrir Galaxy Wearable. Við höfum útbúið þessa persónuverndartilkynningu til að tryggja að þú skiljir hvernig við söfnum og notum persónuupplýsingar þínar. 
+
+Persónuverndarstefna okkar – sem má sjá á https://account.samsung.com/membership/terms/privacypolicy - tekur einnig yfir notkun þína á Galaxy Wearable. Persónuverndarstefna okkar hefur að geyma nánari upplýsingar um hvernig við notum gögnin þín. Þar er einnig að finna upplýsingar um hvernig þú getur haft samband við okkur. Vinsamlegast lestu persónuverndarstefnu okkar til viðbótar við þessa persónuverndartilkynningu. Þessi persónuverndartilkynning gildir þó ávallt tekin fram yfir persónuverndarstefnuna.
+
+HVAÐA UPPLÝSINGUM SÖFNUM VIÐ?
+
+Í gegnum Galaxy Wearable söfnum við og geymum upplýsingar um þig á ýmsa vegu. 
+
+Upplýsingar um notkun þína á Galaxy Wearable
+
+• Upplýsingar um tæki: Gerð tækis þíns, upplýsingar um vélbúnað tækis, raðnúmer og önnur einkvæm tækisauðkenni, símanúmer, sölunúmer, núverandi hugbúnaðarútgáfu, MCC (landskóði farsíma), MNC (kóði farsímakerfis), MAC vistfang, Bluetooth vistfang, útgáfa stýrikerfis, og stillingar tækisins sem þú notar til að fá aðgang að þínu Galaxy Wearable.
+• Skráðar upplýsingar: Greiningar-, tækni-, villu- og notkunarupplýsingar, svo sem um tíma og tímalengd notkunar þinnar á Galaxy Wearable, forrit sem þú settir upp á Galaxy Wearable og hvernig þú notar og átt samskipti við forrit og annað efni sem boðið er gegnum Galaxy Wearable, svo og allar upplýsingar sem eru vistaðar í vefkökum sem við setjum upp á tækjum þínum.
+• Staðsetningarupplýsingar: GPS-merki tækis þíns og upplýsingar um nálæga Wi-Fi aðgangsstaði og farsímamöstur eru sendar okkur (þ.m.t. farsímafyrirtækjanna okkar) á meðanþú notar Galaxy Wearable, þegar þú kveikir á staðsetningarvirkninni og notar aðgerðina Finna úrið mitt, Finna símann minn eða Neyðarskilaboð aðgerðina.
+
+HVERNIG NOTUM VIÐ UPPLÝSINGAR ÞÍNAR?
+
+• Til að hjálpa þér að skrá þig í og nota Galaxy Wearable. 
+• Til að veita þjónustu og eiginleika sem þú biður um. 
+• Til að bregðast við beiðnum og spurningum frá þér og til að eiga í samskiptum við þig varðandi Galaxy Wearable, þ.m.t. veita aðstoð þegar þú óskar eftir tæknilegum stuðningi varðandi Galaxy Wearable. 
+• Til að gefa þér færi á að eiga samskipti við valin forrit, eiginleika og þjónustur frá Samsung eða þriðja aðila. Til dæmis kann að vera að þú getir tekið öryggisafrit af þínum forritum og upplýsingum um stillingar inn á Samsung Cloud eða notað Samsung Health á Galaxy Wearable.
+• Til að veita sérsniðið efni og þjónustu varðandi Galaxy Wearable. 
+• Til að birta kynningar og tilboð í gegnum beint auglýsingaefni, aðeins þar sem þú hefur gefið okkur sérstakt samþykki þitt.
+• Til að starfrækja, meta og bæta Galaxy Wearable og rekstur okkar (þ.m.t. að þróa nýjar vörur og þjónustu, auka við og bæta vörur okkar og þjónustu, stjórna samskiptum okkar, greina vörur, viðskiptavinahóp og þjónustu okkar, framkvæma markaðsrannsóknir; framkvæma gagnagreiningu, sinna bókhaldi, endurskoðun og öðru innra eftirliti).
+• Til að spyrja hvað þér finnist um vörur og þjónustur okkar og til að framkvæma kannanir meðal viðskiptavina, ef þörf krefur með sérstöku samþykki þínu.
+• Til að veita hugbúnaðaruppfærslur, viðhaldsþjónustu, og stuðning við Galaxy Wearable tækið þitt.
+• Til að verjast, greina og koma í veg fyrir svik og aðra glæpastarfsemi, kröfur og aðra bótaskyldu.
+• Til að hlíta og framfylgja gildandi lagalegum kröfum, viðeigandi stöðlum í greininni og stefnum okkar, þ.m.t. þessari persónuverndartilkynningu og persónuverndarstefnu.
+
+Samsung vinnur úr persónuupplýsingum í ofangreindum tilgangi. Lagalegur grundvöllur úrvinnslu Samsung á persónuupplýsingum er útlistaður að hér neðan: 
+
+Til að standa við loforð okkar til þín (GDPR grein 6(1)(b))
+
+• Skráning þín og Galaxy Wearable
+• Veita þér Galaxy Wearable, svo sem gerir þér kleift að taka öryggisafrit af þínum forritum og upplýsingum um stillingar á skýþjóni
+• Veita þér sérsniðið efni
+• Gera þér kleift að eiga samskipti við efni Samsung og þriðju aðila
+
+Til að stuðla að viðskiptalegum hagsmunum okkar (GDPR grein 6(1)(f))
+
+• Starfrækja, meta og bæta Galaxy Wearable og fyrirtækið okkar
+• Svara beiðnum, fyrirspurnum og leiðbeiningum þínum
+• Viðhalda fullnægjandi öryggisráðstöfunum, þjónustu og uppfærslum
+• Vernd gegn bótaskyldu, þ.m.t. að hlíta iðnaðarstöðlum og framfylgd á okkar stefnu
+
+Til að hlíta lögum og lagalegum ferlum (GDPR grein 6(1)(c))
+• Hlíta viðeigandi lögum og reglum og dómsúrskurðum
+
+Með þínu samþykki (GDPR grein 6(1)(a))
+• Veita markaðstilkynningar (svo sem með tilkynningum, tölvupóstum og textaskilaboðum)
+
+MEÐ HVERJUM DEILUM VIÐ UPPLÝSINGUM ÞÍNUM?
+
+Við deilum upplýsingunum þínum innbyrðis í fyrirtækinu okkar og til eftirfarandi aðila en þó aðeins í þeim tilgangi sem lýst er að ofan.
+
+Hlutdeildarfélög: öðrum fyrirtækjum innan Samsung Electronics samstæðunnar sem eru í eigu eða undir stjórn okkar;
+Þjónustuveitur: vandlega valin fyrirtæki sem veita þjónustu fyrir okkar hönd eða í okkar þágu, svo sem gagnaþjónar sem viðhalda gögnum í okkar þágu. Þessar veitur leggja einnig áherslu á að vernda upplýsingar þínar;
+Öðrum aðilum sem er skylt samkvæmt lögum eða eftir því sem nauðsynlegt er til að vernda þitt Galaxy Wearable: til dæmis kann að vera nauðsynlegt samkvæmt lögum, lagalegum ferlum eða úrskurði ríkisvalds að birta þínar upplýsingar. Þeir gætu einnig óskað eftir upplýsingum þínum frá okkur í tengslum við lögreglumál, þjóðaröryggi, varnir gegn hryðjuverkum eða önnur málefni sem tengjast almannaöryggi;
+Öðrum aðilum í tengslum við fyrirtækjaviðskipti: Við kunnum að birta þriðja aðila upplýsingar þínar sem hluta af samruna eða flutningi, kaupum eða sölu, eða við gjaldþrot; og
+Öðrum aðilum með þínu samþykki eða samkvæmt þínum leiðbeiningum: til viðbótar við þá birtingu sem lýst er í þessari persónuverndartilkynningu kunnum við að miðla upplýsingum um þig til þriðju aðila þegar þú samþykkir eða biður um slíka miðlun.
+
+HVERSU LENGI GEYMUM VIÐ UPPLÝSINGAR ÞÍNAR OG HVERT FARA ÞÆR?
+
+Hversu lengi þín gögn eru geymd veltur á þeim lagalega grundvelli sem úrvinnsla gagnanna byggir. Til dæmis er okkur skylt að geyma þau gögn sem við vinnum úr til að uppfylla samningsskyldur okkar út þann tíma sem þú notar Galaxy Wearable. Svo lengi sem þú ert virkur notandi Galaxy Wearable munum við geyma og vinna úr þessum gögnum. Gögn eins og upplýsingar um tæki og auðkenni falla í þennan flokk.
+
+Gögn sem við vinnum úr til að efla viðskiptalega hagsmuni okkar, eins og notkun þín á Galaxy Wearable, eru aðeins geymd eins lengi og tilgangur með öflun þeirra krefst. Til dæmis er gögnum hugsanlega aflað til að framkvæma greiningar sem gera okkur kleift að þróa endurbætur á Galaxy Wearable eða við vinnum úr gögnum til að halda skrá yfir fyrirspurnir sem þú gerir í gegnum eða með Galaxy Wearable til að bæta þína upplifun af notendaþjónustu.
+
+Að auki kann úrvinnsla að fara fram samkvæmt þínu samþykki. Ef þú afturkallar samþykkið þitt munum við halda áfram úrvinnslu gagna sem aflað var fyrir þann tíma sem afturköllun var gerð þangað til að tilgangi þeirrar gagnaöflunar hefur verið náð.
+
+Vinsamlegast athugið að þó að við stefnum að því að geyma gögnin þín í þann tíma sem lýst hefur verið gæti verið unnið úr þínum gögnum í lengri tíma til samræmis við viðeigandi lög. Til dæmis ef tiltekið lagaákvæði kveður á um að við verðum að afla tiltekinna gagna munum við hlíta því og geyma þau gögn í þann tíma sem kveðið er á um. 
+
+Svo lengi sem þín gögn eru geymd hjá okkur verða gögnin þín ávallt varin með viðeigandi ráðstöfunum.
+
+Notkun þín á Galaxy Wearable mun hafa í för með sér flutning, geymslu og vinnslu á persónuupplýsingum um þig til annarra landa; t.d. án tæmandi talningar landa innan evrópska efnahagssvæðisins, Suður Kóreu, Bandaríkjanna, Kína og Víetnam. Allar gagnafærslur milli ríkja lúta að lagalegum kröfum til þess að tryggja að þínar persónuupplýsingar fái örugga úrvinnslu eins og þú myndir búast við.
+
+UPPFÆRSLUR Á ÞESSARI PERSÓNUVERNDARTILKYNNINGU
+
+Þessi persónuverndartilkynning kann að verða uppfærð til að upplýsa þig um breytingar á því hvernig við söfnum og vinnum úr upplýsingum þínum úr Galaxy Wearable eða breytingar á viðeigandi lögum og reglugerðum. Dagsetningin þegar skjalið var síðast uppfært er sýnd efst í þessari persónuverndartilkynningu.
+
+V 2.0

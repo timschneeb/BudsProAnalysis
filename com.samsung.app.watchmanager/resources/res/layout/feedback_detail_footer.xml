@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:id="@+id/footer_view_text" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <View android:id="@+id/delimiter" android:background="#fff0f0f0" android:layout_width="match_parent" android:layout_height="2px" android:layout_marginLeft="10dp" android:layout_marginRight="10dp"/>
+        <RelativeLayout android:gravity="center_vertical" android:id="@+id/feedback_footer_textview_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="13dp" android:layout_marginBottom="13dp">
+            <TextView android:textSize="14sp" android:textColor="#ff979797" android:id="@+id/feedback_footer_textview" android:paddingTop="13dp" android:paddingBottom="13dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/your_feedback_appreciated" android:layout_marginStart="16dp" android:layout_marginEnd="16dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="end" android:layout_gravity="bottom" android:orientation="horizontal" android:id="@+id/bottom_button_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="16dp">
+        <Button android:textSize="15sp" android:textColor="#ff252525" android:gravity="center" android:id="@+id/rate_response_button" android:background="@drawable/feedback_detail_button_ripple" android:clickable="true" android:layout_width="0dp" android:layout_height="48dp" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" android:minHeight="36dp" android:text="@string/rate_response" android:layout_weight="1" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" android:layout_marginEnd="16dp"/>
+        <Button android:textAppearance="?android:attr/textAppearanceLarge" android:textSize="15sp" android:textColor="#ff252525" android:gravity="center" android:id="@+id/ask_again_button" android:background="@drawable/feedback_detail_button_ripple" android:clickable="true" android:layout_width="0dp" android:layout_height="48dp" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" android:minHeight="36dp" android:text="@string/ask_again" android:layout_weight="1" android:textAllCaps="true" android:fontFamily="sec-roboto-condensed" android:layout_marginEnd="16dp"/>
+    </LinearLayout>
+</LinearLayout>

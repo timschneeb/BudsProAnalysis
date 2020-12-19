@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/color_routine_background" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/routine_list_item_inset" android:paddingRight="@dimen/routine_list_item_inset" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="18dp">
+        <RadioGroup android:id="@+id/radio_group" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp" android:layout_weight="1">
+            <RadioButton android:id="@+id/btn_preset_0" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/eq_preset_normal" style="@style/RoutineListItemTextAppearance"/>
+            <RadioButton android:id="@+id/btn_preset_1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eq_preset_bass_boost" style="@style/RoutineListItemTextAppearance"/>
+            <RadioButton android:id="@+id/btn_preset_2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eq_preset_soft" style="@style/RoutineListItemTextAppearance"/>
+            <RadioButton android:id="@+id/btn_preset_3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eq_preset_dynamic" style="@style/RoutineListItemTextAppearance"/>
+            <RadioButton android:id="@+id/btn_preset_4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eq_preset_clear" style="@style/RoutineListItemTextAppearance"/>
+            <RadioButton android:id="@+id/btn_preset_5" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/eq_preset_treble_boost" style="@style/RoutineListItemTextAppearance"/>
+        </RadioGroup>
+        <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20dp" android:minHeight="@dimen/routine_button_height">
+            <TextView android:gravity="center" android:id="@+id/btn_cancel" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/routine_button_height" android:text="@string/routine_cancel" android:layout_weight="1" style="@style/RoutineDialogPositiveButtonAppearance"/>
+            <View android:background="@color/color_routine_divider" android:layout_width="1dp" android:layout_height="match_parent" android:layout_marginTop="9dp" android:layout_marginBottom="9dp"/>
+            <TextView android:gravity="center" android:id="@+id/btn_ok" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/routine_button_height" android:text="@string/routine_done" android:layout_weight="1" style="@style/RoutineDialogPositiveButtonAppearance"/>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

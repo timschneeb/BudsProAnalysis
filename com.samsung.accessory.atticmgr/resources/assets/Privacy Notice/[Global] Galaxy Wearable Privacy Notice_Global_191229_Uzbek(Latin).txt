@@ -1,0 +1,50 @@
+﻿Galaxy Wearable’ning Maxfiylik bildiruvi
+
+
+So‘nggi yangilanish sanasi: 2020-yil 1-dekabr
+
+Biz Samsung Electronics Co., Ltd. kompaniyasida maxfiylik mijozlarimiz uchun qanchalik muhim ekanini yaxshi bilamiz. Biz ushbu Maxfiylik bildiruvini shaxsiy ma’lumotlaringizni qanday yig‘ishimiz va ulardan qanday foydalanishimizni tushunib olishingiz uchun tayyorladik. 
+
+Bizning https://account.samsung.com/membership/pp manzilida ko‘rish mumkin bo‘lgan Maxfiylik siyosatimiz ham sizning Galaxy Wearable’ga nisbatan qo‘llaniladi. Maxfiylik siyosatimizda ma’lumotlaringizdan qanday foydalanishimiz haqida ko‘proq ma’lumotlar bor. Unda biz bilan qanday bog‘lanishga oid ma’lumotlar ham bor. Ushbu Maxfiylik bildiruviga qo‘shimcha ravishda Maxfiylik siyosatimizni ham o‘qib chiqing. Biroq ushbu Maxfiylik bildiruvi har doim Maxfiylik siyosatidan ustun kuchga ega.
+
+BIZ QANDAY MA’LUMOTLARNI TO‘PLAYMIZ?
+
+Galaxy Wearable ilovangiz orqali siz haqingizdagi ma’lumotlarni turli yo‘llar bilan yig‘amiz va saqlaymiz. 
+
+
+Siz Galaxy Wearable’dan qanday foydalanishingiz haqida ma’lumot
+
+• Qurilma haqidagi ma’lumotlar: Siz Galaxy Wearable ilovangizga kirish uchun foydalanadigan apparatingiz modeli, qurilma apparati haqida ma’lumot, seriya raqami va qurilmani identifikatsiya qiluvchi boshqa takrorlanmas ma’lumotlar, telefon raqami, savdo kodi, dasturiy ta’minotning joriy versiyasi, MCC (mamlakatning mobil aloqa kodi), MNC (mobil tarmoq kodi), MAC manzili, Bluetooth manzili, operatsion tizim versiyalari va qurilmangizning sozlamalari.
+• Jurnal haqida ma’lumot: Vaqt, Galaxy Wearable’dan foydalanishingiz davomiyligi singari tashxisiy, texnik, xato va foydalanish ma’lumotlari, siz Galaxy Wearable’ga o‘rnatgan ilovalar va sizga Galaxy Wearable orqali taklif etilayotgan ilovalar va boshqa kontentdan qanday foydalanishingiz yoki interfaol munosabatga kirishishingiz hamda biz qurilmalaringizga o‘rnatadigan cookie fayllarda saqlanadigan har qanday axborot.
+• Joylashuv haqida ma’lumot: Galaxy Wearable’dan foydalanayotganingizda, Joylashuv funksiyasini yoqqaningizda va Soatimni topish xizmati yoki Telefonimni topish xizmati funksiyasidan foydalanganingizda yoki SOS funksiyasidan foydalanganingizda bizga (jumladan, xizmat ko‘rsatuvchilarimizga) yuboriladigan qurilmangizning GPS signali yoki yaqin-atrofdagi Wi-Fi’dan foydalanish nuqtasi va uyali aloqa minoralari haqidagi ma’lumot.
+
+MA’LUMOTLARINGIZDAN QANDAY FOYDALANAMIZ?
+
+• Sizga Galaxy Wearable’ni ro‘yxatdan o‘tkazish va foydalanishda yordam berish. 
+• Siz iltimos qilgan xizmatlarni ko‘rsatish va xavfsizlikni ta’minlash. 
+• So‘rovlaringiz va savollaringizga javob berish va Galaxy Wearable haqida siz bilan aloqa qilish, jumladan Galaxy Wearable bilan bog‘liq texnik ko‘mak ko‘rsatishni so‘raganingizda yordam berish. 
+• Samsung yoki uchinchi tomon ilovalari, xususiyatlari va xizmatlari bilan hamkorlik qilishga ruxsat berish. Masalan, ilovalaringiz va parametrlaringizni Samsung Cloud xizmatiga arxivlashingiz yoki Samsung Health xizmatidan Galaxy Wearable’da foydalanishingiz mumkin. 
+• Galaxy Wearable’ga bog‘liq bo‘lgan sozlangan kontent va xizmatlarni taqdim etish. 
+• Faqat siz alohida ruxsat bergan hollardagina bevosita marketing xabarlari orqali promo-aksiyalar va takliflarni taqdim etish.
+• Siz uchun eng mos xabarlar, xizmatlar va foydalanish tajribasini taqdim etish maqsadida mijozlarimizni yanada yaxshiroq tushunishda yordam olish uchun mahsulot va xizmatlarimiz, jumladan Galaxy Wearable’ingizni tahlil qilish.
+• Mahsulotlarimiz va xizmatlarimiz haqidagi fikr-mulohazalaringizni so‘rash – agar talab qilinsa, alohida roziligingizni olib, mijoz so‘rovini o‘tkazish.
+• Galaxy Wearable uchun dasturiy ta’minot yangilanishlari, texnik xizmat va ko‘makni ta’minlab berish.
+• Qonunlar va tartib-qoidalarga rioya qilish.
+• Samsung Electronics yoki uning biror filiali, biznes hamkori va/yoki mijozining huquqi, mol-mulki va/yoki xavfsizligini himoya qilish.
+
+MA’LUMOTLARINGIZNI KIMLAR BILAN BOʻLISHAMIZ?
+
+Biz ma’lumotlaringizni faqat yuqorida bayon qilingan maqsadlar uchun biznesimiz doirasida ichki tarzda hamda quyidagi yuridik shaxslarga oshkor qilamiz.
+
+Filiallar: biz boshqaradigan yoki egalik qiladigan Samsung Electronics guruhining boshqa kompaniyalari;
+Xizmat provayderlari: biz uchun yoki bizning nomimizdan xizmatlar ko‘rsatuvchi puxtalik bilan tanlab olingan kompaniyalar, jumladan bizning nomimizdan ma’lumotlarni saqlovchi ma’lumotlar serverlari. Bu provayderlar ham sizning ma’lumotlaringizni himoya qilish majburiyatini oladi;
+Galaxy Wearable’ingizni himoya qilish uchun qonunda talab qilingan yoki zarur bo‘lgan hollarda boshqa tomonlar: masalan, qonun, sud jarayoni yoki davlat organidan olingan sud buyrug‘i bilan ma’lumotlaringizni oshkor qilish zarur bo‘lishi mumkin. Ular, shuningdek, bizdan huquq-tartibot, milliy xavfsizlik, terrorga qarshi kurash yoki jamoat xavfsizligiga aloqador boshqa maqsadlarda sizning ma’lumotlaringizni talab qilishlari mumkin;
+Korporativ operatsiyalar bilan bogʻliq holda boshqa tomonlarga: Biz birlashuv yoki vakolatlarning topshirilishi, xarid yoki sotuv, shuningdek, bankrotlik holatida ma’lumotlaringizni uchinchi tomonga oshkor qilishimiz mumkin; va
+Sizning rozilingiz yoki koʻrsatmangizga binoan boshqa tomonlarga: ushbu Maxfiylik bildiruvida ta’kidlangan ochiqlashdan tashqari alohida roziligingiz yoki so‘rovingiz asosida siz haqingizdagi ma’lumotlarni uchinchi tomonga oshkor qilishimiz mumkin.
+
+USHBU MAXFIYLIK BILDIRUVIDAGI YANGILANISHLAR
+
+Galaxy Wearable uchun siz haqingizdagi ma’lumotlarni qanday yig‘ishimiz va ishlov berishimiz yokli tegishli qonunlar va tartib-qoidalardagi o‘zgarishlar haqida sizni xabardor qilib turishimiz uchun ushbu Maxfiylik bildiruvi yangilanishi mumkin. Hujjatning so‘nggi yangilanish sanasi ushbu Maxfiylik bildiruvining yuqori qismida ko‘rsatilgan.
+
+V 2.0
+

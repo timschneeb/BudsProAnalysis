@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d სიმბოლოზე მეტის დამატება შეუძლებელია.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d სიმბოლოზე მეტის დამატება შეუძლებელია.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d წამი</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d წამი</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">საუბრის რეჟიმი დასრულდება, როდესაც თქვენი ხმის ამოცნობა არ მოხდება %d წამის განმავლობაში</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">საუბრის რეჟიმი დასრულდება, როდესაც თქვენი ხმის ამოცნობა არ მოხდება %d წამის განმავლობაში</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">თუ ყურსასმენები უკვე დაწყვილებული გაქვთ ტელეფონთან ან პლანშეტთან, მათ ხელახლა დასაკავშირებლად საკმარისია გახსნათ დამტენი.\10\10თუ მათი დაკავშირება არ შესრულდება ავტომატურად, ან თუ ახალ ტელეფონთან ან პლანშეტთან მოისურვებთ დაწყვილებას, გაიკეთეთ ყურსასმენები, შემდეგ კი %d წამით შეეხეთ ორივე ყურსასმენს, სანამ არ გაიგონებთ წრიპინს.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">თუ ყურსასმენები უკვე დაწყვილებული გაქვთ ტელეფონთან ან პლანშეტთან, მათ ხელახლა დასაკავშირებლად საკმარისია გახსნათ დამტენი.\10\10თუ მათი დაკავშირება არ შესრულდება ავტომატურად, ან თუ ახალ ტელეფონთან ან პლანშეტთან მოისურვებთ დაწყვილებას, გაიკეთეთ ყურსასმენები, შემდეგ კი %d წამით შეეხეთ ორივე ყურსასმენს, სანამ არ გაიგონებთ წრიპინს.</item>
+    </plurals>
+</resources>

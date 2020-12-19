@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rotation_y_for_rtl">180</dimen>
+</resources>

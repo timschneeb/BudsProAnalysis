@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="@dimen/top_content_progressbar_rounded_corner_width_height" android:width="@dimen/top_content_progressbar_rounded_corner_width_height" android:viewportWidth="78" android:viewportHeight="78">
+    <path android:fillColor="@color/activity_base_rounded_corner_background" android:pathData="M78,0C34.922,0 0,34.922 0,78V0L78,0z"/>
+</vector>

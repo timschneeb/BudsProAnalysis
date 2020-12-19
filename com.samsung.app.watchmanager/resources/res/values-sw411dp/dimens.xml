@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="grid_item_height">196dp</dimen>
+    <dimen name="grid_item_width">150dp</dimen>
+    <dimen name="margin_between_galaxy_animation_and_button">81dp</dimen>
+    <dimen name="pairing_loading_text_size">21dp</dimen>
+    <dimen name="pairing_on_gear_margin_bottom">24dp</dimen>
+    <dimen name="pairing_pincode_size">38dp</dimen>
+    <dimen name="pairing_pincode_title_bottom_margin">13dp</dimen>
+    <dimen name="pairing_pincode_title_size">16dp</dimen>
+    <dimen name="pairing_pincode_view_height">42dp</dimen>
+    <dimen name="pairing_pincode_view_width">155dp</dimen>
+    <dimen name="pick_gear_name_size">10dp</dimen>
+    <dimen name="promotion_top_gradation_height">215dp</dimen>
+    <dimen name="promotion_top_image_height">179dp</dimen>
+    <dimen name="promotion_top_title_height">155dp</dimen>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dodate lahko največ %d znak.</item>
+        <item quantity="two">Dodate lahko največ %d znaka.</item>
+        <item quantity="few">Dodate lahko največ %d znake.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dodate lahko največ %d znakov.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">%d sekundi</item>
+        <item quantity="few">%d sekunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekund</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Način pogovora se konča, ko vaš glas ni zaznan %d sekundo</item>
+        <item quantity="two">Način pogovora se konča, ko vaš glas ni zaznan %d sekundi</item>
+        <item quantity="few">Način pogovora se konča, ko vaš glas ni zaznan %d sekunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Način pogovora se konča, ko vaš glas ni zaznan %d sekund</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Če ste ušesne slušalke že seznanili s telefonom ali tabličnim računalnikom, preprosto odprite ohišje za polnjenje, da jih znova povežete.\10\10Če se ne povežejo samodejno oziroma jih želite seznaniti z novim telefonom ali tabličnim računalnikom, si nadenite ušesne slušalke, nato pa ju pritisnite in držite %d sekundo, dokler ne zaslišite piska.</item>
+        <item quantity="two">Če ste ušesne slušalke že seznanili s telefonom ali tabličnim računalnikom, preprosto odprite ohišje za polnjenje, da jih znova povežete.\10\10Če se ne povežejo samodejno oziroma jih želite seznaniti z novim telefonom ali tabličnim računalnikom, si nadenite ušesne slušalke, nato pa ju pritisnite in držite %d sekundi, dokler ne zaslišite piska.</item>
+        <item quantity="few">Če ste ušesne slušalke že seznanili s telefonom ali tabličnim računalnikom, preprosto odprite ohišje za polnjenje, da jih znova povežete.\10\10Če se ne povežejo samodejno oziroma jih želite seznaniti z novim telefonom ali tabličnim računalnikom, si nadenite ušesne slušalke, nato pa ju pritisnite in držite %d sekunde, dokler ne zaslišite piska.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Če ste ušesne slušalke že seznanili s telefonom ali tabličnim računalnikom, preprosto odprite ohišje za polnjenje, da jih znova povežete.\10\10Če se ne povežejo samodejno oziroma jih želite seznaniti z novim telefonom ali tabličnim računalnikom, si nadenite ušesne slušalke, nato pa ju pritisnite in držite %d sekund, dokler ne zaslišite piska.</item>
+    </plurals>
+</resources>

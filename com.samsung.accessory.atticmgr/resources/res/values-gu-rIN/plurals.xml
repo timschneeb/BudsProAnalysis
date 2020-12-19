@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d કરતાં વધારે અક્ષર ઉમેરી શકાય નહીં.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d કરતાં વધારે અક્ષરો ઉમેરી શકાય નહીં.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d સેકંડ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d સેકંડ</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d સેકંડ સુધી તમારો અવાજ હોવાની જાણ ન થાય ત્યારે વાતચીત મોડ સમાપ્ત થાય છે</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d સેકંડ સુધી તમારો અવાજ હોવાની જાણ ન થાય ત્યારે વાતચીત મોડ સમાપ્ત થાય છે</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">તમે પહેલેથી તમારાં ઇઅરબડ્સની ફોન કે ટૅબ્લેટ સાથે જોડી બનાવેલી હોય, તો તેમને ફરી જોડવા માટે, બસ ચાર્જિંગ કેસ ખોલો.\10\10તેઓ સ્વચાલિત રીતે જોડાય નહીં, અથવા તમે કોઈ નવા ફોન કે ટૅબ્લેટ સાથે જોડી બનાવવા માગતા હો, તો તમારાં ઇઅરબડ્સ પહેરો અને ત્યાર બાદ તમને બીપનો અવાજ ન સંભળાય ત્યાં સુધી, %d સેકંડ માટે, બંને ઇઅરબડ્સને ટચ કરો અને હોલ્ડ કરી રાખો.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">તમે પહેલેથી તમારાં ઇઅરબડ્સની ફોન કે ટૅબ્લેટ સાથે જોડી બનાવેલી હોય, તો તેમને ફરી જોડવા માટે, બસ ચાર્જિંગ કેસ ખોલો.\10\10તેઓ સ્વચાલિત રીતે જોડાય નહીં, અથવા તમે કોઈ નવા ફોન કે ટૅબ્લેટ સાથે જોડી બનાવવા માગતા હો, તો તમારાં ઇઅરબડ્સ પહેરો અને ત્યાર બાદ તમને બીપનો અવાજ ન સંભળાય ત્યાં સુધી, %d સેકંડ માટે, બંને ઇઅરબડ્સને ટચ કરો અને હોલ્ડ કરી રાખો.</item>
+    </plurals>
+</resources>

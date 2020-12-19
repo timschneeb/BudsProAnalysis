@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টাতকৈ অধিক বৰ্ণ যোগ কৰিব নোৱাৰে।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d টাতকৈ অধিক বৰ্ণ যোগ কৰিব নোৱাৰে।</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ছেকেণ্ড</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ছেকেণ্ড</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ছেকেণ্ডৰ বাবে আপোনাৰ মাত চিনাক্ত নোহোৱাৰ সময়ত কথোপকথন ম&apos;ড সমাপ্ত হয়</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ছেকেণ্ডৰ বাবে আপোনাৰ মাত চিনাক্ত নোহোৱাৰ সময়ত কথোপকথন ম&apos;ড সমাপ্ত হয়</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যদি আপুনি এটা ফোন বা টেবলেটৰ সৈতে ইতিমধ্যে আপোনাৰ ইয়েৰবাদসমূহ যোৰা লগাইছে, তেন্তে সেইবোৰ পুনৰ সংযোগ কৰিবলৈ মাত্ৰ চাৰ্জিং কেচটো খোলক।\10\10যদি সেইবোৰ স্বয়ংক্ৰিয়ভাৱে সংযোগ নহয় বা যদি আপুনি এটা নতুন ফোন বা টেবলেটৰ সৈতে যোৰা লগাব বিচাৰে, তেন্তে আপোনাৰ ইয়েৰবাদসমূহ পিন্ধক, তাৰপিছত আপুনি এটা বীপ নুশুনালৈকে %d ছেকেণ্ডৰ বাবে দুয়োটা ইয়েৰবাদ স্পৰ্শ কৰক আৰু ধৰি থাকক।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যদি আপুনি এটা ফোন বা টেবলেটৰ সৈতে ইতিমধ্যে আপোনাৰ ইয়েৰবাদসমূহ যোৰা লগাইছে, তেন্তে সেইবোৰ পুনৰ সংযোগ কৰিবলৈ মাত্ৰ চাৰ্জিং কেচটো খোলক।\10\10যদি সেইবোৰ স্বয়ংক্ৰিয়ভাৱে সংযোগ নহয় বা যদি আপুনি এটা নতুন ফোন বা টেবলেটৰ সৈতে যোৰা লগাব বিচাৰে, তেন্তে আপোনাৰ ইয়েৰবাদসমূহ পিন্ধক, তাৰপিছত আপুনি এটা বীপ নুশুনালৈকে %d ছেকেণ্ডৰ বাবে দুয়োটা ইয়েৰবাদ স্পৰ্শ কৰক আৰু ধৰি থাকক।</item>
+    </plurals>
+</resources>

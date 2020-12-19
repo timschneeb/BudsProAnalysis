@@ -1,0 +1,4324 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/test_toolbar.xml
+SHA-256-Digest: Hp8o0Ha8te/rLUEgkPeyCFOekmPuqt/eV1aU1bRsbyY=
+
+Name: res/drawable/fotaprovider_bottombar_button_orange_ripple.xml
+SHA-256-Digest: dNHh+3zGvpqrXf+wLM32uBiv1POtxzfOAR5WzPSPHPc=
+
+Name: assets/RDI/it.txt
+SHA-256-Digest: JfSLuJXHyMGKj7gYv5fRd79Brxf+r6DvT1CzSIqnnvw=
+
+Name: res/drawable-v22/sesl_btn_default_background.xml
+SHA-256-Digest: ZnMIR16hRCluuotIz0U3Nctyw0EES27ObFKThnuynrA=
+
+Name: assets/EULA/in.txt
+SHA-256-Digest: n4So2FQFHGClNjUbY9GGTB6/5N6xNJBeLgfrVEx24cI=
+
+Name: res/drawable/sesl_bottom_navigation_item_background.xml
+SHA-256-Digest: ElTKJY38FJoVxj7HCLycn+zuym3lF074/+d+LiFe2BQ=
+
+Name: res/layout/sesl_dialog_title.xml
+SHA-256-Digest: zdZfQkIFLo33MMaOIP5fGgNW6TWiAtwgY/Ut9cS9TCA=
+
+Name: res/layout/activity_software_update.xml
+SHA-256-Digest: tLgeEsA3mpyCdE7fw1+Pl927WDO8YWeLXzrcCXqaM9g=
+
+Name: res/layout/layout_drawer_navigation.xml
+SHA-256-Digest: IaLb8U2RWich/8FvT4cXFYS8kVVeV3mpu3z/cHdTdC8=
+
+Name: res/color/material_on_primary_disabled.xml
+SHA-256-Digest: f5dnRo8V0pcCYimohbeahIfKyg9Sx5kDwOANaEsQi0w=
+
+Name: assets/RDI/eu-rES.txt
+SHA-256-Digest: vKgBu6Cc0AbT4vKSDE6l3OI2BE32FtSsdYzT7RAw5Z4=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Kannada.txt
+SHA-256-Digest: nHvDghkRhQBz+g86iVg+BrFDrFx2Jxio9ejYKuaSkDs=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_normal.xml
+SHA-256-Digest: ycGyRX8a1dgauQ+ImPH7kvQ/+5/Zq1juNCoxBOFrtj4=
+
+Name: res/layout/view_radio_routine_touchpad.xml
+SHA-256-Digest: Fo1lV55v2l4JTOTSo2hPYA9/RRJk0BRMzD4d7ilV/9k=
+
+Name: assets/EULA/zh-rTW.txt
+SHA-256-Digest: csxY5kxEPVnSR4UISmI/lmaQ0+TS9XQpPVfcDiCJdTg=
+
+Name: assets/noise_control_activate_off_left.json
+SHA-256-Digest: dS2NxnrAuGVUSE0A+81BRHoe+08LRitQGFILFw/0ohM=
+
+Name: assets/RDI/ky-rKG.txt
+SHA-256-Digest: 5N8BX86S6e/XaJ0zKkzJ0E4vCmfGC1CqpfTAQd852x8=
+
+Name: res/color/selector_dropdown_ic_color.xml
+SHA-256-Digest: JObp/BfTyAKDdPbpcWKgIwA6aecg4Wh8tJpQF43Sw58=
+
+Name: res/layout/activity_hearing_enhancements.xml
+SHA-256-Digest: YmpBUkfhhHFs15jvKeV7sQFE6+K9ePmbx62ZcrdAxmc=
+
+Name: res/anim/sesl_list_checkbox_to_checked_check_mark_anim.xml
+SHA-256-Digest: AYDP+hFBNh/cVxnGO76FjvcYfiu0Ix+MhxMFVrockVM=
+
+Name: res/drawable-xxhdpi-v4/level3_booster_selected.png
+SHA-256-Digest: DrX8ECZl7q+zb2cC0repflUuYdg02+bHBHSjnLha0rY=
+
+Name: res/drawable/sesl_textfield_search_light.xml
+SHA-256-Digest: jEcew8hYk5kaJA60dhFPxZ3jMIHU8LZOfwjECm9NRec=
+
+Name: assets/RDI/gu-rIN.txt
+SHA-256-Digest: gYQxppGp1xXLoDWtPAp2ci0qofahMSJQd0iben+V208=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Estonian.txt
+SHA-256-Digest: FAaDsXnJzh22hcH1VXE5CS3XBhZqlkUhQbub03e7hio=
+
+Name: res/drawable/ic_stat_notify_bean_postpone.xml
+SHA-256-Digest: z+/peOaWe+x2n3ku8FhrtcHzePjNOzMsRi7Qwt0KO6g=
+
+Name: assets/RDI/da.txt
+SHA-256-Digest: TXdEUTQw3/ARGPFUJllbwmIRnIPT4URLYQOW19lO7z8=
+
+Name: res/drawable/selector_advanced_icon.xml
+SHA-256-Digest: FM8gprEBohqmTGqJkAuIMxCX/3rGoUTnvoUMg1puWfg=
+
+Name: res/drawable-xxhdpi-v4/ic_general_dim.png
+SHA-256-Digest: 2PphQjCq2a4zlgkOpdGnO0my94ttsnIDJUaAbqdgVgk=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_touchpad.png
+SHA-256-Digest: azNNYOlCX1xISSwckRFTdSDMhW5MNty8TlzjlpTW4EM=
+
+Name: res/layout/top_content_progress.xml
+SHA-256-Digest: MjaeGK/EDWLSvs7KmLtGH/DFjQfjDg0rhX9qG9pklBU=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_bean.png
+SHA-256-Digest: b18o3ixLKxXK3rMD2/wSZ3di5aSAnIcXl2rrs7QxXhU=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: dG5zslbxWHF5i20VQmNMuhaarwRc8FM+s4+3IEOip5w=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_add.png
+SHA-256-Digest: b9YZFBVy7ZevqhTrskpzO82WqjQpmzSY8zMow1ZQT0Q=
+
+Name: assets/EULA/kk-rKZ.txt
+SHA-256-Digest: fWT6EuAalzaaQygbJjLfdLXNEhC+7yRmqvwUtPFHlcc=
+
+Name: res/animator/mtrl_extended_fab_hide_motion_spec.xml
+SHA-256-Digest: mBAQb4M55VYLsaxXFivlusrqtt4doMlGi2XK/cmd87A=
+
+Name: res/drawable-xxhdpi-v4/level1_booster_selected.png
+SHA-256-Digest: 4RD29kNU992eRh3Fryuyiu1zng/oxMOde50AY4YD/Ec=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Romanian.txt
+SHA-256-Digest: Nonf0gaUfA4wOFozG1aIy091yBGvr6wanuOY0gQ+lg4=
+
+Name: res/drawable-night-v8/tw_ic_ab_back_mtrl.xml
+SHA-256-Digest: AuJxSRu1Jz9cFxKnZ8ferC2IeDtB+BpinsilEg+92ZQ=
+
+Name: res/xml-v28/widget_master_appwidget_provider.xml
+SHA-256-Digest: K9AcYinZksZ7uj7Fe2pfWF+ZDlqiVuigrq5eQSedsbA=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Turkish.txt
+SHA-256-Digest: 4+aaC+FEZpOlaeVLXtXoXd+gNJSyFjBDlvtazoV6r8M=
+
+Name: res/drawable/sesl_switch_thumb_selector_dark.xml
+SHA-256-Digest: wqaetWmg9ipkADOTaACoFFIcabakUef8LhrZSmI+Qbk=
+
+Name: assets/EULA/tg.txt
+SHA-256-Digest: uvFDGu6q8FDoSzVXzPMPxpulQxfnXP8PQCBVSmBsavY=
+
+Name: assets/RDI/uk.txt
+SHA-256-Digest: 2ehsy2bw3Tc/4Q4wFaNEXLkOWSl6PGap/wB2EEBArqE=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: xqgA1FznCgBSLyfuAkQCXOqwZhi/F/mL0uMFWn+OY6o=
+
+Name: assets/RDI/ta-rIN.txt
+SHA-256-Digest: ex4u11T3hI5N9T0i5uYv3IU7RifE1HsMx0JNq99N4xU=
+
+Name: res/color/selector_equalizer_preset_color.xml
+SHA-256-Digest: cmDfE1Ai8RhydKj8jN923xaeN3c1JuxZ0hJtrVEkhcQ=
+
+Name: res/drawable/sesl_bottom_navigation_background_text_dark.xml
+SHA-256-Digest: hLkKz31HSHY00fODMLJzUxgCtFXyuDL7NmbC/f/ktBw=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Danish.txt
+SHA-256-Digest: 5wbV+YurnGqrExH1JZqB/+B7gi5sOOma7R19yEffobs=
+
+Name: res/layout-land/activity_widget_setting.xml
+SHA-256-Digest: MqMYAIb/bciMsPcsihGQQitXh6Lb8mBaXAwJqx+jJ98=
+
+Name: assets/EULA/ne-rNP.txt
+SHA-256-Digest: 02TAUSYFLoqjPY3HeVM9jumI0Z2Xr1G7pxWccz4qkGc=
+
+Name: res/drawable-xxhdpi-v4/ic_earbuds_lab_dim.png
+SHA-256-Digest: Ecf0iqTuBLr4G4gkyUK0+/0eu1igKZOen7bhp+7Awhg=
+
+Name: res/layout/touchpad_viewpager_2.xml
+SHA-256-Digest: JdXCeKXPltupVOSmgWyQOPxE/qyLrs3adGqG8+qk6HU=
+
+Name: res/drawable/sesl_seekbar_thumb_unpressed_to_pressed.xml
+SHA-256-Digest: 089jbys4Auuiij5G6f4DSccr/4EZ2EtMWZKGS+L+Tl8=
+
+Name: assets/Privacy Notice/[US] Galaxy Wearable Privacy Notice_US_200
+ 229_English_US.txt
+SHA-256-Digest: rGpcX6FICpM+W62kxLPn8t1wY6Dg+y0btR1bHg+feI4=
+
+Name: META-INF/androidx.room_room-runtime.version
+SHA-256-Digest: 9Wx5eiXxat43riLVYSSwhda8WNBcyfc9IHX0dMFwIEs=
+
+Name: res/xml/network_security_config.xml
+SHA-256-Digest: 3Gw02L4fRCVyyUFZCFXu/rX8/WC6JjFU+o8BgCY8+zw=
+
+Name: res/drawable-hdpi-v4/sesl_scrollbar_handle_alpha.9.png
+SHA-256-Digest: e7O/8CHGjqK7GBvgGuyfd11drnaWs9XV/RbBxTFfiVc=
+
+Name: res/drawable-xhdpi-v4/googleg_standard_color_18.png
+SHA-256-Digest: kMRGdVJeKQMy99umrbl8evO4KZ5Wz1IR6JPQ4d7EFUc=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Italian.txt
+SHA-256-Digest: 2HJR7zvt6vO17pRNFyHgll7/oY7KyMzHzzO2fErLeL0=
+
+Name: res/drawable/sesl_dialog_btn_show_button_shapes_ripple_shape_mas
+ k.xml
+SHA-256-Digest: Z2ZVw2OYAyYYW6xkQdGESM/NiWDvsfqf1eGnRBUOpy4=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_norma
+ l_background.9.png
+SHA-256-Digest: cfFKGCdfhnj9nwwcCv/EAKl1oLgVuC7Kc0W2quz5eO4=
+
+Name: res/layout/widget_view_battery.xml
+SHA-256-Digest: vMAbDNs88S+e/pxsdwklUcTA2wj1VU5xs7org1DvJpg=
+
+Name: res/drawable-v28/sesl_bottom_nav_show_button_shapes_shape.xml
+SHA-256-Digest: 2GL9Vo2/aLI809SHuXZM4fixxJOmTbX6TDePE+A6wGM=
+
+Name: res/drawable/sesl_dialog_btn_show_button_shapes_shape_mask.xml
+SHA-256-Digest: 1xgHVxb9YNx6Tm+MJubziEBc/E+PBtJYYsnn5fDC+Ng=
+
+Name: res/drawable/sesl_tablayout_subtab_indicator_shape_light.xml
+SHA-256-Digest: S+m6BnsAx/0tONjNlM1fEibprf+8feetw4h3nVtNidQ=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Dutch.txt
+SHA-256-Digest: pirAJeaLLtJVqPoNYvEvc7Zg3OJ9TFkKTA3Z6jYzNhQ=
+
+Name: res/drawable/seekbar_thumb.xml
+SHA-256-Digest: 0NJtR3WFovc/f3aDjxdqAuDCtxfowVNSbjjScdvMO9k=
+
+Name: res/raw/tips_touchpad_triple_tap.mp4
+SHA-256-Digest: tJpt/xdTd65IUTNQBpRjKv/D1rBm+tnuTk8lFx6Kc5w=
+
+Name: assets/EULA/mk-rMK.txt
+SHA-256-Digest: VJaud/rrxyGql9Hy522FGw2I8yUTUZYFAUWClzHhOsQ=
+
+Name: assets/RDI/kn-rIN.txt
+SHA-256-Digest: Fe5iHP459cBew8Ntf8Gs5VX6hGbfhbb36u99kPkZRk8=
+
+Name: res/drawable/selector_labs_icon.xml
+SHA-256-Digest: QYcvUUfC0wznDmRgDZfp+Ibtu4HM/CC+gzk+ATgR73A=
+
+Name: res/layout/popup_dropdown_list.xml
+SHA-256-Digest: JkpXNYqEnUKTReafdkTXh+6a/xF9kWvUZpFaIzCHY3o=
+
+Name: res/drawable/sesl_go_to_top_dark.xml
+SHA-256-Digest: Jc6+RLDNDbtpV+vHISWK/FPRoWp+7E9ggUbALA8HP1Y=
+
+Name: res/layout/check_box_diagnostic_info.xml
+SHA-256-Digest: VfZoKjvPxqhLAAMBIWpDKhW+jNQK/1umEikD8ztyhO4=
+
+Name: res/layout/mtrl_calendar_day.xml
+SHA-256-Digest: heg6OVnRvJr0t/MmmkK/n+wxYjSdRKn1yjjslEjCcOk=
+
+Name: assets/EULA/pl-rSP.txt
+SHA-256-Digest: VeWKdXpO+ebMHlXRTxRy8OX56aiakMLJVYZox3vP/84=
+
+Name: res/drawable/dummy.xml
+SHA-256-Digest: 1Z1cl8Edu0KSPz0LPnXjk5fF1kvR4xdr8fv9JsgJQNo=
+
+Name: res/interpolator/i6_0_0_1.xml
+SHA-256-Digest: bOfHyLyhyvHU99FkNnwulpFwEEW+3qmqu/HQ4BjowLc=
+
+Name: res/anim/sesl_date_picker_fade_out.xml
+SHA-256-Digest: YOdTfEnAgikanZ9EmgsbNEd5FEqRTlnp4a9bsQt89DI=
+
+Name: res/anim/sesl_progress_indeterminate_horizontal_rect1.xml
+SHA-256-Digest: J4ufLMN2L4i8Yf77+gXFyXkR+jiCOOV3hGpdA6UDu34=
+
+Name: res/drawable-xxhdpi-v4/equalizer_02.png
+SHA-256-Digest: kC2o53riIeSAZQ5LYp0h5Q+pt8dCnNkpdNsS965ue9s=
+
+Name: res/drawable-xxhdpi-v4/fd_home_tips_charging_battery_level.webp
+SHA-256-Digest: r77b8bPaSXPx7uFqDd8cbsIGSa8KwRs61UFyOVsglVI=
+
+Name: res/drawable/sesl_dialog_btn_default_ripple_shape_mask.xml
+SHA-256-Digest: +RbNt29qdzlQMdovq9oIhx44/E1PtGTfiYNPZ7J4UuQ=
+
+Name: play-services-base.properties
+SHA-256-Digest: tEAL5xr6wayd1GN180m74yfOY06GVWlk6a+AGaTamCw=
+
+Name: res/drawable-mdpi-v4/sesl_scrollbar_handle_alpha.9.png
+SHA-256-Digest: a2kucSf1kyQpo/8nX0wlCeMaIBJNBbzEYODLBzeWoEY=
+
+Name: res/drawable/sesl_split_seekbar_vertical_bar.xml
+SHA-256-Digest: SFAwoGubpVjf00civflLTJhSaAWugQb3u9fUmldmyLw=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Slovenian.txt
+SHA-256-Digest: nG/4PysTi52R0SGOBNcHbLZ+iKWMd29QgEbyKtXCwkw=
+
+Name: assets/profile_image_asset.jpg
+SHA-256-Digest: xpxX/wzmH425OIlxz6tSbZy3rjQBabT+ttL+dfyFwU0=
+
+Name: res/drawable/selector_general_icon.xml
+SHA-256-Digest: 1bVQmAiL1gq0XTETsHeyvSZcm7W4h1JkWxsXiQlfDJs=
+
+Name: META-INF/com.google.android.material_material.version
+SHA-256-Digest: np+t9tG9Ko+VGBtzLKMAkSxtHhG4rX5Xs/P8wLwjIu0=
+
+Name: res/drawable-xxxhdpi-v4/design_ic_visibility.png
+SHA-256-Digest: 19alotRIUMvZ+0Mn9r8hgnDTtv2D9FKoTPA+trNfVBQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Lao.txt
+SHA-256-Digest: iM3T3GhDh45iNPM/jTC530EdLv5eWZUnQZWUPhd/nG8=
+
+Name: res/drawable/sesl_progress_indeterminate_horizontal.xml
+SHA-256-Digest: /ERMVLe7iudI+qE4TJ2pjbOZ+oIWveCPWpCMpkuQF5A=
+
+Name: res/layout/activity_battery_information.xml
+SHA-256-Digest: jviXSs4DoeKuB+6+4CebAGpYlyskhDcSQwKCY9mALC0=
+
+Name: res/drawable-xxhdpi-v4/sesl_text_select_handle_middle_alpha.png
+SHA-256-Digest: acLm5Z2zSimjwpv5SJbzqfN/hKSoM7oH3eQ46JJj9RI=
+
+Name: res/drawable-xxhdpi-v4/ic_earbuds_software.png
+SHA-256-Digest: Nf7ijs/UvZ2hLwCb0NDkZP4GPZ8K/dkVq8j6xFDPip4=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Hindi.txt
+SHA-256-Digest: g8dzvj0LPB0AkXuKet0cqpKBGwpgdWeFkVIFMgx6nn8=
+
+Name: res/drawable/sesl_dialog_btn_default_borderless.xml
+SHA-256-Digest: 6hnYjgGesk6Sski/4aPexw85KK2kGO3MyHqByD6y4Bw=
+
+Name: res/layout/mtrl_picker_text_input_date_range.xml
+SHA-256-Digest: HcCsMsm1E88tsBuFgLNwpuKICZ2PS4tqi/NBUv3fvWQ=
+
+Name: res/color/material_on_primary_emphasis_medium.xml
+SHA-256-Digest: rYvaHQSd5kkQBW/m8mYeWWZXsnbV2ys/Wj+ue69MlbQ=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility.xml
+SHA-256-Digest: I0y9BK+NxfCpVxb4Irzd9OjwwV6vO6s9NhaJBW28rsw=
+
+Name: res/drawable-xxhdpi-v4/sesl_textfield_default_alpha.9.png
+SHA-256-Digest: 6Q8r5iJQczX9az77a5doFq8FZJ2MaZiM/b7ZkOTTTgA=
+
+Name: res/color/mtrl_outlined_icon_tint.xml
+SHA-256-Digest: rmEECyBb3tk1pFSlk2r/P5M0BnFKnhKrUFGU3TcIi7k=
+
+Name: res/drawable/sesl_edit_text_background_dark.xml
+SHA-256-Digest: kw38hK0cjq0Isg7jKR+bL51pt2Peq51xhoisJ1bZ4n4=
+
+Name: res/layout/sesl_bottom_navigation_item_text.xml
+SHA-256-Digest: NrSDYkjj934QgnTH/hop80gaLpoAo8oPJnZQUxdzAEo=
+
+Name: assets/RDI/hu.txt
+SHA-256-Digest: hhnYdYgqKR6MwKWlmaU0S9v7QUJ8stxGGZggDXaPDUg=
+
+Name: res/drawable/fotaprovider_horizontal_progressbar_top_left_round.
+ xml
+SHA-256-Digest: NLp+Ei0lqCLcIBJnDQt8FtvuCpn55Z4+fG4sRz7aKkU=
+
+Name: res/drawable/common_google_signin_btn_icon_light.xml
+SHA-256-Digest: SHNX0/hHia7i2gk68r6LpRdgmxEZVcH3DKCDlB29Igc=
+
+Name: res/drawable/sesl_scrubber_control_off_disabled_alpha_dark.xml
+SHA-256-Digest: 2KUaDELHDFQtNU92sO1cvvjKYRCwIyklt40APtTHo98=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA-256-Digest: 3JoK4SVJHM2slbV7Xu5AYO/RkSlOFxyONp19DsOrImg=
+
+Name: assets/EULA/ne.txt
+SHA-256-Digest: 02TAUSYFLoqjPY3HeVM9jumI0Z2Xr1G7pxWccz4qkGc=
+
+Name: res/layout-sw600dp-v13/sesl_spinning_date_picker.xml
+SHA-256-Digest: 9TyKt1RY9JIM0YV5WrcmftjchTwuFv2UNrDxg5VWeQU=
+
+Name: res/layout/design_layout_snackbar.xml
+SHA-256-Digest: jtP3HI2D07haHlaFBvu5tQpNRXnjOPtrlp+1APbc9w8=
+
+Name: res/drawable/sesl_textfield_search_dark.xml
+SHA-256-Digest: GZLSnqtUk4C4y+BOYbVigZFlXbxSPeUURL2JRY9N1JU=
+
+Name: assets/EULA/eu-rES.txt
+SHA-256-Digest: XuZHXaZoKktZmVhXK7DFkQHvKM3CMQ0ZUUlPAORAfMs=
+
+Name: assets/RDI/en.txt
+SHA-256-Digest: plUEQ/8kbH8yMw/pJt2HlGxLupOGHJxW8sWOUVeFnSo=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_
+ background.9.png
+SHA-256-Digest: CKQWra1sDpvs4yOGdKdrJLusLOlcHP/KgXs8Z1rGn2s=
+
+Name: res/drawable-xxhdpi-v4/widget_lock_touchpad_on.png
+SHA-256-Digest: dklystpfgAtx2rC997rNY6I99xwrxtLjnLD2VRIg190=
+
+Name: res/layout/text_view_without_line_height.xml
+SHA-256-Digest: 9XiNZ63imHEp+BAIXYynqX1jySij6GhSxp52sEph9NM=
+
+Name: res/interpolator/sine_out_60.xml
+SHA-256-Digest: C6QKRDta5jj+YC8U6D0NazeFXLLMJ6P3t42WDu+EV0k=
+
+Name: res/layout/activity_notifications_detail.xml
+SHA-256-Digest: TIcFdedrqo4MPRH7WLwJTGhwsgECoo3SMupxvdZghkI=
+
+Name: res/drawable-xxhdpi-v4/ic_tips.png
+SHA-256-Digest: sj3qAzfWblHaC2REAEA/8Bwe+U+KMuVEg49fTx+rLa8=
+
+Name: res/layout/design_bottom_sheet_dialog.xml
+SHA-256-Digest: 1ZQ4LbTSYBfrOzMI2ArNIi7UAlgLNUj5VJbTHDqh+NY=
+
+Name: res/drawable/sesl_tablayout_maintab_touch_background_light.xml
+SHA-256-Digest: sOMh5dVtB+8nCL1kY9HOrvMosG0H3l8p9f8E66lQJxQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Uzbek(Latin).txt
+SHA-256-Digest: 23cMb8Rp8iQkfHV23/iIGrcz4SqUVwvPWEhpbbmN4f8=
+
+Name: res/drawable-v23/sesl_list_choice_radio_to_on_000.xml
+SHA-256-Digest: Y/xq/A17Z4M9x1KpBk9oCOu+6YVgh+LNbdOdBWZw6fs=
+
+Name: res/drawable-xxhdpi-v4/sesl_tab_n_badge_mtrl.9.png
+SHA-256-Digest: 2w2UOZMUTOvSVhZ8GdholiKGUUoBvAtG1k1qMR1QrnI=
+
+Name: res/layout/layout_drawer_list_footer.xml
+SHA-256-Digest: 3ZjuzEm7Ovnvwt93gjrwx/p3D4H6+XPDbx33aSiDzlM=
+
+Name: res/drawable/sesl_scrollbar_handle_dark.xml
+SHA-256-Digest: Egsu6/mo/Io5T93kIwKVXp2evKU5L4wM+ypToHHNBmY=
+
+Name: assets/EULA/zh-rCN.txt
+SHA-256-Digest: clLOG6asHy2iaBLIovtGAxtI1ZWAF0aPcjQSK9GiMS8=
+
+Name: res/drawable/sesl_text_select_handle_right.xml
+SHA-256-Digest: Vk6yfV7YGEC0JFqbz+5ewan8L5cH5jHL9BQoAwFJIjQ=
+
+Name: assets/RDI/ko.txt
+SHA-256-Digest: lNItUQMsJ92BQuL0igNbg1kL0gwYG549EBteXvube+U=
+
+Name: res/anim/sesl_list_checkbox_to_checked_circle_outline_anim.xml
+SHA-256-Digest: Coy5YElJcFEcF9seMMGbEta5IydHnRF3g0R+pz86wgE=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_buds_equalizer.png
+SHA-256-Digest: 0QNR0MyTsTIBtvCYMkpVp9vVoXWRyOJIANiX8/OnF4o=
+
+Name: res/layout/activity_verification_dump_log.xml
+SHA-256-Digest: U6sBq10Di6nexahZT42TdFVDHfFyEGu6TQlYcRaufEs=
+
+Name: res/drawable/sesl_seekbar_thumb_pressed_to_unpressed.xml
+SHA-256-Digest: MP3K8yW9TuhWXCPaXiGco999JEgL2UlwdbRMIup40Ss=
+
+Name: res/layout/touchpad_viewpager_3.xml
+SHA-256-Digest: Wcw79etBhjh9rkce3s/5Q5gmfGtdRoDEX3fbfOQY+Ao=
+
+Name: res/drawable-xxhdpi-v4/fit_default_left.png
+SHA-256-Digest: ZY7ILGFPkiySMAM7lejH23HLk2tCYUosJA1gIiBTZeI=
+
+Name: res/anim/sesl_checkbox_to_checked_circle_fill_anim.xml
+SHA-256-Digest: MvyxISHgkquukpbV2kT9irGL+jqa1AJAB/YVN6QD5YI=
+
+Name: assets/EULA/si-rLK.txt
+SHA-256-Digest: MznLj+4JEzojFRpwH9DbMk7Gu0rdQaHWByxxJzhaNDI=
+
+Name: res/layout/design_navigation_item_header.xml
+SHA-256-Digest: 2Im4SWmshAPBgtgnEz4/2Xp71mWfTsx6AE6J8OFZ+z0=
+
+Name: res/anim/activity_right_to_left_out.xml
+SHA-256-Digest: 8BcET0MxXyxlVgLbqCPXCkwU8vk9hyBf2Cv/zkykN6s=
+
+Name: res/drawable/sesl_ic_menu_overflow_dark.xml
+SHA-256-Digest: pqZT6TwsJAC4kdc9SgafDuO5Nl3E0bDUtRVMDw2x/pU=
+
+Name: res/layout/item_touch_and_hold_list.xml
+SHA-256-Digest: MH78C+jhJ4E0Vo+6OMyEf6iWCwiDwOSPpzgti4tWgMM=
+
+Name: res/layout/sesl_list_menu_item_radio.xml
+SHA-256-Digest: 7BbHRzme7/8O4/wmZkSYghqDTlCq1xq9PqYC8FYioBk=
+
+Name: res/drawable-xxhdpi-v4/googleg_disabled_color_18.png
+SHA-256-Digest: XbOrTTAGO16PpjrimT+D79CvcdZSazoUaPnjv4ka9Yc=
+
+Name: res/color/material_on_surface_emphasis_high_type.xml
+SHA-256-Digest: hGiwpNe47hTsI2IK+FCHL0YNXAeJtZOetBy409/+GQs=
+
+Name: res/anim/progress_circle_indeterminate_material_base.xml
+SHA-256-Digest: rOhCT+xjAtwmDmYgyTLmhnO95GmPtoFp6cf7kL8IBxE=
+
+Name: res/drawable/sesl_date_picker_next.xml
+SHA-256-Digest: cHaEX/itiT641Qlvlfx+XnldCcsBiob5n40EvR1N81U=
+
+Name: res/layout/sesl_action_mode_close_item.xml
+SHA-256-Digest: H7wa+vCwlZKvxvkTJbY3s4+b+RVd7IflJtKbRBiAlFA=
+
+Name: res/color/mtrl_filled_background_color.xml
+SHA-256-Digest: COTrpIPSTgJHmmVnB1uiuP122WD6TUaAovPnuQQiNG0=
+
+Name: res/drawable/sesl_action_icon_button_show_button_shapes_shape_ma
+ rk.xml
+SHA-256-Digest: iTcudWTds8694sYi/R1g2+dwvbwYIRr2TbsrYnhINcw=
+
+Name: res/drawable/sesl_action_bar_background_dark.xml
+SHA-256-Digest: 2Wq5hsjqJwtsUZ8oTWGsr/2rdRAB3vfoUBU8mf2Fbso=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Russian.txt
+SHA-256-Digest: RMBi5fLyNy3mLcOJ0+BlM4FViWgpywI5lctMX0VVzN0=
+
+Name: res/drawable/selector_routine_checkbox.xml
+SHA-256-Digest: TbrtBNlJld1NOBg4gOb3Slf27NCyqVQtlb+/w+rNCh4=
+
+Name: res/drawable-v23/sesl_list_choice_btn_radio.xml
+SHA-256-Digest: 7vZJn7fA0DWQ3rW580qLHfWrirvgcRkhWdYZFYZQn8k=
+
+Name: firebase-measurement-connector.properties
+SHA-256-Digest: J5MUFtZQXVmOjPOAqg/4z0RPwPIGRn9FtFvR2GPSnos=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Finnish.txt
+SHA-256-Digest: TjIqrkTi+sS+SY6Cs3AmtF5jYvgu0bUXIDAnXJzX2HM=
+
+Name: res/layout/alert_dialog_tips_check_the_fit.xml
+SHA-256-Digest: pjrzwyUFJBu71AR7udnS+16cdhfe2p4IjDsHew5Iwy4=
+
+Name: assets/EULA/lv.txt
+SHA-256-Digest: avfZ4bpML7AlDNpUTh3xefA0Ukc1xYv0l6zeKLNbI7c=
+
+Name: res/drawable-xxhdpi-v4/fd_settings_ic_sound.png
+SHA-256-Digest: 4zNmPMb7URbm/vzMg9cG61/OlG4nZKM0w7udSbqWTTc=
+
+Name: res/color/sesl_background_cache_hint_selector.xml
+SHA-256-Digest: 3hBAggtBZsaP+Zf8dkayHBnzb8ne+LkCJyjEWv8YFRs=
+
+Name: res/drawable/tw_ic_ab_back_mtrl.xml
+SHA-256-Digest: yyXfk9ic3vjMkIDA0iplzC4HpTthgrln63JTYHGdWl4=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Malayalam.txt
+SHA-256-Digest: h6UYOHMQJ4Nk5fzFbHfdPxxIJutqG2E4NsRq5Tq1LoY=
+
+Name: res/drawable-xxhdpi-v4/widget_buds_left_white.png
+SHA-256-Digest: jUDCtj1jOkNvs8Z8JrDPKOHfYmmHhrb0ZSWkzD8iiM4=
+
+Name: res/drawable-xxhdpi-v4/equalizer_03.png
+SHA-256-Digest: 4sFllQ7qjyJMm3yb7XZzUlA4ABuVHiNKDwWKrKr/id0=
+
+Name: res/drawable/common_google_signin_btn_text_light_normal.xml
+SHA-256-Digest: XJG6eh+rXBj2hWkXEl9uxxsAbt4R5xpA6Nr+zubomgc=
+
+Name: res/drawable/sesl_top_left_round.xml
+SHA-256-Digest: kl+k8AYJyFh65bAJAVOaxGEbja9tLsKTWMNK5dNg3So=
+
+Name: res/color/material_on_background_emphasis_high_type.xml
+SHA-256-Digest: ulzqweaE75Umvgon8xniV8j0ucbGJ8nxQKRqhx3xiYY=
+
+Name: lib/x86_64/libRelativeQuat.so
+SHA-256-Digest: sB1J3INEzCE6ewxRkAcQ3xczhfvTvk1T9sCBsku36PQ=
+
+Name: res/color/sesl_tabs_icon_color_selector_colored.xml
+SHA-256-Digest: K4l6y4BzwpVPi7GOvB+hFv8Mgyvt1luoaU/nBVzH9FA=
+
+Name: res/drawable-xxhdpi-v4/level2_selected.png
+SHA-256-Digest: HcsaaPGC36PrcY3JvV7MV1V1tFotJzV3zvp1Ne6kajw=
+
+Name: res/drawable/sesl_noti_badge.xml
+SHA-256-Digest: 6EOsLtCH5t/3evXV1PoEwkoQmnKWOz8DWAr9oQB820M=
+
+Name: assets/RDI/tl.txt
+SHA-256-Digest: dXN8P5tkVg3oRZTJYkyZ9XkxzeWVBagBzHNsUiXPP34=
+
+Name: res/layout/mtrl_alert_select_dialog_singlechoice.xml
+SHA-256-Digest: a/J+1g72NKjT7JvyGQXrf8G86+VEyFWcNFmqxeTLkRo=
+
+Name: assets/EULA/si.txt
+SHA-256-Digest: MznLj+4JEzojFRpwH9DbMk7Gu0rdQaHWByxxJzhaNDI=
+
+Name: assets/EULA/gu-rIN.txt
+SHA-256-Digest: n15jB+eYuEjB/3oiED/vvpgejjzqM8Qi2X3J3nxf/a0=
+
+Name: assets/RDI/vi.txt
+SHA-256-Digest: wg8UImHlIzTPI3VOdVOAazZjMdR2lk+g/ThosDembC8=
+
+Name: res/drawable/sesl_ic_menu_cut_dark.xml
+SHA-256-Digest: br8QXr/XSUv506xmJKSaUKKlG2X48LOWxIXg/2NIRfQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_French.txt
+SHA-256-Digest: wpa/vwE+npCL5rJfKFtYO+yjvo3rryB94VLn41V+EC0=
+
+Name: res/color/sesl_bottom_nav_icon_color_dark.xml
+SHA-256-Digest: /wKzpzUp9nIBfPZV5jJpKBpsv9azxzDdQskimY8tm3E=
+
+Name: res/color/sesl_popup_menu_item_text_light.xml
+SHA-256-Digest: dyMz1acnT763mmbUCHRCjdLlL6XROjI40jcUHFuiEGA=
+
+Name: res/color/sesl_spinner_dropdown_text_color_dark.xml
+SHA-256-Digest: HMUd8/fnKob0wMugPTaG2tz+As9ql7XlS9V6f4JBM9g=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_watch.png
+SHA-256-Digest: dsyZFVPhCnW1KzCh1M4CRG5HMMxsz283siH2J5V6yXc=
+
+Name: res/drawable/seekbar_progress.xml
+SHA-256-Digest: xGfqq6qF1hCY+JzOlaXfee9JS2PlcuHfDzB5TRrQhz4=
+
+Name: res/drawable-xxhdpi-v4/widget_noise_control_anc_disconnected.png
+SHA-256-Digest: eSu8fRsuCwZtsQiZPC3kqlUyeE1X2V0nVzveLMEVBhs=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Serbian.txt
+SHA-256-Digest: R2/1krZZgk4MIjidoPH7S5z8v82IqJa4NCDdgOIiOXs=
+
+Name: assets/RDI/tk.txt
+SHA-256-Digest: 0mAQwRmpJnj7qe5aXvPXLI5YFxBfnm4DTIosmrcUb0E=
+
+Name: assets/RDI/pl-rSP.txt
+SHA-256-Digest: lYlZAir6QlFU52vlEmwAZ7parNLIjnsvoKt9XEhrI5w=
+
+Name: res/color/sesl_check_on.xml
+SHA-256-Digest: Btwfl0185cPbjlY0oIO7KL/K+TFoNlMOV2NZfgGiVB4=
+
+Name: res/drawable/sesl_menu_popup_background_dark.xml
+SHA-256-Digest: yh3kxl0cD2LK+kTVLxLxYjyA6pQuWr96HITljm06BZo=
+
+Name: res/drawable-xhdpi-v4/design_ic_visibility_off.png
+SHA-256-Digest: I2iYE3vnK2qZDt6aekow7seaE0brqFL+2DTq6EQ2yf8=
+
+Name: assets/RDI/gl-rES.txt
+SHA-256-Digest: 44gIOm+tUR6SttTiYQqPBxM1Kr7LB6wYombDMf8vF38=
+
+Name: assets/RDI/ca.txt
+SHA-256-Digest: 51WaNtzmmrWbzAovR9Co5sDnglH7pgSo+PM+9ZysrXk=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA-256-Digest: SyMJ5iq4xg4HKEOYVsrJD84h2oTDhln649kafVoVVqQ=
+
+Name: res/drawable/shape_home_gradation_bg.xml
+SHA-256-Digest: n6SNVxqZG0nfmbHFMBCzWOIa4sa2X2xsiym2+1q7Ax0=
+
+Name: res/drawable-xxhdpi-v4/fit_loose_right.png
+SHA-256-Digest: ZJtuc0kWIDJ6VQ+BsNPY9uH1bbWYxeD64Rqel9f+8nQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Hungarian.txt
+SHA-256-Digest: JrhAYMd0DJrNjxYBAbZS5qfRpdF/p0I2u5grpY5fVu0=
+
+Name: assets/RDI/cs.txt
+SHA-256-Digest: I7WsGysknY98UgOAIDGGINLFKZeI5oydrsvq46TgciM=
+
+Name: res/drawable/fotaprovider_horizontal_progressbar_bottom_left_rou
+ nd.xml
+SHA-256-Digest: DXmwCbnAjWD2EsFpH5y+tNh19KJuB50HC+9Ut1cTVO8=
+
+Name: res/layout/design_menu_item_action_area.xml
+SHA-256-Digest: 3qtw5q9gufYOn3/rDgEhSP5TbOFaXvaf41Ba+qIbWf8=
+
+Name: res/drawable/sesl_go_to_top_light.xml
+SHA-256-Digest: lviWHMiHldN8s8uN7uBUUhh/70c2HJURHfvggkAEESs=
+
+Name: res/raw/slience_500ms.wav
+SHA-256-Digest: dZc8Yl0n5iRAquE+AEnXsNOsXaSO7Cplf7JOeubU5eI=
+
+Name: res/drawable/sesl_btn_default_mask.xml
+SHA-256-Digest: UOF8E4Vsszbhcc0wfERUkOZDezWra5jgnChyRRi9YvY=
+
+Name: res/anim/sesl_list_popup_enter.xml
+SHA-256-Digest: DROr+YwCdvB3JMfUFkSbW41d8UE/3vELlnNcdyk0A6M=
+
+Name: res/anim/sesl_shrink_fade_out_from_bottom.xml
+SHA-256-Digest: 9Qqn/dSaQyiu7heSiEJ4BC+mPEBSr0YvB0IaE+K1BuA=
+
+Name: res/drawable-xxhdpi-v4/galaxy_wearable_nonlaunchable.png
+SHA-256-Digest: 0VPPNo+BPdZtnC3h48rlFop//DlC05vvVhoDJijqh1U=
+
+Name: res/drawable-xxxhdpi-v4/sesl_textfield_activated_alpha.9.png
+SHA-256-Digest: O8Fz7qLMquYcKLHahyyejNazVI3FQ4McKZ/cGqO3W6Q=
+
+Name: assets/RDI/en-rPH.txt
+SHA-256-Digest: 08CObtfMRrjfn4i3/E56ks60T89J8W7qq1yhmHeSwK8=
+
+Name: assets/RDI/zh-rCN.txt
+SHA-256-Digest: krRXdQ24iF/Y2Dr25wmqDne08UvSFX9DwAyV2tGnC74=
+
+Name: res/drawable-mdpi-v4/sesl_toast_frame_alpha.9.png
+SHA-256-Digest: 0Gxy+VJyoeW6DevO4Q/eBZA0Kak8ZNlGvMgFQvoGNYA=
+
+Name: res/drawable-xhdpi-v4/sesl_fastscroll_thumb_alpha.png
+SHA-256-Digest: w4jxiiKo8zBuaY2EIYGdFzJsV0GzR9JfrdW++3tH6UY=
+
+Name: res/drawable/sesl_toast_frame.xml
+SHA-256-Digest: 1a45SG70d+Ykxtan4Jolsbru4+CaAg9N7cxtPstFVIA=
+
+Name: res/anim-desk-mdpi-v8/sesl_menu_popup_enter.xml
+SHA-256-Digest: QQvzZz3Y4LlwLR/vBrml5HbD+D6IXyljIT2s6dKGZsg=
+
+Name: res/layout/mtrl_picker_header_fullscreen.xml
+SHA-256-Digest: 95TNnDWamBoWGWh18lOMUyw8NLhS4cd5G9rky2x08nQ=
+
+Name: res/anim/progressbar_horizontal_indeterminate_rect2_translatex.x
+ ml
+SHA-256-Digest: 4p6/tIQ4TcKcTI1jvRBqHJcl3zEAG6Qvx+y3H2wOL6w=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/sesl_textfield_default_alpha.9.pn
+ g
+SHA-256-Digest: Dn8KJU+4xTQvk+RPduaIfibj2jTG1ZbAOLIazRcRlrU=
+
+Name: res/drawable/sesl_date_picker_prev.xml
+SHA-256-Digest: /vDVg6ygu3nLAsZjcasccI6qHyM/3pTMlvO89KAsMvo=
+
+Name: res/drawable-xxhdpi-v4/sesl_toast_frame_alpha.9.png
+SHA-256-Digest: FYPmIaYItqZgAkZDY+VelJ1eclF16RTFadNA1VhhC4E=
+
+Name: assets/RDI/mk-rMK.txt
+SHA-256-Digest: P/6uMUq1b6qDC4abiGH0QuXx768oY5tRBh96PEfcjcI=
+
+Name: res/drawable-xxhdpi-v4/battery_dim.png
+SHA-256-Digest: oCHex1NmXfI6ZVRo4912OwDg+NNOnFoo9xxzWX7SHVQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Albanian.txt
+SHA-256-Digest: FZguKrwq6qaVuh/7LfpZjM8neiTqMxCoFgyjiZuFN14=
+
+Name: res/drawable-xxhdpi-v4/ic_touch_control.png
+SHA-256-Digest: YgbY+b1p2LYSZ0oCEwgHJCYtUx2OptJVnlqDfD6/PXI=
+
+Name: assets/EULA/sv.txt
+SHA-256-Digest: sQOwhnhthSy4mmUKobsknzEP3fdcA3+kkxu3TL6pliw=
+
+Name: assets/RDI/bg.txt
+SHA-256-Digest: Jnb5eMyMNYceLnRvekB6t05JtxrDBlQOwEtwweJf7mI=
+
+Name: res/drawable-v23/sesl_list_choice_radio_to_on_001.xml
+SHA-256-Digest: bCXLuaxyRm+XjOFQwigZNjewDtapruRTZk5fnGbAHNc=
+
+Name: assets/RDI/as.txt
+SHA-256-Digest: A4bv9RdEG1nMnfLGNOpMnRWSOScCFn/DcrW7/if/G+Y=
+
+Name: res/drawable/sesl_spinner_icon_check.xml
+SHA-256-Digest: 11KAmfA1Od2OmSHBczra9TUgESetibUQZzoKMxx5nwQ=
+
+Name: res/color/selector_card_title_color.xml
+SHA-256-Digest: WlYCEbqgj3w55D1jiwPUhPzou6w7wenPylGsD9hVwdM=
+
+Name: res/drawable/sesl_action_bar_item_text_background_light.xml
+SHA-256-Digest: kOMIJBNNTlrAdzXPz/L1F+dnYidiO6HM/5qjGMlgSoI=
+
+Name: assets/EULA/nb.txt
+SHA-256-Digest: OvkC8iVD72vNVP7qBV+U/rX81V3z1AzspS42+55Utr8=
+
+Name: res/color/sesl_switch_thumb_on_stroke_color_light.xml
+SHA-256-Digest: VyeEf9gZmBVzNzPjsTWwZsnefB0Vwv1ePjW19qG7oRs=
+
+Name: res/drawable/sesl_ic_search_api.xml
+SHA-256-Digest: jVDwY7InfSgYVtk2TYYs+kJh/OfKTZ4UezRRbn88orQ=
+
+Name: res/drawable/sesl_tablayout_show_button_shapes_shape.xml
+SHA-256-Digest: CW+b0Z26f/1KY4S8A3ty3CNCMCvO3hxpEMA6mgxGXF4=
+
+Name: res/color/material_on_background_disabled.xml
+SHA-256-Digest: OUsUORfNX2msy55Es4dNHO5IMhD7AngQ2RIpv+fCZaY=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Mongolian.txt
+SHA-256-Digest: OOsBnUFkBvXpDeMrSIQIKT7qamMG6UKCY9EOtxdn9m0=
+
+Name: res/drawable-v21/avd_show_password.xml
+SHA-256-Digest: ibjHY8im5W1zKOLE8ZDjY/Obk11Kn0CdBnJCGfHK9Xw=
+
+Name: res/drawable/sesl_vertical_bar_alpha.png
+SHA-256-Digest: Q5uMe3GYJGYZptovKe4mvBodK1mX84sbp+8zVcNwCMc=
+
+Name: res/animator/mtrl_fab_hide_motion_spec.xml
+SHA-256-Digest: Wo4XS8hImUUMuVY2DP9u2uNbQJ93uk8fTGH6JtspfJk=
+
+Name: res/drawable/sesl_ic_menu_paste_light.xml
+SHA-256-Digest: 3TPD+9HDHLLqXlEAqNZJo5TXSTP4whuqJHVBIylJc1E=
+
+Name: assets/RDI/km-rKH.txt
+SHA-256-Digest: FaWhskzdz8d5N3N6eLwUicxXCuP+9P4FQg2OvTNIIls=
+
+Name: res/layout-land/mtrl_picker_header_dialog.xml
+SHA-256-Digest: Tm09ygQ9EM11NnfIkxZ5m/3cfZtG+woMbPN9/SWNFXE=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_bixby_voice_wake_up.pn
+ g
+SHA-256-Digest: pTKeHSUTQDHgH7yk2j9zZBv7fSX3JqI7TfMlnpMeW7M=
+
+Name: res/drawable/sesl_scrubber_control_anim_dark.xml
+SHA-256-Digest: /mDYfIez9jLlUIXhshMZ+U5P0788d20UaGbblbsgo54=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_English_UK.txt
+SHA-256-Digest: cFaVnXvRicUgwpfh6XDHH5Mw3AgVtWhxOS5rA/mboX4=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_German.txt
+SHA-256-Digest: A35kDh8PewSR9dzOdG3m2bDbqPwk77U9qwL//Y4w7UM=
+
+Name: res/layout/layout_horizontal_progressbar_rounded_corners.xml
+SHA-256-Digest: biNJ/Cp/OgkUh7e8hrJMqUBBgSjLh4/4BQJmyfEYXfg=
+
+Name: res/layout/mtrl_alert_select_dialog_item.xml
+SHA-256-Digest: ZsQcAUQhgTVmrOKdXQdqis5UwYEA+kPiVmeJbftFExI=
+
+Name: res/xml-v28/widget_battery_appwidget_provider.xml
+SHA-256-Digest: VE+qKIGaCmUzceccEfIVqdJjAwdEEIRIi9v8xSgFUKo=
+
+Name: res/drawable/background_default_ripple.xml
+SHA-256-Digest: kt5eED9BlAzX1qgasIhy2+JmGFzmBgKI0l9h6nxOooI=
+
+Name: res/layout/fragment_tips_how_to_wear_earbuds.xml
+SHA-256-Digest: NAl1iY8bdsD528F7ErdrMwlFW8z3b3qCDoxJWxAIVkk=
+
+Name: res/drawable-xxhdpi-v4/plus.png
+SHA-256-Digest: GRfdGEVOcDHQd5X5x5cqX9cKbycY5MnFn3c8kFL9lM8=
+
+Name: res/layout/sesl_alert_dialog_progress.xml
+SHA-256-Digest: Cp2Cp+nngYIDE4xTkQjs5baz56USzrCBkVL7LoXASm8=
+
+Name: res/drawable-xxhdpi-v4/level4_booster_disconnected_on.png
+SHA-256-Digest: b7/plt7WonOq3BCqCF/Bey43lwCv20vYiDpcb2kRygo=
+
+Name: assets/EULA/ga.txt
+SHA-256-Digest: PBFrr+gt0V/07FY6V7rGlmRyPgV/DcTpbY5MJ5O1tdQ=
+
+Name: assets/RDI/hi.txt
+SHA-256-Digest: wEOznZfMERDqSx1q2CfYLaYILlwT6mkTEbI7EC7k3fo=
+
+Name: res/layout/view_radio_detect_conversations.xml
+SHA-256-Digest: T2e9vwX/b2VsaHTl1gnIfppHVFHIvp9TSbxl8zar0Vs=
+
+Name: assets/RDI/ja.txt
+SHA-256-Digest: ROAp6IjxwZYfPg11eT4q96aPEDz3Gmqyn+jD8AX8c+U=
+
+Name: res/drawable/sesl_list_selector_light.xml
+SHA-256-Digest: 40zKJOXASy8fS3/Kj6GgmujAIGXTCaFGKYLV+x+a6XA=
+
+Name: res/drawable-xxhdpi-v4/fd_settings_ic_disconnected.png
+SHA-256-Digest: 7PYCW+Wzkp0JeWU2yrGjUJy2Aj6qB8fhXnPHa15BboM=
+
+Name: lib/armeabi-v7a/libFotaServiceInfo.so
+SHA-256-Digest: ARB08+D/hLQQIMGkXEddDiw5c8xx6EP4Go2btlKNWAs=
+
+Name: assets/EULA/hr.txt
+SHA-256-Digest: IJcyabyWXo08Upr7F8qn26CZB/59s+ZeFvzdFVWZTkM=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_left_violet.png
+SHA-256-Digest: h6BpbqXxDvVDnT4jf3gsJCGAatbU8kfCk+cDtQtnn2I=
+
+Name: res/layout/test_action_chip.xml
+SHA-256-Digest: DvBaioAcn5NIeVwxk+nMTtRf0qA0+0CTpvHyuFc1yVQ=
+
+Name: res/anim/sesl_menu_popup_exit.xml
+SHA-256-Digest: fZ2TrMpdpmRyW3Xcq12OazJgZbBGYi2P46IOo0LvZ2c=
+
+Name: res/layout/sesl_number_picker_spinner.xml
+SHA-256-Digest: 6bL2D7dLX4JdM8QE+KnHSNj9fzCF6PiyrTmk3BLpv/A=
+
+Name: res/drawable/ic_stat_notify_tws_completion.xml
+SHA-256-Digest: V3FAHTI2opEwhkgfyC5asFwFjgSHSiTxx0CkWnYF3x8=
+
+Name: res/drawable-xxhdpi-v4/tutorial_how_to_wear_preview.webp
+SHA-256-Digest: SZ9nNA5LnAQlMjZ1yJr7gmzkNFKdEcJPf4pZ1NgGAwM=
+
+Name: res/color/mtrl_btn_stroke_color_selector.xml
+SHA-256-Digest: j0TvqZzWT5GfZ0+LWvoYTS6hCcr3W3rRYQHY3JiajNY=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Polish.txt
+SHA-256-Digest: IgrZ/gFL/zyMGF1Vxh/OvS5ahkSYIBeOvfBti0Ly6Sk=
+
+Name: res/interpolator-v21/mtrl_fast_out_linear_in.xml
+SHA-256-Digest: 1TMf0aPJFk8VOO86IgP7foJ6fSD9u6p/cibIF9+4bes=
+
+Name: assets/EULA/fr-rCA.txt
+SHA-256-Digest: /HVORQAGUOT6lAJfRod0MjpRBPlv3bRsuL8DA8zHWc0=
+
+Name: res/drawable-xxhdpi-v4/ic_about.png
+SHA-256-Digest: iMP4T1ZlmcaTZcRFPZl/PHvuezBVOpmz4+kyr/gsBWM=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Spanish.txt
+SHA-256-Digest: FL/yghEwY1lsKATWsUH+B7bjGzplzJ9b5W4PR2fks6w=
+
+Name: res/drawable/background_dropdown_list.xml
+SHA-256-Digest: DLRCp9rTcG/Ia+GVpKE79tEVGGA+zLQV6/IrxRRDv1s=
+
+Name: res/drawable/sesl_edit_text_background_light.xml
+SHA-256-Digest: EtLliZmX4VWUpuxnws/g1EIp1nIsZ2l9J40DXUZrSyU=
+
+Name: res/drawable-xxhdpi-v4/level3_selected.png
+SHA-256-Digest: 8ebZnBgLwS7h0+SBJS2QiQ1kf6gQonnJ1oc5xzkLT8w=
+
+Name: res/drawable-v23/sesl_switch_thumb_off.xml
+SHA-256-Digest: w9AlNEKPlUpgLVDCqzJGBts6ko0F0EDZcUIPYXCQvJo=
+
+Name: res/drawable-xxhdpi-v4/sesl_action_bar_stacked_divider_alpha.9.p
+ ng
+SHA-256-Digest: G1BZMGnyfsqJ9jrwq84UuVoepe8fyavue6aurTbTEQc=
+
+Name: res/layout/mtrl_alert_dialog_title.xml
+SHA-256-Digest: iJzAML/r6gg6OpedtSo9wUfkiHwlM3v5A+RlHGpxaRE=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Greek.txt
+SHA-256-Digest: S9aFJ9sQwfDc91Sx4iTovfQChb4GLErSkIgc7WU/8iA=
+
+Name: res/drawable-xxxhdpi-v4/design_ic_visibility_off.png
+SHA-256-Digest: 3cR8/gIPmUzVlC0VmjUGATUcjUXc7cfnRKjL59H6VzQ=
+
+Name: res/drawable/tw_dropdown_ic_check.xml
+SHA-256-Digest: qZEsuU1q2i/1vRE5t1nVo+KxP8a6QPycZHbdK8u1yIg=
+
+Name: res/anim/sesl_progress_indeterminate_rot.xml
+SHA-256-Digest: 6OCxQOaORyJ6/h0kJaym24oNkXMOmEE6rQ4UCq6lCb0=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: AubNvPHGRJF8SegUw7pWCOCBRYACNT7JViDTnaSMlek=
+
+Name: res/drawable-xxhdpi-v4/gm_list_ic_missedcall.png
+SHA-256-Digest: r2EHRK0fRckFKOzyFcWGc+UCWwIn53UzqVw5m0h3UG0=
+
+Name: assets/RDI/is-rIS.txt
+SHA-256-Digest: cOprd9SrrgElVz7xVBJ1GcPfQkJP0j9fkO6Xwz1iCsA=
+
+Name: res/drawable-xhdpi-v4/design_ic_visibility.png
+SHA-256-Digest: zrUcx3WitLKUiEMHrrJ3BSuFSfz7X6ezDIo3fipl384=
+
+Name: res/drawable/sesl_action_icon_button_show_button_shapes_backgrou
+ nd.xml
+SHA-256-Digest: 4nmm5iKLD+1AF3B6TTeAkI1BiyJdBmHVDqYSO7u7jh8=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_buds.png
+SHA-256-Digest: C7wPPydKtX1rPvmojkMCDW3vQxlKiWvMwHDmWA8UgZc=
+
+Name: res/anim/sesl_seekbar_thumb_unpressed_to_pressed_thumb_anim.xml
+SHA-256-Digest: QDFlmC0gZEmJD2TaTt/3CkkkhylrX0n+kk21x8oPHAw=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Tajik.txt
+SHA-256-Digest: DD3fln0RR9qvxAE0aEx//05PQI7gnewPxQ90sCgUVro=
+
+Name: res/layout/sesl_screen_simple.xml
+SHA-256-Digest: VTZYRgbR8yyKbjzIyPlOblssbYGEFKzwjuaEc2G1+Ms=
+
+Name: assets/EULA/lt.txt
+SHA-256-Digest: VwzpRTHcVEeZfz/pj4cHsjV9iXRZuQ5op6ogjbG3EOE=
+
+Name: res/layout/mtrl_picker_text_input_date.xml
+SHA-256-Digest: RdyW4X6ZdEKxN+IXfN9n/cxi6rL1vCN89yJcT165K1A=
+
+Name: res/drawable-xxhdpi-v4/widget_noise_control_ambient_disconnected
+ .png
+SHA-256-Digest: 8aoSEXMN/IsvegLL584axJvr0+xP+91nHEv0axVbv/8=
+
+Name: assets/EULA/th.txt
+SHA-256-Digest: DNoj8+U1GA3Q/JVq3hswUTzSGJTX8GgOOiXMmW9uWD4=
+
+Name: res/color/sesl_show_button_background_color.xml
+SHA-256-Digest: +qzAhZ4i1vS527PW5LZLIZNcZo+vJgR8k8v9g9T6Vdo=
+
+Name: res/color/mtrl_text_btn_text_color_selector.xml
+SHA-256-Digest: +ig1zhhbB7b0u7NvjuEwIJxMAKKgzbFTNlMJ7kgQrCI=
+
+Name: res/drawable/sesl_progress_circle.xml
+SHA-256-Digest: 7NXEJ+NakOABLNWcUE8O+rAtIHfGPp5Fs0mfhILOvTM=
+
+Name: res/drawable/sesl_ic_voice_search_api.xml
+SHA-256-Digest: /PtK39kG77rB3mcaQ9+nxvsCLpunVZ+ZeefK4BucJ78=
+
+Name: res/interpolator/sine_in_out_33.xml
+SHA-256-Digest: z9cmJlf//tdfnupq4932yKzqt/rgRXokIDY1Pbj+X8w=
+
+Name: assets/RDI/fi.txt
+SHA-256-Digest: dHMogNsYSimyR01gSVgwv9hhcUozbj+Ko+h4VU4U+bc=
+
+Name: res/layout/sesl_popup_menu_item_layout.xml
+SHA-256-Digest: ZgXcYFa55VyFCF8fL804DAQ67eeBGmXNPA77lk4K9q0=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Khmer.txt
+SHA-256-Digest: /5Dvkc0OwDHnJQXjMLPWf6j4EDl6WoFsAMTXMkD7kN8=
+
+Name: res/drawable-xxhdpi-v4/icon_smart_things.png
+SHA-256-Digest: 6MWik/3CPidjYquOErp9k84rkYHT31lUa9GAt/fCjCw=
+
+Name: assets/EULA/or.txt
+SHA-256-Digest: c4ItJUKw88m6T6rRKByr2nOTHOj8bq99A/FkDKUvbNg=
+
+Name: res/drawable/circle_tick_mark.xml
+SHA-256-Digest: TK2Q3hHMEd4P37BX04lpXGfr9wnznft76Xmle0kfdOA=
+
+Name: assets/EULA/en-rPH.txt
+SHA-256-Digest: Gw7iFHxNEI/B2Q43bY5OBggpj2ON8sRWC8PpLA7wvcY=
+
+Name: res/drawable/sesl_scrubber_control_anim_light.xml
+SHA-256-Digest: WAPDntOKOiCmziUGLPnHZH/42R7lZtvzG3CGUEDT0Ys=
+
+Name: assets/RDI/zh-rTW.txt
+SHA-256-Digest: GG5XBalVv8254F/69dzag5/QhnQ22SH9Rd/r9WSPdjU=
+
+Name: res/anim/sesl_seekbar_thumb_pressed_to_unpressed_thumb_anim.xml
+SHA-256-Digest: lPorhDDv95KLO3hckfj4s1z7OjfZAmjuBIhdzgfR9pg=
+
+Name: res/anim/progressbar_horizontal_indeterminate_rect1_scalex.xml
+SHA-256-Digest: 7KTZ6L2i8WhPnUygHJN7wD8mHwfp7IMLozVWmt2lObo=
+
+Name: res/layout/sesl_action_menu_item_layout.xml
+SHA-256-Digest: LmQo5eDyF83PI1pCKgO54VEJuoWBtEUCdY8OUR11RrQ=
+
+Name: res/color/material_on_surface_emphasis_medium.xml
+SHA-256-Digest: 3RkpgJRtl2RAmnYFzdUTSRpDSOYdjNyCHSzEvZZWQ3c=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Macedonian.txt
+SHA-256-Digest: mGP9M3GuzudNy9X5Or6tekeZujRGf/K2I1EEsL7GpMM=
+
+Name: assets/RDI/el.txt
+SHA-256-Digest: YO2WBfGFbIR2mo7w+XmlzfDCeRMTtSbkCO28kCIT7eI=
+
+Name: res/drawable/fotaprovider_vector_progressbar_horizontal_indeterm
+ inate.xml
+SHA-256-Digest: 3c7tRfsEZHUsehuA2j4rtLL8SYaUH9vMXkv+chaD4Dg=
+
+Name: res/drawable/ic_keyboard_arrow_left_black_24dp.xml
+SHA-256-Digest: yfkBvvzpLXAogI7CyAhOsx0WkUI2nq1i1L/6elTHZ0U=
+
+Name: res/drawable/sesl_bottom_navigation_background_light.xml
+SHA-256-Digest: kMNu0uJ5vuB4oVYmrQkgx9uX6joXZaoMA/aZnxwLaRU=
+
+Name: res/layout/sesl_date_picker_spinner.xml
+SHA-256-Digest: y3Rga2AHStp5r24PLekuTB9PocJkOCcvEARhF71BIAs=
+
+Name: res/color/sesl_btn_text_color_dark.xml
+SHA-256-Digest: rAMZ3yC5OwdTlnky+JfRZtEW6YmjCYTFjO6b93VWOho=
+
+Name: res/anim/sesl_fragment_open_enter.xml
+SHA-256-Digest: BnhyIiFODGrcUmr4fvah8LIKJFUQ0Ld8tiKHqze/2mM=
+
+Name: res/layout/test_toolbar_elevation.xml
+SHA-256-Digest: 6DLO+ZpVRrGZl97XmcX3zmJSP0tdK1YCmp4ht6zupU4=
+
+Name: res/drawable-v23/sesl_list_choice_radio_to_on_002.xml
+SHA-256-Digest: 33f4VoLqoXUYLvbiUR7lMzJNTbQakb8SsTJnDj0XSJY=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Slovak.txt
+SHA-256-Digest: olTqccj74Sf7tiQ5jkhOzcCCGoA/6WrSsqVDjVI73+g=
+
+Name: res/layout/item_notification_spinner_check.xml
+SHA-256-Digest: jNvvLVFFhqlV8+hr+NH5dDigskY5oMCYwWTteMKg7Tw=
+
+Name: res/color/material_on_background_emphasis_medium.xml
+SHA-256-Digest: o/WWI+xgbYTnslAdfVuskpRd8M1O7EtQGuTuXDN4tq4=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: Sa90fY0kIrYC6pPHw5dO8bxQPGu72MVr8c1urE+heXw=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Dutch.txt
+SHA-256-Digest: Go72XHNH5vVwHQSJBvNM2r579j73WqAL6RYa2Pe0WvQ=
+
+Name: res/color/mtrl_chip_surface_color.xml
+SHA-256-Digest: muMf6kVDliFlox0mDO57D0qQaqLtQ6bEZW98EaanS98=
+
+Name: res/drawable/sesl_dialog_button_disabled_anim.xml
+SHA-256-Digest: FPylJhrQEvwSGQ6iqOFKZUVJeCdw15DlVUUpC2QsZYQ=
+
+Name: assets/RDI/si-rLK.txt
+SHA-256-Digest: fyJSnjXkqM2P9snIXu95oh56aifjvgnIm5E6QG3dsmQ=
+
+Name: res/drawable-mdpi-v4/sesl_scrollbar_handle_mtrl_alpha.9.png
+SHA-256-Digest: erNc2t0YEBGzp0c09hdWo54hDX7uaGifibzCZnmehMc=
+
+Name: assets/RDI/ar.txt
+SHA-256-Digest: s5gScEmww2gaH8klDuPFxdnDgxqE+41BYDRoNxB3n4E=
+
+Name: res/drawable/selector_block_touches_icon.xml
+SHA-256-Digest: FlMQDyk5KzacQKYsMGcPebucISjj+KQ0mVR/Clpspiw=
+
+Name: res/anim/sesl_tooltip_exit.xml
+SHA-256-Digest: thTaqRfDnf0YNSjbJha9S2IvYzSPzSRBnijeUiEkcLA=
+
+Name: res/layout/text_view_with_line_height_from_layout.xml
+SHA-256-Digest: j/QleM8zGRmi214fgh1LS6hT96Km5iiWs8DTwk/D8QU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Icelandic.txt
+SHA-256-Digest: gaX5UD5Po8Tg0MBef3gZOwdEGBm8blrEjjR+uM0VtVs=
+
+Name: assets/EULA/sk.txt
+SHA-256-Digest: h2q93eq7HC5l39sT0CYW8zEYNrmZhcciukZTGMtj+JY=
+
+Name: assets/EULA/ta-rIN.txt
+SHA-256-Digest: 71tnjR/zZaRfcJC6kcBxV5VeFePbMBUbsCHDAzgpn+E=
+
+Name: res/color/sesl_btn_colored_borderless_text.xml
+SHA-256-Digest: KQnwuLLQMXho5vowbY+Wy6ISDaUxRa3g5ITCperg8tQ=
+
+Name: res/drawable-xxhdpi-v4/widget_noise_control_anc_connected.png
+SHA-256-Digest: UPdcPzHYANgrF8eIvuYPc3GxS/DzceJLkscbqUVdPSQ=
+
+Name: res/interpolator/sesl_dialog_exit_interpolator.xml
+SHA-256-Digest: AhQH0dHTQH5t7zUc2u1xWwn0KxwQ3NB4VG8MqJuM76I=
+
+Name: assets/RDI/bn-rBD.txt
+SHA-256-Digest: caKibSae0QPR+ET+rIJiM7N3t3Zycd+YEzFES1iS4QE=
+
+Name: res/color/sesl_primary_text_light.xml
+SHA-256-Digest: s7dD4lxNd/gaW80uM6sCzPcqE0javl33GByVRHDx1+8=
+
+Name: res/layout/activity_you_are_all_set.xml
+SHA-256-Digest: agC3jYgvnPb4puis/rLb3AKu2gZf7OA0oWkuN29KR7o=
+
+Name: res/interpolator/sesl_progress_rect1_scale_interpolator.xml
+SHA-256-Digest: 7KTZ6L2i8WhPnUygHJN7wD8mHwfp7IMLozVWmt2lObo=
+
+Name: res/color/mtrl_chip_text_color.xml
+SHA-256-Digest: BFn2fz45gEwHFJuM/AvMcBKvvc9U9Qxn35ACQaNIY0k=
+
+Name: res/drawable-v26/sesl_go_to_top_light.xml
+SHA-256-Digest: pSo2/Nc/9D3JP5YE+rVlwIKosop2O8LaRBGF+b6hG7s=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/sesl_textfield_default_alpha.9.png
+SHA-256-Digest: LgC2qhLIXgBFdelSud4mLeX2T9MmdxkKj8PgskY8Iy0=
+
+Name: res/drawable-xxhdpi-v4/sesl_text_select_handle_left_alpha.png
+SHA-256-Digest: yaWeMqtsesqvMrKXph2mswWyk3RDvc3CDWwZbTCaSYc=
+
+Name: res/xml/standalone_badge_gravity_bottom_end.xml
+SHA-256-Digest: 98w69e45yIIoO9qE6XmmxW364Vi8jAiGgQxVnPmtwI8=
+
+Name: res/layout/sesl_screen_toolbar.xml
+SHA-256-Digest: A2Mvzmqpyu0ZJRH1q56WN+hJVOiu/jgwMHAEBYJZVBI=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Greek.txt
+SHA-256-Digest: CFsqKozRnroQGzWgEIJ0D/a64p0r1D8RhPVoFEd3uiA=
+
+Name: assets/RDI/sq-rAL.txt
+SHA-256-Digest: vfFj+KwNbsEZjqVGU1TO1w7xU1v0KySI1UpdEaLT8mc=
+
+Name: res/color/sesl_secondary_text_light.xml
+SHA-256-Digest: DeRtC+wR4WWyuLIlbEyKUjBifJrd2uyIjYAdnaSTGYA=
+
+Name: assets/RDI/en-rCA.txt
+SHA-256-Digest: UMTOOkvvubenpvXbkk2MydOWdk/iwMEzDqURHPNqpd8=
+
+Name: res/drawable/sesl_bottom_navigation_ripple_mask_text_dark.xml
+SHA-256-Digest: rVbXf75J45jGwjOR/k1sYNLPFlys2jsZN3FE6XjduM4=
+
+Name: res/anim/sesl_progress_indeterminate_horizontal_rect2.xml
+SHA-256-Digest: aPcwJdcjAeQfA7ZA0lohVXQq2DKn016AE/mgzoCY6ws=
+
+Name: res/interpolator/sesl_progress_rect2_trans_interpolator.xml
+SHA-256-Digest: 4p6/tIQ4TcKcTI1jvRBqHJcl3zEAG6Qvx+y3H2wOL6w=
+
+Name: res/drawable-xxhdpi-v4/ic_noise_control.png
+SHA-256-Digest: EYNJV3/xWbKQkP6K/p/lWH/eIn4RKJdyhuh8CzX0RZ0=
+
+Name: res/drawable/sesl_spinner_checked_ic_selector.xml
+SHA-256-Digest: yz/cgpFS6sEFrJRxasOsMvKmukvonDQlfU45phmHdj4=
+
+Name: res/layout/dialog_retrieve_progress.xml
+SHA-256-Digest: JW5w8DTjGAMj3HJxxw6MDD8vbHq0hrnceoLsdO5XEZY=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_right_black.png
+SHA-256-Digest: DKea8/0i7IxyApEqazTzuegJBU+LTgK2/+Anl8fKTls=
+
+Name: res/layout/sesl_alert_dialog_button_bar.xml
+SHA-256-Digest: ugV8Brsdjr0nt/uzhNCwRox9ueuIAodzJbFLY2clO5Q=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Chinese Traditional_Taiwan.txt
+SHA-256-Digest: L9vBTs3euzFi5fPqhOD9b5Fc5NN81HB/gZ0lb1aT3MA=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Croatian.txt
+SHA-256-Digest: YnrGUvforCgNuqStO2rPWcRkQN263yAbBqlElDwc/jg=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA-256-Digest: BXGLWub6LRSkcDR/i8FJxVmsg2IIRCXZeYMrCwkpPKs=
+
+Name: res/layout/activity_spatial_audio.xml
+SHA-256-Digest: wX3LGuGOFfzCrCG0DeAGoJCL+OYs3NbuKLq2SJyrIls=
+
+Name: res/layout/sesl_layout_tab_text.xml
+SHA-256-Digest: cC9kGw1yLNoH5z4Jb+rTdCOME2AE7TP10dAIJiUhQ9M=
+
+Name: res/layout-land/widget_view_battery_opacity_0.xml
+SHA-256-Digest: YbJQ5qtVAmXwbxK1/kZ8cs3GybbZSgNL/DaEgJCGB1M=
+
+Name: res/drawable/sesl_spinner_background_light.xml
+SHA-256-Digest: Oru/AMqdT7O7w0IRwyibW++gI2p+v7qWUb+f5YAaoz4=
+
+Name: res/drawable/badge_for_notification_oval_background.xml
+SHA-256-Digest: nfsq+K924P8DYc6A4+2Ve397IgHRHkb75wlZdksuTpI=
+
+Name: assets/EULA/as.txt
+SHA-256-Digest: djBDkRS7muPaPR3H0zY0+fhWWh/xUbQwmIIGWkx+F98=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Estonian.txt
+SHA-256-Digest: MlJZfUYlyYOMVNa4GrN018Wrd8rSHDa6FSj3+C+blCc=
+
+Name: assets/RDI/pt-rPT.txt
+SHA-256-Digest: +zIUOYujtpD+8UlapWR1JUAiQTJc1hRfGxzA2bjwUMY=
+
+Name: res/drawable/sesl_switch_track_disabled_off.xml
+SHA-256-Digest: w301CdyyMwqWVFivqJ0LGVmLOLw2JZNTgJq+emgnyd8=
+
+Name: assets/EULA/my-rZG.txt
+SHA-256-Digest: TgedrCh14jiU/YiRV36mdI1cSUuS/TLTCvLbabutOHc=
+
+Name: res/drawable-v23/sesl_btn_radio_to_on_026.xml
+SHA-256-Digest: ElFDVEo8/Jpd99QnajTE3GK0HR+xcPUg0wkZFrOU6IM=
+
+Name: res/drawable/sesl_fastscroll_track.xml
+SHA-256-Digest: IFb6T0w6WYt+4jGwPBgMrhaclgPlgOam1SLtrV6GbMU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Portuguese.txt
+SHA-256-Digest: bKhkjjRK2OgEpnRcFmQDMF6zSXNa4rds/8o/md+6ApE=
+
+Name: res/animator/mtrl_extended_fab_change_size_motion_spec.xml
+SHA-256-Digest: w4nhgzeRLQQioGA+6Kossvdj7dMDOrHnn0IeVvX8y/Q=
+
+Name: res/anim/fragment_open_exit.xml
+SHA-256-Digest: ITfqqC3qGGgOF9lQUbYMPhAjPtiT+BkUZDXP1ap8K74=
+
+Name: res/animator/mtrl_fab_show_motion_spec.xml
+SHA-256-Digest: nLQsve/Sm1hVOOjpqNUX0kq/XQwI7pMjGeWiXiKHLz4=
+
+Name: res/anim-v21/design_bottom_sheet_slide_in.xml
+SHA-256-Digest: hIf0VG8gg6ZoOd39PlqQvtsso1IZ0Gur0vVvADN5RC4=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: DXc+YsdWQiMTJihGx4flj2fg7ofkXhrplCAC6BbEy54=
+
+Name: res/drawable-xxhdpi-v4/design_ic_visibility.png
+SHA-256-Digest: bXGod5xLxctVn4nEZA94tMkO+MDK82Tc8ljPVGte2Cs=
+
+Name: res/drawable/common_google_signin_btn_text_dark_focused.xml
+SHA-256-Digest: rNtl22fo5kx0e6f3HazleclZsyoxIqQ+pkiVQTsNljs=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Romanian.txt
+SHA-256-Digest: GqvHEwpcIRruiuYm6aUvtZ4qyMvHcR+aTn9B0JE+ugU=
+
+Name: res/drawable/mtrl_ic_arrow_drop_down.xml
+SHA-256-Digest: MtcJBNlj0CYTDlZoNJUOuzZWHe5HOnxIfCc3/SvDKwM=
+
+Name: res/anim/sesl_checkbox_to_checked_check_mark_anim.xml
+SHA-256-Digest: 5QyGQd5evJ1tIiC1Nn2slV2Bgu0ho6DT4mG1aU6gEJY=
+
+Name: res/color/selector_list_desc_color.xml
+SHA-256-Digest: FSpeSru0B9Lc1N9c+n5RGlg8PpM3CGcIl2HO55w6+nA=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_attic.png
+SHA-256-Digest: 8zvCNPTQexaU+QxIEdwU95zXgX8OangavPONZciQSzo=
+
+Name: res/color/mtrl_card_view_ripple.xml
+SHA-256-Digest: RvAosJdp9MGPJIHJthY0kzlzvQKBmLY+5fi1kdk9OY4=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Myanmar_Unicode.txt
+SHA-256-Digest: DzjtnYJJuxC7fCKPw9n/xn0sBGMrYNz3LEJsb6dLHKo=
+
+Name: res/drawable-v23/sesl_list_choice_check_to_on_025.xml
+SHA-256-Digest: vgoENkLflvgIDOTlLKf+Mw/34Iy3LNHYmzNVfyl4gYQ=
+
+Name: res/drawable/sem_snackbar_frame_mtrl.xml
+SHA-256-Digest: SqbXg6Y8O3obx/8qjmCG39fK+9wUJe2lElEoa98+UW8=
+
+Name: res/drawable/mtrl_popupmenu_background.xml
+SHA-256-Digest: xmCB2deCn2vW3wvkS3hXSpwgOr0mpIWS4HuLyqa4des=
+
+Name: res/layout/base_activity.xml
+SHA-256-Digest: cYo3Dtm1ndLWhJnpt4ikNW8xsc+rlFfqi0Kl4GYraIM=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: U1w618IVwEuk2xGr5fMuEwSeRncEjSozKfv2e+qFWws=
+
+Name: res/drawable/ic_stat_notify_bean_session.xml
+SHA-256-Digest: QMEY0XyGEH+2Rx2yet2wtyBcmqYqm4QZVYWsnG7Nv/0=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_6.png
+SHA-256-Digest: Z0sE8b2CDgExbx/LQI9yDNhPTsXBwPyUGrDUxnXWe50=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: SPcy/l3unYLVkIQqCozJRWkkScjAJl87vUnK5H47kZs=
+
+Name: assets/EULA/fi.txt
+SHA-256-Digest: Oba4sjs8mVUwCXTIg+RJB+zzju0dpM0T8CgaYIL0LGY=
+
+Name: res/drawable/sesl_ic_menu_cut_light.xml
+SHA-256-Digest: B6aloWRAMfe/861wIugRc+mGDBTI5vo96obw4h5IKJQ=
+
+Name: res/anim-desk-mdpi-v8/sesl_list_popup_exit.xml
+SHA-256-Digest: 4lmBWP4RwIQUXjrQgB8NR0EbrYrmUFZrP7GQMmUxCUY=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 8PRZR/QWH4o/KClPwGNHr8z8xGpvvO3Sz4LThf4KEno=
+
+Name: res/drawable/sesl_fastscroll_label_right.xml
+SHA-256-Digest: 4S805ihe/wxvdTwcSjSugQ2VCboVfryWR+Zl20YSGPI=
+
+Name: res/layout/sesl_cascading_menu_item_layout.xml
+SHA-256-Digest: YaVVnJd3t+rSEstJgntlHjwmVqeeXGfvxj2Uz1epl3s=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: xKI4OgO9tnOdFqDiQFjkucfaTmPSA+C+L0SIaMwDxTA=
+
+Name: assets/RDI/fa.txt
+SHA-256-Digest: YsxD0qnvTITWqae+Jqa8g6XsCzkGsnwMPqXKQ964w2w=
+
+Name: assets/EULA/tk.txt
+SHA-256-Digest: m3oQz07LTi3VNOIHMgGmswewEukyw1jVZf2gqrgzXgE=
+
+Name: assets/EULA/hy-rAM.txt
+SHA-256-Digest: A5k7rV6R/H1AlABoyg0xjCGqQYD2zskmA6jJCRWvIqw=
+
+Name: assets/RDI/uz-rUZ.txt
+SHA-256-Digest: SfarfPRjW2QrgqRc2BQZyK1rLu8Ck1Gf36CKYZNGtjM=
+
+Name: res/drawable/fotaprovider_bottombar_button_grey_ripple.xml
+SHA-256-Digest: zKgzL6Z387vEzoxzNMc8BaXZ/3qrPlb28TNzXxyLryI=
+
+Name: res/drawable/sesl_progress_dialog_circle_background_shape_light.
+ xml
+SHA-256-Digest: GzIJig+Gvpgr5ksyz1+xzL0Rv7nRovjEkkl5b/pI9EM=
+
+Name: res/menu/menu_widget_settings_toolbar.xml
+SHA-256-Digest: NE3+S3AuF1wxFu11uaYd0kYjz9/xAVW0NuFdEZQqPMc=
+
+Name: res/drawable/sesl_ic_menu_copy_dark.xml
+SHA-256-Digest: p3+53wvgZV5dvB+CrQXHXlKO9kRYqXo39SUXUcHF7+E=
+
+Name: assets/EULA/ms-rMY.txt
+SHA-256-Digest: 3zZziPN56fdsQ9JzJl8nc8Xo8GJjHGknmcdDVCLbyqE=
+
+Name: res/layout-v26/mtrl_calendar_month.xml
+SHA-256-Digest: MIyme5FiuerSQhg+lKZS5QMewObIp9COlVLpZFZrLus=
+
+Name: res/layout/sesl_date_picker.xml
+SHA-256-Digest: wZRlF4Hswd6VJ88tcMZMaM6ez6xJuLuA24HK5nwzGNc=
+
+Name: assets/EULA/es-rUS.txt
+SHA-256-Digest: CQ6o4EVBADSaUfTwT7vKP7qlYEBsMFjZi5iwbChl5xg=
+
+Name: res/drawable-xxhdpi-v4/logo_word_03_pro.png
+SHA-256-Digest: R2p/SbMI7IqMUI96I9AoKcCe7C0ZaOJuu9NXk60cn0U=
+
+Name: res/drawable/sesl_dropdown_scrollbar_handle_light.xml
+SHA-256-Digest: /ZI5FxAmwEOaLNp7YCv184cdLOJxfOO9C0+ZNgbQzqU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Indonesian.txt
+SHA-256-Digest: ygJ/4TIaKISGuyGsB05jD7luvxq33f3n6lnVvde2afw=
+
+Name: assets/RDI/be-rBY.txt
+SHA-256-Digest: 6xHMbJst+1H1p/kVN+p3Z05Z+A4leDpUHfHrgqhONJk=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: 0KFhU5m7+wLoEVM9nHI2xhwVWulbnkAYhxJxFQ3BikQ=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_band.png
+SHA-256-Digest: q/p4cUj2y9eX9UCTI6nP6E82hWV1EgWUVKpxULDyEL4=
+
+Name: res/drawable/sesl_ic_ab_add_mtrl.xml
+SHA-256-Digest: Bm+SWroauEXKcS0GFpDXLsyTR16hblMZqNhPLLNUrpM=
+
+Name: res/drawable/sesl_search_icon_background_borderless.xml
+SHA-256-Digest: ykTkF5fmH4frPN7ONC3DlCqQpH/V2ZIfoYWw1UIQEnA=
+
+Name: res/anim/sesl_dialog_exit.xml
+SHA-256-Digest: 38405mIVoayiXHLduC5IdFmnkNHv3RWoDfgyEitXeAs=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_
+ background.9.png
+SHA-256-Digest: nWLT6r76+J5gGNOQLMjEu4iKiJHZY53tqPtYumD+GCI=
+
+Name: res/drawable/sem_snackbar_action_frame_mtrl.xml
+SHA-256-Digest: vlDtUBCpVDtkIDDTeObk3QhQn4N8UqMkuTlnq5gAges=
+
+Name: res/drawable/sesl_progress_dialog_circle_background_shape_dark.x
+ ml
+SHA-256-Digest: 7xMDSf0tlTw3KkgYE2MUSZXBHikxUpqXz2mQWKIdjzw=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Bosnian.txt
+SHA-256-Digest: A7ce/eqpxTjsOIr2s0vzTyc+4HhlQs1+1x0FfLN304k=
+
+Name: assets/RDI/ur-rPK.txt
+SHA-256-Digest: qdfpag6+Bsbt03QaGiS700gH2FZ3+a+P9R4oL+G4CcU=
+
+Name: assets/RDI/iw.txt
+SHA-256-Digest: CEL+6j9OCn7SM0G6E0GYUa+jMUJS5E0OxZ5lHf2Iex0=
+
+Name: res/drawable-xxxhdpi-v4/sesl_fastscroll_thumb_alpha.png
+SHA-256-Digest: EJiIAEQZugsHUXWw3vLjvAXwabb598WFVS2QkawmEM8=
+
+Name: assets/RDI/hr.txt
+SHA-256-Digest: JY0rbVE28e9XwpSJoR8+wSPAY0avJYlRriLxOQQoDMQ=
+
+Name: res/layout/custom_dialog.xml
+SHA-256-Digest: AjVqvJYhHnH1b+2aCo68qF+1dxAtZGJ9upp/5klF+9M=
+
+Name: res/interpolator/interpolator_sine_out_70.xml
+SHA-256-Digest: gORPTdjHGryrvClHXGUGR0cvCJbvg51dYvCQ4zqSEUA=
+
+Name: res/drawable-xxhdpi-v4/sesl_scrollbar_handle_mtrl_alpha.9.png
+SHA-256-Digest: tO0oxsBmKPV23C3YtomLgHV9Gn9JNvSp152V0w7+l2Q=
+
+Name: res/layout/dialog_permission_list.xml
+SHA-256-Digest: C67rX5RzPlWeZeGJaNv9oBG3haSJyP3BTcd1R3Q8zwU=
+
+Name: res/layout/activity_legal_information.xml
+SHA-256-Digest: kvbuDjelIbKDs6fgoqZcHkVsxX4+lIsBImd++OoaBqQ=
+
+Name: res/anim/sesl_grow_fade_in_from_bottom.xml
+SHA-256-Digest: DuiKxSxjeP/yJzni8DJry7eNzRwfHF4UdzCy++Qyi70=
+
+Name: res/anim/sesl_checkbox_to_unchecked_check_mark_anim.xml
+SHA-256-Digest: rA9BEGVjq0xhMDAQTCVh1aGvAc9b2N4L5X0kaFn7Ueg=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_settings_list_ic_tips.png
+SHA-256-Digest: x1h9CD38bAhq0Ht+3zEzpofREljKSC00UE48bO76Ymk=
+
+Name: assets/noise_control_deactivate_noise_reduction.json
+SHA-256-Digest: CaK2Cd7K0TT6k0t8/KCX5mnhJlAmrQPJrVJcsSmB7dY=
+
+Name: res/drawable/sesl_seekbar_thumb_pressed_to_unpressed_anim.xml
+SHA-256-Digest: plWbJKEzWAhOFL6rm0xu7AwjB7W2G+v+uANGw4Vlb3Q=
+
+Name: assets/EULA/ar.txt
+SHA-256-Digest: mIM9RU8FXIgKGBued1ZdlBbP6dr5UvVESwfqPRWsm98=
+
+Name: res/drawable-anydpi-v21/sesl_fastscroll_thumb_alpha.xml
+SHA-256-Digest: 3lGzpJGjx7ugdQqpsJziZq2ka9xSe3m0noDKydpEqig=
+
+Name: res/layout-sw600dp-v13/design_layout_snackbar.xml
+SHA-256-Digest: pQLZz0KV5qo05xbdBBgjKF/+6FWV5JDP41MYr0nvpgs=
+
+Name: res/layout/sesl_spinning_datepicker_time_picker_spinner_phone.xm
+ l
+SHA-256-Digest: JhSeKwuYGRgvxuGnOniOiLfTQmR8ulieaE6qcaPEBfU=
+
+Name: res/drawable/sesl_switch_track_selector.xml
+SHA-256-Digest: kRTyNA73kkeV8H0uEtiBydAQUg+gTudrq2cKEGQ20b8=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: zmPEjXs1g8Clz/4PlfynT4nzqIbF9GcuHk6Qc6O1TPc=
+
+Name: res/drawable/fotaprovider_widget_progressbar_horizontal.xml
+SHA-256-Digest: yGnA1SmruQEaT0Vx0D/MBqyqJisral7/Jfhhdh328CU=
+
+Name: assets/EULA/pl.txt
+SHA-256-Digest: VeWKdXpO+ebMHlXRTxRy8OX56aiakMLJVYZox3vP/84=
+
+Name: assets/EULA/en-rCA.txt
+SHA-256-Digest: rfZSU2oE34SaKnZbtblZBjC8Ic2UCP1lR/OaWLL61uI=
+
+Name: res/layout/edit_text_rename.xml
+SHA-256-Digest: PI16LxqHsicq88wNbM2V8K199iEunHo8MFgCZnzn+n8=
+
+Name: res/animator/design_fab_hide_motion_spec.xml
+SHA-256-Digest: DLTf2TZnaEHcjeGJG2SdCoqrEgmLE72oaiPegMVrwFY=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Chinese Simplified.txt
+SHA-256-Digest: 1EXRj7M9I9wjvJ3GaNoTIr/z/vo2iHayioBcVk6SBLQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Urdu.txt
+SHA-256-Digest: 8qORCMx5A53SyoV2y8ChQ9+a5c1hJoRWp/ZeoVALsmw=
+
+Name: res/drawable/sesl_bottom_nav_show_button_shapes_shape.xml
+SHA-256-Digest: fXQJAyXQFldl1umn/Fo3CZWiaLZ/pQP3TclV+aYTXkA=
+
+Name: META-INF/androidx.picker_picker-basic.version
+SHA-256-Digest: VkmpObYhQzKMNYF+7SRHUE8FpvcXZv+wD4vIaHuy4YY=
+
+Name: res/drawable-v26/sesl_go_to_top_dark.xml
+SHA-256-Digest: WTbyumKy86kox3dV/T1nfI8oGu/b3OH8Bt3BJblK+FA=
+
+Name: res/drawable/sesl_action_bar_item_background.xml
+SHA-256-Digest: ykTkF5fmH4frPN7ONC3DlCqQpH/V2ZIfoYWw1UIQEnA=
+
+Name: res/layout/sesl_list_menu_item_layout.xml
+SHA-256-Digest: 9SgQBbvysP+pSgdRTKhKAC2Ww7PZ6J07YnQwIXtAFDo=
+
+Name: res/anim/mtrl_card_lowers_interpolator.xml
+SHA-256-Digest: pz0AfS9z7TocquGV6to/hQOnV0pzoglWoULJjxoNTV4=
+
+Name: res/interpolator/sine_out_80.xml
+SHA-256-Digest: aKRvnzbrjw+ffOMIhKmfr01QUY2RoCyNruLv477CIKU=
+
+Name: assets/EULA/ru.txt
+SHA-256-Digest: CsiG1r/OPfvT0zUqMByntzXNdVmUNnTvWZfrLycM1GM=
+
+Name: res/color/mtrl_filled_stroke_color.xml
+SHA-256-Digest: se8heHSRg0lvKiJArtOh6LXfmONVt0bQQkxb9WMuNBM=
+
+Name: res/drawable-v21/$avd_hide_password__2.xml
+SHA-256-Digest: vPV+m0PVqUQjh2TCICgiyV/Ii3XR+60FEWdGlj2F4rA=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA-256-Digest: 1m9wYcJ0sbb4UkmTNnr5AnN935GH2wzI2RqMZK2blEo=
+
+Name: res/drawable-v23/sesl_btn_radio_to_on_025.xml
+SHA-256-Digest: ji+2KbjS7VWuwXpHAE4TDsoiQCHMrvViioROoAPvYLg=
+
+Name: lib/armeabi-v7a/libDiagMonKey.so
+SHA-256-Digest: OKZcgon/oifzK6aZobSdr32gld7hzfK+O0fsMDQ4PPk=
+
+Name: res/color/sesl_switchbar_text_color.xml
+SHA-256-Digest: /EvOH4J565fD5hSZfIqcq3nqP+hVZiJrDeBa6KKp7dw=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_detect_conversations.p
+ ng
+SHA-256-Digest: lYQQsXn7a9qLVmD3IBWHrzMXkew2KMoBoso1ATlchcc=
+
+Name: res/color/sesl_tabs_colored_ripple_color.xml
+SHA-256-Digest: MO1/EKuf9dZYieTMFIyiny/VuIjcvlw8JWt5Iy9msyo=
+
+Name: res/drawable-v23/sesl_list_choice_check_to_on_024.xml
+SHA-256-Digest: 3oKkU2aFx/vQBNpyLCWHPu6a4yZoyEoC8d73zx8BjJ4=
+
+Name: res/interpolator/sine_in_out_80.xml
+SHA-256-Digest: YKvSPJOoSyJTgNXDyxaoRp4rFVKrQ5uKQE79vgurfuw=
+
+Name: res/drawable/sesl_tablayout_subtab_indicator_shape_dark.xml
+SHA-256-Digest: HRG3+R8ZuG+ux6A0GK9v/PhQXiTias7O4gq29i8B66Q=
+
+Name: res/anim/sesl_list_popup_exit.xml
+SHA-256-Digest: iXCCMqJ3pI1T2he5aQooSwRmeIkEd4YmNZ/DopJaJJ8=
+
+Name: res/color/mtrl_choice_chip_text_color.xml
+SHA-256-Digest: HbOJs2Njpk8pKcEU1AL2xnttI4Gig/IfGSN/1pNuKKw=
+
+Name: res/drawable-xxhdpi-v4/ic_notification_dim.png
+SHA-256-Digest: j3pYc++bZXnwcsi9WSjkJK81mVMMzMzpllpqhakHwXQ=
+
+Name: res/drawable/test_custom_background.xml
+SHA-256-Digest: kRMU8uWcYd6XnaYh+ZoK2n+j59gNpm1Tv3EmOwyxYm0=
+
+Name: res/layout/view_battery_image.xml
+SHA-256-Digest: I6tKXqAguxBPwLf9FapgmBHPBEZdxA5sTZqSTws4oHc=
+
+Name: assets/RDI/th.txt
+SHA-256-Digest: EQSoRRI5Dj/ygW9787acpqioYo2vEuxUx+y3u6c0cQE=
+
+Name: res/drawable-xxhdpi-v4/sesl_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: 7rJ72Tn/uK/Q1Ms+BQWJ+CPGT8prWkm/iKGviRqJipY=
+
+Name: res/color/mtrl_btn_ripple_color.xml
+SHA-256-Digest: Lx3G/Qp3DRRJicFsesaBPaK4HNQ7zaqo9JjBHAea+f4=
+
+Name: assets/RDI/mn-rMN.txt
+SHA-256-Digest: uHounK+Na0rP/p8YHmf28Bj1/1YKfBpuNxoNulZMd9c=
+
+Name: res/drawable-hdpi-v4/googleg_disabled_color_18.png
+SHA-256-Digest: 9zUICQ0+a7w+Obp2jnGFWq1S7KqszaZ21DoYYAEMxVc=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Myanmar.txt
+SHA-256-Digest: mIezHUf4emnTMQRqj22G8qW3ICb+NMZ1im2y6meZTKs=
+
+Name: assets/RDI/or.txt
+SHA-256-Digest: 45An5djOwDroR4g3uYYUiFjKPLUY3avXZYE/VM/h1mI=
+
+Name: res/layout/sesl_tabs_sub_tab_layout.xml
+SHA-256-Digest: IRda3fbqsLy4GotVOZyyASPhE5d2Zo3Gzzax30lSO5s=
+
+Name: res/drawable-xxhdpi-v4/ic_general.png
+SHA-256-Digest: N+3lDzS03CkfmaJ05PjYuANLPqKmXl4IMq6cbEZtGNY=
+
+Name: res/layout/mtrl_calendar_vertical.xml
+SHA-256-Digest: zwqgQvHY3Zlaab97ZgOkrgSX6fs/MMyTy/h7mbdgTC8=
+
+Name: res/anim-desk-mdpi-v8/sesl_menu_popup_exit.xml
+SHA-256-Digest: X90zC4fDyfasubDKpORlPF6e73t0aMva6RgrZkTZ6kU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Filipino.txt
+SHA-256-Digest: U9T18VTnhgdiWfulIdvg4lxAx7XISC963xpy07twu14=
+
+Name: assets/RDI/pt-rBR.txt
+SHA-256-Digest: Z2SWVd5b7x0tMiHhqNAJxJqzCDARJgIA1/siS0rXq8c=
+
+Name: res/drawable/ic_stat_notify_band_session.xml
+SHA-256-Digest: HmuhkFVrk6UOoDA+CD+kzFeKF9MvWbc28LGYZPacm7c=
+
+Name: res/raw/touchpad_test.mp4
+SHA-256-Digest: cM419zG/UL9+Yzq2+4Ul+FHAc1EpDBPBlbPy84gfKQU=
+
+Name: res/color/sesl_search_url_text.xml
+SHA-256-Digest: ecRRO/eBgfHU5gEc+q3TYH4Nc//VAiVdqsxA/RRi/Gg=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Bulgarian.txt
+SHA-256-Digest: UodhARWimrQlkSn2R13AdOeElrnpEQ0MayySwuSsij8=
+
+Name: res/color/sesl_bottom_nav_icon_color_light.xml
+SHA-256-Digest: 1UNee3k6ZJrqWVqYpt0ePTdAMgEJxHwAnxFu5nYvdLc=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_dim.png
+SHA-256-Digest: 3JCojwiB/jo/Tv0JKJsZ+T44XN3ytubwqbTY50xdMyU=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_right_silver.png
+SHA-256-Digest: tyIU5XexmnU/BzIa4+ihd8ehrCzePGXqOwBQWwLSYD4=
+
+Name: res/drawable/sesl_action_bar_background_stacked_dark.xml
+SHA-256-Digest: LPVCB5zeZIoH0tYsq8VQ8srRMezHqw4xeByZbMO99y8=
+
+Name: res/layout/layout_inline_cue.xml
+SHA-256-Digest: zz4mZDYc9FVSDwVJVUTQRQ31+HMyNhhNoJj0X+CGz6Q=
+
+Name: res/drawable-anydpi-v21/design_ic_visibility_off.xml
+SHA-256-Digest: c9svgylRx8la6WN3DECsU0te/G0tpGvoLarFZcVS4Yc=
+
+Name: META-INF/androidx.appcompat_appcompat-resources.version
+SHA-256-Digest: HltRzeUVOWqfp2KQnPjKZYTMxWSzJdLuvup2F1/pXE0=
+
+Name: res/drawable/sesl_spinner_background_am_alpha_dark.xml
+SHA-256-Digest: Fh4tPdr0rcr7uAocCtH1sV1WlSMmT11Xd4Zp0FP2cK0=
+
+Name: res/layout/activity_bixby_voice_wake_up.xml
+SHA-256-Digest: bohFjEADINe7y8Q/ej3WBIC5UOs37cunz4yltX/YgNE=
+
+Name: res/drawable/sesl_action_text_button_show_button_shapes_shape_ma
+ rk.xml
+SHA-256-Digest: 1S/UTTa+XasaMksbozvgo52mW7PtmPYZKRGlnFoSfLs=
+
+Name: res/drawable-xxhdpi-v4/widget_lock_touchpad_off.png
+SHA-256-Digest: dueT430HeP1LluyKznAMEdErBB/vF+DRjVo45FCiseA=
+
+Name: res/layout/widget_view_quick_control_opacity_0.xml
+SHA-256-Digest: aeSJuDoxW+wfPREMGmaXAtfYZn7LBdDaMuFzrwclG7k=
+
+Name: res/layout-land/widget_view_battery.xml
+SHA-256-Digest: jP4JKytrAtXCQG1rUmhRVC6dt2K4101ooPqjW4R4sUc=
+
+Name: res/drawable/sesl_action_bar_item_text_background_dark.xml
+SHA-256-Digest: fz+Cr9zJcrVumQ1BbqSPSqAqKC+MQNQWKJ9v1fXo2BI=
+
+Name: assets/EULA/bn-rIN.txt
+SHA-256-Digest: LeoqTaJMMtZh75yNzlJWQvte5QRVAAcbmT1FJm4Lokk=
+
+Name: res/anim/sesl_checkbox_to_checked_circle_outline_anim.xml
+SHA-256-Digest: MCyYGmjZC1xvoBaR3RLuCDkIjh9oueRuksUZiX7iJMc=
+
+Name: res/drawable/fotaprovider_horizontal_progressbar_bottom_right_ro
+ und.xml
+SHA-256-Digest: Sv/JWZuO8IC9uRSQN13bnNPoMgbhUtDLwk410tcye0Y=
+
+Name: res/layout/fragment_tips_touchpad.xml
+SHA-256-Digest: y8r2PzwMTvp9hIFbuQFLna4QZJ6vzcZnFoCog2ImEW4=
+
+Name: res/drawable-v21/$avd_hide_password__1.xml
+SHA-256-Digest: 3CIGlyu8EmVkf38ivXBLUaVC/L2L4w8Ui9BslqB1Cl4=
+
+Name: res/drawable/selector_update_sw_icon.xml
+SHA-256-Digest: 0WdZ9CGtsqyO8newySp9bzOo2XgrFZw881R4b4ICtnw=
+
+Name: res/drawable/common_google_signin_btn_text_light_focused.xml
+SHA-256-Digest: tgO2mCHBvNTpSIB50fBQhvZJqDoLtcomdrygLg8+mDk=
+
+Name: res/drawable/sesl_more_button_show_button_shapes_background.xml
+SHA-256-Digest: t3dfPzqTZ/0nSfB19NgBbPzHxchScN/Ujib+nMMF1NQ=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_block_touches.png
+SHA-256-Digest: Ay5BoO5T7vBrDIX9u46Mdo0LKdwHe4hQzV5eGxI2Yzc=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Kazakh.txt
+SHA-256-Digest: jV2OGNHBtg5xgb+/ZGX982gu2VbdiQ5q9+vt2GPeSkk=
+
+Name: res/drawable-xxhdpi-v4/rc_top_left.xml
+SHA-256-Digest: n+c6HkI5TOV2Gq3Bxv9qSmM1B5tUitMUZ1u0cr8V3ho=
+
+Name: assets/RDI/es-rES.txt
+SHA-256-Digest: p1dMt9FnO9y5AfI38hEBkS6YRn9pff8gIb8rInS1Wg8=
+
+Name: res/anim/sesl_date_picker_fade_in.xml
+SHA-256-Digest: fSMoZGszG6J+NSYttiaGfUjc+OYpIP/dULRhEFw8p5c=
+
+Name: res/drawable/ic_stat_notify_bean_completion.xml
+SHA-256-Digest: AyQgfFAUKjag+G96ZrL3cyVklPwt9dCKWG8Hx89suZ8=
+
+Name: res/anim/sesl_menu_popup_enter.xml
+SHA-256-Digest: DROr+YwCdvB3JMfUFkSbW41d8UE/3vELlnNcdyk0A6M=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Telugu.txt
+SHA-256-Digest: ab+0fBGfh7LP+ytkxX/ylo8vj6dQ1aM3PueKXbuI9zg=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_buds_ambient_sound.png
+SHA-256-Digest: aeyoAfSqs/gcnCxTWrUhtlH5YxyQ99V0BLI2bgd20RI=
+
+Name: assets/RDI/et-rEE.txt
+SHA-256-Digest: Ntv/kFALYEuqYPf2KiWClNjMFXSyFgTdyymGhzlIGco=
+
+Name: assets/RDI/ro.txt
+SHA-256-Digest: JBp+tf3FhyEHZTRKWi7xQS73+7PxVpISFAk22FfpSX0=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Azerbaijani.txt
+SHA-256-Digest: wjH8p73aSuPm5QUDLqMVUeEyqH852bbibdzTPm+Lg8E=
+
+Name: res/interpolator/sesl_progress_rect2_scale_interpolator.xml
+SHA-256-Digest: Qrtn5wxAHc8xi5EA6nyYDFiwIzE4Y0g8SQvhW8RBkZ4=
+
+Name: res/color/mtrl_calendar_selected_range.xml
+SHA-256-Digest: MD5eCp95WIFkJuk55cKpevSH1ndFY5B+nVOTqHBd7eQ=
+
+Name: assets/RDI/nl.txt
+SHA-256-Digest: QgY7jqQ9zcA+wH5sFkGD74yjPJqF4h5ZQQHkYrERcbQ=
+
+Name: META-INF/androidx.work_work-runtime.version
+SHA-256-Digest: Kteww/Dt5YwxZbeopUeeiQp1jTm/6Gg+rvUM5q+tcjI=
+
+Name: res/drawable/abc_btn_radio_material_anim.xml
+SHA-256-Digest: C/96YPXz0Y2Y2db5Tr3vj3VOd5C9IkgWWy/Rmuo56P4=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA-256-Digest: wgWAWQePqE2jL4pl706unXzxuGGE1E78uIZw3MLTVyQ=
+
+Name: res/anim-desk-mdpi-v8/sesl_list_popup_enter.xml
+SHA-256-Digest: +MLsel/8WMfM8KnkZXDeHN/ChRgDL69prhgLkcnABTg=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_cradle_silver.png
+SHA-256-Digest: TfSqcGM6JDzAUbId0lhbxrXm7xIMimneqo0G8bpTqxk=
+
+Name: res/drawable-v23/sesl_btn_radio.xml
+SHA-256-Digest: 5fOoFI53pS1ovh2uvhj8tCWP8L5udCLB2fl685f9kXg=
+
+Name: assets/RDI/zh-rHK.txt
+SHA-256-Digest: liMVLOGFkNgW+/41tKfBChRU8QHLauXkIYckWASbA28=
+
+Name: assets/EULA/kn-rIN.txt
+SHA-256-Digest: ywLKHunvv4XdVMA2n9Xc2rvrAQEQ81PEPleQnZ4+slU=
+
+Name: res/layout/item_permission_list.xml
+SHA-256-Digest: EVN31L73yjI6zvfIt43hIP+UvVYb/jb/kEQPzl+UwAU=
+
+Name: assets/EULA/my-rMM.txt
+SHA-256-Digest: gwxpJloSYSc4bfb4KCfJvZszhh3lgto+RG3RVFqELkw=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Assamese.txt
+SHA-256-Digest: V/5tz5IPcX7/6jOfY6QXT+leHk+VtvatKp6lZaPY3tM=
+
+Name: res/color/sesl_number_picker_text_color.xml
+SHA-256-Digest: /EvOH4J565fD5hSZfIqcq3nqP+hVZiJrDeBa6KKp7dw=
+
+Name: res/drawable-v23/sesl_switch_thumb_dark_disabled_off.xml
+SHA-256-Digest: tsQsnkdo5P4vj/Z+ofs+u2iQVgH8/y8CsMdt+K8qb9U=
+
+Name: res/layout/sesl_spinning_date_picker_legacy_multipane.xml
+SHA-256-Digest: NdlmPKrVk+0J8aUqZRbvdY00ei+JeSl8JqKNrjibT1U=
+
+Name: res/drawable-v23/sesl_btn_radio_to_on_024.xml
+SHA-256-Digest: JDlSkIETrFBWQSP7hGSG+9OBJkHsbE0iq5h3DduhAn4=
+
+Name: res/color/mtrl_navigation_item_background_color.xml
+SHA-256-Digest: GkrDaT2guVPJg4qBwxon2leTa/NY2++L8r3seQWE0F0=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Albanian.txt
+SHA-256-Digest: PBlPkgaJK7gpbCaxVfbWId2QwR0mnYJdFF7T2ySySYU=
+
+Name: res/drawable/sesl_tablayout_maintab_touch_background_dark.xml
+SHA-256-Digest: buF+REHF4RYaSOGU/ueg3nnfMnk8D00peThDITlJlfs=
+
+Name: res/drawable/sesl_bottom_left_round.xml
+SHA-256-Digest: TgunKmMHrUKVrGxUTLfkPUqo4CH3oUv5Vb3rtix6R24=
+
+Name: res/drawable/sesl_bottom_navigation_background_dark.xml
+SHA-256-Digest: 95UQrQvN5RugljQUGvBh5ilqsFPVr4lL/twyIoaI9h0=
+
+Name: res/layout/activity_home.xml
+SHA-256-Digest: x1rm2flPKuECDcFzfQW6OaK7Xp8WzZhUNm+NjX3hR1Q=
+
+Name: assets/RDI/tg.txt
+SHA-256-Digest: Bo9OUB7jUywEZrjDdiWKxllEF9ho8Js/NmVwtQwCKA4=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_buds_lock_touchpad.png
+SHA-256-Digest: 6NbU3EJjyCElOI7Wxir9nFLKDoDYobvH4PSvOvXrgYk=
+
+Name: res/drawable/sesl_fastscroll_track_alpha.9.png
+SHA-256-Digest: JrzsYBhRHnS1J8MsP1U4BNkgLSHvXVcsqhNcYSWXrKQ=
+
+Name: res/drawable-xxhdpi-v4/sesl_scrollbar_handle_alpha.9.png
+SHA-256-Digest: Cvcng8XwJdu0W+c3+aV9UCdSCpWBX954wVh5Z5ScFdI=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Lithuanian.txt
+SHA-256-Digest: pcOQgXa4AmlkMdqLN4HNU1L0dxr3jcnwxTCRYDRKof4=
+
+Name: lib/arm64-v8a/libDiagMonKey.so
+SHA-256-Digest: jfC1szG1m552jknjTcXiJZh2oCscNd5apAaMNae43lQ=
+
+Name: res/drawable/sesl_tablayout_tab_background_light.xml
+SHA-256-Digest: 8y+2gGNulCZQLSYLQPm7UCCv1sOx9ypN3XB5mAai8Co=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: xKI4OgO9tnOdFqDiQFjkucfaTmPSA+C+L0SIaMwDxTA=
+
+Name: res/layout/card_equalizer.xml
+SHA-256-Digest: 2pRSF30O6q5Cu4HaujpBLwi+9GDG0/gRyz3/HWQtVqM=
+
+Name: res/layout/mtrl_alert_dialog.xml
+SHA-256-Digest: psgYpB7/NctjBlgyKnm2YStWtrzRGosUqwGg7qyeeyM=
+
+Name: res/drawable-xxhdpi-v4/finding_new.png
+SHA-256-Digest: YG0Xusr8E4sPGiEIBCA9nQs8BNt1sUQ3lMCCfypTS2w=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Japanese.txt
+SHA-256-Digest: aD/KkKzVWDvnY8AlkqMbqYPg79YIHYXL/OrN52ru4X0=
+
+Name: res/anim-sw600dp-v13/sesl_dialog_enter.xml
+SHA-256-Digest: QzW5wbFKpfnLCPpShmtvNfZZ4ytIU1kk2RDCnPsw3nc=
+
+Name: res/drawable-v28/sesl_bottom_nav_show_button_shapes_background.x
+ ml
+SHA-256-Digest: PO/+GUCbbL01KKPnLfdDkhM8AQ3qaKtT/m31iXqaN4g=
+
+Name: res/drawable/background_widget.xml
+SHA-256-Digest: vkI+DRT1SpBmtXGzI3yHuQLHPGyWKVFQumqtwEsJbN8=
+
+Name: res/anim/sesl_radio_to_off_circle_outline_anim.xml
+SHA-256-Digest: H58XByF5Y1g0HUksvZZM2EWV20G/Rm+IdbMm+Xfjo2U=
+
+Name: res/anim/progress_circle_indeterminate_rotation_material.xml
+SHA-256-Digest: wHAApJNAUqyqsRmG6dEJIvxJX/B1WlF7UVPY7HqpRGI=
+
+Name: res/layout/sesl_action_mode_bar.xml
+SHA-256-Digest: TNNbhHEKZY4FLR4j/PFyCgr9u4cYmjjqRDkpZcOSH3U=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Chinese Traditional_HongKong.txt
+SHA-256-Digest: 8o23FX/MMeWuotZBXBYNIKk/YpkSZyLoBcOogmE8doI=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_buds_touchpad.png
+SHA-256-Digest: NzNMmHx2oTZktD6KvKETCtfW+aKXSMkrihgNaZpQIi8=
+
+Name: res/menu/bnv_dummy_overflow_menu_icon.xml
+SHA-256-Digest: WLb4xDqU7WpaYNzMTyCy7FX0EVtU0iY9lHamxCLnUTI=
+
+Name: res/drawable/sesl_split_seekbar_background_progress.xml
+SHA-256-Digest: 6jDSCyAqtmMTKYYgxOdJ5BFHXUaeyal/mMyUhoBaQCk=
+
+Name: res/color/sesl_seekbar_ripple_color.xml
+SHA-256-Digest: YNtVH9d/5Txc2uyK9HZpJM3NQdpbtHJ1cbp+OwclAUo=
+
+Name: res/drawable/sesl_tablayout_maintab_indicator_opentheme_backgrou
+ nd.xml
+SHA-256-Digest: +rPtm8FOgE1wcajGEsKHY9gZUCjQxbMTg/9He95+dE8=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_French.txt
+SHA-256-Digest: sth1fg0fG9WbK9qr9vHmGTqbmABtIglcBRT+Dwj8RwY=
+
+Name: res/layout/activity_verification_device_info.xml
+SHA-256-Digest: UlxzR+c8ZarUoOx35xWeCysHRjAw6Q40JyXzUHFX5r4=
+
+Name: res/drawable/sesl_ic_menu_share_dark.xml
+SHA-256-Digest: v7NoMwMOGbj+AWQlnVZcuE2FoCn0jIT0GgKkLKBVxAE=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA-256-Digest: cb/XdrIbEQLybjGg9txl1A3iy65lDHUoJB1c3BfqyZE=
+
+Name: res/animator/mtrl_btn_state_list_anim.xml
+SHA-256-Digest: gJv3beBjwPpS6Mp8OiDG+UypgVKraEu20pGQ7BZCzHU=
+
+Name: res/color/sesl_check_off.xml
+SHA-256-Digest: 1z7ZflW5qVck6giZlVQh5JdCvd1LYMS7qAT3YU9kC94=
+
+Name: res/layout/activity_verification_menu.xml
+SHA-256-Digest: McyOUcviye6lz+2W5iwTcNQARMzKlx7eFZ6gYPaQHRs=
+
+Name: res/layout/widget_view_quick_control.xml
+SHA-256-Digest: UTDmiAfTKgoawjfBorMBDas+3IK2ekML/OA2mKy7+go=
+
+Name: res/layout/touchpad_viewpager_0.xml
+SHA-256-Digest: 97Yqni74NGbTsnQI1OQv3Xp/CxY3AnsXBxDrhP2aMwU=
+
+Name: res/drawable-v21/sesl_menu_list_divider.xml
+SHA-256-Digest: eTN8DV4Z3IfwWynYrFQlnUDs0jZpRhrfK7Vx7eYmGjs=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Irish.txt
+SHA-256-Digest: ty6WW5vQikw+/a7cDFOr0cb8/TKgblpssX/gKULEQGA=
+
+Name: res/drawable-xxhdpi-v4/advanced_features.png
+SHA-256-Digest: aXI1AE9hkU8WNfuu+KxgO4INNPid1CxHf6VWbtIMgSo=
+
+Name: res/color/mtrl_chip_close_icon_tint.xml
+SHA-256-Digest: VQe6nJ4HHzD1cTS6IlphKHGnCb1U+0orN4dz/dcR6i4=
+
+Name: res/drawable-v23/sesl_btn_check_to_on_024.xml
+SHA-256-Digest: D6/DRcfRSmAunSeYUVWzEnUMHwBZfhGMa1sG4mZtRmo=
+
+Name: res/layout/sesl_date_picker_dialog.xml
+SHA-256-Digest: M6k6S43IGMWrKsHRfgUMzvx8aRMujDy2890/azfaVAc=
+
+Name: res/drawable/sesl_text_cursor.xml
+SHA-256-Digest: HNIDtpBmUc63oswiPMqAchF4klanCc2QwmIsL60M8K0=
+
+Name: assets/success_vi.webp
+SHA-256-Digest: 4hzsR3UJFm6fDFpyc7MSQHAqzswQ8bP8XR0ddjfY+HI=
+
+Name: res/layout/mtrl_alert_dialog_actions.xml
+SHA-256-Digest: 1/LuJokQ+CNZfYqwjy6IKDFkrtFi0g1MJOOJPmNbdG0=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_gaming_mode.png
+SHA-256-Digest: IP18hFxcM38norDwLkWeb4NlH3YYigtQpNwxuVpquM8=
+
+Name: res/drawable/sesl_ic_search_back.xml
+SHA-256-Digest: cOAqTOzCTi9do0LXYUsZ7bh/wQF5sCNSIqDATNNDIzM=
+
+Name: res/drawable-xxhdpi-v4/level1_selected.png
+SHA-256-Digest: 4RD29kNU992eRh3Fryuyiu1zng/oxMOde50AY4YD/Ec=
+
+Name: res/layout/activity_notice.xml
+SHA-256-Digest: gJv1wNWj89GLEL0v/ti9oH4y/kodlBEYC0TsyzBm2+Y=
+
+Name: res/anim-sw600dp-v13/sesl_dialog_exit.xml
+SHA-256-Digest: uIIRk2AbgYMF84PCqTKTkEiXGrhY+GKZhFKZpUOxo1E=
+
+Name: res/color/test_mtrl_calendar_day_selected.xml
+SHA-256-Digest: Ep2cTUGe2c9gQNlddTGavXm0C4ZnKgaO7MK/++KN10g=
+
+Name: res/drawable-xxhdpi-v4/widget_buds_cradle_white.png
+SHA-256-Digest: 4L3uAKssbgViG+fynaNh+0xRDBupKSXgWn7s+/y5ACg=
+
+Name: res/drawable-v21/avd_hide_password.xml
+SHA-256-Digest: iEFB5fh8dE+JsVslAHx5DXQjf8oolmxC03yQxma73AM=
+
+Name: res/anim/sesl_radio_to_off_circle_outline_group_anim.xml
+SHA-256-Digest: ZTyBujeXNPyocNyOcJRaEKGUBCstsc9L1eGFC5Y5Xvo=
+
+Name: res/drawable/sesl_text_select_handle_left.xml
+SHA-256-Digest: jrtxl1XJarCZmquppoizNF7cgOz37yxxboDn5hm43yQ=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA-256-Digest: 6OL+z78RHMXvZdu2xzlaWuFqaPfgkic40MgCsm6Gbkk=
+
+Name: res/layout/checking_for_update_activity.xml
+SHA-256-Digest: mUZO2lyRHR7rz/p9B0HuKetgzdyh894mf/44yRj58lM=
+
+Name: res/anim/sesl_radio_to_on_circle_inner_group_anim.xml
+SHA-256-Digest: aD1tZv1qrwDY8AMmdPZwXTZpqywVf43cgOjbQhk+6UI=
+
+Name: res/layout/activity_gaming_mode.xml
+SHA-256-Digest: GYN7gMR6AE2CF7pa/oLDJvkVIZQxd79W9/MfLT/CdJQ=
+
+Name: res/drawable-mdpi-v4/design_ic_visibility.png
+SHA-256-Digest: G1Q7uL7FfOG+9m8DiAA04dFdy78Xd1SV1el9b520e0s=
+
+Name: res/drawable/mtrl_ic_cancel.xml
+SHA-256-Digest: k8Ad7NflcVDWGvivQ8aQKZVTo9hRfe0gcvXVEz7fxis=
+
+Name: res/drawable-v23/sesl_btn_check_to_on_026.xml
+SHA-256-Digest: gGn+w/QMWpawuY3SjoQpi5gAZ6yuro2zPgObRkSmJc0=
+
+Name: res/drawable/sesl_action_bar_icon_current_location_mtrl.xml
+SHA-256-Digest: GkJ8iBV4U5kvZWEgpbA3e5fvwy/5YWqr2PcG3uwYsR0=
+
+Name: res/color/sesl_action_menu_text_light.xml
+SHA-256-Digest: 1jSKfbPocPx8ZM8EpE6KTL+pWLAGhdVj5ttI2FiJZIo=
+
+Name: res/drawable-v23/sesl_switch_thumb_dark_disabled_on.xml
+SHA-256-Digest: 8kyevFMtaAmwSjy5ETL2V0dSVOdgS3d9GioInyusxQM=
+
+Name: assets/EULA/bg.txt
+SHA-256-Digest: M7gBXbOcQYUEEXZz+l9etLszbtMUNKcvgOjAA/zFHQw=
+
+Name: res/color/test_mtrl_calendar_day.xml
+SHA-256-Digest: wTS983+67TZpF0TnniLV+WOnmdITkb8zxc2pdoQjqJ4=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: res/drawable-v23/sesl_switch_thumb_on.xml
+SHA-256-Digest: k/L6Z6+0mNrBsau7oX0OUTLWRkEozRHqF3sbKuzq1PE=
+
+Name: res/color/sesl_btn_default_color_dark.xml
+SHA-256-Digest: a6ZnGm6HbqwRud9zcxj2kymzakqtVDP+c1yO0nb7XMU=
+
+Name: res/drawable-xxhdpi-v4/level1_booster_disconnected_on.png
+SHA-256-Digest: kFAUdt55xciNOV+3igi25MUTJTmVIFnsxinnZ+enAfw=
+
+Name: res/drawable-xxhdpi-v4/home_title_image.png
+SHA-256-Digest: BcGZEOlGi2yR292R2au3b2AarZNgFxcTMzvA5VNU4no=
+
+Name: res/drawable/sesl_bottom_navigation_ripple_mask_text_light.xml
+SHA-256-Digest: 9EvaSJ8M4yrOi11GTWCHvZhYrKdYeKIrTom+ivfwnAs=
+
+Name: res/anim/fragment_fade_enter.xml
+SHA-256-Digest: AM6ORjC0bH8nUCDT8YnEvisrHPJ7Rs1xBC0+VAdRnyw=
+
+Name: assets/EULA/da.txt
+SHA-256-Digest: m5TH+SWRhX+HtTxkXh23tPu3zexqgLygHhyoegXVie8=
+
+Name: res/drawable/tick_mark_basic.xml
+SHA-256-Digest: 0pLNDTZs3C1WOU+KeIuVRcYRHxIxeoFORgieFwCVSng=
+
+Name: assets/EULA/mr-rIN.txt
+SHA-256-Digest: bLZII8XgoqHkK7R5k4wN8oCLbydYdD4PCUsSMl4l9wA=
+
+Name: res/drawable-hdpi-v4/design_ic_visibility_off.png
+SHA-256-Digest: b6TCZL+NFgIB5N62U3oA8ss2Pni6eCR9UX2H7KYXZp0=
+
+Name: res/drawable/sesl_dialog_btn_show_button_shapes_background.xml
+SHA-256-Digest: nAlArbwa3UbRkMIIL5TU8+1lslS8Oh8UrFr2EnIFjtQ=
+
+Name: res/drawable/sesl_ic_ab_app_info_mtrl.xml
+SHA-256-Digest: or+/PZG3uJO0ORjAm5wW0Ohb1uYDzvxWCdrETo1RMYE=
+
+Name: res/drawable/sesl_tab_n_badge.xml
+SHA-256-Digest: Kub5CNBpXZRvyw47oUhn63CE3fvGmyBnpRYI5zO9G74=
+
+Name: res/layout/sesl_search_view.xml
+SHA-256-Digest: kHA1aUQIwrk1U4ikOvO2GcgbRd8HAcG6xzd5nKSnXC0=
+
+Name: assets/RDI/ne-rNP.txt
+SHA-256-Digest: K0KVNOqmHyuYbIpMgcR3qZj3RNQVRXOXa8EBc/awyWo=
+
+Name: META-INF/androidx.savedstate_savedstate.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Macedonian.txt
+SHA-256-Digest: xA65ow29fAVL9o5wMw2M4a87tOfb+ZorT3edAEH3Ets=
+
+Name: res/drawable/sesl_action_bar_background_stacked_light.xml
+SHA-256-Digest: Ltc8cttbldXRv8OA8xdFq0dZtrM1XDnGxxdGAAinNP4=
+
+Name: res/layout/item_notification_list.xml
+SHA-256-Digest: zgktrmsgkVJuYcKAJvp/Jp/pkj7s19J7wET8BmmGY1I=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: nbG6O8WqVJZ8dI7PQb32sn+BtwWIIxzRZqV1XqCV0qA=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: fikF7myxgJMoAStYOcqXZHp+5sXM0zVJVpAx0qKPx3s=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Norwegian.txt
+SHA-256-Digest: t2xQ5+5e5DhwnM7ArETryG6tD7UhES/Su5w/TYpSDNk=
+
+Name: res/layout/sesl_tooltip.xml
+SHA-256-Digest: sNjLYJWjgO/RHOX7K6Z9zz3QWLe7KLbwNQY0z8tCf7Q=
+
+Name: res/layout/sesl_spinning_date_picker_calendar.xml
+SHA-256-Digest: b6aD/trMHJMoxpvixt7wBH2QolPqMIrjfJWzxz0fnrE=
+
+Name: res/animator-v21/sesl_appbar_state_list_animator.xml
+SHA-256-Digest: lIXS0WEMSCLfIBpnk4S2UTYMrINhFbUGnpCe6NKSHzc=
+
+Name: assets/EULA/pa-rIN.txt
+SHA-256-Digest: YC+EHiZr71FM5p+iqi/8vnFOpHLgmg94TZJEo+XbarM=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: m9HIoQ7QwFqc6in94OeIivTEJrBvR3GC6xQGgsM62Pw=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_left_black.png
+SHA-256-Digest: qIKKrRbq9QKNvYewKsjuJ+/oZQMhJ/lZ5YNCJy0jXBA=
+
+Name: res/drawable/sesl_switchbar_background.xml
+SHA-256-Digest: MLhDEHtva9Trq16lZG1ic5SpCG6pp4DdiQgTV6agmnY=
+
+Name: res/drawable/sesl_action_bar_background_light.xml
+SHA-256-Digest: vBNUpVAY/xZX8IaRHg/2/CAStUyg1WvKDxKPyEd4EVI=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: assets/RDI/lo-rLA.txt
+SHA-256-Digest: NoDLHU1Fj98GxlmErESEXliyiQ547AklAnV4ZqGaEoE=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Serbian.txt
+SHA-256-Digest: ZCXhwOPk1OxXg8qyX5aMFHUKlI8QDYbPiwHopTTYRv8=
+
+Name: assets/EULA/hu.txt
+SHA-256-Digest: Xq6snZixY/PpweJ1RMrqq97OZnkQtSCCBY0w0uYZGDg=
+
+Name: assets/RDI/sr.txt
+SHA-256-Digest: j5yvGf6C6yQGx8cN5uz9iv6TllN2dDZhuZzRSKAepL0=
+
+Name: res/drawable-xxhdpi-v4/widget_noise_control_ambient_connected.pn
+ g
+SHA-256-Digest: uXI60bj+I3IhFLYbpKKHiX8AA89qjipKT24fZEKrxIY=
+
+Name: firebase-iid-interop.properties
+SHA-256-Digest: 6lrl2Okhrcevmx7rFFEra8x9KHTdXTAsn9jXSWSdRgI=
+
+Name: res/drawable/sesl_switch_thumb_selector_light.xml
+SHA-256-Digest: 7KV/cfnfZG/YW7Dhsvi+2cTsAib+pS6q2S4lQbCEn1Y=
+
+Name: res/drawable/design_snackbar_background.xml
+SHA-256-Digest: +gMDWkJ8gzWiCDJVrCympW/vF/va4vOWh6lJaMSSodw=
+
+Name: assets/RDI/kk-rKZ.txt
+SHA-256-Digest: RDYv6f0Cq4fN6Pp8lwdVktNk6PAJoTz3r28zfgboUCc=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Croatian.txt
+SHA-256-Digest: QpyjY4JHI5/DhhhxFxdMmHjG19Zb7OQBG3Q1nOYPb4s=
+
+Name: META-INF/androidx.sqlite_sqlite-framework.version
+SHA-256-Digest: yJuHwmLp1f/SDnOqx0oXcq3Mn1ohaCzDOtz1CG5f71w=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: s9z1wjJViM58W4J0ouprWGFl9gqvahML/DfGG4iNnDQ=
+
+Name: res/drawable-xxhdpi-v4/widget_noise_control_off_connected.png
+SHA-256-Digest: vC6F/ddi8Orp8hzXBE1x6uRgJtYS1fjdc0TxGkJo//g=
+
+Name: res/anim/sine_in_out_70.xml
+SHA-256-Digest: rt9tDmo9sTyS85sQQHJKvkt+QtG2dK2qostU5dPyENA=
+
+Name: res/layout-land/widget_view_quick_control.xml
+SHA-256-Digest: 7xdANM5G7rWfM1WjOM63Oa+yPcN1UOeg8fCZWkj5V38=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: OwT4BIFGCbTqTSRQx76vUYMlNuDoaIUHVoe6N/05k1Y=
+
+Name: res/drawable/abc_ic_star_black_16dp.xml
+SHA-256-Digest: 55B+n4aDrbxBCDTj+4n56PQNqLNuQP+ukCunzFpkxEw=
+
+Name: res/drawable/sesl_btn_colored.xml
+SHA-256-Digest: d8iQIjjpjPYzy9L6e+3IowF1szfoPIBnhXL27j2fM1w=
+
+Name: res/drawable/sesl_scrubber_control_off_disabled_alpha_light.xml
+SHA-256-Digest: /T1bCQYQykYBALfyhMUVkg7FUmqGswAJUdbq/zq8F50=
+
+Name: res/drawable/ic_stat_notify_tws_session.xml
+SHA-256-Digest: jMz2BfRW6XV2RV84CdHaAnPSlUAXFIjiIG4CKJ7/aTQ=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA-256-Digest: Cqi1Z4t9iYMdTuCaCS9Ih9xfjD3p3rr6WZRoUJoXDZs=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: assets/RDI/bs.txt
+SHA-256-Digest: l/oARanborDqGo5vuRrQEI3cDF3Di0w9q/WeG6GGKP8=
+
+Name: res/layout/sesl_select_dialog.xml
+SHA-256-Digest: RFSJwn7Bdnc52INxKZtM1w2gacYRyX8TGU9phImLUt0=
+
+Name: res/drawable/noise_controls_tick_mark.xml
+SHA-256-Digest: OZ70vicXqy3+hCQkur1FKv1iT8DCmJ7LPAQojtsvFDo=
+
+Name: res/anim/sesl_fragment_close_exit.xml
+SHA-256-Digest: R07HRBQCSY8tGPyu8P+t0LF+13KWOIVDoqDaB2skbfo=
+
+Name: res/animator/mtrl_fab_transformation_sheet_expand_spec.xml
+SHA-256-Digest: z/S0eMJRFJ26jM7ZJ3BtsxQeKQ1N74szdF66y/jZBuw=
+
+Name: assets/EULA/gl-rES.txt
+SHA-256-Digest: LWM3mKCyPwWfemgxV+fNaKi2goJDt6ryjwIwWM4w/uo=
+
+Name: firebase-messaging.properties
+SHA-256-Digest: giNvwO/njyMghe65zMOUj30hYvK/IJPI+yVZLm5jpzM=
+
+Name: res/color/mtrl_chip_background_color.xml
+SHA-256-Digest: 8TZwqyBCBwDJaBhtrtGjmx/blN7sMbDrMV0AhUiH/QY=
+
+Name: res/drawable/sesl_dialog_scrollbar_handle_light.xml
+SHA-256-Digest: O1cV3xfy9ps4UlSMRCbrV7hvrr9SjiTqNZWOQC37/bI=
+
+Name: assets/EULA/tl.txt
+SHA-256-Digest: yIkZ9xvn89zQ8yqHRUK5qjgyJkRTR4ZYbUIdF+kP/0s=
+
+Name: res/drawable-xxhdpi-v4/fit_good_left.png
+SHA-256-Digest: Q7ndOdho0v2kGmjiG0ov0GFH1kcpQDNJFKVVm7ylEpY=
+
+Name: res/drawable/sesl_dot_badge.xml
+SHA-256-Digest: Rl4ayMktdM6mEv+29HeDoTWhuOBY5p+Sqnt8Dguei5Q=
+
+Name: res/drawable-hdpi-v4/design_ic_visibility.png
+SHA-256-Digest: /4Ne5qYow9NtXIpGxZEgaarTKBm4LPOdAoFRXPmq4n8=
+
+Name: res/layout/touchpad_viewpager_1.xml
+SHA-256-Digest: Jwc8Y/9l1y/5BcWMnARF5tBFvNL4iBKrCgvmZ6LyTuo=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: Qq7gsDiD6U315UM0ijl9EwLBuCIYlYcag7gYmfWpZHs=
+
+Name: res/drawable/sesl_fastscroll_thumb.xml
+SHA-256-Digest: ePWPh24EaqkZAafYza3s/FR1cbeRR1xfQfj665zJbRE=
+
+Name: res/drawable/sesl_text_select_handle_middle.xml
+SHA-256-Digest: VJJgJQkGEpuUQjBKg6JYU7RCT8Xx8VvNg1d+B+N38Zw=
+
+Name: res/layout/design_navigation_item.xml
+SHA-256-Digest: UIogyEhlyw90dUUHOnU9tPcs9+h05V6px4R0BZujMXo=
+
+Name: classes.dex
+SHA-256-Digest: FQgBr7mRtbSG2yRxAtyeltIrZVyWIz4sM12ru9iB+cQ=
+
+Name: res/color/design_icon_tint.xml
+SHA-256-Digest: wJlsPtEeeTTT32XfaIHgBG8UwYhh+Sqfz2Gzhy21VUM=
+
+Name: res/raw/tips_touchpad_tap_and_hold.mp4
+SHA-256-Digest: c2kIVQYEq1Ln7zwsZV9L6ha4IlAfN3PcQpyfnz19eMA=
+
+Name: res/drawable-v23/sesl_btn_check_to_on_025.xml
+SHA-256-Digest: /2TVcDvm8VRvHJnT6uwaY4jZJQ7JIuZjyt5Ku06jwgE=
+
+Name: res/color/material_on_surface_disabled.xml
+SHA-256-Digest: U8py4U6jXAdHX85zIveRDt+PQrBv705xf6fNxDtvba4=
+
+Name: res/anim/design_snackbar_in.xml
+SHA-256-Digest: Xkmxq0Qw42Eke0k8H6Glovx12UEbzSQ7YMC/yGvEuJw=
+
+Name: res/drawable-xxhdpi-v4/level2_booster_selected.png
+SHA-256-Digest: IteKlRyWXeqcEcgyawiK9ZNgHT3pZMde09L0cY+JLIo=
+
+Name: res/drawable/sesl_dropdown_scrollbar_handle_dark.xml
+SHA-256-Digest: /+tx0n0AbfGd77aJlXMgvcBdrbBEnigchu+ZTCtkOV8=
+
+Name: res/layout/sesl_action_bar_title_item.xml
+SHA-256-Digest: wtRhCJzKb5FwOX2sWZcsRT4d3CGV1SgqXwjz35yYwKQ=
+
+Name: res/drawable/sesl_split_seekbar_primary_progress.xml
+SHA-256-Digest: LJMWCwxGDR1fxtDfxJUQKuPMIvyThdGiYWiAUTmaUgM=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Latvian.txt
+SHA-256-Digest: 7KcPLsDqtlSIbFhh7QsfGEc5o+EG0OIub39l/fnVNuI=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel-savedstate.versi
+ on
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: res/drawable-xxhdpi-v4/ic_notification.png
+SHA-256-Digest: xwsuazhVLVRDMbRdOBnzWVQyI7Sx7olNHA4avlyGkuE=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: DPCL9xyDhXyGf5PImtIrAEv9AJEKzFbySA1byfutpKk=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_b
+ ackground.9.png
+SHA-256-Digest: ljXasPPAsFV/NTXZZVeE9oEw21fOOSCuaMLUyrTt014=
+
+Name: res/color/mtrl_btn_text_btn_bg_color_selector.xml
+SHA-256-Digest: ljrjkF5qJAaLaxzDANMNrermXztaJV3p9p+bVJpbsYY=
+
+Name: assets/RDI/ug-rCN.txt
+SHA-256-Digest: f+Z2yOxmzBsoJipmMTkdywVJbqvGpvkn7xnhXbxgpbY=
+
+Name: res/drawable/sesl_action_text_button_show_button_shapes_backgrou
+ nd.xml
+SHA-256-Digest: B+Ojzdu0fbywOZkOoVQgCaV5IfnADTEgpaBEPG8QrMY=
+
+Name: res/layout/card_noise_control.xml
+SHA-256-Digest: keSFurBACmGUCWxc7TOaO3PwGQPmlsjwfwV3YbP57dA=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Tamil.txt
+SHA-256-Digest: Bafm/Eziw619e56YS+AzoQSqB7+nKl4tEZ8Kcmju0wI=
+
+Name: res/drawable/shape_rounded_rectangle_basic.xml
+SHA-256-Digest: 0XTfyAQJMrscuV/qYulaa6rK14lDHaFBTioo/1WrbQo=
+
+Name: res/color/sesl_spinner_item_text_dark.xml
+SHA-256-Digest: 3Cr+2ELeym5E95JmSlqW2RTESqtMW5ZzJY8sGz5aNAw=
+
+Name: res/drawable/sesl_ic_menu_paste_dark.xml
+SHA-256-Digest: EqhgkgrKs88cfmZGXdS+vjX7BVsrlG3g+qziEfAq3kg=
+
+Name: res/color/sesl_tablayout_subtab_text_color_dark.xml
+SHA-256-Digest: QTNZ44urFru3hEWK5JBQbGSJivCIjYEBVGJ3l7+uzyI=
+
+Name: assets/Privacy Notice/[US] Galaxy Wearable Privacy Notice_US_200
+ 229_Spanish_Latin.txt
+SHA-256-Digest: ozlXUBVubotCS8zNnsfvvoAfmGKLyIKPFvG1/xpuUjY=
+
+Name: res/color/sesl_switch_track_on_color_light.xml
+SHA-256-Digest: VyeEf9gZmBVzNzPjsTWwZsnefB0Vwv1ePjW19qG7oRs=
+
+Name: res/color/mtrl_btn_bg_color_selector.xml
+SHA-256-Digest: 3Lu0yzkCNshJZav3yrxVnUH+rglWvFPchlgIyjDB5yY=
+
+Name: res/layout/card_menu_main.xml
+SHA-256-Digest: +TrYJEbuKOyn+Wz7aGwZDXgnHUVaiArBJlUY7b43ce4=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_English_Canada.txt
+SHA-256-Digest: ddSIU1FmeNd1snuMjJ/T0zn28vI3ys48rK7qUBZy/iU=
+
+Name: res/drawable/sesl_tablayout_subtab_indicator_background_dark.xml
+SHA-256-Digest: ww+DzKZPvf8do45noYDq7a8xz1xUOAkNGyjNN8RU2vg=
+
+Name: res/drawable/sesl_bottom_navigation_ripple_mask_dark.xml
+SHA-256-Digest: QJ+GOMbPPaIqt1mJP+76oq4LdWyxlr1BZQ4F0xeZIDY=
+
+Name: res/drawable-xxhdpi-v4/level4_booster_selected.png
+SHA-256-Digest: WTfFGIUYkFLyw8RMplh3pSOsxou55Fw5zTA4p1z+lAI=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: c8g2D2pz5Oj9lcBp9SeVKztClqGAy58j0Z4slz0Bw1w=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Armenian.txt
+SHA-256-Digest: NjtEBZ6asvS4nUKPbxMskkkFHg/mdYXs/txjC/IoXu0=
+
+Name: res/layout/activity_routine_config_equalizer.xml
+SHA-256-Digest: u5/T8NvWEHyZ7lYLHt0xOgHPdX2V5pM2KrIiD/eeOaY=
+
+Name: assets/RDI/sv.txt
+SHA-256-Digest: bssZ/jxqSauLgYJG77FYJxy4TllZ0TDtmwrMpbQtGDk=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Nepali.txt
+SHA-256-Digest: 5OE1AU5DMatyksPwKyp2XB5ankOz5CVioL+/wwxr+l8=
+
+Name: res/raw/tips_touchpad_tap.mp4
+SHA-256-Digest: ttvNfNpmAZ7qPRUHb2Qe2RUthnZ4//Uw6M5/A9xKQMg=
+
+Name: assets/noise_control_deactivate_off_left.json
+SHA-256-Digest: /KN8BtHjGXuOdkKOIiGh7ZfxwbnAkT4U7mQexyO7pgc=
+
+Name: resources.arsc
+SHA-256-Digest: 8z3/v3IrSnOrwrpEBNyBjoLFitqKH4BW1t2WhCudeXw=
+
+Name: res/drawable/selector_fme_icon.xml
+SHA-256-Digest: dq24zqogHhy2LtXC9uSEs1q4k5LRN4TQaiOX/K8dkQc=
+
+Name: res/color/mtrl_filled_icon_tint.xml
+SHA-256-Digest: rO3Mt0Jvz2lT+OmsI3YmPsAv1NjhpapjMubcjQgQlc8=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/sesl_textfield_activated_alpha.9.p
+ ng
+SHA-256-Digest: Y9NCkMq+7+rOshM4ZeoEa+B2vVVifAQQbR6OJFbfP0s=
+
+Name: res/layout/activity_new_notification.xml
+SHA-256-Digest: x/HYh79Hqn/eJ9nqYv+uH6+0idtE2dLVTAv692zKWl0=
+
+Name: res/layout/sesl_alert_dialog.xml
+SHA-256-Digest: uj1ih00Pl//x91UeQ7oZ32+wf8NaMznZSAUdPJJnn5A=
+
+Name: res/drawable/sesl_list_go_to_top_light.xml
+SHA-256-Digest: CJSeM6f4Z3fU0nz7Vv0wONyI/7S4j8Bby4wLDJJdHrQ=
+
+Name: res/anim/sesl_list_checkbox_to_unchecked_check_mark_anim.xml
+SHA-256-Digest: f5zD2jZ4RoCptsWL/Q/lrAguBmcz0Hee4BFZHiSDxmI=
+
+Name: res/layout/activity_labs.xml
+SHA-256-Digest: 39N/ZmGoGDeumnUWnO4PxSxsVipuq3G447XIKJXtXX0=
+
+Name: res/drawable/sesl_switch_track_off.xml
+SHA-256-Digest: tBOyY8mWAfLHDUlzswtMAU/7vAAZ0KWTHpZvxFnSaEI=
+
+Name: assets/RDI/ka-rGE.txt
+SHA-256-Digest: 8gnCUYjpZ7LMGc0tDxbmjAx08PAmhEyfMkXHw3bbmcg=
+
+Name: assets/EULA/cs.txt
+SHA-256-Digest: RvcI89EfJmU+X4r+VtRcZHlyfpwCBNFWAmeanbgKOlk=
+
+Name: res/anim/progressbar_horizontal_indeterminate_rect2.xml
+SHA-256-Digest: J7+AahAdWiACcu0Q5knhFzr0HS3v0uvCGr4ertPfeDE=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: BORpsXutNi+i0XkUYiqGWFLZ1os4i5q1FidPw7j/mHE=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_left_silver.png
+SHA-256-Digest: BolQ8iMSOpL3AqwgHTE7Df9B8q9W4MFYSh6WgWcOQzw=
+
+Name: res/layout/sesl_spinning_date_picker_phone.xml
+SHA-256-Digest: LRvaqeW1CTEaYE21W449WE4AE77Vaw0t1TqEf6Pxfd4=
+
+Name: res/layout/check_box_noise_controls.xml
+SHA-256-Digest: cfqeNcIpJhX/rmZdFHy1QkSCK+nMp6DODRAXE9i3rLk=
+
+Name: assets/EULA/hi.txt
+SHA-256-Digest: d0PYnYB4tk7S1HhCUfLvW2dBsei/rU/2lSjf99v/+gY=
+
+Name: res/anim/sesl_list_checkbox_to_checked_circle_fill_anim.xml
+SHA-256-Digest: Ije9GXK3FhCSLPsodJPff6e6P/l7aNSBy2JeDxsLXZY=
+
+Name: res/layout/sesl_search_dropdown_item_icons_2line.xml
+SHA-256-Digest: 7pGkaLc4yWFvlLF3fE2QHwP9Pf6FJB2+v7I0M6seUFk=
+
+Name: res/drawable/sesl_dialog_background.xml
+SHA-256-Digest: oT3/tasv91sbOyV3o0/oq7usu7UKwZk66BbVjmeo36o=
+
+Name: res/layout/test_reflow_chipgroup.xml
+SHA-256-Digest: xpanJ6YOT7+6tKX/KTmXNoFRBUlA0dzUuvyqP7fX92g=
+
+Name: res/drawable-xxhdpi-v4/rc_bottom_left.xml
+SHA-256-Digest: gbhiGIOtlt7zgUXTL8x4hLcvtQsdbmDQPQl/Gz3dEWg=
+
+Name: res/drawable/sesl_action_bar_stacked_divider.xml
+SHA-256-Digest: jMq/44o/yhQ9+OS484kwNV1fIGdBXh89pq0uZezN5yM=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Bosnian.txt
+SHA-256-Digest: LbuRewYcJqu8sYVbY6bBP3hxaOgey9vBeghNtnC+tbg=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_3.png
+SHA-256-Digest: E/PtavqvCTFuqOSwpAofk3k4kyhlrQmoZaWOswRfARc=
+
+Name: assets/EULA/ka-rGE.txt
+SHA-256-Digest: HQ8iSp36XoSFdHa8xA2Bxrvsn87aUxV3D/7MfmRCdU8=
+
+Name: res/drawable-xxhdpi-v4/sesl_fastscroll_thumb_alpha.png
+SHA-256-Digest: lmVVP3q6dnbkwn0xLc5cy5afYenDfVe48tVVazt31Og=
+
+Name: res/drawable/sesl_dialog_scrollbar_handle_dark.xml
+SHA-256-Digest: HmDk0AuDTrYa06BRPnxWD+6LEGEgpFEwKHhv3G252xE=
+
+Name: res/layout/sesl_list_menu_item_badge.xml
+SHA-256-Digest: gmhNVdfaJOG6K6Qt4Nsj1wSx6UhN97Fwni4ia90AgzQ=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: 6HEjrvNMn8ENsKmQsKIMJ3e5AvbDUALmGDpLsNDExxg=
+
+Name: res/color/mtrl_extended_fab_ripple_color.xml
+SHA-256-Digest: iom8UqYvRMSxxv86CHKNA1yH13Sj32ttOehNUJqTjlc=
+
+Name: res/anim/sesl_fragment_close_enter.xml
+SHA-256-Digest: z8RsxfQd1AxfxKS6fXjtTCr7QX67INIS+rQWNs2awJE=
+
+Name: res/color/sesl_select_dialog_list_item_text_light.xml
+SHA-256-Digest: jmvsXW3LlQBTXByAqpQJvOtKSZknP8rf59EyUDXSXFE=
+
+Name: res/layout/activity_detect_conversations.xml
+SHA-256-Digest: gRlVmezmhX0Ot+rg4mlYj+4p8Xvaj2kVApDsCWJcuMI=
+
+Name: res/layout/mtrl_alert_select_dialog_multichoice.xml
+SHA-256-Digest: nlOBrGfgz2dX9th0E9vBG/yBHnJo1dPgFfL3QDvbtgs=
+
+Name: res/drawable-xxhdpi-v4/level1_disconnected_on.png
+SHA-256-Digest: kFAUdt55xciNOV+3igi25MUTJTmVIFnsxinnZ+enAfw=
+
+Name: res/color/sesl_tablayout_selected_indicator_color.xml
+SHA-256-Digest: /EvOH4J565fD5hSZfIqcq3nqP+hVZiJrDeBa6KKp7dw=
+
+Name: assets/RDI/nb.txt
+SHA-256-Digest: rAmRA28M0PCbAsTF7hDgt+xMV3m1rHbL9j0OsVoHW6A=
+
+Name: res/color/sesl_secondary_text_dark.xml
+SHA-256-Digest: Op3xIOc1q8nlMNbTdfAgzX6w6nTo9JU3zxhV4tnbIeg=
+
+Name: res/drawable-xxhdpi-v4/ic_fme.png
+SHA-256-Digest: 2UJOEVPPCK4e3jsNH63gAcEVrJjzYek0vsB3iPj5x9M=
+
+Name: play-services-tasks.properties
+SHA-256-Digest: 8nXWlZ7V/3X4enlPVCaa+0+7I82TRmzdqNTOIZU5OCk=
+
+Name: res/color/mtrl_extended_fab_bg_color_selector.xml
+SHA-256-Digest: 8OESbpfZx7hNMCpRJMbc0EUVQ130q03w+saNGuE1RwQ=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: xKI4OgO9tnOdFqDiQFjkucfaTmPSA+C+L0SIaMwDxTA=
+
+Name: res/layout/top_content_guide.xml
+SHA-256-Digest: meYcawmP55CfDnGzeuS9lvvnfWO7xS8jGX/k+Al4sbA=
+
+Name: res/drawable/common_google_signin_btn_icon_dark_focused.xml
+SHA-256-Digest: DxOlhqOvRXKNfwC/Z6d4j1iqmdfZ5yx/KAVFZzNi69Q=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/sesl_textfield_activated_alpha.9.
+ png
+SHA-256-Digest: 8u7TiC3NEgDunV/nAc+Oz+zrLqSjv22ScPmYmEI/0Qo=
+
+Name: res/color/sesl_tablayout_text_color.xml
+SHA-256-Digest: sLZ97tCZD6BRrLlMH5JWq/qWGaN3uXM9AEnTwPRZcIY=
+
+Name: assets/RDI/ml-rIN.txt
+SHA-256-Digest: vVM/85hydrEY3auKnKNLKUmv8Um1sFUlBe0wqvsH2sc=
+
+Name: res/layout-land/widget_view_quick_control_opacity_0.xml
+SHA-256-Digest: 7TE8K3rjBImDt84oCK3zzZSWRC5qovRQDEJZGDgslBM=
+
+Name: res/layout/fragment_tips_charging.xml
+SHA-256-Digest: HeB4TOLxiIQSI4iYpxeH8IadGn86sO8bZDnTn1QpMaM=
+
+Name: res/layout/design_navigation_item_subheader.xml
+SHA-256-Digest: 3XDW59MQZDt6G3E8tIbeIA5Okw3+thHCziuPYvUHxYw=
+
+Name: res/drawable-xxhdpi-v4/level2_disconnected_on.png
+SHA-256-Digest: fEQIG99E0/ApA+Jv+kpFOexrIi3wkcOjDm4Jn3sjoFI=
+
+Name: res/layout/sesl_layout_tab_icon.xml
+SHA-256-Digest: 3uhR7smMtwJO91PkzprqWZNo9hLdsCdTyiqKCqz1PdQ=
+
+Name: res/anim/sesl_tooltip_enter.xml
+SHA-256-Digest: hEK2TEeu/rNGxpGCmmeYHZYaYHh+hdkmeTs28KB6Q7w=
+
+Name: res/drawable/sesl_list_go_to_top_dark.xml
+SHA-256-Digest: zn3aZXBbFPQ7PRDmIJBgsKCn2bkfMx86N+TNnGdGlxo=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Vietnamese.txt
+SHA-256-Digest: w6zZcfIt897FQ9BfPk2Lwxjx8QqzvjccEhZOWcOKvYU=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: qOYEyoAedcP/WZ6nnD0nXVmGQeBIybO1lDvsYp7fhys=
+
+Name: assets/EULA/uk.txt
+SHA-256-Digest: DwxGr/CXiArwQS/1w1gzFnz+b+wUaGLoX371SOuFIAY=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: Lka7gnHmVgQkUbaABQjPSVdLqqsS9FunolHOcwW7Irg=
+
+Name: res/color/mtrl_navigation_item_text_color.xml
+SHA-256-Digest: pcr1AQVnD9gl7YCGZb7PbyduZNtdehIgIj4mGuwqUuo=
+
+Name: res/layout/card_touch_control.xml
+SHA-256-Digest: dw+rTty3tyQ0KZGc1W7Ew24qKrPxsQ6xORPYyrGd+uI=
+
+Name: res/drawable-xxhdpi-v4/ic_block_touches_dim.png
+SHA-256-Digest: NZQ7jlo3IkA25pXIGivfoD9AFf0jr8NNgQ5/ns8bXso=
+
+Name: res/anim/progressbar_horizontal_indeterminate_rect1.xml
+SHA-256-Digest: lcvF08GTfVPPzYX9X9ksVqRwJTj/exuUmPFtk4JYaQw=
+
+Name: res/drawable/ic_mtrl_chip_close_circle.xml
+SHA-256-Digest: /cKtcgfYkB5F7PGzvPxiKzloiXK+5Mqlmbv+JMT3dWM=
+
+Name: res/drawable/mtrl_ic_arrow_drop_up.xml
+SHA-256-Digest: 3iLQg6xlLMNWF5QGFHIBIZU0z0BDJtgb6APotCQslcY=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: phr0vyA6SrZOown4DJFKC6X6G0tTGVU5Lpr9hRmjhKs=
+
+Name: res/color/selector_seekbar_thumb_color.xml
+SHA-256-Digest: MVVEB00XYUM61S1+dwUmOcq2eWxZI1GIijd6wWEkzkU=
+
+Name: res/layout/activity_tips_and_user_manual.xml
+SHA-256-Digest: w069ajy18cTaHKN/3KWLo0x7n7P7gb9xGhEjlj5/xoA=
+
+Name: res/layout/sesl_screen_content_include.xml
+SHA-256-Digest: +3cyPASDMukZHIITRjvx+FtECHaJeU+RRjAi2KsmBM0=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Georgian.txt
+SHA-256-Digest: BTxS4YaFRy3FbSi2vQKts8/8g1sALvWDqzU+nw+EwwY=
+
+Name: res/color/sesl_btn_default_color_light.xml
+SHA-256-Digest: qocNv7H472BltQnEnqp09rrjAPCZC4+0epmljnQ9C/4=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: assets/RDI/my-rMM.txt
+SHA-256-Digest: eeAQ2h7fl3oNv8q6Qr6G9lJ5X8tAW33eASqyKkNziTA=
+
+Name: assets/EULA/te-rIN.txt
+SHA-256-Digest: 8qBIYbrGbsc9C3dQ7AAmzxM8UP8+5sLWf61JFwZXFKw=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal
+ _background.9.png
+SHA-256-Digest: 9ivyHRUqJ2ro2aDWKZfxLGDWTsgS/Zc/9g4yld7uNLQ=
+
+Name: assets/noise_control_activate_off_right.json
+SHA-256-Digest: eXCAqX/FDEhbFguMmpRtHANa9Z8nEXv6qlN/B5i4aLM=
+
+Name: res/drawable-xxhdpi-v4/level2_booster.png
+SHA-256-Digest: k5LU/03uYUylPV5ZOt5pxHKMgOm5pTlE9y6wc6iiqqQ=
+
+Name: res/drawable-hdpi-v4/googleg_standard_color_18.png
+SHA-256-Digest: 8iH5YqYslUoRsXNOljH8hTHjS+5VdmX+qGSqQ4biXjk=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Thai.txt
+SHA-256-Digest: +81DrOQ7du7PlsLvKO/sGUoYeoP5eXJHI1uIKfbdbLE=
+
+Name: res/drawable/common_google_signin_btn_icon_dark.xml
+SHA-256-Digest: O63ZtuxTTJyoNuDX5PcsslOXVzUI86JkrTNHe7w2d6g=
+
+Name: res/drawable-xxhdpi-v4/level4_booster.png
+SHA-256-Digest: vXiwJ8SPCW4dnN9UXXwH1txWTHm2J/TcYeKcA3Cifg0=
+
+Name: assets/ic_ring.json
+SHA-256-Digest: pOwVKrUXdqK9RvZKsd7FWeLXiSG2XgP4JSAMlG3PMIg=
+
+Name: res/drawable-xxhdpi-v4/ic_earbuds_lab.png
+SHA-256-Digest: eeXfEIgpEEaHRWTAVg6ignk+XlvEMwbE1u4X2qydaoU=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_cradle_black.png
+SHA-256-Digest: HlqVt896iNGXTgfjky+jaNzI5mJLnXY10LSS8lADA2E=
+
+Name: res/drawable-xxhdpi-v4/ic_block_touches.png
+SHA-256-Digest: zV8uaEw+Xlgb17XTCD0JP+uybE4FiXWtfGhNu3tUSt8=
+
+Name: assets/RDI/en-rZG.txt
+SHA-256-Digest: plUEQ/8kbH8yMw/pJt2HlGxLupOGHJxW8sWOUVeFnSo=
+
+Name: lib/armeabi-v7a/libRelativeQuat.so
+SHA-256-Digest: +i+EyOVbxcTcB1lrFOjcMGnMzcK0/wwm+NIYsYN4E7c=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal
+ _background.9.png
+SHA-256-Digest: QqG5O6OA7rqdSZWC35gaU1+HKvI0rWYAZ1//N0WTBuU=
+
+Name: res/drawable-v21/$avd_show_password__2.xml
+SHA-256-Digest: 8yk0xWE4UH098deT37iBZ4aS6TRGwiL0rq0rkgApRfE=
+
+Name: res/color/sesl_spinner_item_text_light.xml
+SHA-256-Digest: DHmh/HNIzY1B1ATWTfAA2O54Vd3Xwu/q88s+FsLkCsA=
+
+Name: res/layout/sesl_spinning_date_picker_legacy_phone.xml
+SHA-256-Digest: dq3HXPwCUT46qt1aXLc10Io+1lKVCoXBORoVez9KXys=
+
+Name: assets/EULA/it.txt
+SHA-256-Digest: a9/nWj2ucuPhnU0cGYJk+BUwrcRho3eapWn5n1ZQuXU=
+
+Name: assets/EULA/lo-rLA.txt
+SHA-256-Digest: q0KJUxczZGSNESlUYaMcMduEKJD3pWD5snprbQYJQqo=
+
+Name: assets/RDI/lt.txt
+SHA-256-Digest: yeQU4Oa0cRA6TIDxzPzFXdf3lZt+BiRFX1dhrBwT9ho=
+
+Name: res/drawable-v23/sesl_switch_thumb_disabled_off.xml
+SHA-256-Digest: Xe8z4ABkDh333Lm9csfKUDfkB9T2DSslo4i+6kVI2lQ=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_2.png
+SHA-256-Digest: kMrE+FGU1YeQzgj4L8uIxmRr8KWeS8CBGHdMZ4m3nok=
+
+Name: res/drawable-xxhdpi-v4/tips_touchpad_tap_preview.webp
+SHA-256-Digest: nBI0vtySwXvLNF3XDb9Fn6E+np3UdbhFR3M4KfVKwc4=
+
+Name: assets/EULA/bs.txt
+SHA-256-Digest: 9d7XxU8hwZNzA0v4CbVfq+M33SxGdEwVp8nLkgRiwtM=
+
+Name: res/color/selector_primary_color.xml
+SHA-256-Digest: rvoVMLxl2VYgRBN/L05bzLYdYqeD31ux4jjQZpTM85A=
+
+Name: res/drawable-mdpi-v4/googleg_disabled_color_18.png
+SHA-256-Digest: fB4WKclfsmA/veq5Oo+/MLnIC+Ee9IPUl/iojo9nvWs=
+
+Name: res/drawable/sesl_tablayout_subtab_indicator_background_light.xm
+ l
+SHA-256-Digest: 4ppIxt3zHVYsoYP5dmv0Anurac5MNiB1mUP2VlWesg8=
+
+Name: res/animator/mtrl_extended_fab_show_motion_spec.xml
+SHA-256-Digest: 1nxwXLjrbPKJQy4mWLo+5Vt22XO577vsTFlEXnFOO68=
+
+Name: res/animator/mtrl_extended_fab_state_list_animator.xml
+SHA-256-Digest: q0nmxo+lryA0DBr+lfdl27y5aEGB5+gZ3cbjAUBmjTI=
+
+Name: assets/EULA/ug-rCN.txt
+SHA-256-Digest: clLOG6asHy2iaBLIovtGAxtI1ZWAF0aPcjQSK9GiMS8=
+
+Name: res/drawable-ko-xxhdpi-v4/widget_preview_master.png
+SHA-256-Digest: oc7OJ+bEVSBid7huHQZS9Mn3BkmWToI/4/MlsEkt8Pw=
+
+Name: res/drawable-xxhdpi-v4/switch_normal.png
+SHA-256-Digest: lrUGM11Qx6CCLke3u14H+tn6ZQnQ09YOOC9L0bU33SI=
+
+Name: res/drawable/ic_stat_notify_watch_session.xml
+SHA-256-Digest: tCCiCHSo9Nw6C8L7CxHhsfbwUEyiMfq+ntZB223eXEY=
+
+Name: res/layout/text_view_with_theme_line_height.xml
+SHA-256-Digest: drDhvFVgZDy9VQQSzLjp/7i3BjWkTSutI4RbV+GdqKs=
+
+Name: res/layout/activity_new_manage_notifications.xml
+SHA-256-Digest: kjeo08PHj8Ak+FOpzB9sJ8Rak7SWypG6a2b9l1mzQeQ=
+
+Name: res/raw/anniversary.mp3
+SHA-256-Digest: kTywUNU+iJbOXd7D0ApIVfh9uJIpbM6CUzZWiBthcD8=
+
+Name: assets/EULA/az-rAZ.txt
+SHA-256-Digest: u8YRjylyqZNUAoCUG7wWbcRazI3PcxJMs5u8vbF0G+E=
+
+Name: res/drawable-xxhdpi-v4/tw_common_list_ic_check.png
+SHA-256-Digest: ft4llQw/MeABSZlx4LXEOzXTs0qaFPJGwsP2vuHGELg=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Malay.txt
+SHA-256-Digest: Hi35P1rovwKrjoNJgGWs5X/eKTla3h2e01byZ1/6C0s=
+
+Name: res/drawable-mdpi-v4/design_ic_visibility_off.png
+SHA-256-Digest: E9g1J4JaYlgGBfuP1Yynylve4tt2xROEyCWnBFJ1kv0=
+
+Name: assets/EULA/en-rUS.txt
+SHA-256-Digest: Gw7iFHxNEI/B2Q43bY5OBggpj2ON8sRWC8PpLA7wvcY=
+
+Name: res/drawable-hdpi-v4/sesl_fastscroll_thumb_alpha.png
+SHA-256-Digest: ngc2cv96nrX66N8U9bQ0Fh8vPh3vZZk4JAsSDAnyeXQ=
+
+Name: res/color/material_on_primary_emphasis_high_type.xml
+SHA-256-Digest: 1Yx4SDwLs4PF9i5J8s0vAMhVGYckHbAbOOW4RveXccg=
+
+Name: res/drawable-mdpi-v4/googleg_standard_color_18.png
+SHA-256-Digest: eIo7lHLppG4ba2jZGM0VcZFLcy6TqrAU138gvlN06d4=
+
+Name: lib/x86/libRelativeQuat.so
+SHA-256-Digest: 0wEj38lYUTX/mPp87Ea8iermz3x9Q9L2NmNdMBJoCV0=
+
+Name: res/drawable/sesl_ic_ab_back_light.xml
+SHA-256-Digest: 8HFxHHJ43IcFbRibsX6yNIMoIk3D2lOkwxRZ4Z7amTA=
+
+Name: res/layout/activity_advanced.xml
+SHA-256-Digest: rpTVRxsiQ/IpORjYkdLbqVPPRBj5d0ogW4nuxY3qDIU=
+
+Name: res/drawable/sesl_tablayout_subtab_indicator_ripple_dark.xml
+SHA-256-Digest: eExAJ+BYLrV3UmqfKw4UbPujZZ3xDnrwr9zgXFQsNTg=
+
+Name: res/drawable/sesl_tabs_default_indicator.xml
+SHA-256-Digest: cQ6MRwk5frQo21sVj7J2Wi68XmJmIeawQcwEUB9UJjg=
+
+Name: res/drawable-v23/sesl_btn_check_to_on_000.xml
+SHA-256-Digest: 3EEHahDyKIe47kNdch20uhIRTK7rItE4HgMN+nUdvL0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: CyVV4IKkq8Sv5crwFIjWO3lg8IlGVdZJ5RMiFUva7/8=
+
+Name: res/drawable-xxhdpi-v4/ic_touch_control_dim.png
+SHA-256-Digest: rhVbnzsDYFXRzbrCDM2WNsHsnRewT9+nsfIiPDda5pA=
+
+Name: res/color/selector_list_setting_value_color.xml
+SHA-256-Digest: rvoVMLxl2VYgRBN/L05bzLYdYqeD31ux4jjQZpTM85A=
+
+Name: res/anim/sesl_dialog_enter.xml
+SHA-256-Digest: bFeZCltoZm5rtYL06CYDvRl/bA6M8v8LStnMpy6+YBU=
+
+Name: res/drawable/sesl_bottom_nav_show_button_shapes_background.xml
+SHA-256-Digest: R20jDdQ1AGE/hhqBhEewibqXy6vfbwqLt2nVdBWcwuc=
+
+Name: res/layout/mtrl_calendar_month_labeled.xml
+SHA-256-Digest: SOJunmhzn+WItFSuM+ODdNHB9l5JWakLwKJ2rieCEYA=
+
+Name: res/drawable-xxhdpi-v4/widget_preview_battery.png
+SHA-256-Digest: N9RucW1DiJRPEDz2TyDN5ufXbOTneHdb0/Qk9MhQs/A=
+
+Name: META-INF/androidx.transition_transition.version
+SHA-256-Digest: EOLhF7AVI4kconGmFa426dXlI0j9fWQvZnJ2AsG43L4=
+
+Name: res/interpolator-v21/mtrl_fast_out_slow_in.xml
+SHA-256-Digest: rnNBsDHuj5SXdrqR8bYJ4m9eAjO1/mJxaa4/6YAxL8U=
+
+Name: lib/arm64-v8a/libRelativeQuat.so
+SHA-256-Digest: ydsXJw2KDTdCKO0hCiNlcgkljxd6tvawfoDZ5vliWv4=
+
+Name: res/drawable-xxhdpi-v4/design_ic_visibility_off.png
+SHA-256-Digest: v7bmtPY+F0RgSsH8kGYzlm0/jghZFhgxqZNaDsuvizI=
+
+Name: res/layout/mtrl_picker_header_toggle.xml
+SHA-256-Digest: 56PJ77PiVgYbiZrGywxOZ4VKk+OPwkxsyKQGSNHUhUY=
+
+Name: res/layout/sesl_spinning_datepicker_time_picker_spinner_multipan
+ e.xml
+SHA-256-Digest: yAR2E0lnThqYn58B0B+y40pgkdLagawM24faJWkyCHc=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Hebrew.txt
+SHA-256-Digest: +E/zM/IWGSF1KXyBcwtpODEaw/PYaxAxhORKw4GWZKY=
+
+Name: res/layout/activity_touch_and_hold.xml
+SHA-256-Digest: +R9EV4eue5Ef8E1MHsxI/Y9Ipqtmd+2K4yNPvGa2kE4=
+
+Name: res/drawable-v23/sesl_list_choice_radio_to_on_024.xml
+SHA-256-Digest: jBb/e5u6DqYVKH6npW8R6fpgR2j/Bizrse3feqqjC+Y=
+
+Name: res/drawable/common_google_signin_btn_icon_disabled.xml
+SHA-256-Digest: r2Wlr/TRav79DPQzWVUWwbE8cERNrg8tTTXX71TEtz8=
+
+Name: META-INF/androidx.print_print.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: res/layout/sesl_spinning_datepicker_time_picker_spinner.xml
+SHA-256-Digest: siP9AGOwx2KVAyDSBlblE+3mmFzaUjn/zLm6+o0sfAo=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Odia.txt
+SHA-256-Digest: AQjKA/PdTTTzT++a3ufcxGposllm8PKnSb1pYEj0Q6c=
+
+Name: res/anim/progressbar_horizontal_indeterminate_rect1_translatex.x
+ ml
+SHA-256-Digest: VduFm+Iju2grLZgwddGhlmEFfxdpAMOPwaZZjTvO330=
+
+Name: firebase-iid.properties
+SHA-256-Digest: INwsHaUdcY9p0uk3NwU1GtuIlIvj/50kn9sBFcB/574=
+
+Name: res/layout/design_layout_snackbar_include.xml
+SHA-256-Digest: vnlBpNoX1yPmOq5cGn0Va6EpENOidmruhIVXUTlyekw=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Slovenian.txt
+SHA-256-Digest: dbgXYp2GaGwALCAwZ+9lLuGnmBtfMGo8+8oDLFcZq84=
+
+Name: res/drawable-xhdpi-v4/sesl_toast_frame_alpha.9.png
+SHA-256-Digest: TGmIBfYaU8lvYMsmLNmxfzekdhLhhM7eqB/6bfgMrbg=
+
+Name: res/layout/sesl_screen_simple_overlay_action_mode.xml
+SHA-256-Digest: awFaXjPGoTdWRtIozIkssgOvrzNjRT+zR03IFLIQpEM=
+
+Name: res/drawable-xxhdpi-v4/quickpanel_ic_gear_apps.png
+SHA-256-Digest: 8JJ4hKN8z0Q770cYgSGPtNf52EOOdk0wyTqe4vB4aes=
+
+Name: res/drawable/ic_mtrl_checked_circle.xml
+SHA-256-Digest: K7xcEfL1g6Cg/VCvsOyAyjYtDxrnWYJDlxBZuXgkbuo=
+
+Name: res/anim/sine_in_out_33.xml
+SHA-256-Digest: z9cmJlf//tdfnupq4932yKzqt/rgRXokIDY1Pbj+X8w=
+
+Name: res/drawable-v23/sesl_switch_track_on.xml
+SHA-256-Digest: V9gecCdHuDrjSdlt7PnWXm3PPA5oI01INjRTnr+X900=
+
+Name: res/drawable/button_shape_grey.xml
+SHA-256-Digest: Jgy2EpoPA9GuHxZyW9yfldBrVTSARpzP0FQsOwe9CY4=
+
+Name: res/drawable/sesl_list_selector_dark.xml
+SHA-256-Digest: ybM3BRvch0V6s9WaGbjnAhCbQPYA4I6CJeB3IM+m3mw=
+
+Name: res/layout/activity_routine_config_noise_controls.xml
+SHA-256-Digest: EkbnBhQcntnpx3sKRriMBT+R6uEte0jxFwKnFEJX5Sc=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA-256-Digest: sLEBtKU4v/dcC8tqH1stqK5wcVWl/bEjS1Ach4xIiKU=
+
+Name: res/drawable/sesl_date_picker_background.xml
+SHA-256-Digest: xKo3DaUwQm7QkEZ14LPhS2VW4O1j4g/ceoCxl+h0H2g=
+
+Name: res/color/sesl_bottom_nav_text_color_dark.xml
+SHA-256-Digest: fGI/CF+q3z7JqBg6Az8di8/u2prSbKPxqN8mHVrXUAI=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA-256-Digest: lKC2NjoJ1Gaj3DciN5qzZ9n/c6IboP8sW6tsMKpfizg=
+
+Name: res/interpolator-v21/mtrl_linear_out_slow_in.xml
+SHA-256-Digest: flkzMSYoHQa/9yaaMs4Leah0jt2CoTh79BXeNO8y8+I=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: assets/RDI/ms-rMY.txt
+SHA-256-Digest: K/2vOG/BXKDdUnivcXv5CzbXjSifLLzrFNAS9qVuaoE=
+
+Name: res/drawable-xxhdpi-v4/widget_preview_master.png
+SHA-256-Digest: odkec/UzZc0ga+DjV+V7gBUTyyyu9eEYGMGG8xxFhYw=
+
+Name: res/drawable/sesl_spinner_background_mask.xml
+SHA-256-Digest: muv8fPbx/9htrJushRjac3ULb8EEca/aPtC6VcQe/DI=
+
+Name: res/drawable/tw_ic_ab_drawer_mtrl.xml
+SHA-256-Digest: 8YxVHRO0HjSJIlkdz3kxEvgClIRz2Df0qtzT1nV/kXQ=
+
+Name: res/drawable/sesl_ic_menu_selectall_light.xml
+SHA-256-Digest: u78ybFPuwrmmdzqWXerDjx3tExfgR6Qd0/IMDp4Vq/U=
+
+Name: res/drawable/ic_edit_black_24dp.xml
+SHA-256-Digest: Yg+RsyHxFxXRqj8wOk9EUUtVODo0lVmYt8wUidCDXZc=
+
+Name: res/color/mtrl_error.xml
+SHA-256-Digest: 87hEBozTxnd2CStW2onik/Bju2AVNrVwwnw5qXhvGVE=
+
+Name: res/color/sesl_bottom_nav_colored_item_tint.xml
+SHA-256-Digest: CxGPxmQUVsxR0z39RcEB+TSMR6YxwsfJJqkKc7/4xGg=
+
+Name: res/color/sesl_bottom_nav_color_light.xml
+SHA-256-Digest: esHkWX8LtV15D57wkZx+GIyzokMjXw8D2VH6tJ3cWt4=
+
+Name: res/layout/mtrl_layout_snackbar.xml
+SHA-256-Digest: 70T0DL8jxbm8xA5S0voQ75QfrOBPUGpFoehfabKyDrM=
+
+Name: res/color/selector_control_activated_tint_color.xml
+SHA-256-Digest: rvoVMLxl2VYgRBN/L05bzLYdYqeD31ux4jjQZpTM85A=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Portuguese.txt
+SHA-256-Digest: oytzt+MD7RO3Qw2XMmxQ78Ke+rrjb4yhtBOThx3b61k=
+
+Name: res/drawable/ic_menu_arrow_up_black_24dp.xml
+SHA-256-Digest: OjrNpqwOLFFDqH2uzGTbY5z/Ff5t7/NeultNddWKv9g=
+
+Name: res/layout/sesl_spinning_date_picker_legacy.xml
+SHA-256-Digest: Wq6fFxmVCHV5Be67iPbwvwRGBzeF+1H5meZyi/+fG+g=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Slovak.txt
+SHA-256-Digest: 544knPFXHO/dv2DXdewoHrsEuHgBJf6SUmenBvaMSkk=
+
+Name: res/layout/mtrl_calendar_days_of_week.xml
+SHA-256-Digest: x1ZIN+kVw2hDVO0AQgiOSaxzEsfINI/OOpo2qYSMwjQ=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Latvian.txt
+SHA-256-Digest: KiyKRVAwaRIF3RAVoTalhLiDsyHxt1ueWa4ZLXa4I5w=
+
+Name: res/layout/widget_view_battery_opacity_0.xml
+SHA-256-Digest: zb1MXcFeqgpSlIqnTCuhbfxWY1G5QJEhvj4LeO5vTak=
+
+Name: res/layout/sesl_action_menu_layout.xml
+SHA-256-Digest: CTNAyrpM1apKBe5K8hxsZYUiG2ZFUZKPCAiqb5/5U1w=
+
+Name: res/layout/mtrl_calendar_horizontal.xml
+SHA-256-Digest: YLcsj/oW+8zobDjqUdwKwUd7xBWMxpPzbgN9nTgYJO4=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_5.png
+SHA-256-Digest: w7XeSYmCG/ezlv9iEaafId9ShXf8XDqC+9odhkQyUtQ=
+
+Name: res/drawable/selector_notification_icon.xml
+SHA-256-Digest: 29CULv5zq5iB3mkNVltVh41njHyDVftO8SNiMXv+hF0=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA-256-Digest: wDOttOKyWc+aX2FBZUPkzvc0msNzPALLEQqIBWRpsKo=
+
+Name: res/drawable/navigation_empty_icon.xml
+SHA-256-Digest: FLcoAmfn71vN0eOQZSDd5LWVk3FHTkwr3WPcq1Q2n4k=
+
+Name: res/layout/activity_seamless_connection.xml
+SHA-256-Digest: yNdqGMfY5c8bSClfNELIRSNMHSaDNWBg2yfczzUd6x8=
+
+Name: res/color/sesl_tablayout_subtab_text_color_light.xml
+SHA-256-Digest: hCiBqpuJFDZZctfjxmcgF7nO7bF0VPg1AyR6h7KLD54=
+
+Name: res/layout/mtrl_picker_header_title_text.xml
+SHA-256-Digest: ufI5wkT2/zkQmW2oeechaQyxmLbghao5pPn1ZInxqFQ=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_active_noise_reduction
+ .png
+SHA-256-Digest: fa76YpvLF4WZNyDPdaB4nTRGTPk3WqX91DPv9I4VYQU=
+
+Name: assets/RDI/tr.txt
+SHA-256-Digest: QZX7qhP29n1s95eJWMQmIWXp2knnZqLCoJfbxDRur3k=
+
+Name: res/anim-v21/fragment_fast_out_extra_slow_in.xml
+SHA-256-Digest: I2mH6G9DBPQCAwkhrZOzHoryzGmfPlTv1iKPr1LEqnY=
+
+Name: assets/RDI/mr-rIN.txt
+SHA-256-Digest: 6MFn2E4KUOmC5jIRWjYPhbijCItqJQQLg2d+rd0SFhU=
+
+Name: res/xml/standalone_badge_gravity_top_start.xml
+SHA-256-Digest: a8Nqw77kqgnRREA0eRZGkxG9Ahndv+CpqZ1RRiqp8HY=
+
+Name: res/color/mtrl_popupmenu_overlay_color.xml
+SHA-256-Digest: adwtu1n05fBVoQkdVt8rXrMaZjLE4OZ3/2QAr4qZPdA=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: 7EIZOxqKzXp/u5UIoEsJs+UTr0n5uzVJHsS72F+t344=
+
+Name: res/layout/mtrl_picker_header_selection_text.xml
+SHA-256-Digest: m06W8Bo03n4dSwXWSinYLaIgOd63nbrjW5HJLBlZ6Yw=
+
+Name: res/drawable-xxhdpi-v4/success_vi_dot_effect.png
+SHA-256-Digest: WhyRtf/d2Q1tAQexZeX+zjzBqZ8jhM61uPtynPI3uV8=
+
+Name: res/layout/fragment_tips_case_battery.xml
+SHA-256-Digest: XGKfSpAQn0FbPpP75eO1K/ZixYA/KJRyfNxRrHgreO0=
+
+Name: res/drawable/sesl_menu_popup_background.xml
+SHA-256-Digest: lGIcDrh7K9z6WAWB3++4kKK+vtWDYr2Zv0VSYuuyqkQ=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA-256-Digest: mkcF1vkEhDfvQ8tCXJQxEjGgzvVB/7zOe9bSmIlSS4s=
+
+Name: res/layout/touchpad_tips_desc_1.xml
+SHA-256-Digest: HJZNwc9qptFT4ecdRs5hKq7+ELTm8w0kuS9ybqTSJ5A=
+
+Name: assets/EULA/iw.txt
+SHA-256-Digest: nW4kCSmDlZDxikRRqbhG5rixSzG3pLygh83EU2Zh/v0=
+
+Name: res/drawable/abc_vector_test.xml
+SHA-256-Digest: CuU+jKXpUUvWtnS4eVg0zIiJrUtkv8K9DH3HEjMtqhE=
+
+Name: assets/RDI/in.txt
+SHA-256-Digest: RHzOahlf078DHOKSteHC9RStqsfiuR3gVPqK1lil8hA=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Catalan.txt
+SHA-256-Digest: YtKuUw8tyq6bWje7VY6IiJLKiGhmNVG0RW+4r/E5ss8=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Arabic.txt
+SHA-256-Digest: Z/K9MXP5pLTgvWlT7Kp55kSiNPklocQZUhQttIN7kEQ=
+
+Name: res/drawable-xxhdpi-v4/sesl_textfield_activated_alpha.9.png
+SHA-256-Digest: e22MJhG8sAPNqaIF1tstExHvUIU1eEBbLHonhTl7+74=
+
+Name: res/drawable/fotaprovider_vector_progress_circle.xml
+SHA-256-Digest: gfIZs7k+DpYCFwrqm0QFgAzB1PfsHTLYcEkPhbJJoLk=
+
+Name: res/drawable-v21/$avd_hide_password__0.xml
+SHA-256-Digest: SEX388+UvJrBSc4mxWX5o2dBPfUjbNfXCKg4NSEX6n8=
+
+Name: res/drawable/sesl_more_button_show_button_shapes_shape_mask.xml
+SHA-256-Digest: tl+W1Idc/PWvld/EzTfeBryWq/avBrjF++8sQgC+1B8=
+
+Name: res/layout/activity_terms_and_conditions.xml
+SHA-256-Digest: nMdPAlb0zHjE28mrzIBmquo7kxgLA62gIfiw75QKcp0=
+
+Name: res/color/mtrl_indicator_text_color.xml
+SHA-256-Digest: TLDldhmtx2pACBrIZ93qFedDnks6jef8kv1hM70HyIk=
+
+Name: res/layout/sesl_select_dialog_multichoice.xml
+SHA-256-Digest: cXoEGZuhuu0oM2JsaAJ+57xJUvXLyfbElP7mJpS2/kw=
+
+Name: res/color/sesl_tabs_icon_color_selector.xml
+SHA-256-Digest: g2ytzV2wU5bd8zjJiAxoE57UI5OoIXNINZaCmk+6ZIA=
+
+Name: res/drawable/sesl_dialog_btn_show_button_shapes_borderless.xml
+SHA-256-Digest: zPz+EDK3MZpzUmkQ8iKWVQyEszrPXYtoO0IhQ+vwT+E=
+
+Name: res/drawable/sesl_ic_menu_share_light.xml
+SHA-256-Digest: CZ6RCOalhd3v7DzIVJz9d+t69Ivt5e+xn1Bow7550/c=
+
+Name: res/drawable/sesl_ic_menu_selectall_dark.xml
+SHA-256-Digest: t473xBLzIye3GVM/1MvIuLwnziOUDYCJo+wzWp5skms=
+
+Name: res/layout/layout_more_useful_features_01.xml
+SHA-256-Digest: +hM3io19mg11VmU947ibfReD3IoFekXVag+PSZYuzyY=
+
+Name: res/layout/bottom_content_buttons.xml
+SHA-256-Digest: 1dwY9Yyfx8uBVqdamaHA97+qc6iGGGwHEilvPfYt2TM=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Spanish.txt
+SHA-256-Digest: u35mipuGWurLphDabWqZFPJHTffPkvipMPvTbfZHcp0=
+
+Name: res/anim/sesl_radio_to_on_circle_inner_anim.xml
+SHA-256-Digest: CsQyEH0DgsRXNfJNSrJeUvuGa4XGlY4tYfKj4qdMoeE=
+
+Name: res/color/selector_home_primary_color.xml
+SHA-256-Digest: TY2Y4uxICVRFdI2yEiYnIhivE4lMp3WvenM7CO8IXtM=
+
+Name: res/drawable/sesl_seek_bar_background_borderless.xml
+SHA-256-Digest: 5PD9EgOPfZ0p/EFPWMkXgHBpqXRaS4cL723mkEMElUU=
+
+Name: assets/EULA/de.txt
+SHA-256-Digest: GmHbL1CXJiXYhnVF+qxyua9O78AKw847kFuDD+Tm3g4=
+
+Name: res/drawable-xxhdpi-v4/drawer_ic_account_default.png
+SHA-256-Digest: bMWiAQIpv7AE7zzONEY1Hk/HfHehfawXQ8/Uy3lmTF0=
+
+Name: res/color/sesl_btn_text_color_light.xml
+SHA-256-Digest: Ocgp2Ja4UExzk03G4rPE561EQNJMXHuBsot94hzC/9E=
+
+Name: res/drawable/sesl_scrubber_progress_horizontal.xml
+SHA-256-Digest: 2j6KmRgKoqKTKfYU4EyxTJ07uqdkOiUANUjUiSJ5l2I=
+
+Name: res/layout/sesl_list_menu_item_checkbox.xml
+SHA-256-Digest: GQ0g/4tbF/8B9vwZZxn95zSTSSjcFpzTaalSE7iH2X8=
+
+Name: res/drawable/common_google_signin_btn_icon_light_focused.xml
+SHA-256-Digest: QgxgSRse6JtAXA7f52KAh/+7YldFxDnvotZwIHKAyDk=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: sLDnDldibzyOYcVCJ07sBiCE4fFEyQ7UqoZ02ZKlUwI=
+
+Name: assets/RDI/fr.txt
+SHA-256-Digest: f4CO7qW1wHBO2yttyJlrE5Lsnddc3rEK7UioQPNDSIE=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: uGikaXkyBxYhkD0sbyM55eviarZ4qyF/sHwixpxq8Ig=
+
+Name: res/drawable/common_google_signin_btn_text_dark_normal.xml
+SHA-256-Digest: IrJQALPDuxKfqpGqr+9qutCdn9It8a6wa/4Xet9zEew=
+
+Name: res/layout/sesl_progress_dialog.xml
+SHA-256-Digest: F+mGh+UfkPcfRDEYkvQIn1S1Bou8ZsUOfbKTZJUySmg=
+
+Name: assets/RDI/bo.txt
+SHA-256-Digest: I03vWrZjoxr/AAWycujOXGP6Qj++om4+HXOGBBeaaLo=
+
+Name: res/anim/sesl_list_checkbox_to_unchecked_circle_outline_anim.xml
+SHA-256-Digest: Wq2rgk/pvSTn1OKt5QYPZO0i/PXzHPz/P4az3iFTgPo=
+
+Name: res/layout/mtrl_picker_header_dialog.xml
+SHA-256-Digest: 4d9VOZc5GOHbzPlVymq2TjMe2Iky39ncTFg3mbdGfDA=
+
+Name: res/layout/touchpad_tips_desc_3.xml
+SHA-256-Digest: ePCZ7jz6kTqAWoiKrsTNIpuc4CkOAGHJUgIT434Jkrk=
+
+Name: res/interpolator/sine_out_90.xml
+SHA-256-Digest: 1xEfIR5nFWL51W6oKozasoFi95rAkaZe24l3lk/Z6sw=
+
+Name: res/color/sesl_bottom_nav_colored_ripple_color.xml
+SHA-256-Digest: MO1/EKuf9dZYieTMFIyiny/VuIjcvlw8JWt5Iy9msyo=
+
+Name: res/layout/sesl_popup_sub_menu_item_layout.xml
+SHA-256-Digest: p/omFbc906h2f3ErK2KgV+r1um3DBIbV9suRXvfydic=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_norma
+ l_background.9.png
+SHA-256-Digest: ViSihK34pejnwlYFJOsF1+6X0JqcLb46dqhAdmAVrjA=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Ukrainian.txt
+SHA-256-Digest: iF3Ib6DKxjEx8+LmJyqH5qDrK3GKzKI5oU23G+zRB40=
+
+Name: res/drawable-v21/design_password_eye.xml
+SHA-256-Digest: PiWDbGOWrLLZS/f0XUNz7xU+rAu4/QaAJS0uEiaIs6s=
+
+Name: res/xml/widget_master_appwidget_provider.xml
+SHA-256-Digest: Fky1bd2cuK2nsOMx+tlShsEBt3gmAolfUSkgClV1RUg=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Lithuanian.txt
+SHA-256-Digest: OldVIpQiWHJvTvJIT+pRiLZKF+rJy/gY+xOeD/bDizg=
+
+Name: res/drawable/mtrl_dialog_background.xml
+SHA-256-Digest: xoE1SvyJeDNyEYzHVD3eeKYbjIiTAUJkCyYm2xiZcl0=
+
+Name: assets/EULA/ko.txt
+SHA-256-Digest: rMZ5S0DPfEhBTXRzzNrbTNaMrU16OZYxfi++4Bbez/I=
+
+Name: res/drawable-xxhdpi-v4/level3_booster.png
+SHA-256-Digest: uwtIgKerSNZ/EATBLFyIlce+lv1M2ABECiQ1gZp7lAg=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_4.png
+SHA-256-Digest: JAtH2WR7nBdBSPEqOaDWjQ2QKi2CTEsBo24S7MY4vSc=
+
+Name: assets/RDI/bn-rIN.txt
+SHA-256-Digest: QCab+pL5R+RPIAQegDFdvHwbiSh0kodvJQCWMCctWCM=
+
+Name: res/drawable-xxhdpi-v4/level2_booster_disconnected_on.png
+SHA-256-Digest: pgPNTkOtFXsAr3KGFLwFW32j8S1SxIZbsM0Y6ImZeU8=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Icelandic.txt
+SHA-256-Digest: Lp4iALO3ldxW2EEeIsMSMG2Ue9bPi2AwLCRVdtX+/dM=
+
+Name: res/anim-v21/mtrl_bottom_sheet_slide_out.xml
+SHA-256-Digest: yh38TVyrq/KT1fqn0S+HBErcIwoOHxw0lO0LCAnhiF8=
+
+Name: res/drawable-xxhdpi-v4/circle_noise_control_selected.png
+SHA-256-Digest: aaWiDM6OsjjrBo1zZgI31lc9FZ/LY7pZc6tvMbXP3eo=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Farsi.txt
+SHA-256-Digest: s2WZ8Bk5SkKP0PfCgCqvS3eLuijFPKRStflG3vhAhoY=
+
+Name: res/layout/design_text_input_start_icon.xml
+SHA-256-Digest: /Sd0uticrvnjgC1FMQAdkH93/bw8jT4zIhVShePZFk0=
+
+Name: res/layout/mtrl_picker_fullscreen.xml
+SHA-256-Digest: rYoeIrbDXqG1NEnavxlDUwYixJ+txfR/ZYZPxAZSH3Q=
+
+Name: assets/EULA/en-rZG.txt
+SHA-256-Digest: ZdFKcpTWInFfPp9W+IrY/g7MEAs3rgtWbG94WuK+/P8=
+
+Name: res/drawable/background_listview.xml
+SHA-256-Digest: nSXL4k8+mpNkUEmTMrqu2tMoAQDSk2btTif1QusAUI4=
+
+Name: res/layout/mtrl_calendar_year.xml
+SHA-256-Digest: mEQgJ70iea3V5DRLjgYdysNgagr9FfGgukdHrPoI1DM=
+
+Name: res/layout/design_navigation_menu.xml
+SHA-256-Digest: oAhWiP7dIrkd+MrxDhDLJnyYtMCGvmRt4q9UgH/8Z48=
+
+Name: res/drawable/sesl_ic_go_search_api.xml
+SHA-256-Digest: OsnO8BvzaOKXHnLjJRNRe7M1VGjifboP7mrdQp1wCaI=
+
+Name: res/drawable/sesl_list_divider_dark.xml
+SHA-256-Digest: JM+auWgF/aBWCyo/R8xg1+ARuuE9jNNJaB1Nc1KNLr8=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Basque.txt
+SHA-256-Digest: DTX6FITCWO30aG2SpRLY5FkIGi+ip3bUpTIsO5wXDmY=
+
+Name: res/drawable-v23/sesl_list_choice_check_to_on_026.xml
+SHA-256-Digest: dlOmPZh9XfW8AnQqHhFKfwGdtgC/RHapIJUMSfPNaW4=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Swedish.txt
+SHA-256-Digest: QDNwAWyHmOq5vGx4JxUyPkxH4wLtcRw2tP+/J79x7Ys=
+
+Name: assets/RDI/ne.txt
+SHA-256-Digest: K0KVNOqmHyuYbIpMgcR3qZj3RNQVRXOXa8EBc/awyWo=
+
+Name: assets/RDI/te-rIN.txt
+SHA-256-Digest: QtXT/H9JzlTV94NnDzgjhpRBozMmm69FXKdv12pYHeY=
+
+Name: res/anim/activity_fade_in.xml
+SHA-256-Digest: FWU6rigzSLM6qV5Who3HjOFg6EIbZrMaZhyL8RtQJ1E=
+
+Name: res/drawable/sesl_tablayout_tab_default_shape.xml
+SHA-256-Digest: f93qxQY1naqqFdBDJEr0pzAbHXLHhe1G2QZ5EkGEtrE=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Bengali_Bangladesh.txt
+SHA-256-Digest: J4R7jHEFyGirNRxo+9rHbccQqFjWRga5e68r8Q1q/Wk=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Portuguese_Latin.txt
+SHA-256-Digest: m/H4nw8OyB+5pL1ocUSydJLrVOay5WgJQUaf8CjZ0Ik=
+
+Name: res/anim/fragment_fade_exit.xml
+SHA-256-Digest: 62Kk4Q99+ED3tItxsk8WFhDlv2p6kJYXjqOz5kbrW/g=
+
+Name: res/layout/text_view_with_line_height_from_appearance.xml
+SHA-256-Digest: k5+EYzWqNU5R+xynfWaNcZrQ/QDmMWIL0DG/psR4dEQ=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: yJuHwmLp1f/SDnOqx0oXcq3Mn1ohaCzDOtz1CG5f71w=
+
+Name: res/color/selector_routine_checkbox_color.xml
+SHA-256-Digest: RXp2rfAdGao6PuoayRPKjCryz36Cb0EBKcmsWub3+zs=
+
+Name: res/drawable-xxhdpi-v4/divider.png
+SHA-256-Digest: XX4F2vNIqdght+JoVjbweS2eduocg4rfx881efQpiRE=
+
+Name: res/layout/activity_general.xml
+SHA-256-Digest: q6AFzXjZVwlCi5XPgL8Rsw6/eGynpvUZU26JL9INFmQ=
+
+Name: res/layout/touchpad_tips_desc_2.xml
+SHA-256-Digest: nNS8omCFyeghfM5eA9BI+mI2c/ymyydhRym5FGwcssE=
+
+Name: res/layout/sesl_select_dialog_item.xml
+SHA-256-Digest: DHt3KAA2pqR/ucvL5GbeLnwLZeUS6/aB/dvl7lrVFNE=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Hungarian.txt
+SHA-256-Digest: Tfp+WmZ8DnYBtceNI9OjPkyS0fW4OBE+LiDgCMOwFHE=
+
+Name: res/drawable/ic_mtrl_chip_checked_circle.xml
+SHA-256-Digest: ElEyGQDX1Vj92e8QXxuR/Tl9DpwSQ1Kq42zZZGqftjY=
+
+Name: res/anim/activity_fade_out.xml
+SHA-256-Digest: G1jmlOhIqiTPH5D3S6GgqWz8hX0FH0OP1n2s3zP29/s=
+
+Name: res/drawable-xxhdpi-v4/touchpad_test_preview.png
+SHA-256-Digest: MiJxIFgoE05rVMCEoVuGR9aIhCUcLalpnXf/OVGAkBU=
+
+Name: res/anim/sesl_list_checkbox_to_unchecked_circle_fill_anim.xml
+SHA-256-Digest: 0ezC5zP+ywKmPvWPYqj8Zx588Hy5VbQYeYtgjOisFt4=
+
+Name: res/drawable/fotaprovider_bottombar_button_vertical_spacing.xml
+SHA-256-Digest: 3D9Ujay/QKdwQVqojPS6FHk6GSR3ml5I722TVDucoYA=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_notifications.png
+SHA-256-Digest: VrBNJaTnWj+RI9/dizs84V7R6cqvIovghsgMC/xKLu8=
+
+Name: res/drawable/sesl_ic_cab_done.xml
+SHA-256-Digest: qAnljSgMKUW/ZbaF2++LM9YzS9lrF0ylNCd7YjVmTmI=
+
+Name: res/interpolator/fast_out_slow_in.xml
+SHA-256-Digest: rnNBsDHuj5SXdrqR8bYJ4m9eAjO1/mJxaa4/6YAxL8U=
+
+Name: assets/EULA/nl.txt
+SHA-256-Digest: 5dIIK1hWl+boIwf1s7a9F9euKe/eDUgGbBo1sR42ZZI=
+
+Name: assets/noise_control_deactivate_off_right.json
+SHA-256-Digest: MncZJi8Dg0fGb8jcOGEgZs9CsQzj6q/3H/zxrAeKCmk=
+
+Name: assets/EULA/ro.txt
+SHA-256-Digest: AMFHd7+QSHuUs+qcqAamDmNW2l5/L15d6QApKdOGrgE=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Danish.txt
+SHA-256-Digest: KcP7Cy/pAdV6CAyKXr09a23ebP0DYxhsi3hc7NiOUd4=
+
+Name: assets/EULA/vi.txt
+SHA-256-Digest: O6qQq7C2axD4pDKCxgOuPLPwY3cZfI1dBA744Gp6cec=
+
+Name: assets/RDI/lv.txt
+SHA-256-Digest: UIuCkK6IBTM23Ehy/ipiUe5/AHr+fe8JcSno1Af4uHc=
+
+Name: res/drawable/sesl_fastscroll_label_left.xml
+SHA-256-Digest: 4S805ihe/wxvdTwcSjSugQ2VCboVfryWR+Zl20YSGPI=
+
+Name: res/layout/activity_permissions.xml
+SHA-256-Digest: 4U2NihX1QdAallNOoWIHAA5MMZqTau2BrY2p8vNUTsM=
+
+Name: res/layout/sesl_switchbar.xml
+SHA-256-Digest: FT/CZfTbH2NcqDtiCkSmwqHx2MusRabSuppPVrIkzoY=
+
+Name: res/menu/menu_notification_searchview.xml
+SHA-256-Digest: 6v3raHssQzkwkxlLt+OjP+xmkcDHonzGkP2QyuzuKvY=
+
+Name: res/drawable-xxhdpi-v4/ic_earbuds_software_dim.png
+SHA-256-Digest: ZL8pweHyBvSJbwtn9OgRB+0KJUQWN60xi8hJJxCIYd4=
+
+Name: res/layout-sw600dp-v13/mtrl_layout_snackbar.xml
+SHA-256-Digest: D2usdA6iFg81wHe4qt2tFjM215HLK2Qd7JybYAqh/XI=
+
+Name: res/drawable/sesl_list_divider_light.xml
+SHA-256-Digest: J82kbJC644siLj4c4DjLGGrfElEHqYE3/rA9VnRIhrc=
+
+Name: res/drawable-xxhdpi-v4/ic_advanced_dim.png
+SHA-256-Digest: S2qYX9yi6iQ+UbBeXiHihcjFVoydUj5yflvMZIzy4Oo=
+
+Name: res/layout/mtrl_calendar_month_navigation.xml
+SHA-256-Digest: tkDjIFn3tM9wtcCEhnf1zpOxteDxcpcU3et0PXT7Ut0=
+
+Name: res/color/design_error.xml
+SHA-256-Digest: ulKQJLOZNEaa716I2THd2aTbsPWGZF7UPFOl4getEdw=
+
+Name: res/layout-sw600dp-v13/sesl_spinning_date_picker_legacy.xml
+SHA-256-Digest: V2h0wY3/BWlW7zHIWqoReCty/cYiI4gE04ZHuRjncHI=
+
+Name: res/drawable-xxhdpi-v4/sesl_progress_bar.9.png
+SHA-256-Digest: 5mPzK+slnHaaFMw/7DxoaPYOuP4NVxXoKwrt1sHaV38=
+
+Name: res/drawable/sesl_pen_block_selection.xml
+SHA-256-Digest: ksdD2Qpww7CFvnfR1INHnvjbB+q03+71HJD6OFfzcVQ=
+
+Name: res/color/sesl_select_dialog_list_item_text_dark.xml
+SHA-256-Digest: 0kl/cSSNUaKULsZTwOqMTIL5fJw8vw/jKzYVNsSqp7Q=
+
+Name: assets/RDI/sk.txt
+SHA-256-Digest: 5ueXW2gKqQCaM5O6quVf+vMJzLV+sqX/wuCa6jyevmY=
+
+Name: assets/EULA/tr.txt
+SHA-256-Digest: qWKqasDEj23XEgoqvVWrmVz8bznOG4/tpzRSzsZ0xsE=
+
+Name: res/color/checkbox_themeable_attribute_color.xml
+SHA-256-Digest: MIV6JK8sOHegRvcP147gQzUdra4ay3KtJXIWefsEjLs=
+
+Name: res/drawable/ic_stat_notify_watch_completion.xml
+SHA-256-Digest: DnZ/9wcMLQ6uJbbBh5zSTxqDz6DTR3mpPq7Ta6uCOSw=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_buds_gaming_mode.png
+SHA-256-Digest: Yu0+KpiYyVW/QDvPulJo08AjOd6YlWkkRq6qd21ybfY=
+
+Name: res/drawable-v23/sesl_btn_check_to_on_002.xml
+SHA-256-Digest: 5UuvupMNa7RFzRd1pHmTP5Tis6axYZs7sK87VCRKoso=
+
+Name: res/drawable/circle3_shape.xml
+SHA-256-Digest: GIk1T+w+0kfp1pdgi/3G9thNfHbT38uhGWa/sTgdC7U=
+
+Name: res/drawable-v21/$avd_show_password__0.xml
+SHA-256-Digest: 1760yglR+V8QDqVoHNtgf6zSyC3I+odQoQ4ChzGqOxQ=
+
+Name: res/drawable-v23/sesl_list_choice_radio_to_on_026.xml
+SHA-256-Digest: e5YAiGQdVkK8cWcsaJRaa3QoaBBjZewcOKoHjR1IZm8=
+
+Name: META-INF/androidx.activity_activity.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: res/drawable/sesl_scrollbar_handle_light.xml
+SHA-256-Digest: J91Vph03o2H0Ln1QP51QRn2yNQLQ1bsFLSZSD5vw+7U=
+
+Name: res/drawable/button_shape.xml
+SHA-256-Digest: P0oFz1G3dgJoteXPrvRf0xD/55WhBg/4auxGDuRY5MQ=
+
+Name: res/drawable-xxhdpi-v4/level3_booster_disconnected_on.png
+SHA-256-Digest: RdSigh7Cve9124aT3w6NZo0RhjJJb0ENK0uETDDbeoc=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_cradle_violet.png
+SHA-256-Digest: scFy/ynyL6Dxph4xDJl0CdLH3bA5L8ejc03PjJbQfdk=
+
+Name: res/drawable/sesl_ic_menu_overflow_light.xml
+SHA-256-Digest: Cek8nOzrTpNQ88hfmdot6oMmwhX0Kwj+3o9+aTr4y5I=
+
+Name: res/layout/design_navigation_menu_item.xml
+SHA-256-Digest: KV3jaXWb2O62CrOEmx8cNpTHoDl6inDb9empNyV/Ba0=
+
+Name: res/layout/design_text_input_end_icon.xml
+SHA-256-Digest: g1uoEqIXAtUkykQHOCJEtRSOuwYaRQAquPT2ePia0So=
+
+Name: res/drawable-xxhdpi-v4/fd_settings_ic_mute.png
+SHA-256-Digest: v4yMcn2KMHRE75C3X3f+Dx/t5Tu+zAxhbjeITp1zqFE=
+
+Name: res/drawable/sesl_seekbar_thumb_unpressed_to_pressed_anim.xml
+SHA-256-Digest: 83JHjw0X9nNn13xpw9T8qg2av4elazlcKOoQdhBnj1Y=
+
+Name: res/layout/sesl_tabs_main_tab_layout.xml
+SHA-256-Digest: rvQX8fbziFHRVYhop3YURPhcDvnOAr+1jDFTOwVUhTs=
+
+Name: res/drawable-xxhdpi-v4/battery_disconnect.png
+SHA-256-Digest: uLr7B9+iIS+sJS1cKihEoFOZNyXekxlheeCURJVcwS4=
+
+Name: assets/Open_source_Announcement.txt
+SHA-256-Digest: MwqLbl50uw3JNI2i0utXmiwKez/LGpRQkw6KwpUkpzE=
+
+Name: res/layout/activity_touchpad.xml
+SHA-256-Digest: QECL3A1313MaBQ56XClhWeEUds5tJCEg2dy6yIZuPIU=
+
+Name: assets/EULA/be-rBY.txt
+SHA-256-Digest: WDfTB+QF+zZpOhk3b4HWQenNchasEjqrlLHhO8dglyk=
+
+Name: res/color/mtrl_extended_fab_text_color_selector.xml
+SHA-256-Digest: 5H3IaHGafj00yjVOpVUivC3PyS9pUEju5Qrc/mqk0e8=
+
+Name: res/xml/widget_battery_appwidget_provider.xml
+SHA-256-Digest: oxgSPJZ8hmtX0KAvNT9Ma3IV+owqpEfvNFXVtSTv0uU=
+
+Name: res/drawable-xxhdpi-v4/logo_word_01_galaxy.png
+SHA-256-Digest: CT4TyiF38AJf12AZNS9wr3OTqZWYYlsBla7p7UjsHAk=
+
+Name: res/raw/tips_pairing.mp4
+SHA-256-Digest: BbVFXdQu1x04xjvkgY/KCN4Bt7mnP4YtVHfL3VQZkAI=
+
+Name: assets/EULA/sl.txt
+SHA-256-Digest: crb8KkgHPu/ufZsvYuIQ6PteIYfwWqW1zlGUlKr7x34=
+
+Name: res/drawable/ic_calendar_black_24dp.xml
+SHA-256-Digest: eNOr2mq/DeavBZICL7AY2pYNOytsEIPe1lQNfj5w9XU=
+
+Name: res/drawable-v23/mtrl_popupmenu_background_dark.xml
+SHA-256-Digest: AcRAFCWxVBWfMSZ92NZ9OEkM1G4rwty7TjmWKGSOezQ=
+
+Name: res/layout/sesl_date_picker_legacy.xml
+SHA-256-Digest: tlQ2oYteAKFx9H7KbwdlVslaBdCt7AJG+cMvtqXdy6s=
+
+Name: res/layout/activity_find_my_earbud.xml
+SHA-256-Digest: GzeraMp76QicQok11jKv00FDHH3Yl0MwNmTUvGyycVA=
+
+Name: res/drawable-xxhdpi-v4/sesl_text_select_handle_right_alpha.png
+SHA-256-Digest: BzKN8cPhD7wUZ5ehfWbZ4VLp1Q8vWjtnhOiADb7/AWs=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Bulgarian.txt
+SHA-256-Digest: iECM9FiNqliuRRRB9QZHoBaCC7ezxrtni77KXjxvtcY=
+
+Name: res/drawable/background_flat_button.xml
+SHA-256-Digest: TiSWsKVtiacxwXPBUoNrHT/pCeXdNF/NpM4zFMXLGd0=
+
+Name: res/anim/fragment_open_enter.xml
+SHA-256-Digest: CRLbHkw9LXfqdnIRfp149GMmnd8cXttsUYzS5fzAQbE=
+
+Name: res/drawable/ic_stat_notify_band_postopone.xml
+SHA-256-Digest: Yioqz6Xk5C4IR3fb8ca1jdL7jzDGAKAyBjVL0FSEudw=
+
+Name: assets/RDI/ru.txt
+SHA-256-Digest: xeM4Z39Ojuc0GD+oUdnL1zHctGbEpJtGZ+c1pwSuzIQ=
+
+Name: res/animator/design_fab_show_motion_spec.xml
+SHA-256-Digest: N15Q3biWSx9hMt1KkTDnFyVUQVqRS+tRaLR04/B330E=
+
+Name: res/drawable-ko-xxhdpi-v4/widget_preview_battery.png
+SHA-256-Digest: ujz6AANwBwqxXYUMWWpUryDOsrFpnl9/ZbNOsnUQSN0=
+
+Name: res/color/mtrl_choice_chip_ripple_color.xml
+SHA-256-Digest: xC4O63DQY9woHEutxjGDd7VZPlsKPQkdZpcVlfoke6s=
+
+Name: res/drawable-xxhdpi-v4/level2.png
+SHA-256-Digest: +eP4AbAvajsLZz04PUKCEZPPMJar1SuvmU/gCOw4bOM=
+
+Name: res/drawable/abc_btn_check_material_anim.xml
+SHA-256-Digest: b9QMmHqaoFnIisVLe6dKbsBdQI9g1xndjjVrpO5ls2Y=
+
+Name: res/drawable-v23/sesl_list_choice_check_to_on_001.xml
+SHA-256-Digest: uEL88z6sHbx1s731CogEHjQpXlI4Tv71aE0yMaKhkiI=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_German.txt
+SHA-256-Digest: Mr+9HrpvWqo9Zk8V/S8JWgtuRGwbXMvRoduidK9+KPA=
+
+Name: res/drawable-xxhdpi-v4/fit_loose_left.png
+SHA-256-Digest: 3wqw+PAJeJzinW4vNjmtY2Mhg6oQQ0YdQERasy0h1go=
+
+Name: res/drawable/sesl_screen_background_light.xml
+SHA-256-Digest: jJfxFUTpALPQ7NIa6ZrMPjGfkUQDa2WzJb2Oy184ilI=
+
+Name: res/raw/tips_touchpad_double_tap.mp4
+SHA-256-Digest: OQ3VEngeS5lrF4zz1S4zkuzXisuYk+NjJnPKPyTdRpU=
+
+Name: res/color/sesl_edit_text_light.xml
+SHA-256-Digest: Or8uFA+VypyX46IqHdQaK6xxDRLIfqlmeXUvQgI0Geg=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_English_UK.txt
+SHA-256-Digest: JyHMUvqJYiDnwYF7KwdOVR6xLuf5Fts+7cQu71KBXOU=
+
+Name: assets/EULA/et-rEE.txt
+SHA-256-Digest: 9G+QopWzkfK0fQ/4Z4qLbtHCj+LfkqbXhEc3k0/TVX4=
+
+Name: res/drawable-xhdpi-v4/sesl_scrollbar_handle_alpha.9.png
+SHA-256-Digest: cmUAp/34CWgJOwFAFhcYlReM1TJ59nvyyY2g7v5rwoM=
+
+Name: res/drawable/sesl_ic_search_more.xml
+SHA-256-Digest: 3wNSvDYmp4X6t81ge4BJ5roBSh/Pri69vZ/oZykelPI=
+
+Name: assets/EULA/ja.txt
+SHA-256-Digest: 9+jim5T2LxuO5Y0YcSdzRxZL1lkX+3YhKAIHZODh4FQ=
+
+Name: res/color/selector_list_title_color.xml
+SHA-256-Digest: CjOzFlSG2lNAbkm5nSu8/LYqGYRxwaZx6uLZ4Oe8nX8=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Galician.txt
+SHA-256-Digest: q+QDRFNzU/Ax+NWXORSGqUIg5cownDLyH22Ol1F+yT4=
+
+Name: res/drawable/sesl_go_to_top_background_dark.xml
+SHA-256-Digest: 5SXTFbjGoLI/KJ50bVWjsyllhgO8c+2hYHkKABcPS1E=
+
+Name: res/drawable-v23/sesl_btn_radio_to_on_002.xml
+SHA-256-Digest: AQFGhmPgEvx3l0+4TKcdXJYVKVyAfvIAUALEzuMi/1c=
+
+Name: assets/EULA/ur-rPK.txt
+SHA-256-Digest: sZWpZLsU8EQYGhRKtfUWeyE9MhzmCeLv03lK/VsDylc=
+
+Name: res/drawable/mtrl_ic_error.xml
+SHA-256-Digest: IB1+NfcNiSFqy5ULrz+QCT3E54H8coGGjse+cd4StKw=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Belarusian.txt
+SHA-256-Digest: jYt9oeKmDwgfgmoFN+ZTirAadSs0QO2HZ9LjOrTHV0I=
+
+Name: res/drawable/ic_stat_notify_band_completion.xml
+SHA-256-Digest: 95w5Zneuu1m3HaXq1ZmPGFs6//ssQX+uH2ObW+O7+W0=
+
+Name: assets/S-20181214-DU-Galaxy_Buds-1.0-1_Announcement.txt
+SHA-256-Digest: av+1Bqr09sAzpIjvwWbzwvK6qGjh5nMUPQx5ejnIQ/g=
+
+Name: res/anim/activity_right_to_left_in.xml
+SHA-256-Digest: p2Vc8Li7oLJ44u/a04foI4pFDGGqK5ahO3vAmSRP9go=
+
+Name: res/layout/mtrl_layout_snackbar_include.xml
+SHA-256-Digest: n1G63xBqqTBMXhEmA8UV8wn16KjBoeaUNH+Nax0TvdU=
+
+Name: res/drawable/fotaprovider_widget_progress_circle.xml
+SHA-256-Digest: fapQ+nSW+y/H4/ZOTNybUZnVyShcdxgBZ5qjVLbcLgQ=
+
+Name: assets/EULA/bn-rBD.txt
+SHA-256-Digest: wt9T+jkj2OAWEFAGIYbHBNxwarMpUPPYU+p3sXtkk+0=
+
+Name: res/drawable/ic_keyboard_arrow_right_black_24dp.xml
+SHA-256-Digest: 6HWFwqqeqAt/LBJtVsRJSQGz39SOZliJdR8uozI+aOM=
+
+Name: assets/EULA/sq-rAL.txt
+SHA-256-Digest: b0JQmBdizRQUmIddXOCKDj6Fvkd1GOymRDhl7pyFUdg=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Catalan.txt
+SHA-256-Digest: odNV/0IZTsvAu6k+0zOPu6hEtNemofh5DUiWlw9VEGM=
+
+Name: assets/RDI/sl.txt
+SHA-256-Digest: n6Yy+PnZYK4lBp7/jLHVFj4pIStLNO/lP3ESOGXkfZU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Turkmen.txt
+SHA-256-Digest: EkyJniGm8yK+cpu9abOv+PMpnvzfikGbl6ZZJAAgg3A=
+
+Name: res/color/design_box_stroke_color.xml
+SHA-256-Digest: 0nQ4jK5eHRsOBALlUKanZCYFyiCcFgW23G+X6eHgpYI=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Swedish.txt
+SHA-256-Digest: 0neut5BaOWif9ki4nd1Z8B8zZQDHyFkI7GtvwltGXog=
+
+Name: res/drawable-v23/sesl_switch_thumb_disabled_on.xml
+SHA-256-Digest: Dg5IjKcKx9nrt+Su1DV5ibAZmOGcIEf/DI1Myf6nc9o=
+
+Name: res/layout/mtrl_calendar_day_of_week.xml
+SHA-256-Digest: Wl/82FGe5hGWl7lP0TdiPHgN6fSfgPelrbUH88qRLKc=
+
+Name: res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: ZNLZjdbM2WV8vb1I+ipx4ttJ2udPEmY/qmZNoNCo3Hg=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: KXPtZBP9ZJT4aUs4ggqLtOJUTC3FoNcQEqzF2uC25xc=
+
+Name: res/drawable-xxhdpi-v4/ic_advanced.png
+SHA-256-Digest: mR0l4OfbhSurcCJSrjRJ5yhOMaTCr32BgkaY2rV5N0M=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_equalizer.png
+SHA-256-Digest: 4DqnP89ApNVt+gLFMTQ2rbNx/9/cGe2D24AK9Bw8+wU=
+
+Name: assets/EULA/el.txt
+SHA-256-Digest: mwP7gMPeLTEk+hWY5lalcWEy5L2PIIAmzXH7WS6yp50=
+
+Name: res/drawable-xxhdpi-v4/fit_good_right.png
+SHA-256-Digest: FJkSUqf3xEcqMetgdxWOLlkUnBkgT1Ru7h/GDR0hj0s=
+
+Name: res/anim/design_snackbar_out.xml
+SHA-256-Digest: Pe0XaQSeOjN3xBnKVPOFtKOUa0LbCzb8HsxlqLWBbdg=
+
+Name: res/drawable-v23/sesl_btn_check_to_on_001.xml
+SHA-256-Digest: dl+HbrU/fdfG8VIiqzIoIrYEilqF7sTYlCWQdiWRpsc=
+
+Name: res/layout/sesl_spinning_date_picker_multipane.xml
+SHA-256-Digest: xdXQ4DH8MURfWxb4+kDLMkzLegHkiegwbEUFQGS8d1A=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA-256-Digest: xqgA1FznCgBSLyfuAkQCXOqwZhi/F/mL0uMFWn+OY6o=
+
+Name: res/drawable-xxhdpi-v4/tw_ic_ab_app_info_mtrl.png
+SHA-256-Digest: v1AC/G9Vv1EqbCP4AGDwvVwuqoGwZvb/m5XEXhBNgtA=
+
+Name: res/drawable-v21/$avd_show_password__1.xml
+SHA-256-Digest: 0eRq24GN0QhwHLRbeJA9FozfUq7U+iXLLzrjvpy4J5g=
+
+Name: res/anim/fragment_close_exit.xml
+SHA-256-Digest: Hb6cJp9CBwOqhrNkAsdd0bW77oq4AGZFUPh6UA/G8LA=
+
+Name: res/drawable-v23/sesl_list_choice_radio_to_on_025.xml
+SHA-256-Digest: Jxh9K26hZnG3k+DsoDMVMPOsubGV23TWIkNhNuIQdiM=
+
+Name: res/drawable-xxhdpi-v4/logo_word_02_buds.png
+SHA-256-Digest: yLe795Hx5GUHJCM4LSgrM0rpDrfsAie9ub7V3lQGGwc=
+
+Name: assets/noise_control_activate_ambient_sound.json
+SHA-256-Digest: je6dH4klAj985Dbq5kI96RSh8OT43BmUvgkOB6QrZ0k=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: res/color/sesl_bottom_nav_color_dark.xml
+SHA-256-Digest: pRuzJqLt8KVdT0lSn/7c2SguP5baGDJQ/s4vxPjc2qI=
+
+Name: res/color/mtrl_outlined_stroke_color.xml
+SHA-256-Digest: 2uZu5ZwDn47w6FR3djvbSCfRlwOiRForzVGu5d1/wqo=
+
+Name: res/color/sesl_spinner_dropdown_text_color_light.xml
+SHA-256-Digest: qh5pGLxg/55lzcDCWwNiqPfNtwuiPrr+N1nv7x7bsMY=
+
+Name: res/color/sesl_tabs_ripple_color.xml
+SHA-256-Digest: rOjcaxGprsmmmWH0r/w6QErmw5RqYZIgAEx4P1XGwxM=
+
+Name: res/color/sesl_action_menu_text_dark.xml
+SHA-256-Digest: wXf5iXIwu7RanoaEiGnXLdARBOw1r4DL8cKb0nLZptw=
+
+Name: res/drawable/ic_menu_arrow_down_black_24dp.xml
+SHA-256-Digest: fIxDoMIHdAqaOOOkBLovnwQkiWsxVCls11Xi4uH5g5s=
+
+Name: res/drawable-xxhdpi-v4/level3_disconnected_on.png
+SHA-256-Digest: 8PtcNtQ7i/lxi+Lw1JVK+E1JUPsgobPOvc9GybEzj6s=
+
+Name: assets/EULA/ca.txt
+SHA-256-Digest: HBogXUtAUZTGL+W3ZEJTFYO4a7fxHLUtoDEqtkXMZL8=
+
+Name: res/drawable-xxhdpi-v4/googleg_standard_color_18.png
+SHA-256-Digest: 25XD3Gwqc7v9oMbwT4Q0x7BKuZ4hU0hw4uivmyvECJM=
+
+Name: res/drawable-xhdpi-v4/googleg_disabled_color_18.png
+SHA-256-Digest: YINSMDKrXfnmy4Lk/z1Ir3c4kAoumyPZkb6qLrp4Yuk=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Italian.txt
+SHA-256-Digest: dyPWBQRzh82EfHgnUvvh6Q5legfsiJQv9y0Wgg2fAxk=
+
+Name: res/interpolator/sesl_elastic_50_menu_popup.xml
+SHA-256-Digest: CFqy6LXXAk0nsUAxS391P/+PwEw9+6B2PGV42d0WoH8=
+
+Name: res/color/sesl_show_button_background_stroke_color.xml
+SHA-256-Digest: 2cJscaAxNs2Wxa+ROZL+NHo3/Jts6tP/KEQ7fOnY6XY=
+
+Name: res/interpolator/sesl_progress_rect1_trans_interpolator.xml
+SHA-256-Digest: VduFm+Iju2grLZgwddGhlmEFfxdpAMOPwaZZjTvO330=
+
+Name: res/drawable-xxhdpi-v4/widget_noise_control_off_disconnected.png
+SHA-256-Digest: LiPZaT4hp9IV+luC/oIgY6F4hV+2qdyt0QhHN9cLCzU=
+
+Name: res/drawable/sesl_tablayout_subtab_indicator_ripple_light.xml
+SHA-256-Digest: fsYeJJSLANArSglvE0bLeQ9A5FfqCd2B2emJK0FvwrY=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: YtmJr4wBhEkJ9Momx0n5+3OLO+xoQGVjBfJ7Lj0252E=
+
+Name: res/drawable-xxhdpi-v4/level1.png
+SHA-256-Digest: 7lFK/Q5ww3k3ueTQimHP8AUSkBxKK9+Cns2eI4U7Z+g=
+
+Name: res/drawable/ic_stat_notify_watch_postpone.xml
+SHA-256-Digest: EzYuXZqG56Bb+QCUD4w6QFVddoOF9bNFgh4ZR0CTM6I=
+
+Name: assets/RDI/de.txt
+SHA-256-Digest: vi7WP2a8DBU2e2RL9O5/KSYWbXkjeCpiUJxAwc9LWNA=
+
+Name: res/drawable/circle1_shape.xml
+SHA-256-Digest: aDus/szk0FucnD6tHftkOEz9dHIq8cqz8tq/7yDl9Io=
+
+Name: res/drawable/sesl_ic_ab_back_dark.xml
+SHA-256-Digest: AOxKrEcOU1+dg3oT3f5gI8iqHMhP3+BNAOUMbg0XlfI=
+
+Name: res/layout/sesl_progress_dialog_circle.xml
+SHA-256-Digest: UhSdzFrLclUP/nUZkcsPmuSSjlmroH1r0fIw9Z1SiDk=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: xKI4OgO9tnOdFqDiQFjkucfaTmPSA+C+L0SIaMwDxTA=
+
+Name: res/animator/mtrl_fab_transformation_sheet_collapse_spec.xml
+SHA-256-Digest: dkr0QQGs5Feqnv69/NBxzn1zgCPcfHcmHEPNoyu+6ZA=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: IfC1UoC+ELGHzv+O3vSlpwR2g+bp/PR95BCqODn0EJQ=
+
+Name: res/drawable-xxhdpi-v4/search_find.png
+SHA-256-Digest: 5Kev2Sdl68Xmm/Qbv50aHwZSemBsPlt9GsyNLiRqT8U=
+
+Name: res/interpolator/i25_5_0_1.xml
+SHA-256-Digest: x1WjKuuPK+wX/p/39ooWanqAuYs9F0u0J9cjzxrF7hQ=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: gAhivhrpc3twgNhQoqih9o17UCskhqGri7fZcda9Tkk=
+
+Name: res/drawable/sesl_bottom_navigation_background_text_light.xml
+SHA-256-Digest: 1rrpEA9l9rxkrwYa80vmet0rUOQbmNaXl0LSxcJQqF0=
+
+Name: res/interpolator/interpolator_sine_in_70.xml
+SHA-256-Digest: ASPmtgiNaRnl4BtUkjFowJCK4KMtHp+coy0DrgH2HGw=
+
+Name: res/color/sesl_tablayout_text_color_dark.xml
+SHA-256-Digest: ixwRv3694rWcL3G/hGf5ihsPeFZlFJiwJTZ0uSd2xFo=
+
+Name: res/color/sesl_bottom_nav_ripple_color.xml
+SHA-256-Digest: rOjcaxGprsmmmWH0r/w6QErmw5RqYZIgAEx4P1XGwxM=
+
+Name: res/drawable/sem_snackbar_action_button_background.xml
+SHA-256-Digest: ve4ps6NtuaBJBhENeYH/X1EQM2GpAgzJpkegWp7+3UY=
+
+Name: res/drawable-xxhdpi-v4/minus.png
+SHA-256-Digest: Qs8/JOlSwC0FtsuLlGySvOz2uzluSTKOq17h1eoXky8=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_kv_right_violet.png
+SHA-256-Digest: pkhFdos6yLJtxQwkm57ocdzXEwoChrupACL8fiN8o68=
+
+Name: res/drawable/sesl_top_right_round.xml
+SHA-256-Digest: Q8DPitdT8fGUzhUcGvfuB8EOHa/kUnf8vLEdSqBGCcs=
+
+Name: firebase-common.properties
+SHA-256-Digest: tQ3w/0DKk/dRYr68ZG/I6SfqaTE72fTYTDpTSmU96L0=
+
+Name: res/color/sesl_popup_menu_item_text_dark.xml
+SHA-256-Digest: mE5GY7yuQ3atN7wRBlRyWzBdMEnnx/1SwOpwm//nrdI=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA-256-Digest: /yH+XGwb72vTPdsEL/FfxlbyoRvpyGhjsTb7LF6YQyE=
+
+Name: res/layout/sesl_popup_menu_header_item_layout.xml
+SHA-256-Digest: QSivMM9OOX1Mq7uWvGjhOndVs+7Pz/tvsUIlR5EzdcQ=
+
+Name: res/drawable-v23/sesl_list_choice_check_to_on_002.xml
+SHA-256-Digest: kKq5w7HGKuyJnxSVlRqgaJKkfXKgxFGnxWimIgs2fYA=
+
+Name: res/drawable-v23/sesl_list_choice_btn_check.xml
+SHA-256-Digest: HwBwwqtSloMT8XVXsuZjvQz1fWsY8qxs6mGJ76YML0E=
+
+Name: res/drawable/fotaprovider_horizontal_progressbar_top_right_round
+ .xml
+SHA-256-Digest: 880T0rbY4XxKqiL99PIWagLQ/lFu/CA+A3FCxmmxkaQ=
+
+Name: res/layout/mtrl_picker_actions.xml
+SHA-256-Digest: Ff1D/VmEGfFsU5//S9UMami7zLV7BWNcJqhAQ4keBoA=
+
+Name: assets/EULA/is-rIS.txt
+SHA-256-Digest: fflozifXx/9J4tG30HqmmCXivpx/jku/wl0hIvDA//4=
+
+Name: res/drawable/sesl_date_picker_header_background.xml
+SHA-256-Digest: KovAeRHVHI9vMHnrBjSYBJJTdxWttESePZOAlkSBcsM=
+
+Name: res/color/mtrl_navigation_item_icon_tint.xml
+SHA-256-Digest: pcr1AQVnD9gl7YCGZb7PbyduZNtdehIgIj4mGuwqUuo=
+
+Name: assets/EULA/sr.txt
+SHA-256-Digest: Gb14OQ6sFV+Q6kDOo33WtUVP8p5fALagojNlT6Etzac=
+
+Name: res/drawable-xxhdpi-v4/ic_fme_dim.png
+SHA-256-Digest: YWKN8s3wghZv3PHhkB0RpoOb0+VKFzXzmY+u4lYmmLY=
+
+Name: res/drawable/sesl_scrubber_progress_vertical.xml
+SHA-256-Digest: cyZen11KVvlUsDtg4ly9h9yhSGTTv4ar0nbSPV3Fwn0=
+
+Name: res/raw/tutorial_how_to_wear.mp4
+SHA-256-Digest: UE4sV80jgKEC11u5oB3N3STwoT3R7ZK7G/FN7sFbTSY=
+
+Name: res/drawable/sesl_btn_default.xml
+SHA-256-Digest: KgBZm3ffNXjgbLSBfh1p6wZsdhwJFMMmtx2SUG8mlVI=
+
+Name: res/drawable/sesl_switch_track_disabled_on.xml
+SHA-256-Digest: LB4PRX6EKK3zmoUK9IYPVpvVhsY/1sM0Uo/XpgF7h8Y=
+
+Name: res/color/mtrl_calendar_item_stroke_color.xml
+SHA-256-Digest: WCIy8Wveq3MEjvvrGD63tcUOocban1tBq09DGq4ZY3s=
+
+Name: res/layout/layout_drawer_list_item.xml
+SHA-256-Digest: 4iSqdsZNXFivIDOlVoN8OwF8MeMkyeTmeK9HtftrgfQ=
+
+Name: res/anim/sesl_fragment_open_exit.xml
+SHA-256-Digest: 0bxqn7paa0r7e1+5AJTOeRpt7WRJWxWi6HM1E/pPWgw=
+
+Name: res/layout/activity_routine_config_touchpad_option.xml
+SHA-256-Digest: bKC/ev4vcMpWKp8XIGLwqBs3/xocNpaKdbKWl9YNvKU=
+
+Name: res/layout/mtrl_calendar_month.xml
+SHA-256-Digest: ZaUM5W/oLbR3O+885aWHIxBwXuw6Y7qw5CsWbcJNXcw=
+
+Name: res/drawable-v23/sesl_btn_check.xml
+SHA-256-Digest: z/6+jttJTKRG+ONMF+1F7Qmf8U9LcCdQKABC+JYCVF8=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA-256-Digest: 7AFsuStnlCc57ygy1dyP8HsxtTteBho370HtjAR+Z/Q=
+
+Name: res/layout/sesl_material_action_mode_view_stub.xml
+SHA-256-Digest: z26YJlCutGEfY2rSds+w3EMyqr90Nng6XPmpYhR7My4=
+
+Name: res/layout/touchpad_tips_desc_0.xml
+SHA-256-Digest: KJjDWJWuERaEUlsRCEm+tu65xpMtAT5oCld5nn3vCm8=
+
+Name: res/anim/sesl_radio_to_on_circle_outline_group_anim.xml
+SHA-256-Digest: ZTyBujeXNPyocNyOcJRaEKGUBCstsc9L1eGFC5Y5Xvo=
+
+Name: res/drawable/common_google_signin_btn_icon_light_normal.xml
+SHA-256-Digest: MpVapI0KyNFXDtcYLmcbfuRWmVGysXit7XozmhxrbZo=
+
+Name: res/drawable/sesl_tooltip_background.xml
+SHA-256-Digest: j10PIfTxlRTr7tuocY698+gWHaOBJq+Qfj28rpgjfNo=
+
+Name: res/color-night-v8/selector_routine_checkbox_color.xml
+SHA-256-Digest: 81DljE9SYqflntv3zZcjTjUqpDWH+/45/vcM20FYUL4=
+
+Name: res/drawable/selector_equalizer_icon.xml
+SHA-256-Digest: 8H4D/CbXkY9o0o2SD/Dvo6L1K0Cg+4gajOBNHuvoMS0=
+
+Name: res/drawable/sesl_screen_background_dark.xml
+SHA-256-Digest: 6hWp1+YlTykBNgP3bQcs7VCkyF8MQUk03Lt0XPQLkdM=
+
+Name: res/layout/test_toolbar_surface.xml
+SHA-256-Digest: t2bRXX4MxAXljWggmw/Lalx6H/tL4cp1qehAxR5A1rI=
+
+Name: res/drawable-xxhdpi-v4/rc_top_right.xml
+SHA-256-Digest: 7R1A3HnwPg7unWQPO0jAVcBdgAvAeVqOrQIhZywOsnw=
+
+Name: assets/noise_control_deactivate_ambient_sound.json
+SHA-256-Digest: vy5qHRqIwBB2ckCfyzwan/4VVhXrnTKk/Pq98dEjSEY=
+
+Name: res/drawable/sesl_ic_menu_copy_light.xml
+SHA-256-Digest: eSSEv+ubY1LeEbF7AjXQ71tXIubXJZlkiSSqJhdgeSo=
+
+Name: res/layout/fragment_tips_pairing.xml
+SHA-256-Digest: qTN3bTG6D8tcdjx1iSYgi7yWeP02by1U3RBP3xLaPcI=
+
+Name: res/drawable/sesl_spinner_background_am_alpha_light.xml
+SHA-256-Digest: i3aekF+Jb/iVakLcL/reUxFG8cqNkQRBrZOkRZYd0cs=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA-256-Digest: T+9DJK6MrMxB8THcI4i/nerIlD22w6rTQNbLUxsMMG0=
+
+Name: res/anim-v21/mtrl_bottom_sheet_slide_in.xml
+SHA-256-Digest: fKoY7cJlHMZXxp5HFpYF9Dy0CyyooMz2iSFvZ/9QrDs=
+
+Name: res/drawable/sesl_tablayout_tab_background_dark.xml
+SHA-256-Digest: /EA8WhnBlPL9I6uboE6vWX1ZhVv2DOSF5lpsxtC/TUc=
+
+Name: res/anim/sesl_checkbox_to_unchecked_circle_outline_anim.xml
+SHA-256-Digest: FxcoodYSbfz/1XnwjI7SUG9Ht7qXNB9kVH4WL8Fj2wg=
+
+Name: res/layout/popup_dropdown_list_item.xml
+SHA-256-Digest: GvZmhUjzhH2Z3zmyiwu9qig7LOxrp1cqCbFoJWwJN/I=
+
+Name: res/interpolator/mtrl_linear.xml
+SHA-256-Digest: uUo3pch/QE1hAJjSIUtcjw44GghCMD4cncNKCONOKOU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Kyrgyz.txt
+SHA-256-Digest: MZYqG97tnIZsAstxo+w76LMU+n238OZslFZBq9bEi+4=
+
+Name: res/drawable/selector_touch_controls_icon.xml
+SHA-256-Digest: jK84Ll44VjOiM+bKP9rcPJ6zWavRHyZbZ5m5lf9TfGY=
+
+Name: res/color/mtrl_btn_text_btn_ripple_color.xml
+SHA-256-Digest: F7gqgC/u0Z4nRC0T+vZp940et82GDvyfF/SwbdUI7lA=
+
+Name: res/drawable/sesl_progress.xml
+SHA-256-Digest: lDF0z26jAQy6aaeOtuaF23TLjzlXu8GTQZshpcTKfpU=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Sinhala.txt
+SHA-256-Digest: Ja9m4ouUmJ463W+wq+euZZpDJAjcTnjRRX0dN58YQC4=
+
+Name: res/xml/standalone_badge.xml
+SHA-256-Digest: vyCX5id7fWdT/CA/Ba5teR3M7hXpJ0V0iQYXCU/g+Ng=
+
+Name: META-INF/androidx.lifecycle_lifecycle-service.version
+SHA-256-Digest: yJuHwmLp1f/SDnOqx0oXcq3Mn1ohaCzDOtz1CG5f71w=
+
+Name: res/layout/item_notification_spinner_normal.xml
+SHA-256-Digest: aP3nPyl9zUPgV5blD5jb4wuyozqRH9FjriKoixWMypI=
+
+Name: res/drawable/sesl_bottom_navigation_ripple_mask_light.xml
+SHA-256-Digest: wPK2IdHImSQoEwujqe15h3m8pOeBTcyGuy5GKJUDMQ4=
+
+Name: assets/RDI/pa-rIN.txt
+SHA-256-Digest: 5LecweTneAZNaDgdrTiVl3wIXvg2B+jNcoxpV3b3DOo=
+
+Name: res/xml/routine_actions.xml
+SHA-256-Digest: Rk7UPUMXOEOBNE7M56aPBmTZ7vwFBHO4vkPDtz6Djxw=
+
+Name: res/anim/sesl_progress_indeterminate_base.xml
+SHA-256-Digest: /NaW4crQ/Innq5vL0gIoWm7Fb4SYeJqdCi538PNKk6k=
+
+Name: assets/EULA/pt-rBR.txt
+SHA-256-Digest: EOE0Z4Abhs8W4ZCdT7L9zgCQjMuVObQOKiD7ly0eiqQ=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Finnish.txt
+SHA-256-Digest: Jd7BHl51RGq9KESkUBqLN2luajzfZQ2lJKYbKIQ42E8=
+
+Name: assets/RDI/hy-rAM.txt
+SHA-256-Digest: uPP1Z0/CideZXf4HE3BPxep99Ksc1H1JUHvD9VdDtHg=
+
+Name: res/layout/test_design_checkbox.xml
+SHA-256-Digest: /lBEb/Lzh4vkMBNvhQqYS39iQfHxR19+A/GtOTmvXKs=
+
+Name: res/drawable/ic_clear_black_24dp.xml
+SHA-256-Digest: WJTeWYcGy6arI7HRWai8OROEpzD9xXN5mX3mnCvnNgc=
+
+Name: res/interpolator/sesl_list_popup_interpolator.xml
+SHA-256-Digest: 3TNPULwTiSVDmMXvYXGb6TtyTNhVL9IIoz70NCCYnZM=
+
+Name: res/anim/progressbar_horizontal_indeterminate_rect2_scalex.xml
+SHA-256-Digest: Qrtn5wxAHc8xi5EA6nyYDFiwIzE4Y0g8SQvhW8RBkZ4=
+
+Name: assets/EULA/bo.txt
+SHA-256-Digest: clLOG6asHy2iaBLIovtGAxtI1ZWAF0aPcjQSK9GiMS8=
+
+Name: assets/RDI/pl.txt
+SHA-256-Digest: lYlZAir6QlFU52vlEmwAZ7parNLIjnsvoKt9XEhrI5w=
+
+Name: res/animator/mtrl_card_state_list_anim.xml
+SHA-256-Digest: AC9TtKlzCBmeYAc2VgW6Jo40CrkKTl4F+abx8FX78dM=
+
+Name: res/color/mtrl_on_primary_text_btn_text_color_selector.xml
+SHA-256-Digest: Kb/91mdNODiROTYMhMLe6UddwUFYmmJ/NdwZZSvZxOI=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Polish.txt
+SHA-256-Digest: JLQ94xJ19qP4y4MbRC5lF9Kg8P5x8D56fao6YKfE+Hk=
+
+Name: res/drawable/sesl_go_to_top_background_light.xml
+SHA-256-Digest: nU8vCCmILY/orJe7OmkPxJgMjEHVzkyWOOGRHN1wj+M=
+
+Name: assets/EULA/fr.txt
+SHA-256-Digest: HTxnbIvPbai2gH+HskoyTR/dR2r/MywhN1pFmHSlUXA=
+
+Name: res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_
+ background.9.png
+SHA-256-Digest: d9jMVEc2Dvujs/Flm+qWgOzL5H4qqgdCTVYvDlyK+Ck=
+
+Name: res/layout/middle_content_full.xml
+SHA-256-Digest: SHirFVCbJxCaSM1PM+XmTSw0vkeUBsn9GnuE+Q8wDwQ=
+
+Name: assets/RDI/es-rUS.txt
+SHA-256-Digest: fjo59wBhfQcRNzFinVj5P9P50j0rNBHNOyxemca3FNg=
+
+Name: res/drawable-xxxhdpi-v4/sesl_textfield_default_alpha.9.png
+SHA-256-Digest: FVZn7SAkXLnXnk//IWGGF/uIkDPbjx8uZ3B0tp4wFTg=
+
+Name: res/layout/activity_about_galaxy_wearable.xml
+SHA-256-Digest: P6K/nCja+BoC32NvYV7CR3Y04sHqVTi4v0B5w5bV4nQ=
+
+Name: res/drawable/common_google_signin_btn_text_light.xml
+SHA-256-Digest: oSQTfflIgqlx6f7vwKYT9tRE8mJvov2FW8MwY+RnssQ=
+
+Name: assets/Privacy Notice/[EU] Galaxy Wearable Privacy Notice_200521
+ _English_Czech.txt
+SHA-256-Digest: O/knOzAccRo6Olwz0U6ksO1iGHou6S/y67yIBgnFgRs=
+
+Name: META-INF/androidx.loader_loader.version
+SHA-256-Digest: FXXhr0qV8S9wtO5qatzoFglT2T6hfcJhG5CIPMw607g=
+
+Name: assets/RDI/fr-rCA.txt
+SHA-256-Digest: plUEQ/8kbH8yMw/pJt2HlGxLupOGHJxW8sWOUVeFnSo=
+
+Name: res/drawable/selector_noise_control_icon.xml
+SHA-256-Digest: 6XcMZQEvvuLW3W0V7crwbtolJV9QQVW0/BOpVu2qKEY=
+
+Name: res/interpolator/sine_in_out_70.xml
+SHA-256-Digest: rt9tDmo9sTyS85sQQHJKvkt+QtG2dK2qostU5dPyENA=
+
+Name: res/layout/sesl_select_dialog_singlechoice.xml
+SHA-256-Digest: t2Zv30yQxeZSqqkT1+puHlcU9eQbss/aX6ApWX/t288=
+
+Name: res/drawable/sesl_switch_background.xml
+SHA-256-Digest: EAzOJTDKLiQccCq2LRgjvzrjMDXeRdUG1m/GvuUn5cQ=
+
+Name: res/drawable/sesl_spinner_background_dark.xml
+SHA-256-Digest: BJGpqSg0EzpxC0q33ovqxFX5SpVtBfLM2hK3BPNXHWo=
+
+Name: res/drawable/fotaprovider_bottombar_button_orange_background.xml
+SHA-256-Digest: SJTnVF6hfDMm+OCXjOiggLu986LNlXSVQwYlr9smZqM=
+
+Name: res/color/sesl_edit_text_dark.xml
+SHA-256-Digest: XTVr67I2aPTnpyTiDBaF76xkOn4Ps4125AMibvcD0JQ=
+
+Name: res/layout/activity_widget_setting.xml
+SHA-256-Digest: bDcX76u3Km1qNhIlcn6Xu3zEUB3wmj1Kl+tzGHlGARE=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: tqqz3YENjCul04oVfVLTopuNyxXfwL/MoaC2H2jnmI8=
+
+Name: res/animator/mtrl_btn_unelevated_state_list_anim.xml
+SHA-256-Digest: 9oKGJdsj8Q4r2hEBc4zcXhjJKwj4TCSgGjgTiVvwcfs=
+
+Name: res/anim/sesl_checkbox_to_unchecked_circle_fill_anim.xml
+SHA-256-Digest: LCo7hA7YriTiWyUvxsU0jsS2E+BY/DIy53SYjkrZWyk=
+
+Name: res/drawable-xxhdpi-v4/fd_home_tips_charging_using_phone.webp
+SHA-256-Digest: Oi4s5KC/k6lHEH+sueLNZ2QO0etWG9NUF7zjemJ4bB4=
+
+Name: res/drawable-xxhdpi-v4/gm_list_ic_incomimgcall.png
+SHA-256-Digest: yFksvU5zlokFlqIsJrLZnBeE/wkN9iQ+6OlPPPH+wPs=
+
+Name: res/drawable/sesl_ic_clear.xml
+SHA-256-Digest: tnOVAxdefF15whePq1sR4iJ/ky6UM8EwEwaNFjjxqQM=
+
+Name: res/drawable/shape_rounded_rectangle.xml
+SHA-256-Digest: Bb1zx/sMM/o++7sb30cKX30JZjGrOGD4S7hj4fMnFHY=
+
+Name: assets/RDI/ga.txt
+SHA-256-Digest: LEcJCL8RNtJMX3uuJLf/jnrhB9y57e0W2JWppLYbMiQ=
+
+Name: res/layout/sesl_time_picker_spinner.xml
+SHA-256-Digest: JPWC5rWeOG9yTRAE8i3MUNs8RT57D2m9wamMq6mrCzo=
+
+Name: res/drawable/fotaprovider_widget_progressbar_horizontal_indeterm
+ inate.xml
+SHA-256-Digest: 26maXAgCNaEdcYk/Zv6pAzRtN0q/ztq1vbvaWa7gKYY=
+
+Name: res/layout/dialog_routine_vertical_button.xml
+SHA-256-Digest: zZcKV8AwBSuN66yQhfZHi5EFq5iQeOmJwFSJqPCpV0U=
+
+Name: META-INF/androidx.cardview_cardview.version
+SHA-256-Digest: WYVJhIUxBN9cNT4vaBoV/HkkdC+aLkaMKa8kjc5FzgM=
+
+Name: res/drawable/ic_stat_notify_tws_postpone.xml
+SHA-256-Digest: eKa0nUDt+4uwfVMr2PPNyQlO3qsO0AXC81pFcc+Kkl4=
+
+Name: res/drawable/mtrl_dropdown_arrow.xml
+SHA-256-Digest: QfdvrjmCHZR+KgzCBF1lhsdAZaaJpXiC1T5FsYTuZMc=
+
+Name: res/layout/sesl_action_menu_item_badge.xml
+SHA-256-Digest: /dwVgo643lElVTjuI6YD0tm1lhMlv9AUagSGAj3VvRQ=
+
+Name: res/layout/sesl_spinning_date_picker.xml
+SHA-256-Digest: erI0QO7/WaYbCoThnTM7AWwVhW+9a4RCLKvkyq1DEb8=
+
+Name: assets/EULA/ky-rKG.txt
+SHA-256-Digest: ag/ko5HKih5pETUZUY5P4arfYxakY8r4wMz7u+wn5/s=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Bengali.txt
+SHA-256-Digest: 3szt7FwNNLl3msp8/GLP4QFdNiw+mBAs4Ivx21WdfwY=
+
+Name: res/color/mtrl_btn_text_color_selector.xml
+SHA-256-Digest: 4UUtNX+Z4daz6B7E/huGVWoNkpK1/1mx0X1l448Vh44=
+
+Name: res/drawable-xxhdpi-v4/gw_buds_eq_rail_1.png
+SHA-256-Digest: +VYsu6xyDBgyS489pDoFEjZ7scABk5zQcCd1KucrWV0=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Spanish_Latin.txt
+SHA-256-Digest: 731Y8d0E2OfQL0Qflbzp8sVZXrMFKdeuTrYVubfFUfQ=
+
+Name: res/drawable/sesl_vector_drawable_progress_indeterminate_horizon
+ tal.xml
+SHA-256-Digest: kc21zJ6DUPbe/KheSyZv7KYhdKz2g1as88VLp0YZ+Vk=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA-256-Digest: nbG6O8WqVJZ8dI7PQb32sn+BtwWIIxzRZqV1XqCV0qA=
+
+Name: res/drawable/common_google_signin_btn_text_disabled.xml
+SHA-256-Digest: NjejpwyIDZaxhT4VpW7JpXcr8vWLT2VmgHWSxPNkdYk=
+
+Name: res/drawable/fotaprovider_bottombar_button_grey_background.xml
+SHA-256-Digest: ZLeRDS8HHTnwbG99S7oSEL7i9/4RUKDrnQ7VrEE5A1A=
+
+Name: res/color/mtrl_fab_ripple_color.xml
+SHA-256-Digest: D9J/P+Yu5Mw8mpsnpt+KtLajU0TjSFmWudUMUVzdNAI=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA-256-Digest: HKQ9zYZH8ogT0Kt6ve/P07fDjzyaIgcQoIpejmWYvB8=
+
+Name: res/color/sesl_primary_text_dark.xml
+SHA-256-Digest: 8mLrIYlYhxvfh5qRcRMf6HFwEbzFNSZSsAInRYH8uYA=
+
+Name: res/layout/sesl_bottom_navigation_item.xml
+SHA-256-Digest: ZbEMf6TTEEDna+klDYxch7dN6pNPhVT5NIo04jnZMs8=
+
+Name: res/drawable-xxhdpi-v4/fit_default_right.png
+SHA-256-Digest: orJJaz6xoLb1llWG0snZCorZMRAf4SpBlMbxoYSZx9g=
+
+Name: assets/RDI/en-rUS.txt
+SHA-256-Digest: 08CObtfMRrjfn4i3/E56ks60T89J8W7qq1yhmHeSwK8=
+
+Name: res/drawable/sesl_vector_drawable_progress.xml
+SHA-256-Digest: ZkAPuc6gGUT+jAm+PDPPQxhFirKTqaJgyElKfLWajMA=
+
+Name: res/drawable-xxhdpi-v4/ic_equalizer.png
+SHA-256-Digest: ynI4zxws5ILROF7XB0EPbT/vxcwit8FN6sPyRzpsspw=
+
+Name: res/drawable-v23/sesl_btn_radio_to_on_000.xml
+SHA-256-Digest: Qp9Y7bAkVK/ww5u4k8HK+I5K4viHKsVxTmCe8/qbmn0=
+
+Name: res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_b
+ ackground.9.png
+SHA-256-Digest: mGVhkZZiSjy6MqNrARE1ev6jFI8SMiG6jHJlvGgauKk=
+
+Name: res/drawable-xxhdpi-v4/rc_bottom_right.xml
+SHA-256-Digest: ip7fUWafidq+I7fmmA1tvbgsdVOiePZ+nlYQ3Y1pNto=
+
+Name: res/layout/activity_routine_config_onoff.xml
+SHA-256-Digest: +1EWc19K8DpbXOfVAAS1pbAw8LiAvk9a5ivlGO7sHKA=
+
+Name: res/drawable/shape_rounded_rectangle_transparent_inner.xml
+SHA-256-Digest: yl/vuaAs5RIa1TXK4sclbwapS5TqmuQeqjqp+/XVSqU=
+
+Name: res/layout-sw600dp-v13/sesl_spinning_datepicker_time_picker_spin
+ ner.xml
+SHA-256-Digest: ipSrBFOnEr/GRxNriTDqc2Oe1NvN/IkoBnEDaIvf824=
+
+Name: res/layout/sesl_time_picker_spinner_dialog.xml
+SHA-256-Digest: BMbj3yyg2wor/JPObTomZBnNjnSpRZ3f1fjUjdn+kOg=
+
+Name: res/anim/sesl_radio_to_off_circle_inner_anim.xml
+SHA-256-Digest: e20FPpBjAXQz42CytbKLCDL/mQOTBPCIY8apjDIVAyM=
+
+Name: assets/RDI/my-rZG.txt
+SHA-256-Digest: 5Zj9RZbpmr+/0k+VRlPIinBGyflcUn/ayF0IEVLBPb4=
+
+Name: res/layout/activity_more_useful_features.xml
+SHA-256-Digest: OWqYyIa760h3AUpGOHiFDFzmo3S/JH47jDK80tmDYTo=
+
+Name: res/anim/sesl_radio_to_off_circle_inner_group_anim.xml
+SHA-256-Digest: KZPeR88eJqNPpoYk7eAQRVjrYY8B8+SalplMZKPCFls=
+
+Name: res/drawable/design_fab_background.xml
+SHA-256-Digest: z4pq/ez4HTlzV/IQoMhCo4RedXjDE2Bbmongq8fiSug=
+
+Name: res/drawable/sesl_tablayout_tab_borderless.xml
+SHA-256-Digest: oZQQgv1OL/hklbaSwlX5k3XVm0u/upEag1tusA9NyAs=
+
+Name: res/drawable-xxhdpi-v4/start_finding_new.png
+SHA-256-Digest: Kx3msUU8yKAjE7dFxQzZInKKFAs0WDHFJHAPvsQTC+8=
+
+Name: res/layout/mtrl_calendar_months.xml
+SHA-256-Digest: M7iFSh1d8IWjkPruMFAaYf/otQj5XA/b1K3CKPMfL4I=
+
+Name: res/anim-v21/design_bottom_sheet_slide_out.xml
+SHA-256-Digest: CK+AFKQhO+EWeEb+unXGS9X3AW0y5tNfOese2MkJdGg=
+
+Name: assets/EULA/en.txt
+SHA-256-Digest: e+Gvp15rjA8zFJylnid/Y8/OVS4muMf79ogXqzxk3tY=
+
+Name: res/drawable/ic_mtrl_chip_checked_black.xml
+SHA-256-Digest: 6twH6EP56ZhOn3P8iriLqpBXnC8/Nooyw+LJPL/3Yz8=
+
+Name: res/drawable/sesl_progress_horizontal.xml
+SHA-256-Digest: S9BMgfl4LgZJYa7MjWzR7O6jz938ofc6cZFDUtpArao=
+
+Name: res/layout/sesl_transient_notification.xml
+SHA-256-Digest: MhjNYMEAygd7Wq0voU93Raj+U7qeprQYUI2h2xa52kM=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_French_Canada.txt
+SHA-256-Digest: cwZZ9m/PJgyz1kyFsnx6BzJWTL+RjYN1ViCJwoF+NMk=
+
+Name: res/drawable-mdpi-v4/sesl_fastscroll_thumb_alpha.png
+SHA-256-Digest: J+3ucvPXYC2sPhN3MmP2gWSguTubQ9bTGAFV7jXFVb4=
+
+Name: res/drawable-xxhdpi-v4/level3.png
+SHA-256-Digest: 0nBk1nThMoHoxccqJRgHRpyEzhesOEsg5vu4oPA0fzA=
+
+Name: assets/EULA/uz-rUZ.txt
+SHA-256-Digest: Tb5HzToX+WAekVLAsXpFkw4YzeRCEw3HEa71588NbmQ=
+
+Name: res/layout-ldrtl/card_earbuds.xml
+SHA-256-Digest: YpYqrgEjK6x3zFId1AWsKA5ooFCd71N59C/MFsxjT8s=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: GLMo2AF+Z31arT29ZrrjVrXKyXjG8GcJOOpkjlHQ62Y=
+
+Name: res/layout/activity_about_earbuds.xml
+SHA-256-Digest: CBPwyb+1e30sigfSxLG1S+/jcVYLssZiGzaAO9xJeHc=
+
+Name: assets/EULA/fa.txt
+SHA-256-Digest: tESyXKJC5CGXNbdDGfkIwYsK6oiRLaojoTVSH/mN7Q8=
+
+Name: res/color/mtrl_card_view_foreground.xml
+SHA-256-Digest: BHCUpsEYkd2PFx0ujb4LntMqt2xPcy7dynFhSX9TCwk=
+
+Name: res/drawable/sesl_control_background.xml
+SHA-256-Digest: EAzOJTDKLiQccCq2LRgjvzrjMDXeRdUG1m/GvuUn5cQ=
+
+Name: res/layout/mtrl_picker_dialog.xml
+SHA-256-Digest: 7YZ4klXvzgMbmMlDQFrjtiexQGFBpl0/3ybWc/esKJ0=
+
+Name: res/layout/card_earbuds.xml
+SHA-256-Digest: FONcpxdQu0wCPbSMZJHslBLJ0JuIxkkepQhNlfWS3hU=
+
+Name: res/drawable-xxhdpi-v4/ic_equalizer_dim.png
+SHA-256-Digest: rf+CMfWPeI7BWFAIWleuew9hwBFHbrYtXTELDLF0Rvg=
+
+Name: assets/EULA/zh-rHK.txt
+SHA-256-Digest: n4NI/iVdl+zHopTZMLfIF32iMUVYgY61WzQ4wkvKyVE=
+
+Name: res/drawable-xxhdpi-v4/widget_buds_right_white.png
+SHA-256-Digest: My7rPGubE1i8UhMdSVU6Izo4dxfHt4J+d9MQ485LFLI=
+
+Name: res/layout/text_view_with_line_height_from_style.xml
+SHA-256-Digest: QAhviLs95RTpYD9IshNdtHv28m1UEvItB6AEt5wxiq4=
+
+Name: res/xml/standalone_badge_gravity_bottom_start.xml
+SHA-256-Digest: JHXxaE4F1OGenHsd7GxNjei/iGitUPdRMIOdL9cHtpY=
+
+Name: res/drawable/background_button_ripple.xml
+SHA-256-Digest: vOoxCnrlSa2FbbPaUL3wbt73E3RmTeQjMQs1IYhJnUA=
+
+Name: assets/EULA/km-rKH.txt
+SHA-256-Digest: qPpuD46TPkA3dJHTvl5bEIt+5s7v/cE++dlRx5RCQLQ=
+
+Name: res/color/sesl_tablayout_selected_text_color.xml
+SHA-256-Digest: /EvOH4J565fD5hSZfIqcq3nqP+hVZiJrDeBa6KKp7dw=
+
+Name: res/drawable/common_google_signin_btn_text_dark.xml
+SHA-256-Digest: Dkemsg6qqgrVAwClNysigfjrR0W+ViQ8jExfrAx2NAQ=
+
+Name: res/animator/mtrl_chip_state_list_anim.xml
+SHA-256-Digest: xQWwYz9svYlnI+KFmhNZb4ybHKSA+8uBW6EV6RM418k=
+
+Name: META-INF/androidx.sqlite_sqlite.version
+SHA-256-Digest: yJuHwmLp1f/SDnOqx0oXcq3Mn1ohaCzDOtz1CG5f71w=
+
+Name: res/color/sesl_bottom_nav_text_color_light.xml
+SHA-256-Digest: WJhqfBL7+l2qOM5QsKx+aiTKevrIiStl38Y0O9JYt1Q=
+
+Name: res/layout/design_navigation_item_separator.xml
+SHA-256-Digest: J4n5m2iSKAlcsfFi14IKqaKs2z2K3jKG+w6PPWaT46w=
+
+Name: res/drawable-xxhdpi-v4/level1_booster.png
+SHA-256-Digest: 7lFK/Q5ww3k3ueTQimHP8AUSkBxKK9+Cns2eI4U7Z+g=
+
+Name: res/drawable-v23/sesl_list_choice_check_to_on_000.xml
+SHA-256-Digest: 3R9cMItCkOeC/4hbXBGaCN3TVgHyPSbBhIGSmY+/CDM=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal
+ _background.9.png
+SHA-256-Digest: CSvzMwgOKz7OYxR+oV5qwEkVlowBDlw/hfjLZQ1h7Lc=
+
+Name: res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal
+ _background.9.png
+SHA-256-Digest: vgNpPEfTxNRGbxSmlerM0hC2HpHYCMDEpG1vAhtZgng=
+
+Name: res/drawable-xxhdpi-v4/routines_ic_action_buds_notifications.png
+SHA-256-Digest: 4/KjKFewkddXLb7P/+vqlyg50sezYwLvABd7RPu5Xy4=
+
+Name: res/color/mtrl_chip_ripple_color.xml
+SHA-256-Digest: YoIa2XT3epsGqfMqgxcInrD3Ynm/kbs3R4dcoSiNS8g=
+
+Name: res/drawable/sesl_tablayout_show_button_shapes_background.xml
+SHA-256-Digest: lKMyuPo9wYxT5W9BhLt6MbAHUQSxjb13/CTkUwFfec8=
+
+Name: res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_
+ background.9.png
+SHA-256-Digest: /LRBak9fW01yhU2RciKJeJswu1Ysbw9Xl1gYq1VcyAk=
+
+Name: assets/EULA/mn-rMN.txt
+SHA-256-Digest: cI6JNITPnxyS/Jl5B8tKwwa/7/POsZU5R57pS2eIN6Y=
+
+Name: res/drawable-xxhdpi-v4/ic_noise_control_dim.png
+SHA-256-Digest: NEMsvr+0DD8kbQumfMOfHmi7mf5YakKsalvou9q06gY=
+
+Name: res/layout/card_menu_about.xml
+SHA-256-Digest: ddi0iDhI604qAeqa00aDWaE4jGdzMYHWS+44AWjLxUo=
+
+Name: res/layout/sesl_spinning_date_picker_spinner.xml
+SHA-256-Digest: x8wkQYPyJcGSK59a22XTuwwJVMR1Ppk7aSAFuhCwydo=
+
+Name: res/drawable-xxhdpi-v4/equalizer_01.png
+SHA-256-Digest: pgz4bI5BWBbE6/sviX3s0R1DgJeb+Z6eP8Fhcycz7dY=
+
+Name: assets/RDI/az-rAZ.txt
+SHA-256-Digest: Cb88D9dpuMGAG2htp7QOlfUv003ql6ACEEC8OfIRpKk=
+
+Name: res/anim/fragment_close_enter.xml
+SHA-256-Digest: qXSoe4KwXqGQJoUzkPdrKu1MLNEVk5NjM4vU3vwEmaQ=
+
+Name: res/color/mtrl_choice_chip_background_color.xml
+SHA-256-Digest: f34RY05ShMb/rSSzkz1ZlqaWzWw/hK3XLGxIHuPCOk8=
+
+Name: assets/EULA/es-rES.txt
+SHA-256-Digest: cj7unm31KqrkNEnMlYVGwVUcafwXASvluC0DQPk/H7g=
+
+Name: res/layout/test_toolbar_custom_background.xml
+SHA-256-Digest: pAiAN0x8Ubj8om8G6NdOgMLW8BckQ813xJGfWC8Fyqo=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Marathi.txt
+SHA-256-Digest: sqQuEntcRntEMtqxereZjXsx7bn/Sc1hIw1OOIIOYWY=
+
+Name: play-services-basement.properties
+SHA-256-Digest: Rk0ClCVCPcKQ4I2V5Y9lS/YBAvnadpqp+J2sDySC1I8=
+
+Name: res/drawable/sesl_bottom_right_round.xml
+SHA-256-Digest: SPzatX1c+z2WhgEjo0KzEAsWPwzaQjfSFao1rj/i9mg=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Czech.txt
+SHA-256-Digest: UER44IPJVDS1aLUOwJ+nUljwnUM/uUzXOSMZ6Qq+YSY=
+
+Name: play-services-stats.properties
+SHA-256-Digest: 6DrH1ynCN8HdViuFip+cXHJAHMjF3xKhv7Vlx0OK9dc=
+
+Name: assets/noise_control_activate_noise_reduction.json
+SHA-256-Digest: NsDuc1XGXUNC5W03xKUuA4kBPg3vJdr8yZJm7N9j/pE=
+
+Name: res/drawable-ldpi-v4/sesl_fastscroll_thumb_alpha.png
+SHA-256-Digest: jDFgrWwqw9tI/rSVz/+TXVRqGAU99F7ozmT/2B8B9PM=
+
+Name: lib/arm64-v8a/libFotaServiceInfo.so
+SHA-256-Digest: 7KoHZVhdt76ysMUdmk/Hav2iBn5GC9x9yrFHNwDQQkM=
+
+Name: res/drawable-xxhdpi-v4/circle_noise_control_selected_dim.png
+SHA-256-Digest: Dko6h4kUtoQKkPmm0K7yk1ov+/14Af5ReTrpdvWWfOg=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Gujarati.txt
+SHA-256-Digest: lwfcZcimFR4zxozE/rqfqDC000AU9sNCdsqwVU6OhdQ=
+
+Name: assets/EULA/pt-rPT.txt
+SHA-256-Digest: Fm7BWJ4V8ekTglM1ZIV38enDMC3MfDUOv9N7qCZaBNE=
+
+Name: res/anim/sesl_radio_to_on_circle_outline_anim.xml
+SHA-256-Digest: SweBvaLmi7lC1J7IcX86+KGLKdlveA1DXdb0YAFezZs=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Punjabi.txt
+SHA-256-Digest: uwYiiu6tAXWTchZ1xVgWlCIAeusRjLyMLHRkhH62XBI=
+
+Name: assets/RDI/si.txt
+SHA-256-Digest: fyJSnjXkqM2P9snIXu95oh56aifjvgnIm5E6QG3dsmQ=
+
+Name: res/drawable/sesl_seekbar_background_borderless_expand.xml
+SHA-256-Digest: GdDXK3sGoHKry94yUkYtcvSfU4/acPzxrV4RLShXTYA=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA-256-Digest: 6BbcCZj07pDXtjDxfhb8wuctkQeMUxWtqsS8LaTCJtc=
+
+Name: res/drawable-xxhdpi-v4/battery_low.png
+SHA-256-Digest: JG2km+ciBFXTueZ6ham+BUm/NerFgBnx9E8K/TXdnaE=
+
+Name: res/drawable-v23/sesl_btn_radio_to_on_001.xml
+SHA-256-Digest: cE6/SouX7eArM3yVvkg60zexr3tYTXIMgDwLBjpIwyw=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: DGMox7JCBXCn7DizvrO6yaKdiVrBq3I5MVq6cmZBhZM=
+
+Name: assets/EULA/ml-rIN.txt
+SHA-256-Digest: xkIDtlLWIUc5C25BnvXHqklN0+GzTpgyqpIhKOFV5JY=
+
+Name: assets/Privacy Notice/[Global] Galaxy Wearable Privacy Notice_Gl
+ obal_191229_Norwegian.txt
+SHA-256-Digest: zzlhUMvvIMiyph7TO73Moe5FC179XlWIgkERoc5WVdI=
+
+Name: res/drawable/background_progress_black.xml
+SHA-256-Digest: OX3IBph8txeKdz8su0rOw0KzWT6wO5nI71xMkxdpybk=
+

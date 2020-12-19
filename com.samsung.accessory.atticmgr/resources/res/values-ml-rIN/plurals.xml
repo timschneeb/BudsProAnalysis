@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">അക്ഷരം %d-ൽ കൂടുതൽ ചേർക്കാനാവില്ല.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">അക്ഷരങ്ങൾ %d-ൽ കൂടുതൽ ചേർക്കാനാവില്ല.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d സെക്കന്‍റ്</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d സെക്കന്‍റ്</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d സെക്കന്‍റ് നിങ്ങളുടെ ശബ്ദം കണ്ടെത്തപ്പെടാതിരിക്കുമ്പോൾ സംഭാഷണ മോഡ് അവസാനിക്കുന്നു</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d സെക്കന്‍റ് നിങ്ങളുടെ ശബ്ദം കണ്ടെത്തപ്പെടാതിരിക്കുമ്പോൾ സംഭാഷണ മോഡ് അവസാനിക്കുന്നു</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">നിങ്ങളുടെ ഇയർബഡ്ഡുകളെ നേരത്തേതന്നെ ഒരു ഫോണുമായോ ടാബ്‌ലറ്റുമായോ ബന്ധിപ്പിച്ചിട്ടുണ്ടെങ്കിൽ, അവയെ വീണ്ടും ബന്ധിപ്പിക്കുന്നതിന് ചാർജ്ജിംഗ് കെയ്സ് ഒന്ന് തുറക്കുക.\10\10അവ ഓട്ടോമാറ്റിക്കായി ബന്ധിപ്പിക്കപ്പെടുന്നില്ലെങ്കിൽ, അല്ലെങ്കിൽ ഒരു പുതിയ ഫോണുമായോ ടാബ്‌ലറ്റുമായോ നിങ്ങൾക്ക് ബന്ധിപ്പിക്കണമെന്നുണ്ടെങ്കിൽ, നിങ്ങളുടെ ഇയർബഡ്ഡുകൾ ധരിക്കുക, തുടർന്ന് നിങ്ങൾ ഒരു ബീപ് ശബ്ദം കേൾക്കുന്നതുവരെ %d സെക്കന്‍റ് രണ്ട് ഇയർബഡ്ഡുകളും സ്പർശിച്ചുപിടിക്കുക.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">നിങ്ങളുടെ ഇയർബഡ്ഡുകളെ നേരത്തേതന്നെ ഒരു ഫോണുമായോ ടാബ്‌ലറ്റുമായോ ബന്ധിപ്പിച്ചിട്ടുണ്ടെങ്കിൽ, അവയെ വീണ്ടും ബന്ധിപ്പിക്കുന്നതിന് ചാർജ്ജിംഗ് കെയ്സ് ഒന്ന് തുറക്കുക.\10\10അവ ഓട്ടോമാറ്റിക്കായി ബന്ധിപ്പിക്കപ്പെടുന്നില്ലെങ്കിൽ, അല്ലെങ്കിൽ ഒരു പുതിയ ഫോണുമായോ ടാബ്‌ലറ്റുമായോ നിങ്ങൾക്ക് ബന്ധിപ്പിക്കണമെന്നുണ്ടെങ്കിൽ, നിങ്ങളുടെ ഇയർബഡ്ഡുകൾ ധരിക്കുക, തുടർന്ന് നിങ്ങൾ ഒരു ബീപ് ശബ്ദം കേൾക്കുന്നതുവരെ %d സെക്കന്‍റ് രണ്ട് ഇയർബഡ്ഡുകളും സ്പർശിച്ചുപിടിക്കുക.</item>
+    </plurals>
+</resources>

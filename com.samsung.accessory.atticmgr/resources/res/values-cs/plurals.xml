@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nelze přidat více než %d znak.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nelze přidat více než %d znaky.</item>
+        <item quantity="many">Nelze přidat více než %d znaků.</item>
+        <item quantity="other">Nelze přidat více než %d znaků.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+        <item quantity="other">%d sekund</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Režim Konverzace se ukončí, když váš hlas nebude zaznamenán po dobu %d sekundy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Režim Konverzace se ukončí, když váš hlas nebude zaznamenán po dobu %d sekund</item>
+        <item quantity="many">Režim Konverzace se ukončí, když váš hlas nebude zaznamenán po dobu %d sekund</item>
+        <item quantity="other">Režim Konverzace se ukončí, když váš hlas nebude zaznamenán po dobu %d sekund</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pokud jste již spárovali sluchátka s telefonem nebo tabletem, stačí otevřít nabíjecí pouzdro, abyste je znovu připojili.\10\10Pokud se nepřipojí automaticky, nebo je chcete spárovat s novým telefonem nebo tabletem, nasaďte si sluchátka a potom se obou sluchátek dotkněte a podržte je na %d sekundu, dokud neuslyšíte pípnutí.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pokud jste již spárovali sluchátka s telefonem nebo tabletem, stačí otevřít nabíjecí pouzdro, abyste je znovu připojili.\10\10Pokud se nepřipojí automaticky, nebo je chcete spárovat s novým telefonem nebo tabletem, nasaďte si sluchátka a potom se obou sluchátek dotkněte a podržte je na %d sekundy, dokud neuslyšíte pípnutí.</item>
+        <item quantity="many">Pokud jste již spárovali sluchátka s telefonem nebo tabletem, stačí otevřít nabíjecí pouzdro, abyste je znovu připojili.\10\10Pokud se nepřipojí automaticky, nebo je chcete spárovat s novým telefonem nebo tabletem, nasaďte si sluchátka a potom se obou sluchátek dotkněte a podržte je na %d sekund, dokud neuslyšíte pípnutí.</item>
+        <item quantity="other">Pokud jste již spárovali sluchátka s telefonem nebo tabletem, stačí otevřít nabíjecí pouzdro, abyste je znovu připojili.\10\10Pokud se nepřipojí automaticky, nebo je chcete spárovat s novým telefonem nebo tabletem, nasaďte si sluchátka a potom se obou sluchátek dotkněte a podržte je na %d sekund, dokud neuslyšíte pípnutí.</item>
+    </plurals>
+</resources>

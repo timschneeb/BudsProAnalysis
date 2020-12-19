@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Δεν μπορείτε να προσθέσετε πάνω από %d χαρακτήρα.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Δεν μπορείτε να προσθέσετε πάνω από %d χαρακτήρες.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d δευτερόλεπτο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Η λειτουργία συζήτησης τερματίζεται όταν η φωνή σας δεν εντοπίζεται για %d δευτερόλεπτο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Η λειτουργία συζήτησης τερματίζεται όταν η φωνή σας δεν εντοπίζεται για %d δευτερόλεπτα</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Αν έχετε ολοκληρώσει τη σύζευξη των ακουστικών με ένα τηλέφωνο ή tablet, απλώς ανοίξτε τη θήκη φόρτισης για να τα συνδέσετε ξανά.\10\10Αν δεν συνδεθούν αυτόματα ή αν θέλετε να δημιουργήσετε σύζευξη με νέο τηλέφωνο ή tablet, φορέστε τα ακουστικά και, στη συνέχεια, αγγίξτε παρατεταμένα και τα δύο ακουστικά για %d δευτερόλεπτο μέχρι να ακούσετε έναν ήχο.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Αν έχετε ολοκληρώσει τη σύζευξη των ακουστικών με ένα τηλέφωνο ή tablet, απλώς ανοίξτε τη θήκη φόρτισης για να τα συνδέσετε ξανά.\10\10Αν δεν συνδεθούν αυτόματα ή αν θέλετε να δημιουργήσετε σύζευξη με νέο τηλέφωνο ή tablet, φορέστε τα ακουστικά και, στη συνέχεια, αγγίξτε παρατεταμένα και τα δύο ακουστικά για %d δευτερόλεπτα μέχρι να ακούσετε έναν ήχο.</item>
+    </plurals>
+</resources>

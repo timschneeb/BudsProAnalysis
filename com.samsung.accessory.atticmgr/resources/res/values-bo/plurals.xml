@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ཡིག་འབྲུ %d ལས་མང་བ་བསྐོང་མི་ཐུབ།</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">སྐར་ཆ་%d</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">当 %d 秒内未检测到您的语音对话模式结束</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">གལ་ཏེ་ཁྱེད་ཀྱིས་རྣ་གཞུག་ནི་ཁ་པར་རམ་སྙོམ་ལེབ་གློག་ཀླད་ལ་ཟླ་སྒྲིག་བྱས་ཟིན་ན།གློག་གསོག་ཆས་ཀྱི་ཁ་ཕྱེས་ནས་སླར་སྦྲེལ་མཐུད་བྱས་ཆོག\10\10གལ་ཏེ་སྒྲིག་ཆས་ནི་རང་འགུལ་གྱིས་སྦྲེལ་མཐུད་བྱས་མེད་པའམ་ཁྱེད་ཀྱིས་ཁ་པར་གསར་བའམ་སྙོམ་ལེབ་གློག་ཀླད་ལ་ཟླ་སྒྲིག་བྱེད་འདོད་ན།རྣ་གཞུག་གོན་ཞིང་རྣ་གཞུག་གཉིས་པོར་རེག་ཅིང་སྐར་ཆ་%d་ལ་མནན་ནས་ཏིག་ཏིག་གི་སྒྲ་འཐོས་པར་བྱེད།</item>
+    </plurals>
+</resources>

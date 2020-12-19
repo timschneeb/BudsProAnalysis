@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Зиёда аз %d аломат илова кардан ғайриимкон аст.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Илова кардани зиёда аз %d аломат ғайриимкон аст.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d сония</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d сония</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Агар овози шумо давоми %d сония муайян нашавад, реҷаи Суҳбат қатъ карда мешавад</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Агар овози шумо давоми %d сония муайян нашавад, реҷаи Суҳбат қатъ карда мешавад</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Агар гӯшмонакҳои худро аллакай бо ягон телефон ё планшет ҷуфт карда бошед, барои онҳоро дубора пайваст кардан, ҷилди барқдиҳандаро кушоед.\10\10Агар онҳо ба таври худкор пайваст нашаванд, ё агар онҳоро бо телефон ё планшети нав ҷуфт кардан хоҳед, гӯшмонакҳоро ба ҳамдигар расонда, давоми %d сония то сигнал шунидан нигоҳ доред.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Агар гӯшмонакҳои худро аллакай бо ягон телефон ё планшет ҷуфт карда бошед, барои онҳоро дубора пайваст кардан, ҷилди барқдиҳандаро кушоед.\10\10Агар онҳо ба таври худкор пайваст нашаванд, ё агар онҳоро бо телефон ё планшети нав ҷуфт кардан хоҳед, гӯшмонакҳоро ба ҳамдигар расонда, давоми %d сония то сигнал шунидан нигоҳ доред.</item>
+    </plurals>
+</resources>

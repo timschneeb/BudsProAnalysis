@@ -1,0 +1,50 @@
+﻿Galaxy Wearable-ren Pribatutasun Oharra
+
+
+Azken eguneratzea: 2020ko abenduaren 1ean
+
+Samsung Electronics Co., Ltd. konpainian badakigu pribatutasunak zer nolako garrantzia duen gure bezeroentzat. Pribatutasun Ohar hau egin dugu zure informazio pertsonala nola bildu eta erabiltzen dugun ulertzen duzula ziurtatzeko.
+
+Gure Pribatutasun Politika https://account.samsung.com/membership/pp –esteka honetan ikusi daitekeela, Galaxy Wearable-ren erabilerari ere badagokio. Gure Pribatutasun Politikak informazio gehiago dakar, zure datuak nola erabiltzen ditugun jakin dezazun. Gurekin harremanetan jartzeko informazioa ere badakar. Mesedez, irakur ezazu gure Pribatutasun Politika, Pribatutasun Ohar honez gain. Edonola ere, Pribatutasun Ohar hau beti gailentzen zaio Pribatutasun Politikari.
+
+ZER INFORMAZIO BILTZEN DUGU?
+
+Galaxy Wearable-ren bidez, zuri buruzko informazioa jasotzen eta gordetzen dugu hainbat modutan. 
+
+
+Zure Galaxy Wearable-ren erabilerari buruzko informazioa
+
+• Gailuaren informazioa: Zure hardware modeloa, gailuaren hardwarearen informazioa, serie zenbakia eta beste zenbaki identifikatzaile bakarrak, telefono zenbakia, salmentako kodea, oraingo sofwarearen bertsioa, MCCa (mugikorraren herrialdeko kodea), MNCa (mugikorraren sareko kodea), MACa helbidea, Bluetooth helbidea, sistema eragilearen bertsioa, eta Galaxy Wearable-an sartzeko erabiltzen duzun gailuaren ezarpenak.
+• Saioa hasteko informazioa: Diagnostikoari, teknikoari, akatsei eta erabilerari buruzko informazioa, hala nola zure Galaxy Wearablea erabiltzen duzun denbora eta iraupena, zuk zure Galaxy Wearable-an instalatu dituzun aplikazioak, hauekin egiten duzun erabilera eta interakzioa Galaxy Wearable-ren bidez eta eskaintzen den beste eduki bat, eta zure gailuetan instalatzen ditugun cookietan gordetako edozein informazio.
+• Kokapenaren informazioa: Zure gailuaren GPS seinalea edo hurbileko Wi-Fi sarbide puntu eta zelula dorreei buruzko informazioa bidaltzen zaigu (gure zerbitzu hornitzaileak barne), zure Galaxy Wearable erabiltzen duzun bitartean, Location funtzioa aktibatzen duzunean eta Find My Watch edo Find My Phone funtzioa erabiltzen duzunean edo SOS funtzioa erabiltzen duzunean..
+
+ZERTARAKO ERABILTZEN DUGU ZURE INFORMAZIOA?
+
+• Galaxy Wearable-an erregistra zaitezen eta erabil dezazun laguntzeko. 
+• Zuk eskatzen dituzun zerbitzuak eta eginbideak emateko. 
+• Zure eskaerei eta galderei erantzuteko, eta zure Galaxy Wearable-ri buruz hitz egiteko, honi lotutako laguntza teknikoa eskatzen duzunean emateko barne. 
+• Samsung-en edo Hirugarrenen aplikazio, eginbide eta zerbitzu jakin batzuekin elkarreragin ahal izateko. Esaterako, zure aplikazioak eta ezarpenen informazioa gorde ahal izango duzu Samsung Cloud-en, edo Samsung Health erabili ahal izango duzu zure Galaxy Wearable-an.
+• Zure Galaxy Wearable-ari dagozkion zerbitzu eta eduki pertsonalizatuak emateko. 
+• Sustapenak eta eskaintzak emateko merkataritza jakinarazpenen bidez, aparteko baimena eman diguzunean soilik.
+• Gure produktuak eta zerbitzuak aztertzeko, zure Galaxy Wearable-a barne, gure bezeroak hobeto ulertzen laguntzeko, komunikazio, zerbitzu eta esperientzia garrantzitsuenak eskaintzeko.
+• Gure produktu eta zerbitzuei buruzko iritzia eskatzeko, eta bezero inkestak egiteko –hala eskatzen bada, zure aparteko baimenarekin.
+• Zure Galaxy Wearable-rako software eguneratze, mantenu zerbitzu eta laguntza emateko.
+• Legeak eta araudiak betetzeko.
+• Samsung Electronics-en edo bere filialen, bazkide komertzialen edo bezeroen eskubideak, ondasunak edo segurtasuna babesteko.
+
+NOREKIN PARTEKATZEN DUGU ZURE INFORMAZIOA?
+
+Zure informazioa gure negozio barruko bidetik jakinaraziko dugu, baita ondoko erakundeei, soilik goian deskribatutako helburuekin.
+
+●	Filialak: kontrolatzen ditugun edo gureak diren Samsung Electronics Talde-ko beste konpainia batzuk;
+●	Zerbitzu hornitzaileak: guretzat edo gure izenean zerbitzuak ematen dituzten kontuz aukeratutako konpainiak, hala nola gure izenean datuak matentzen dituzten datu zerbitzariak. Hornitzaile horiek zure informazioa babesteko konpromisoa hartzen dute;
+●	Beste alderdi batzuk, legeak hala eskatzen duenean edo zure Galaxy Wearable-a babesteko nahitaezkoa denean: adibidez, legearen, lege prozesuaren edo gobernu agintarien agindu judizialaren bidez beharrezkoa gerta daiteke zure informazioa jakinaraztea. Legea betearazteko, herrialdeko segurtasunerako, terrorismoari aurre egiteko eta segurtasun publikoarekin lotutako beste gai batzuetarako ere eska diezagukete zuri buruzko informazioa;
+●	Transakzio korporatiboei buruzko beste alderdi batzuk: zure informazioa hirugarren bati zabal diezaiokegu, bat egite edo transferentzia, erosketa edo salmenta , edota porrot eginez gero; eta
+●	Zure baimena edo jarraibideak jaso dituzten bestelako alderdiak: Pribatutasun Ohar honetan azaldutako jakinarazpenez gain, zure informazioa partekatu dezakegu hirugarrenekin, horretarako aparteko baimena ematen duzunean edo hori eskatzen duzunean.
+
+PRIBATUTASUN OHAR HONEN EGUNERATZEAK
+
+Pribatutasun Ohar hau eguneratu ahal da zure Galaxy Wearable-tik zure informazioa gordetzeko eta prozesatzeko izan dezakegun aldaketen berri emateko, edo lege eta araudi garrantzitsuetan eman diren aldaketen berri emateko. Agiri hau azken aldiz berriztatu den data Pribatutasun Ohar honen goiburuan erakusten da.
+
+
+V2.0

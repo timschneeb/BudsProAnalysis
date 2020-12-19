@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_content_button_max_width_ratio">0.6</dimen>
+    <dimen name="bottom_content_button_min_width">240dp</dimen>
+    <dimen name="progress_circle_size">60dp</dimen>
+</resources>

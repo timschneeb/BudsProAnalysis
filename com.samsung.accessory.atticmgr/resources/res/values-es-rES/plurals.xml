@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">No se puede añadir más de %d carácter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">No se pueden añadir más de %d caracteres.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">El modo Conversación finaliza cuando no se detecta tu voz durante %d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">El modo Conversación finaliza cuando no se detecta tu voz durante %d segundos</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Si ya has vinculado tus auriculares con un teléfono o una tableta, basta con que abras la funda de carga para conectarlos de nuevo.\10\10Si no se conectan automáticamente, o si quieres vincularlos con un teléfono o tableta nuevos, ponte los auriculares y, a continuación, mantén pulsados ambos auriculares durante %d segundo hasta que escuches un pitido.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Si ya has vinculado tus auriculares con un teléfono o una tableta, basta con que abras la funda de carga para conectarlos de nuevo.\10\10Si no se conectan automáticamente, o si quieres vincularlos con un teléfono o tableta nuevos, ponte los auriculares y, a continuación, mantén pulsados ambos auriculares durante %d segundos hasta que escuches un pitido.</item>
+    </plurals>
+</resources>

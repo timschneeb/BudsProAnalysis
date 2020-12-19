@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/layout_middle_content_full" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <com.samsung.android.fotaprovider.customize.ui.FirstLayerRoundedLinearLayout android:orientation="vertical" android:id="@+id/layout_middle_content_whatsnew" android:background="@color/middle_content_2nd_depth_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.fotaprovider.customize.ui.SecondLayerRoundedLinearLayout android:orientation="horizontal" android:id="@+id/layout_middle_content_whatsnew_title" android:background="@color/middle_content_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" style="@style/FotaProviderTheme.Layout.MiddleContent">
+            <LinearLayout android:orientation="vertical" android:id="@+id/layout_middle_content_whatsnew_subheader" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" style="@style/FotaProviderTheme.Layout.SubHeader">
+                <TextView android:id="@+id/textview_middle_content_whatsnew_title" android:text="@string/STR_ACCESSORY_WHATS_NEW_TITLE" style="@style/FotaProviderTheme.Widget.TextView.SubHeader.Whatsnew.Title"/>
+                <TextView android:id="@+id/textview_middle_content_whatsnew_subtitle" android:text="@string/STR_ACCESSORY_WHATS_NEW_SUBTITLE" style="@style/FotaProviderTheme.Widget.TextView.MiddleContent.Text"/>
+            </LinearLayout>
+        </com.samsung.android.fotaprovider.customize.ui.SecondLayerRoundedLinearLayout>
+        <LinearLayout android:id="@+id/layout_middle_content_whatsnew_description" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/FotaProviderTheme.Layout.MiddleContent">
+            <TextView android:id="@+id/textview_middle_content_whatsnew_description" android:textDirection="locale" style="@style/FotaProviderTheme.Widget.TextView.MiddleContent.Whatsnew.Description"/>
+        </LinearLayout>
+    </com.samsung.android.fotaprovider.customize.ui.FirstLayerRoundedLinearLayout>
+    <com.samsung.android.fotaprovider.customize.ui.FirstLayerRoundedLinearLayout android:orientation="vertical" android:id="@+id/layout_middle_content_software_update_information" android:background="@color/middle_content_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/middle_content_margin_vertical_each" android:layout_below="@+id/layout_middle_content_whatsnew" style="@style/FotaProviderTheme.Layout.MiddleContent">
+        <LinearLayout android:id="@+id/layout_middle_content_software_update_information_subheader" style="@style/FotaProviderTheme.Layout.SubHeader">
+            <TextView android:id="@+id/textview_middle_content_software_update_information_title" android:text="@string/STR_ACCESSORY_UPDATE_INFO" style="@style/FotaProviderTheme.Widget.TextView.SubHeader.Title"/>
+        </LinearLayout>
+        <TextView android:id="@+id/textview_middle_content_software_update_information_version" style="@style/FotaProviderTheme.Widget.TextView.MiddleContent.Text"/>
+        <TextView android:id="@+id/textview_middle_content_software_update_information_size" style="@style/FotaProviderTheme.Widget.TextView.MiddleContent.Text"/>
+    </com.samsung.android.fotaprovider.customize.ui.FirstLayerRoundedLinearLayout>
+    <com.samsung.android.fotaprovider.customize.ui.FirstLayerRoundedLinearLayout android:orientation="vertical" android:id="@+id/layout_middle_content_caution" android:background="@color/middle_content_background" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/middle_content_margin_vertical_each" android:layout_below="@+id/layout_middle_content_software_update_information" style="@style/FotaProviderTheme.Layout.MiddleContent">
+        <LinearLayout android:id="@+id/layout_middle_content_caution_subheader" style="@style/FotaProviderTheme.Layout.SubHeader">
+            <TextView android:id="@+id/textview_middle_content_caution_title" android:text="@string/STR_ACCESSORY_CAUTION_TITLE" style="@style/FotaProviderTheme.Widget.TextView.SubHeader.Title"/>
+        </LinearLayout>
+        <TextView android:id="@+id/textview_middle_content_caution_text" style="@style/FotaProviderTheme.Widget.TextView.MiddleContent.Text"/>
+    </com.samsung.android.fotaprovider.customize.ui.FirstLayerRoundedLinearLayout>
+</RelativeLayout>

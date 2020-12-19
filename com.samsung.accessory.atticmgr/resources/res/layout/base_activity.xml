@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/activity_base_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/base_activity_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:expanded="false" style="@style/FotaProviderTheme.Widget.AppBarLayout">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/base_activity_collapsing_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="3" style="@style/FotaProviderTheme.Widget.CollapsingToolbar">
+            <androidx.appcompat.widget.Toolbar android:theme="@style/FotaProviderTheme.Activity" android:layout_gravity="bottom" android:id="@+id/base_activity_toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:layout_collapseMode="1"/>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <com.samsung.android.fotaprovider.util.ResponsiveWidthLinearLayout android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/fotaprovider_appbar_scrolling_view_behavior">
+        <com.samsung.android.fotaprovider.customize.ui.RoundedNestedScrollView android:scrollbarStyle="outsideOverlay" android:orientation="vertical" android:id="@+id/layout_middle_content_outside_nested_scroll_view" android:background="@color/activity_base_background" android:focusable="false" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" android:layout_weight="1" android:splitMotionEvents="false">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <ViewStub android:id="@+id/viewstub_top_content" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <ViewStub android:id="@+id/viewstub_middle_content" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                </LinearLayout>
+            </LinearLayout>
+        </com.samsung.android.fotaprovider.customize.ui.RoundedNestedScrollView>
+        <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="1">
+            <ViewStub android:layout_gravity="bottom" android:id="@+id/viewstub_bottom_content" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+        </LinearLayout>
+    </com.samsung.android.fotaprovider.util.ResponsiveWidthLinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

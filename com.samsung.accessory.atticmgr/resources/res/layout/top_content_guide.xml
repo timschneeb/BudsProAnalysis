@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/layout_top_content_guide" android:paddingTop="@dimen/top_content_guide_padding_top" android:paddingBottom="@dimen/top_content_guide_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/top_content_layout_height">
+    <TextView android:id="@+id/textview_top_content_guide_title" style="@style/FotaProviderTheme.Widget.TextView.TopContent.Title"/>
+    <TextView android:id="@+id/textview_top_content_guide_text" android:layout_marginTop="@dimen/top_content_guide_text_margin_top" style="@style/FotaProviderTheme.Widget.TextView.TopContent.Text"/>
+</LinearLayout>

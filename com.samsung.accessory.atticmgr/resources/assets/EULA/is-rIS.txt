@@ -1,0 +1,62 @@
+Leyfissamningur notanda
+
+Lestu þennan leyfissamning notanda („samninginn“) vandlega áður en þú notar búnað sem notandi ber á sér sem Samsung framleiðir eða sem er merktur Samsung, svo sem Galaxy Watch, Galaxy Fit og Galaxy Buds vörulínan (í sameiningu nefnt „búnaðurinn“), og stjórnforrit fyrir slíkan búnað frá Samsung (í sameiningu nefnd „stjórnforrit“), þar sem hann inniheldur mikilvægar upplýsingar.
+Samningurinn er lagalegur samningur milli þín (sem einstaklings eða lögaðila) og Samsung Electronics Co., Ltd. („Samsung“) vegna hugbúnaðar sem er í eigu Samsung, tengdra fyrirtækja þess og birgja og leyfisveitenda þriðju aðila, sem fylgir þessum samningi, þar á meðal fyrir hugbúnað og tengt efni, prentað efni og fylgiskjöl á netinu eða stafrænu sniði sem tengjast notkun þinni á búnaðinum og/eða stjórnforritinu (í sameiningu nefnt „hugbúnaður“).
+Stjórnforritið er hugbúnaðarforrit sem tengir fartækið þitt („tækið“) við búnaðinn og gerir þér kleift að hafa umsjón með, stjórna eða uppfæra hugbúnað búnaðarins í gegnum tækið. Búnaðurinn krefst notkunar foruppsetts hugbúnaðar við eðlilega notkun.  Með því að nota búnaðinn, stjórnforritið eða foruppsettan hugbúnað samþykkirðu skilmála þessa samnings.  Ef þú samþykkir ekki þessa skilmála skaltu ekki nota búnaðinn, stjórnforritið eða foruppsettan hugbúnað.
+
+1. Þjónusta og tilkynningar
+Klæðanlegi búnaðurinn býður upp á fjölbreytta notkun, einn og sér eða ásamt tækinu þínu. Einhverjar takmarkanir geta verið á virkni ef búnaðurinn er notaður án símatengingar.
+Eiginleikar búnaðarins og tækisins eru veittir fyrir eigandann og því skal gæta þess að hann berist ekki í rangar hendur. Þegar búnaðurinn er tengdur við tæki flytja búnaðurinn og tækið gögn á milli sín. Kynntu þér hvernig búnaðurinn er tengdur og aftengdur og aftengdu búnaðinn frá tækinu ef þú þarft ekki lengur á tengingunni að halda (tiltekinn búnaður, svo sem Galaxy Buds, getur tengst tækinu sjálfkrafa).
+
+Þjónusta og/eða eiginleikar sem búnaðurinn býður upp á kunna að vera mismunandi eða takmarkaðir eftir landi, gerð tækis eða fjarskiptafyrirtæki.
+Búnaðurinn og stjórnforritið kunna að innihalda eða vera samhæf við tiltekinn hugbúnað fyrir almenna hreysti og líkamsrækt („líkamsræktarhugbúnað“). Búnaðinn og líkamsræktarhugbúnaðinn skal einungis nota til afþreyingar, en ekki til þess að greina sjúkdóma eða aðra kvilla, eða til að lækna, draga úr, meðhöndla eða koma í veg fyrir sjúkdóma eða nota í nokkrum öðrum læknisfræðilegum tilgangi. Gögn úr líkamsræktarhugbúnaðinum eru eingöngu ætluð til upplýsingar, en ekki til þess að nota sem læknisfræðilega ráðgjöf eða koma í stað samskipta við lækni eða annað heilbrigðisstarfsfólk. Ekki skal hunsa læknisfræðilega ráðgjöf fagmanna, né fresta því að leita hennar vegna einhvers sem kemur fram í líkamsræktarhugbúnaðinum.
+Samsung ber ekki ábyrgð á nokkrum meiðslum, skaða, tapi og/eða kostnaði notenda sem tengist þjónustunni og/eða upplýsingum úr henni, svo sem ráðleggingum, tilmælum, heilræðum og/eða viðmiðum, né á áreiðanleika upplýsinga sem líkamsræktarhugbúnaðurinn veitir eða eru sóttar með tilstilli hans. Samsung ábyrgist ekki áreiðanleika upplýsinga í greinum eða öðru efni sem birtist á vefsvæðum eða ítarefni þriðju aðila, né öryggi þess að nota slíkt efni. Vísanir til upplýsinga á vefsvæðum eða í ítarefni þriðju aðila skal hvorki túlka sem staðfestingu á áreiðanleika téðra upplýsinga né sem almenn meðmæli með viðkomandi vefsvæði eða ítarefni. Þú viðurkennir og samþykkir að ekki er öruggt að allar upplýsingar sem þér áskotnast með notkun þinni á klæðanlega búnaðinum, líkamsræktarhugbúnaðinum eða hvers konar forriti sem er foruppsett á honum séu viðeigandi, réttar, fullgerðar eða áreiðanlegar.
+
+2. Leyfisveiting
+Að skilmálum og ákvæðum þessa samnings uppfylltum er þér veitt takmarkað, almennt og afturkallanlegt leyfi til að setja upp, nota, fá aðgang að, birta og keyra stjórnforritið í tækinu þínu. Þú getur tengt mörg eintök búnaðar við tæki með stjórnforritinu en er óheimilt að gera búnaðinn aðgengilegan á sama tíma. Einnig má ekki tengja búnað við mörg tæki, þar á meðal en ekki takmarkað við tölvur.
+Tilteknir hlutar hugbúnaðarins kunna að vera háðir leyfum fyrir frjálsan hugbúnað.  Ákvæði um leyfi fyrir frjálsan hugbúnað kunna að hnekkja einhverjum skilmálum þessa samnings.
+
+3. Áskilin réttindi og eignarhald
+Samsung áskilur sér allan rétt sem þér er ekki veittur skýlaust í þessum samningi. Hugbúnaðurinn er varinn af höfundarrétti og öðrum lögum og sáttmálum um hugverkaréttindi. Eignarhald, höfundarréttur og annar hugverkaréttur í hugbúnaðinum er í eigu Samsung. Hugbúnaðurinn er ekki seldur, heldur er veitt leyfi fyrir notkun hans.
+
+4. Takmarkanir
+Þú mátt ekki vendismíða, bakþýða, baksmala eða á annan hátt reyna að komast yfir frumkóða eða reiknirit hugbúnaðarins, breyta einhverjum eiginleikum hugbúnaðarins, gera þá óvirka eða búa til afleidd verk sem byggð eru á hugbúnaðinum. Ekki má leigja, lána, framselja eða veita hýsingarþjónustu í viðskiptalegum tilgangi með hugbúnaðinum.
+
+5. Uppfærslur, breyting eða rof á þjónustunni
+Samsung kann, hvenær sem er, að veita eða gera tiltækar uppfærslur á þjónustunni („uppfærslur“), þar á meðal, án takmarkana, villulagfæringar, þjónustuviðbætur, nýja eiginleika, eyðingu á gildandi virkni, eða breytingu á þjónustunni. Uppfærslur munu falla undir þennan samning nema aðskilin ákvæði og skilmálar fylgi slíkum uppfærslum, en þá skulu uppfærslurnar falla undir þau aðskildu ákvæði og skilmála. Uppfærslur fyrir öryggishugbúnað, áríðandi villulagfæringar eða aðrar mikilvægar uppfærslur geta verið sóttar sjálfkrafa og settar upp vegna þess hve mikilvægt er að slíkar uppfærslur komist snemma til skila til að vernda þig og aðra notendur. Samsung áskilur sér fullan rétt til að breyta, afturkalla, fjarlægja, takmarka notkun á eða slökkva á aðgangi að þjónustunni eða hluta hennar.
+Samsung kann að láta þér í té hugbúnaðaruppfærslur fyrir búnaðinn eða gera þær aðgengilegar. Almennt má uppfæra hugbúnað búnaðarins með stjórnforritinu en í sumum tilfellum, svo sem fyrir Galaxy Buds, má uppfæra hann með tölvuforriti.
+Til að nota útgáfuna sem fylgir slíkri uppfærslu þarftu að hafa leyfi fyrir hugbúnaðinum sem uppfærður er. Í uppfærðu útgáfunni er nýjum eiginleikum ef til vill bætt við og, í einstaka tilvikum, fyrri eiginleikar fjarlægðir. Uppfærslan verður almennt aðgengileg, en í einstaka tilvikum verða uppfærslurnar einungis í boði hjá fjarskiptafyrirtækinu þínu og slíkar uppfærslur lúta samningum þínum við það. Uppfærsla fyrir öryggishugbúnað, mikilvægar villuleiðréttingar eða aðrar mikilvægar uppfærslur kunna að verða sóttar og settar upp sjálfkrafa, í ljósi mikilvægis þess að fá slíkar uppfærslur í tæka tíð.
+
+6. Þjónusta og efni þriðja aðila
+Þjónusta þriðju aðila kann einnig að standa þér til boða. Samsung veitir enga ábyrgð eða fyrirsvar vegna innihalds, nákvæmni, tæmanleika, virkni eða samræmi við lög eða reglugerðir í líkamsræktarhugbúnaðinum eða þjónustu þriðju aðila.Notkun á þjónustu og efni þriðja aðila kann að falla undir notendaskilmála slíks þriðja aðila, leyfissamning, persónuverndarstefnu eða annan slíkan samning. Tilteknir hlutar þjónustunnar kunna að falla undir leyfi um opinn kóða, þar sem skilmálar slíkra leyfa um opinn kóða kunna að vera æðri þessum samningi hvað varðar viðkomandi hluta þjónustunnar.
+
+ 7. Gagnaaðgangur
+Sumir eiginleikar hugbúnaðarins kunna að krefjast þess að fartækið þitt hafi aðgang að internetinu og kunna að lúta takmörkunum fjarskipta- eða internetfyrirtækisins þíns. Hugbúnaðurinn kann að krefjast internetaðgangs um farsímakerfi, sem getur haft í för með sér viðbótarkostnað, allt eftir áskrift. Að auki kann virkni sumra eiginleika hugbúnaðarins að fara eftir hentugleika og afköstum vélbúnaðar í tækinu eða gagnaaðgangi.
+
+8. Framsal á hugbúnaði
+Ekki má framselja þennan samning, eða réttindin og skyldurnar varðandi hugbúnaðinn sem honum fylgja, til neins þriðja aðila nema það sé í tengslum við sölu á búnaðinum sem hugbúnaðurinn fylgir. Í slíku tilviki þarf framsalið að fela í sér allan hugbúnaðinn (þ.m.t. alla íhluti, miðla og prentefni, allar uppfærslur og þennan samning) og þú mátt ekki halda eftir neinum afritum af hugbúnaðinum. Framsalið má ekki vera óbeint, s.s. vegna umboðssölu. Áður en framsalið fer fram þarf notandinn sem fær hugbúnaðinn í hendurnar að samþykkja alla skilmála samningsins.
+
+9. Fylgni við lög
+Þú viðurkennir að stjórnforritið eða hugbúnaðurinn er háður útflutningstakmörkunum í ýmsum löndum. Þú samþykkir að lúta öllum gildandi alþjóðlegum lögum og landslögum sem gilda um stjórnforritið eða hugbúnaðinn, þ.m.t. öllum gildandi lögum og reglum um útflutningstakmarkanir.
+
+10. Uppsögn
+Þessi samningur er í gildi þar til honum er rift. Réttindi þín samkvæmt samningi þessum falla sjálfkrafa úr gildi án tilkynningar frá Samsung ef þú brýtur gegn einhverjum af skilmálum þessa samnings. Við riftun þessa samnings mátt þú ekki lengur nota stjórnforritið eða hugbúnaðinn og þú verður að eyða öllum afritum stjórnforritsins eða hugbúnaðarins.
+
+11. Afsal ábyrgðar
+NEMA ANNAÐ SÉ TEKIÐ FRAM Í SKRIFLEGRI TAKMARKAÐRI ÁBYRGÐ SEM FYLGIR BÚNAÐINUM ER HUGBÚNAÐURINN SEM SAMSUNG LÆTUR Í TÉ (HVORT SEM HANN FYLGIR BÚNAÐINUM, ER SÓTTUR EÐA FENGINN Á ANNAN HÁTT) VEITTUR „EINS OG HANN ER“ OG „SAMKVÆMT FRAMBOÐI“ ÁN NOKKURRA ÁBYRGÐA FRÁ SAMSUNG, BEINNA EÐA ÓBEINNA. AÐ ÞVÍ MARKI SEM GILDANDI LÖG HEIMILA AFSALAR SAMSUNG SÉR ALLRI ÁBYRGÐ, HVORT SEM ER BEINNI, UNDIRSKILINNI EÐA LÖGBOÐINNI, ÞAR MEÐ TALINNI, EN EKKI TAKMARKAÐ VIÐ, UNDIRSKILINNI ÁBYRGÐ Á SELJANLEIKA, VIÐUNANDI GÆÐI EÐA FRÁGANG, HÆFI FYRIR TILTEKINN TILGANG, ÁREIÐANLEIKA EÐA FRAMBOÐ, NÁKVÆMNI, VEIRULEYSI, HLJÓÐI, AÐ EKKI SÉ BROTIÐ Á HÖFUNDARRÉTTI ÞRIÐJU AÐILA EÐA BROT Á ÖÐRUM RÉTTINDUM. SUM LÖGSAGNARUMDÆMI LEYFA EKKI UNDANTEKNINGAR EÐA TAKMÖRKUN Á ÓBEINNI ÁBYRGÐ OG ÞVÍ GETUR VERIÐ AÐ FRAMANGREINDAR UNDANTEKNINGAR EÐA TAKMARKANIR TAKI EKKI TIL ÞÍN.
+
+12. Forrit og þjónusta Samsung
+Tiltekin forrit og/eða þjónusta kann að vera foruppsett eða tiltæk til niðurhals í búnaðinum. Slík forrit og/eða þjónusta kann að krefjast aðildar að Samsung-þjónustu („Samsung Account“). Skyldurnar og réttindin sem fylgja Samsung Account eru tiltekin í sérstökum skilmálum og persónuverndarstefnu Samsung Account.
+
+13. Takmörkun skaðabótaábyrgðar
+SAMSUNG SKAL EKKI VERA SKAÐABÓTASKYLT VEGNA NOKKURS TJÓNS VEGNA EÐA Í TENGSLUM VIÐ NOTKUN EÐA VANGETU TIL NOTKUNAR Á HUGBÚNAÐINUM, EFNI HANS EÐA VIRKNI, ÞAR MEÐ TALIÐ, EN EKKI EINGÖNGU, TJÓNS VEGNA EÐA Í TENGSLUM VIÐ VILLUR, EYÐUR, TRUFLANIR, GALLA, TAFIR Í VINNSLU EÐA FLUTNINGI, TÖLVUVÍRUSA, TENGIVILLUR, SÍMKERFISKOSTNAÐ OG ALLS ANNARS BEINS EÐA ÓBEINS, SÉRSTAKS, TILFALLANDI, SKAÐABÓTASKYLDS EÐA AFLEIDDS TJÓNS, JAFNVEL ÞÓTT SAMSUNG HAFI VERIÐ TILKYNNT UM MÖGULEIKA Á SLÍKU TJÓNI. SUM LÖGSAGNARUMDÆMI HEIMILA EKKI ÚTILOKUN EÐA TAKMÖRKUN VEGNA TILFALLANDI EÐA AFLEIDDS TJÓNS OG ÞVÍ GÆTI VERIÐ AÐ OFANGREINDAR TAKMARKANIR EÐA ÚTILOKANIR EIGI EKKI VIÐ UM ÞIG.ÞRÁTT FYRIR ÞAÐ SEM HÉR FER Á UNDAN SKAL HEILDARSKAÐABÓTASKYLDA SAMSUNG GAGNVART ÞÉR VEGNA ALLS TAPS, TJÓNS EÐA MÁLSÁSTÆÐNA, ÞAR MEÐ TALIÐ, EN EKKI EINGÖNGU, ÞAÐ SEM ER SAMKVÆMT SAMNINGI, SKAÐABÓTASKYLT EÐA AF ÖÐRUM TOGA, SEM MÁ REKJA TIL NOTKUNAR ÞINNAR Á HUGBÚNAÐINUM EÐA EINHVERRA ÁKVÆÐA ÞESSA SAMNINGS, EKKI FARA YFIR ÞÁ UPPHÆÐ SEM KAUPANDI GREIDDI SÉRSTAKLEGA FYRIR HUGBÚNAÐINN. FYRRGREINDAR TAKMARKANIR, ÚTILOKANIR OG AFSAL ÁBYRGÐAR (ÞAR Á MEÐAL KAFLAR 11 OG 12) SKULU GILDA UPP AÐ ÞVÍ MARKI SEM GILDANDI LÖG LEYFA, JAFNVEL ÞÓTT ÚRRÆÐI NÁI EKKI TILGANGI SÍNUM.
+
+14. Gildandi lög
+Þessi samningur fellur undir lög í því lögsagnarumdæmi þar sem þú býrð, óháð ákvæðum um lagaskil. Beiting sáttmála Sameinuðu þjóðanna um samninga um sölu á vöru á milli ríkja er skilmerkilega útilokuð fyrir þennan samning.
+
+15. Lausn á ágreiningi
+Ef ágreiningur, deilumál eða missætti sem til kemur á einhvern hátt vegna þessa samnings eða notkunar þinnar á hugbúnaðinum er ekki útkljáð skal það falla undir almenna lögsögu dómstóla þess lögsagnarumdæmis þar sem þú býrð. Þrátt fyrir það sem hér fer á undan er Samsung heimilt að fara fram á lögbannsaðgerðir (eða grípa til álíka brýnna lagaúrræða) í hvaða lögsagnarumdæmi sem er.
+
+16. Samningurinn í heild
+Samningur þessi er endanlegur samningur um hugbúnaðinn á milli þín og Samsung og kemur í stað allra fyrri eða samtíða munnlegra eða skriflegra samskipta, tillagna og kynninga á hugbúnaðinum eða öðru efni sem fellur undir þennan samning. Ef eitthvert ákvæði í þessum samningi er dæmt ógilt, óframkvæmanlegt eða ólöglegt halda önnur ákvæði gildi sínu.
+

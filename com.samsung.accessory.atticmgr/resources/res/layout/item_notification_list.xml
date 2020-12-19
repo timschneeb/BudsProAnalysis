@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/notifiation_list" android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <RelativeLayout android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@+id/content_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@+id/switch_layout">
+            <ImageView android:id="@+id/listview_iconimg" android:layout_width="36dp" android:layout_height="36dp" android:layout_centerVertical="true" android:layout_marginStart="24dp" android:layout_marginEnd="20dp"/>
+            <LinearLayout android:orientation="vertical" android:id="@+id/textlayout" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:layout_marginBottom="14dp" android:layout_centerVertical="true" android:layout_toEndOf="@+id/listview_iconimg">
+                <TextView android:textSize="18sp" android:textColor="@color/selector_list_title_color" android:ellipsize="marquee" android:gravity="center" android:id="@+id/textview1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="@string/roboto_regular"/>
+                <TextView android:textSize="13sp" android:textColor="@color/selector_list_desc_color" android:ellipsize="marquee" android:gravity="center" android:id="@+id/textview2_second" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="@string/roboto_regular"/>
+                <TextView android:textSize="13sp" android:textColor="@color/selector_list_desc_color" android:ellipsize="marquee" android:gravity="center" android:id="@+id/textview3" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="@string/roboto_regular"/>
+            </LinearLayout>
+        </RelativeLayout>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/switch_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@+id/content_layout" android:layout_alignBottom="@+id/content_layout" android:layout_centerInParent="true" android:layout_alignParentEnd="true">
+            <View android:layout_gravity="center_vertical" android:id="@+id/switch_divider" android:background="@color/color_app_d4d4d4_opacity_15" android:layout_width="@dimen/list_item_divider_height" android:layout_height="@dimen/switch_divider_height"/>
+            <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center_vertical" android:id="@+id/noti_listview_cb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_marginEnd="24dp"/>
+        </LinearLayout>
+        <View android:id="@+id/divider" android:background="@color/list_item_divider_color" android:layout_width="match_parent" android:layout_height="1dp" android:layout_alignParentBottom="true" android:layout_marginStart="72dp" android:layout_marginEnd="24dp"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,48 @@
+package c.b.c.b;
+
+public final class a {
+    public static final int abc_btn_check_material = 2131165187;
+    public static final int abc_btn_check_to_on_mtrl_000 = 2131165188;
+    public static final int abc_btn_check_to_on_mtrl_015 = 2131165189;
+    public static final int abc_btn_radio_material = 2131165192;
+    public static final int abc_btn_radio_to_on_mtrl_000 = 2131165193;
+    public static final int abc_btn_radio_to_on_mtrl_015 = 2131165194;
+    public static final int abc_btn_switch_to_on_mtrl_00001 = 2131165195;
+    public static final int abc_btn_switch_to_on_mtrl_00012 = 2131165196;
+    public static final int abc_cab_background_internal_bg = 2131165197;
+    public static final int abc_cab_background_top_material = 2131165198;
+    public static final int abc_cab_background_top_mtrl_alpha = 2131165199;
+    public static final int abc_edit_text_material = 2131165202;
+    public static final int abc_ic_commit_search_api_mtrl_alpha = 2131165206;
+    public static final int abc_ic_menu_copy_mtrl_am_alpha = 2131165208;
+    public static final int abc_ic_menu_cut_mtrl_alpha = 2131165209;
+    public static final int abc_ic_menu_paste_mtrl_am_alpha = 2131165211;
+    public static final int abc_ic_menu_selectall_mtrl_alpha = 2131165212;
+    public static final int abc_ic_menu_share_mtrl_alpha = 2131165213;
+    public static final int abc_item_background_holo_dark = 2131165222;
+    public static final int abc_item_background_holo_light = 2131165223;
+    public static final int abc_list_divider_mtrl_alpha = 2131165225;
+    public static final int abc_list_focused_holo = 2131165226;
+    public static final int abc_list_longpressed_holo = 2131165227;
+    public static final int abc_list_pressed_holo_dark = 2131165228;
+    public static final int abc_list_pressed_holo_light = 2131165229;
+    public static final int abc_list_selector_background_transition_holo_dark = 2131165230;
+    public static final int abc_list_selector_background_transition_holo_light = 2131165231;
+    public static final int abc_list_selector_disabled_holo_dark = 2131165232;
+    public static final int abc_list_selector_disabled_holo_light = 2131165233;
+    public static final int abc_list_selector_holo_dark = 2131165234;
+    public static final int abc_list_selector_holo_light = 2131165235;
+    public static final int abc_menu_hardkey_panel_mtrl_mult = 2131165236;
+    public static final int abc_popup_background_mtrl_mult = 2131165237;
+    public static final int abc_spinner_mtrl_am_alpha = 2131165249;
+    public static final int abc_switch_thumb_material = 2131165251;
+    public static final int abc_switch_track_mtrl_alpha = 2131165252;
+    public static final int abc_tab_indicator_material = 2131165253;
+    public static final int abc_tab_indicator_mtrl_alpha = 2131165254;
+    public static final int abc_textfield_activated_mtrl_alpha = 2131165262;
+    public static final int abc_textfield_default_mtrl_alpha = 2131165263;
+    public static final int abc_textfield_search_activated_mtrl_alpha = 2131165264;
+    public static final int abc_textfield_search_default_mtrl_alpha = 2131165265;
+    public static final int abc_textfield_search_material = 2131165266;
+    public static final int particle = 2131165409;
+}

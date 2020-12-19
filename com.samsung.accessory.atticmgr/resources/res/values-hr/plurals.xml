@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nije moguće dodati više od %d znaka.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nije moguće dodati više od %d znaka.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nije moguće dodati više od %d znakova.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sekunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekundi</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Način razgovora se isključuje kada se vaš glas ne prepozna %d sekundu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Način razgovora se isključuje kada se vaš glas ne prepozna %d sekunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Način razgovora se isključuje kada se vaš glas ne prepozna %d sekundi</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ako ste već uparili slušalice s telefonom ili tabletom, samo otvorite stalak za punjenje da biste ih ponovno povezali.\10\10Ako se ne povežu automatski ili ako ih želite upariti s novim telefonom ili tabletom, stavite slušalice u uši, a zatim dodirnite i držite obje slušalice %d sekundu dok ne čujete zvučni signal.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ako ste već uparili slušalice s telefonom ili tabletom, samo otvorite stalak za punjenje da biste ih ponovno povezali.\10\10Ako se ne povežu automatski ili ako ih želite upariti s novim telefonom ili tabletom, stavite slušalice u uši, a zatim dodirnite i držite obje slušalice %d sekunde dok ne čujete zvučni signal.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ako ste već uparili slušalice s telefonom ili tabletom, samo otvorite stalak za punjenje da biste ih ponovno povezali.\10\10Ako se ne povežu automatski ili ako ih želite upariti s novim telefonom ili tabletom, stavite slušalice u uši, a zatim dodirnite i držite obje slušalice %d sekundi dok ne čujete zvučni signal.</item>
+    </plurals>
+</resources>

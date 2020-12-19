@@ -1,0 +1,51 @@
+﻿Aviso de Privacidade do Galaxy Wearable
+
+
+Última atualização: 1.º de dezembro de 2020
+
+Na Samsung Electronics Co., Ltd., reconhecemos a importância da privacidade para os nossos clientes. Criamos este Aviso de Privacidade para garantir que você saiba como coletamos e usamos as suas informações pessoais. 
+
+A nossa Política de Privacidade – que você pode consultar em https://account.samsung.com/membership/pp – também se aplica ao seu uso do Galaxy Wearable. A nossa Política de Privacidade contém mais informações sobre como usamos seus dados. Também inclui informações sobre como entrar em contato conosco. Leia atentamente a Política de Privacidade, além deste Aviso de Privacidade. Entretanto, o Aviso de Privacidade sempre prevalecerá em relação à Política de Privacidade.
+
+
+QUAIS INFORMAÇÕES COLETAMOS?
+
+Através do Galaxy Wearable, coletamos e mantemos informações sobre você de diversas formas. 
+
+
+Informações sobre o seu uso do Galaxy Wearable
+
+• Informações do aparelho: o modelo do seu hardware, informações do hardware do aparelho, número de série e outros identificadores de aparelho exclusivos, número de telefone, código de vendas, versão do software atual, código de país do acesso móvel (Mobile Country Code, MCC), código de rede móvel (Mobile Network Code, MNC), endereço de controle de acesso de mídia (Media Access Control, MAC), endereço Bluetooth, versões do sistema operacional e configurações dos aparelhos que você usa para acessar o Galaxy Wearable.
+• Informações de registro: informações de uso, diagnóstico, erro e técnicas, como o tempo e a duração de seu uso do Galaxy Wearable, apps que instalou no seu Galaxy Wearable e como você usa e interage com os apps e outro conteúdo oferecido através do seu Galaxy Wearable e qualquer informação armazenada em cookies que instalamos nos seus aparelhos.
+• Informações de localização: o sinal GPS do seu aparelho ou informações sobre pontos de acesso Wi-Fi e torres de celular nas proximidades são enviados para nós (e também para os nossos prestadores de serviços), ao usar seu Galaxy Wearable, quando você ativa a função de Localização e usa as funções Buscar meu relógio ou Buscar meu telefone, ou ao usar a função SOS.
+
+COMO UTILIZAMOS AS SUAS INFORMAÇÕES?
+
+• Para ajudá-lo a se cadastrar e usar o seu Galaxy Wearable. 
+• Para prestar serviços e recursos solicitados. 
+• Para responder às suas solicitações e perguntas, e para nos comunicarmos com você sobre o seu Galaxy Wearable, inclusive fornecendo assistência quando você solicitar suporte técnico relacionado ao seu Galaxy Wearable. 
+• Para permitir que você interaja com apps, recursos e serviços da Samsung ou de terceiros. Por exemplo, você pode fazer backup dos seus apps e informações de configuração na Samsung Cloud ou usar o Samsung Health no seu Galaxy Wearable.
+• Para fornecer conteúdo e serviços personalizados relacionados ao seu Galaxy Wearable. 
+• Para fornecer promoções e ofertas por meio de comunicações de marketing direto, somente para os casos em que você nos forneceu seu consentimento específico.
+• Para analisar nossos produtos e serviços, inclusive seu Galaxy Wearable, ajudando-nos a entender melhor os nossos clientes para oferecer as comunicações, serviços e experiências mais relevantes.
+• Para pedir sua opinião sobre nossos produtos e serviços e realizar pesquisas com os clientes – com o seu consentimento específico, se necessário.
+• Para fornecer atualizações de software, serviços de manutenção e suporte para o seu Galaxy Wearable.
+• Para cumprir leis e regulamentos.
+• Para proteger os direitos, propriedades e/ou segurança da Samsung Electronics ou de qualquer uma das nossas afiliadas, parceiros comerciais e/ou clientes.
+
+COM QUEM COMPARTILHAMOS SUAS INFORMAÇÕES? 
+
+Nós divulgaremos suas informações internamente na nossa empresa e para as seguintes entidades, mas apenas para os objetivos descritos acima.
+
+* Afiliadas: outras empresas do Grupo Samsung Electronics que controlamos ou possuímos; 
+* Operadoras: empresas cuidadosamente selecionadas que prestam serviços para nós ou em nosso nome, como servidores de dados que mantêm dados em nosso nome. Essas operadoras também estão empenhadas em proteger suas informações;
+* Outras partes, quando exigido por lei ou conforme necessário para proteger o seu Galaxy Wearable: por exemplo, pode ser exigida a divulgação das suas informações por lei, por processo legal ou ordem judicial das autoridades governamentais. Elas também podem buscar suas informações conosco para fins de aplicação da lei, segurança nacional, antiterrorismo ou outras questões relacionadas à segurança pública; 
+* Outras partes relacionadas a transações corporativas: podemos divulgar suas informações a terceiros como parte de uma fusão ou transferência, aquisição ou venda ou em caso de falência; e 
+* Outras partes, com o seu consentimento ou a seu critério: além das divulgações descritas neste Aviso de Privacidade, podemos compartilhar informações sobre você com terceiros quando você consentir ou solicitar esse compartilhamento em separado. 
+
+ATUALIZAÇÕES DESTE AVISO DE PRIVACIDADE
+
+Este Aviso de Privacidade pode ser atualizado para informá-lo sobre alterações na maneira como coletamos e processamos suas informações para o seu Galaxy Wearable ou alterações em leis e regulamentos relevantes. A data da última atualização do documento é exibida na parte superior deste Aviso de Privacidade. 
+
+
+V 2.0

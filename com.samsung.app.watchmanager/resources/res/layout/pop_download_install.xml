@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#cccccc" android:gravity="center" android:id="@+id/messageText" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/setup_message_download" android:fontFamily="sans-serif-condensed"/>
+        <FrameLayout android:id="@+id/particleProgressFrame" android:layout_width="match_parent" android:layout_height="331dp" android:layout_marginTop="16dp" android:layout_below="@+id/messageText">
+            <com.samsung.td.particlesystem.watch_oobe.ParticleViewManager_Watch_OOBE android:layout_gravity="center" android:id="@+id/fragment_container" android:layout_width="match_parent" android:layout_height="200dp"/>
+            <ViewSwitcher android:layout_gravity="center" android:id="@+id/download_install_switcher" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <TextView android:textSize="33sp" android:textColor="#fafafa" android:gravity="center" android:id="@+id/setupPercentage" android:background="@drawable/text_shape" android:layout_width="135dp" android:layout_height="wrap_content" android:fontFamily="sans-serif-condensed-light"/>
+                </LinearLayout>
+                <View android:layout_width="0dp" android:layout_height="0dp"/>
+            </ViewSwitcher>
+        </FrameLayout>
+    </RelativeLayout>
+    <TextView android:textSize="18sp" android:textColor="#ffffff" android:gravity="center" android:id="@+id/pluginInfoTitle" android:visibility="gone" android:layout_width="312dp" android:layout_height="wrap_content" android:layout_marginBottom="12dp" android:text="@string/installPluginInfo" android:layout_above="@+id/pluginInfo" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-condensed-light"/>
+    <TextView android:textSize="15sp" android:textColor="#e0e0e0" android:gravity="center" android:id="@+id/pluginInfo" android:visibility="gone" android:layout_width="312dp" android:layout_height="wrap_content" android:layout_marginBottom="12dp" android:layout_above="@+id/cancel_btn" android:layout_centerHorizontal="true" android:fontFamily="sans-serif-condensed-light"/>
+    <Button android:textSize="18sp" android:textStyle="bold" android:textColor="@color/primary" android:id="@+id/cancel_btn" android:background="@color/navigationbar_color_dark" android:layout_width="wrap_content" android:layout_height="56dp" android:text="@string/cancel" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:textAllCaps="false" android:fontFamily="sans-serif-condensed"/>
+</RelativeLayout>

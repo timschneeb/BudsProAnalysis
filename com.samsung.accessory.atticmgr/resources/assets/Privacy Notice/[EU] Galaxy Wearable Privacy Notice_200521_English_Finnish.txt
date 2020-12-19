@@ -1,0 +1,83 @@
+﻿Galaxy Wearable -sovelluksen tietosuojailmoitus
+
+
+Päivitetty viimeksi: 1.12.2020
+
+Me Samsung Electronics Co., Ltd. -yhtiössä tiedämme, miten tärkeää yksityisyys on asiakkaillemme. Samsung on Galaxy Wearable -sovelluksesi tietojen rekisterinpitäjä. Olemme laatineet tämän tietosuojailmoituksen varmistaaksemme, että ymmärrät, miten keräämme ja käytämme henkilötietojasi. 
+
+Tietosuojakäytäntömme, joka on luettavissa osoitteessa https://account.samsung.com/membership/terms/privacypolicy, koskee myös Galaxy Wearable -sovelluksen käyttöäsi. Tietosuojakäytäntömme sisältää lisätietoa siitä, miten käytämme tietojasi. Siinä kerrotaan myös, miten meihin voi ottaa yhteyttä. Ole hyvä ja lue tietosuojakäytäntömme tämän tietosuojailmoituksen lisäksi. Tämä tietosuojailmoitus on kuitenkin aina määräävä asiakirja tietosuojakäytäntöön verrattuna.
+
+MITÄ TIETOJA KERÄÄMME? 
+
+Galaxy Wearable -sovelluksen kautta keräämme ja ylläpidämme sinua koskevia tietoja eri tavoin. 
+
+Tiedot Galaxy Wearable -sovelluksen käytöstäsi
+
+• Laitteen tiedot: laitteistomalli, laitteen laitteistotiedot, sarjanumero ja muut yksilölliset laitetunnisteet, puhelinnumero, myyntikoodi, nykyinen ohjelmistoversio, matkaviestinnän maatunnus (Mobile Country Code, MCC), matkaviestintäverkkotunnus (Mobile Network Code, MNC), MAC-osoite, Bluetooth-osoite, käyttöjärjestelmäversiot ja Galaxy Wearable -sovelluksen käyttöön käyttämiesi laitteiden asetukset.
+• lokitiedot: diagnostiset, tekniset, virhe- ja käyttötiedot, kuten Galaxy Wearable -sovelluksen käyttösi ajankohta ja kesto, Galaxy Wearable -sovellukseen asentamasi sovellukset ja kuinka käytät sovelluksia ja muuta Galaxy Wearable -sovelluksen kautta tarjottua sisältöä ja vuorovaikutat niiden kanssa sekä laitteisiisi asentamiimme evästeisiin mahdollisesti tallennetut tiedot.
+• Sijaintitiedot: Laitteesi GPS-signaali tai tiedot läheisistä Wi-Fi-tukiasemista ja matkapuhelimen tukiasemista lähetetään meille (mukaan lukien palveluntarjoajamme), kun käytät Galaxy Wearable -sovellusta ja otat käyttöön paikantamistoiminnon ja käytät Etsi kelloni tai Etsi puhelimeni -toimintoa tai kun käytät Hätätoiminnot-toimintoa.
+
+KUINKA KÄYTÄMME TIETOJASI? 
+
+• auttaaksemme sinua rekisteröitymään Galaxy Wearable -sovellukseen ja käyttämään sitä 
+• tarjotaksemme pyytämäsi palvelut ja toiminnot 
+• vastataksemme pyyntöihisi ja kysymyksiisi ja viestiäksemme kanssasi Galaxy Wearable -sovelluksesta, mukaan lukien avun tarjoaminen pyytäessäsi Galaxy Wearable -sovellukseen liittyvää teknistä tukea 
+• mahdollistaaksesi sinulle vuorovaikutuksen valikoitujen Samsungin tai kolmansien osapuolten sovellusten, toimintojen ja palvelujen kanssa; voit ehkä esimerkiksi varmuuskopioida sovellus- ja asetustietosi Samsung Cloudiin tai käyttää Samsung Health -palvelua Galaxy Wearable -sovelluksessasi
+• tarjotaksemme Galaxy Wearable -sovellukseen liittyvää mukautettua sisältöä ja mukautettuja palveluja 
+• tarjotaksemme suoramarkkinoinnin kautta kampanjoita ja tarjouksia, jos olet antanut siihen erillisen suostumuksesi
+• suorittaaksemme, arvioidaksemme ja parantaaksemme Galaxy Wearable -sovellusta ja liiketoimintaamme (mukaan lukien uusien tuotteiden ja palvelujen kehittäminen, tuotteidemme ja palvelujemme tehostaminen ja parantaminen, viestintämme hallinta, tuotteidemme, asiakaskuntamme ja palvelujemme analysoiminen, markkinatutkimuksen suorittaminen, tietoanalyysien suorittaminen sekä kirjanpito- ja tilintarkastustoimintojen sekä muiden sisäisten toimintojen suorittaminen)
+• pyytääksemme mielipiteitäsi tuotteistamme ja palveluistamme sekä tehdäksemme asiakaskyselyjä, tarvittaessa erillisellä suostumuksellasi
+• tarjotaksemme ohjelmistopäivityksiä, huoltopalveluja ja tukea Galaxy Wearable -sovellukseen
+• suojautuaksemme petollisilta menettelyiltä ja muulta rikolliselta toiminnalta, kanteilta ja muilta korvausvastuilta ja tunnistaaksemme ja estääksemme ne
+• noudattaaksemme sovellettavia lakisääteisiä vaatimuksia, asiaankuuluvia toimialan standardeja ja omia käytäntöjämme, kuten tätä tietosuojailmoitusta ja tietosuojakäytäntöä, sekä toimeenpannaksemme ne.
+
+Samsung käsittelee henkilötietoja edellä kuvattuihin tarkoituksiin. Yhteenveto Samsungin laillisesta perusteesta käsitellä henkilötietoja on esitetty alla: 
+
+Täyttääksemme sinulle antamamme lupauksen (GDPR-asetuksen artikla 6, kohdan 1 alakohta b)
+
+• rekisteröidäksemme sinut ja Galaxy Wearable -sovelluksesi
+• tarjotaksemme sinulle Galaxy Wearable -sovelluksen ja esimerkiksi mahdollisuuden varmuuskopioida sovellus- ja asetustietosi pilvipalvelimille
+• tarjotaksemme sinulle mukautettua sisältöä
+• tarjotaksemme sinulle mahdollisuuden olla vuorovaikutuksessa Samsungin ja kolmannen osapuolen sisällön kanssa
+
+Edistääksemme liiketoimintaetuamme (GDPR-asetuksen artikla 6, kohdan 1 alakohta f)
+
+• operoidaksemme, arvioidaksemme ja parantaaksemme Galaxy Wearable -sovellusta ja liiketoimintaamme
+• vastataksemme käyttäjien tekemiin pyyntöihin, tiedusteluihin ja ohjeisiin
+• ylläpitääksemme asianmukaisia turvallisuuskäytäntöjä, -tukea ja -päivityksiä
+• noudattaaksemme velvoitteitamme, mukaan lukien alan standardien noudattaminen ja käytäntöjemme toimeenpano
+
+Noudattaaksemme lakia ja oikeusprosesseja (GDPR-asetuksen artikla 6, kohdan 1 alakohta c)
+• noudattaaksemme sovellettavia lakeja ja säännöksiä ja tuomioistuinten määräyksiä
+
+Suostumuksellasi (GDPR-asetuksen artikla 6, kohdan 1 alakohta a)
+• tarjotaksemme markkinointi-ilmoituksia (kuten push-ilmoituksia, sähköposteja ja tekstiviestejä)
+
+KENEN KANSSA JAAMME TIETOJASI? 
+
+Luovutamme tietojasi sisäisesti yhtiössämme ja seuraaville organisaatioille, mutta vain yllä mainittuihin tarkoituksiin.
+●Tytäryhtiöt: muut Samsung Electronics Groupin yhtiöt, joita hallinnoimme tai omistamme
+●Palveluntarjoajat: huolella valikoidut yhtiöt, jotka tarjoavat palveluja meille ja meidän puolestamme, kuten datapalvelimet, jotka ylläpitävät tietoja puolestamme. Nämä palveluntarjoajat sitoutuvat myös tietojesi suojelemiseen 
+●Muut osapuolet lain vaatiessa tai Galaxy Wearable -sovelluksen suojelemiseksi tarvittaessa: esimerkiksi laki, lakisääteinen prosessi tai tuomioistuimen määräys valtion viranomaisilta saattaa vaatia meitä luovuttamaan tietojasi. He saattavat myös pyytää meiltä tietojasi lainvalvonnan, kansallisen turvallisuuden, terrorismin vastaisen toiminnan tai muiden julkiseen turvallisuuteen liittyvien asioiden suhteen 
+●Muut yhtiöiden toimintaan liittyvät osapuolet: saatamme luovuttaa tietojasi kolmannelle osapuolelle osana fuusiota tai siirtoa, hankintaa tai myyntiä tai konkurssin yhteydessä, ja
+●Muut osapuolet sinun suostumuksesi tai ohjeidesi mukaan: tietosuojailmoituksessa kuvailtujen luovutusten lisäksi saatamme jakaa tietoja sinusta kolmansien osapuolten kanssa, kun pyydät tällaista siirtoa tai suostut siihen erikseen.
+
+KUINKA KAUAN JA MISSÄ SÄILYTÄMME TIETOJASI?
+
+Tetojesi säilytysaika riippuu tietojesi käsittelyn laillisesta perusteesta. Esimerkiksi tiedot, joita käsittelemme täyttääksemme kanssasi solmitun sopimuksen, on säilytettävä koko sen ajan, kun käytät Galaxy Wearable -sovellusta Niin kauan kuin olet aktiivinen Galaxy Wearable -sovelluksesi käyttäjä, me säilytämme ja käsittelemme näitä tietoja. Tiedot, kuten laitetiedot ja -tunnisteet, kuuluvat myös tähän tietoryhmään.
+
+Tiedot, joita käsittelemme liiketoimintaetumme edistämiseksi, kuten Galaxy Wearable -sovelluksesi käyttöä koskevat tiedot, säilytetään vain niin kauan kuin se on tarpeen niihin tarkoituksiin, joihin kyseiset tiedot kerättiin. Nämä tiedot voidaan esimerkiksi kerätä tietoanalytiikkaa varten voidaksemme tehdä parannuksia Galaxy Wearable -sovellukseen, tai saatamme käsitellä tietoja ylläpitääksemme tietoja kyselyistä, joita olet tehnyt Galaxy Wearable -sovelluksen kautta tai sitä koskien parantaaksemme asiakaspalvelukokemusta.
+
+Lisäksi saatamme myös käsitellä tietojasi suostumuksesi perusteella. Jos peruutat suostumuksesi, jatkamme ennen suostumuksesi peruuttamista kerättyjen tietojen käsittelyä kunnes olemme saavuttaneet ne tavoitteet, joita varten tiedot kerättiin.
+
+Huomaa, että vaikka pyrimme säilyttämään tietosi yllä kuvaillun ajanjakson ajan, tietojasi voidaan käsitellä pidempään sovellettavan lain nojalla. Jos esimerkiksi tietty laki tai säännös edellyttää tiettyä tietoa, me noudatamme tätä säännöstä ja säilytämme kyseisen tiedon, kunnes vaadittu säilytysaika umpeutuu. 
+
+Niin kauan kuin säilytämme tietojasi, niihin kohdistuu aina asianmukaisia turvatoimia.
+
+Galaxy Wearable -palvelun käyttöösi liittyy henkilötietojesi siirtäminen, säilytys ja käsittely muihin maihin tai muissa maissa; tällaisiin maihin sisältyvät, niihin rajoittumatta, Euroopan talousalueen maat, Korean tasavalta, Yhdysvallat, Kiina ja Vietnam. Kaikkia kansainvälisiä tiedonsiirtoja koskevat lakisääteiset vaatimukset, jotta varmistetaan henkilötietojesi turvallinen käsittely odotustesi mukaisesti.
+
+TÄMÄN TIETOSUOJAILMOITUKSEN PÄIVITYKSET
+
+Tätä tietosuojailmoitusta voidaan päivittää, jotta voimme kertoa muutoksista siihen, kuinka keräämme ja käsittelemme tietojasi Galaxy Wearable -sovelluksessa, tai asiaankuuluvien lakien ja asetusten muutoksista. Asiakirjan viimeisin päivityspäivämäärä on nähtävissä tämän tietosuojailmoituksen yläosassa. 
+
+V 2.0

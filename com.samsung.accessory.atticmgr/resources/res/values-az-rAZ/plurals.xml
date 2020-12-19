@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d-dən çox simvol əlavə etmək olmadı.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d-dən çox simvol əlavə etmək olmadı.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d saniyə</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d saniyə</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Səsiniz %d saniyə ərzində aşkarlanmadıqda söhbət rejimi sonlandırılır</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Səsiniz %d saniyə ərzində aşkarlanmadıqda söhbət rejimi sonlandırılır</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Düymə qulaqcıqları artıq telefon və ya tabletlə cütləşdirmisinizsə, sadəcə yükləmə korpusunu açın və yenidən qoşun.\10\10Onlar avtomatik qoşulmasa və ya yeni telefon və ya tableti cütləşdirmək istəsəniz düymə qulaqcıqları taxın və bip səsi eşidənədək %d saniyə ərzində hər iki düymə qulaqcığa tutub saxlayın.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Düymə qulaqcıqları artıq telefon və ya tabletlə cütləşdirmisinizsə, sadəcə yükləmə korpusunu açın və yenidən qoşun.\10\10Onlar avtomatik qoşulmasa və ya yeni telefon və ya tableti cütləşdirmək istəsəniz düymə qulaqcıqları taxın və bip səsi eşidənədək %d saniyə ərzində hər iki düymə qulaqcığa tutub saxlayın.</item>
+    </plurals>
+</resources>

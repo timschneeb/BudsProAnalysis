@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ରୁ ଅଧିକ ବର୍ଣ୍ଣ ଯୋଡି ପାରିବେ ନାହିଁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%dଟି ରୁ ଅଧିକ ବର୍ଣ୍ଣ ଯୋଡି ପାରିବେ ନାହିଁ।</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ସେକେଣ୍ଡ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ସେକେଣ୍ଡ</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଆପଣଙ୍କ ଭଏସ୍‌ %d ସେକେଣ୍ତ ପାଇଁ ଚିହ୍ନଟ ହୋଇନଥିବା ସମୟରେ ବାର୍ତ୍ତାଳାପ ମୋଡ୍ ଶେଷ ହୋଇଛି</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଆପଣଙ୍କ ଭଏସ୍‌ %d ସେକେଣ୍ତ ପାଇଁ ଚିହ୍ନଟ ହୋଇନଥିବା ସମୟରେ ବାର୍ତ୍ତାଳାପ ମୋଡ୍ ଶେଷ ହୋଇଛି</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଯଦି ଆପଣ ପୂର୍ବରୁ ଆପଣଙ୍କ ଇୟରବଡ୍ସକୁ ଏକ ଫୋନ୍ କିମ୍ୱା ଟ୍ୟାବଲେଟ୍ ସହ ପେୟାର୍ କରିଛନ୍ତି, ସେଗୁଡିକୁ ପୁନଃ ସଂଯୋଗ କରିବାକୁ କେବଳ ଚାର୍ଜିଂ କେସ୍ ଖୋଲନ୍ତୁ।\10\10ଯଦି ସେଗୁଡିକ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ସଂଯୋଗ ହେଉନାହିଁ, କିମ୍ୱା ଯଦି ଆପଣ ଏକ ନୂତନ ଫୋନ୍ କିମ୍ୱା ଟ୍ୟାବଲେଟ୍ ସହ ପେୟାର୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି, ଆପଣଙ୍କ ଇୟରବଡ୍ସ ଅନ୍ ରଖି, ଆପଣ ଏକ ବିପ୍ ନଶୁଣିନା ପର୍ଯ୍ୟନ୍ତ ଉଭୟ ଇୟରବଡକୁ %d ସେକେଣ୍ତ ପାଇଁ ସ୍ପର୍ଶ କରି ଧରି ରଖନ୍ତୁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ଯଦି ଆପଣ ପୂର୍ବରୁ ଆପଣଙ୍କ ଇୟରବଡ୍ସକୁ ଏକ ଫୋନ୍ କିମ୍ୱା ଟ୍ୟାବଲେଟ୍ ସହ ପେୟାର୍ କରିଛନ୍ତି, ସେଗୁଡିକୁ ପୁନଃ ସଂଯୋଗ କରିବାକୁ କେବଳ ଚାର୍ଜିଂ କେସ୍ ଖୋଲନ୍ତୁ।\10\10ଯଦି ସେଗୁଡିକ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ସଂଯୋଗ ହେଉନାହିଁ, କିମ୍ୱା ଯଦି ଆପଣ ଏକ ନୂତନ ଫୋନ୍ କିମ୍ୱା ଟ୍ୟାବଲେଟ୍ ସହ ପେୟାର୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି, ଆପଣଙ୍କ ଇୟରବଡ୍ସ ଅନ୍ ରଖି, ଆପଣ ଏକ ବିପ୍ ନଶୁଣିନା ପର୍ଯ୍ୟନ୍ତ ଉଭୟ ଇୟରବଡକୁ %d ସେକେଣ୍ତ ପାଇଁ ସ୍ପର୍ଶ କରି ଧରି ରଖନ୍ତୁ।</item>
+    </plurals>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d حرف سے زیادہ شامل نہیں کرسکتے۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d حروف سے زیادہ شامل نہیں کرسکتے۔</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d سیکنڈ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d سیکنڈز</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d سیکنڈ کیلئے آپ کی آواز کی شناخت نہ ہونے پر، گفتگو موڈ ختم ہو جاتا ہے</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d سیکنڈ کیلئے آپ کی آواز کی شناخت نہ ہونے پر، گفتگو موڈ ختم ہو جاتا ہے</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">اگر آپ نے ایئربڈز کو فون یا ٹیبلیٹ کے ساتھ پہلے ہی جوڑ دیا ہے، تو انہیں دوبارہ جوڑنے کے لیے صرف چارجنگ کیس کھولیں۔\10\10اگر وہ خودکار طورپر مربوط نہیں ہوتے ہیں، یا اگر آپ نئے فون یا ٹیبلیٹ کے ساتھ جوڑنا چاہتے ہیں، تو اپنا ایئربڈز آن کریں، پھر جب تک آپ بیپ کی آواز نہ سن لیں %d سیکنڈ تک دونوں ایئربڈز کو چھوکر ہولڈ کیے رہیں۔</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">اگر آپ نے ایئربڈز کو فون یا ٹیبلیٹ کے ساتھ پہلے ہی جوڑ دیا ہے، تو انہیں دوبارہ جوڑنے کے لیے صرف چارجنگ کیس کھولیں۔\10\10اگر وہ خودکار طورپر مربوط نہیں ہوتے ہیں، یا اگر آپ نئے فون یا ٹیبلیٹ کے ساتھ جوڑنا چاہتے ہیں، تو اپنا ایئربڈز آن کریں، پھر جب تک آپ بیپ کی آواز نہ سن لیں %d سیکنڈز تک دونوں ایئربڈز کو چھوکر ہولڈ کیے رہیں۔</item>
+    </plurals>
+</resources>

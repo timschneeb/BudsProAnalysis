@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" android:drawable="@drawable/fotaprovider_vector_progressbar_horizontal_indeterminate">
+    <target android:name="rect2_grp" android:animation="@anim/progressbar_horizontal_indeterminate_rect2"/>
+    <target android:name="rect1_grp" android:animation="@anim/progressbar_horizontal_indeterminate_rect1"/>
+</animated-vector>

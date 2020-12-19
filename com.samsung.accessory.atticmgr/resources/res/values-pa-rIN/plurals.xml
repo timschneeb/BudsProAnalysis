@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਤੋਂ ਜ਼ਿਆਦਾ ਵਰਣ ਜੋੜੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ਤੋਂ ਜ਼ਿਆਦਾ ਵਰਣ ਜੋੜੇ ਨਹੀਂ ਜਾ ਸਕਦੇ।</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ਸਕਿੰਟ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ਸਕਿੰਟ</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਜਦੋਂ ਤੁਹਾਡੀ ਵਾੱਇਸ ਦਾ %d ਸਕਿੰਟ ਲਈ ਪਤਾ ਨਹੀਂ ਲੱਗਦਾ ਤਾਂ ਵਾਰਤਾਲਾਪ ਦਾ ਮੋਡ ਬੰਦ ਹੋ ਜਾਦਾ ਹੈ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਜਦੋਂ ਤੁਹਾਡੀ ਵਾੱਇਸ ਦਾ %d ਸਕਿੰਟਾਂ ਲਈ ਪਤਾ ਨਹੀਂ ਲੱਗਦਾ ਤਾਂ ਵਾਰਤਾਲਾਪ ਦਾ ਮੋਡ ਬੰਦ ਹੋ ਜਾਦਾ ਹੈ</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਆਪਣੇ ਈਅਰਬੱਡਸ ਦਾ ਫ਼ੋਨ ਜਾਂ ਟੈਬਲੇਟ ਨਾਲ ਜੋੜਾ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਦੁਬਾਰਾ ਕਨੈਕਟ ਕਰਨ ਲਈ ਬਸ ਚਾਰਜਿੰਗ ਕੇਸ ਨੂੰ ਖੋਲ੍ਹੋ।\10\10ਜੇਕਰ ਉਹ ਸਵੈਚਲਿਤ ਕਨੈਕਟ ਨਹੀਂ ਹੁੰਦੇ, ਜਾਂ ਜੇਕਰ ਤੁਸੀਂ ਨਵੇਂ ਫ਼ੋਨ ਜਾਂ ਟੈਬਲੇਟ ਨਾਲ ਜੋੜਾ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਆਪਣੇ ਈਅਰਬੱਡਸ ਲਗਾ ਲਉ, ਫਿਰ ਜਦੋਂ ਤੱਕ ਬੀਪ ਸੁਣਾਈ ਨਾ ਦੇਵੇ ਦੋਵੇਂ ਈਅਰਬੱਡਸ ਨੂੰ %d ਸਕਿੰਟ ਲਈ ਟੱਚ ਕਰਕੇ ਰੱਖੋ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਆਪਣੇ ਈਅਰਬੱਡਸ ਦਾ ਫ਼ੋਨ ਜਾਂ ਟੈਬਲੇਟ ਨਾਲ ਜੋੜਾ ਬਣਾਇਆ ਹੈ, ਤਾਂ ਉਨ੍ਹਾਂ ਨੂੰ ਦੁਬਾਰਾ ਕਨੈਕਟ ਕਰਨ ਲਈ ਬਸ ਚਾਰਜਿੰਗ ਕੇਸ ਨੂੰ ਖੋਲ੍ਹੋ।\10\10ਜੇਕਰ ਉਹ ਸਵੈਚਲਿਤ ਕਨੈਕਟ ਨਹੀਂ ਹੁੰਦੇ, ਜਾਂ ਜੇਕਰ ਤੁਸੀਂ ਨਵੇਂ ਫ਼ੋਨ ਜਾਂ ਟੈਬਲੇਟ ਨਾਲ ਜੋੜਾ ਬਣਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਆਪਣੇ ਈਅਰਬੱਡਸ ਲਗਾ ਲਉ, ਫਿਰ ਜਦੋਂ ਤੱਕ ਬੀਪ ਸੁਣਾਈ ਨਾ ਦੇਵੇ ਦੋਵੇਂ ਈਅਰਬੱਡਸ ਨੂੰ %d ਸਕਿੰਟ ਲਈ ਟੱਚ ਕਰਕੇ ਰੱਖੋ।</item>
+    </plurals>
+</resources>

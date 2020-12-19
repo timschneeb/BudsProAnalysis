@@ -1,0 +1,94 @@
+<!--aliasName is divided in two parts in code. Text before last '\n' is main text  and text after last '\n' is different text.
+    This partition is done to apply different text style to both parts-->
+<rules>
+    <resource-info version="2.31">
+        <group name="Galaxy Watch3" displayOrder="1" aliasName="Galaxy Watch3\n45mm / 41mm">
+            <multi-item type="background"> <!-- swdp should be aligned to **descending order** -->
+<!--                <item swdp="-1" height="1128" ySlideValue="483">land_welcome_bg_galaxy_watch3.jpg</item>-->
+                <item swdp="420" height="1614" ySlideValue="518">winner_welcome_bg_galaxy_watch3.jpg</item>
+                <item swdp="0" height="2076" ySlideValue="760">gear_welcome_bg_galaxy_watch3.jpg</item>
+            </multi-item>
+            <item type="icon">select_device_img_watch3.png</item>
+            <item type="header">select_device_bg_galaxy_watch3.jpg</item>
+        </group>
+        <group name="Galaxy Buds Live" displayOrder="2" aliasName="Galaxy Buds Live">
+            <multi-item type="background"> <!-- swdp should be aligned to **descending order** -->
+                <item swdp="-1" height="1128" ySlideValue="421">land_welcome_bg_budslive.jpg</item>
+                <item swdp="420" height="1614" ySlideValue="735">winner_welcome_bg_budslive.jpg</item>
+                <item swdp="0" height="2076" ySlideValue="997">gear_welcome_bg_budslive.jpg</item>
+            </multi-item>
+            <item type="icon">select_device_img_budslive.png</item>
+            <item type="header">select_device_bg_budslive.jpg</item>
+        </group>
+        <group name="Galaxy Fit2" displayOrder="3" aliasName="Galaxy Fit2">
+            <multi-item type="background"> <!-- swdp should be aligned to **descending order** -->
+<!--                <item swdp="-1" height="1128" ySlideValue="483">land_welcome_bg_moden.jpg</item>-->
+                <item swdp="420" height="1614" ySlideValue="655">winner_welcome_bg_neat.jpg</item>
+                <item swdp="0" height="2076" ySlideValue="923">gear_welcome_bg_neat.jpg</item>
+            </multi-item>
+            <item type="icon">select_device_img_galaxy_fit2.png</item>
+            <item type="header">select_device_bg_neat.jpg</item>
+        </group>
+        <group name="Galaxy Buds" displayOrder="4" aliasName="Galaxy Buds / Buds+">
+            <multi-item type="background"> <!-- swdp should be aligned to **descending order** -->
+                <item swdp="-1" height="1128" ySlideValue="484">land_welcome_bg_buds.jpg</item>
+                <item swdp="420" height="1614" ySlideValue="539">winner_welcome_bg_buds.jpg</item>
+                <item swdp="0" height="2076" ySlideValue="797">gear_welcome_bg_buds.jpg</item>
+            </multi-item>
+            <item type="icon">select_device_img_bud.png</item>
+            <item type="header">select_device_bg_buds.jpg</item>
+        </group>
+        <group name="Galaxy Watch Active2" displayOrder="5" aliasName="Galaxy Watch\nActive2\n44mm / 40mm">
+<!--            <multi-item type="background"> -->
+<!--                <item swdp="-1" height="1128" ySlideValue="483">land_welcome_bg_galaxy_watch_active2.jpg</item>-->
+<!--                <item swdp="420" height="1614" ySlideValue="620">winner_welcome_bg_galaxy_watch_active2.jpg</item>-->
+<!--                <item swdp="0" height="2076" ySlideValue="888">gear_welcome_bg_galaxy_watch_active2.jpg</item>-->
+<!--            </multi-item>-->
+            <item type="icon">select_device_img_watch_active2.png</item>
+            <item type="header">select_device_bg_galaxy_watch_active2.jpg</item>
+        </group>
+        <group name="Galaxy Pulse" displayOrder="6" aliasName="Galaxy Watch\nActive\n40mm">
+<!--            <multi-item type="background"> &lt;!&ndash; swdp should be aligned to **descending order** &ndash;&gt;-->
+<!--                <item swdp="-1" height="1128" ySlideValue="483">land_welcome_bg_galaxy_watch_active.jpg</item>-->
+<!--                <item swdp="420" height="1614" ySlideValue="1091">winner_welcome_bg_galaxy_watch_active.jpg</item>-->
+<!--                <item swdp="0" height="2076" ySlideValue="1473">gear_welcome_bg_galaxy_watch_active.jpg</item>-->
+<!--            </multi-item>-->
+            <item type="icon">select_device_img_watch_active.png</item>
+            <item type="header">select_device_bg_galaxy_watch_active.jpg</item>
+        </group>
+        <group name="Moden" displayOrder="7" aliasName="Galaxy Fit / Fitⓔ">
+<!--            <multi-item type="background"> &lt;!&ndash; swdp should be aligned to **descending order** &ndash;&gt;-->
+<!--                <item swdp="-1" height="1128" ySlideValue="483">land_welcome_bg_moden.jpg</item>-->
+<!--                <item swdp="420" height="1614" ySlideValue="901">winner_welcome_bg_moden.jpg</item>-->
+<!--                <item swdp="0" height="2076" ySlideValue="1306">gear_welcome_bg_moden.jpg</item>-->
+<!--            </multi-item>-->
+            <item type="icon">select_device_img_watch_band.png</item>
+            <item type="header">select_device_bg_moden.jpg</item>
+        </group>
+<!--        <group name="Gear S4" displayOrder="7" aliasName="Galaxy Watch\n46mm / 42mm">-->
+<!--            <multi-item type="background"> &lt;!&ndash; swdp should be aligned to **descending order** &ndash;&gt;-->
+<!--                <item swdp="-1" height="1128" ySlideValue="483">land_welcome_bg_galaxy_watch.jpg</item>-->
+<!--                <item swdp="420" height="1614" ySlideValue="312">winner_welcome_bg_galaxy_watch.jpg</item>-->
+<!--                <item swdp="0" height="2076" ySlideValue="404">gear_welcome_bg_galaxy_watch.jpg</item>-->
+<!--            </multi-item>-->
+<!--            <item type="icon">select_device_img_s4.png</item>-->
+<!--            <item type="header">select_device_bg_galaxy_watch.jpg</item>-->
+<!--        </group>-->
+<!--        <group name="Gear Sport" displayOrder="8" aliasName="Gear Sport\n42mm">-->
+<!--            <item type="icon">select_device_img_sport.png</item>-->
+<!--            <item type="header">select_device_bg_sport.jpg</item>-->
+<!--        </group>-->
+<!--        <group name="Gear Fit2" displayOrder="9" aliasName="Gear Fit2 / Pro">-->
+<!--            <item type="icon">select_device_img_fit2.png</item>-->
+<!--            <item type="header">select_device_bg_fit2.jpg</item>-->
+<!--        </group>-->
+<!--        <group name="Gear IconX" displayOrder="10">-->
+<!--            <item type="icon">select_device_img_iconx.png</item>-->
+<!--            <item type="header">select_device_bg_iconx.jpg</item>-->
+<!--        </group>-->
+<!--        <group name="Gear S3" displayOrder="11" aliasName="Gear S3">-->
+<!--            <item type="icon">select_device_img_s3.png</item>-->
+<!--            <item type="header">select_device_bg_gears3.jpg</item>-->
+<!--        </group>-->
+    </resource-info>
+</rules>

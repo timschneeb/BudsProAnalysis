@@ -1,0 +1,50 @@
+﻿Lajmërim i Privatësisë i Galaxy Wearable
+
+
+Përditësuar së fundmi: 1 dhjetor 2020
+
+Tek Samsung Electronics Co., Ltd., e dimë sa e rëndësishme është privatësia për klientët tanë. Kemi krijuam këtë Lajmërim të Privatësisë për t’u siguruar se kuptoni se si mbledhim dhe përdorim informacionin tuaj personal. 
+
+Politika jonë e Privatësisë - e cila mund të shihet tek https://account.samsung.com/membership/pp zbatohet gjithashtu për përdorimin tuaj të Galaxy Wearable. Politika jonë e Privatësisë përmban më shumë informacion mbi mënyrën se si përdorim të dhënat tuaja. Ajo gjithashtu përfshin informacion se si të na kontaktoni. Ju lutemi lexoni Politikën tonë të Privatësisë përveç këtij Lajmërimi Privatësie. Sidoqoftë, ky Lajmërim Privatësie mbizotëron në çdo kohë mbi Politikën e Privatësisë.
+
+ÇFARË INFORMACIONI MBLEDHIM?
+
+Nëpërmjet Galaxy Wearable tuaj, mbledhim dhe mbajmë informacion për ju në mënyra të ndryshme. 
+
+
+Informacion në lidhje me përdorimin tuaj të Galaxy Wearable
+
+• Informacion për pajisjen: Modeli juaj i harduerit, informacioni për harduerin e pajisjes, numri serial dhe identifikuesit e tjerë unikë të pajisjes, numri i telefonit, kodi i shitjeve, versioni aktual i softuerit, MCC (kodi celular i vendit), MNC (kodi i rrjetit celular), adresa MAC, adresa Bluetooth, versionet e sistemit të përdorimit, dhe cilësimet e pajisjeve që përdorni për të aksesuar Galaxy Wearable tuaj.
+• Informacion për logimin: Informacioni diagnostikues, teknik, gabimesh dhe përdorimi, të tilla si ora dhe kohëzgjatja e përdorimit tuaj të Galaxy Wearable, aplikacionet e instaluara nga ju në Galaxy Wearable tuaj dhe mënyra se si përdorni dhe bashkëveproni me aplikacionet dhe materialet e tjera të ofruar përmes Galaxy Wearable tuaj, dhe çdo informacion të ruajtur në cookie që i instalojmë në pajisjet tuaja.
+• Informacion për vendndodhjen: Sinjali GPS i pajisjes tuaj ose informacioni në lidhje me pikat e hyrjes në Wi-Fi dhe kullat e qelizave pranë na dërgohet (përfshirë siguruesit tanë të shërbimit) kur përdorni Galaxy Wearable tuaj, kur ndizni funksionin e Vendndodhjes ose Gjej orën time ose funksionin Gjej celularin, ose përdorni funksionin SOS. 
+
+SI E PËRDORIM INFORMACIONIN TUAJ?
+
+• Për t’ju ndihmuar të regjistroheni dhe të përdorni Galaxy Wearable tuaj. 
+• Për t’ju ofruar shërbimet dhe funksionalitetet që kërkoni. 
+• Për t’iu përgjigjur kërkesave dhe pyetjeve tuaja, dhe për të komunikuar me ju në lidhje me Galaxy Wearable, duke përfshirë ofrimin e asistencës kur kërkoni ndihmë teknike në lidhje me Galaxy Wearable tuaj. 
+• Për t’ju lejuar të ndërveproni me aplikacione, funksionalitete dhe shërbime të caktuara të Samsung ose të palëve të treta. Për shembull, mund të jeni në gjendje të kopjoni informacionin e aplikacioneve dhe cilësimeve tuaja në Samsung Cloud ose të përdorni Samsung Health në Galaxy Wearable tuaj.
+• Për t’ju ofruar materiale dhe shërbime të personalizuara në lidhje me Galaxy Wearable tuaj. 
+• Për t’ju ofruar promocione dhe oferta nëpërmjet komunikimeve të marketingut të drejtpërdrejtë, por vetëm atëherë kur ke dhënë pëlqimin veçmas.
+• Për të analizuar produktet dhe shërbimet tona, përfshirë Galaxy Wearable që të na ndihmojë t’i kuptojmë më mirë klientët tanë, për të ofruar komunikimet, shërbimet dhe përvojat që përkojnë.
+• Për t’ju kërkuar mendimin tuaj për produktet dhe shërbimet tona dhe të bëni anketa të klientëve - nëse kërkohet kështu, me pëlqimin tuaj të veçantë.
+• Për t’ju ofruar përditësime të softuerit, shërbime mirëmbajtje dhe mbështetje për Galaxy Wearable tuaj.
+• Për të zbatuar ligjet dhe rregulloret.
+• Për të mbrojtur të drejtat, pronën dhe/ose sigurinë e Samsung Electronics ose të filialeve, partnerëve të biznesit ose klientëve tanë.
+
+ME KË E NDAJMË INFORMACIONIN TUAJ?
+
+Do të ndajmë informacionin tuaj brenda biznesit tonë dhe me subjektet vijuese, por vetëm për qëllimet e përshkruara më lart.
+
+* Filialet: kompani të tjera të Grupit Samsung Electronics, të cilat i kontrollojmë ose i kemi në zotërim;
+* Ofruesit e shërbimeve: kompanitë e zgjedhura me kujdes që ofrojnë shërbime për ose në emrin tonë, të tillë si serverët e të dhënave që mbajnë të dhëna në emrin tonë. Edhe këta ofrues janë zotuar për ta mbrojtur informacionin tuaj;
+* Palë të tjera kur kërkohet me ligj ose sipas nevojës për të mbrojtur Galaxy Wearable tuaj: për shembull, mund të nevojitet nga autoritetet qeveritare për qëllime të ligjit, procesit ligjor ose në zbatim të urdhrit të gjykatës për të zbuluar informacionin tuaj. Këto mund edhe ta kërkojnë informacionin tuaj prej nesh për synime të zbatimit të ligjit, sigurisë kombëtare, anti-terrorizmit ose çështje të tjera të ndërlidhura me sigurinë publike;
+* Palë të tjera në lidhje me veprimet e korporatës: mund ta përhapim informacionin tuaj tek një palë e tretë si pjesë të një shkrirje ose transferimi, blerje ose shitje, ose në rast falimentimi; dhe
+* Palë të treta me pëlqimin tuaj ose me udhëzimet tuaja: përveç komunikimeve të përshkruara në këtë Lajmërim të Privatësisë, informacionin tuaj mund ta përhapim te palë të treta kur jepni pëlqimin veçan për një përhapje të tillë ose kur e kërkoni vetë.
+
+PËRDITËSIME NË KËTË LAJMËRIM PRIVATËSIE
+
+Ky Lajmërim i Privatësisë mund të përditësohet për t’ju informuar në lidhje me ndryshimet në mënyrën se si mbledhim dhe përpunojmë informacionin tuaj për Galaxy Wearable ose ndryshimet në ligjet dhe rregulloret përkatëse. Data kur dokumenti u përditësua së fundmi tregohet në krye të këtij Lajmërimi të Privatësisë.
+
+
+V 2.0

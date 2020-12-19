@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/tips_use_touchpad_title" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/TipsManualTitleAppearance"/>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:layout_width="@dimen/guide_image_width" android:layout_height="@dimen/guide_image_height">
+            <com.samsung.accessory.hearablemgr.common.ui.VIListView android:id="@+id/vi_list_view" android:background="@color/contents_background" android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintDimensionRatio="1248:680" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" app:rawNameList="tips_touchpad_tap,tips_touchpad_double_tap,tips_touchpad_triple_tap,tips_touchpad_tap_and_hold"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+    <com.samsung.accessory.hearablemgr.common.ui.CanAwakeNestedScrollView android:id="@+id/nested_scroll" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="@dimen/tips_manual_description_default_height" android:layout_marginTop="@dimen/tips_manual_description_top_margin" android:overScrollMode="never" android:importantForAccessibility="noHideDescendants">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+            <TextView android:id="@+id/text_tap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_single_tap" style="@style/TipsManualDescriptionAppearance"/>
+            <com.samsung.accessory.hearablemgr.common.ui.DottedTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_play_pause_track" style="@style/TipsManualDescriptionAppearance"/>
+            <TextView android:id="@+id/text_double_tap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14sp" android:text="@string/tips_double_tap" style="@style/TipsManualDescriptionAppearance"/>
+            <com.samsung.accessory.hearablemgr.common.ui.DottedTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_next_track" style="@style/TipsManualDescriptionAppearance"/>
+            <com.samsung.accessory.hearablemgr.common.ui.DottedTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_answer_endcall" style="@style/TipsManualDescriptionAppearance"/>
+            <TextView android:id="@+id/text_triple_tap" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14sp" android:text="@string/tips_triple_tap" style="@style/TipsManualDescriptionAppearance"/>
+            <com.samsung.accessory.hearablemgr.common.ui.DottedTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_previous_track" style="@style/TipsManualDescriptionAppearance"/>
+            <TextView android:id="@+id/text_touch_and_hold" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14sp" android:text="@string/tips_touch_hold" style="@style/TipsManualDescriptionAppearance"/>
+            <com.samsung.accessory.hearablemgr.common.ui.DottedTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_touch_and_hold_desc_1" style="@style/TipsManualDescriptionAppearance"/>
+            <com.samsung.accessory.hearablemgr.common.ui.DottedTextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_decline_call" style="@style/TipsManualDescriptionAppearance"/>
+        </LinearLayout>
+    </com.samsung.accessory.hearablemgr.common.ui.CanAwakeNestedScrollView>
+</LinearLayout>

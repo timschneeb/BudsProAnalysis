@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">En fazla %d karakter eklenebilir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">En fazla %d karakter eklenebilir.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d saniye</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d saniye</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sesiniz %d saniye algılanmadığında görüşme modu sonlandırılır</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sesiniz %d saniye algılanmadığında görüşme modu sonlandırılır</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulaklıklarınızı önceden bir telefon veya tablet ile eşleştirdiyseniz tekrar bağlamak için şarj kılıfını açmanız yeterlidir.\10\10Otomatik olarak bağlanmazsa veya yeni bir telefon ya da tablet ile eşleştirmek istiyorsanız kulaklıklarınızı takın ve ardından bip sesi duyana kadar iki kulaklığa birden dokunup %d saniye basılı tutun.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulaklıklarınızı önceden bir telefon veya tablet ile eşleştirdiyseniz tekrar bağlamak için şarj kılıfını açmanız yeterlidir.\10\10Otomatik olarak bağlanmazsa veya yeni bir telefon ya da tablet ile eşleştirmek istiyorsanız kulaklıklarınızı takın ve ardından bip sesi duyana kadar iki kulaklığa birden dokunup %d saniye basılı tutun.</item>
+    </plurals>
+</resources>

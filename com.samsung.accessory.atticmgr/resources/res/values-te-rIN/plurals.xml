@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d కంటే ఎక్కువ అక్షరంను జోడించలేరు.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d కంటే ఎక్కువ అక్షరాలను జోడించలేరు.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d సెకను</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d సెకన్లు</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీ వాయిస్ %d సెకను కనుగొనబడనప్పుడు సంభాషణ మోడ్ ముగుస్తుంది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీ వాయిస్ %d సెకన్లు కనుగొనబడనప్పుడు సంభాషణ మోడ్ ముగుస్తుంది</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">మీరు ఫోన్ లేదా టాబ్లెట్‌తో మీ ఇయర్‌బడ్‌లను ఇప్పటికే జత చేసి ఉంటే, వాటిని మళ్లీ కనెక్ట్ చేయడానికి ఛార్జింగ్ కేస్‌ని తెరిస్తే సరిపోతుంది.\10\10అవి స్వయంచాలకంగా కనెక్ట్ కాకుంటే లేదా మీరు కొత్త ఫోన్ లేదా టాబ్లెట్‌తో కనెక్ట్ చేయాలనుకుంటే, మీ ఇయర్‌బడ్‌లను ఆన్ చేసి, ఆపై మీకు బీప్ ధ్వని వినిపించే వరకు %d సెకను పాటు రెండు ఇయర్‌బడ్‌లను నొక్కి, పట్టుకోండి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">మీరు ఫోన్ లేదా టాబ్లెట్‌తో మీ ఇయర్‌బడ్‌లను ఇప్పటికే జత చేసి ఉంటే, వాటిని మళ్లీ కనెక్ట్ చేయడానికి ఛార్జింగ్ కేస్‌ని తెరిస్తే సరిపోతుంది.\10\10అవి స్వయంచాలకంగా కనెక్ట్ కాకుంటే లేదా మీరు కొత్త ఫోన్ లేదా టాబ్లెట్‌తో కనెక్ట్ చేయాలనుకుంటే, మీ ఇయర్‌బడ్‌లను ఆన్ చేసి, ఆపై మీకు బీప్ ధ్వని వినిపించే వరకు %d సెకన్ల పాటు రెండు ఇయర్‌బడ్‌లను నొక్కి, పట్టుకోండి.</item>
+    </plurals>
+</resources>

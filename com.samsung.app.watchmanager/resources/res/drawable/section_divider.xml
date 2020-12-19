@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nine-patch xmlns:android="http://schemas.android.com/apk/res/android" android:src="@drawable/tw_section_divider_mtrl" android:tint="@color/sub_divider_background_tint"/>

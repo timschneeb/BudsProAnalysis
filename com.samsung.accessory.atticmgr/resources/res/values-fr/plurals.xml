@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Impossible d&apos;ajouter plus de %d caractère.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Impossible d&apos;ajouter plus de %d caractères.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d seconde</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d secondes</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Le mode Conversation prend fin lorsque votre voix n&apos;est pas détectée pendant %d seconde</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Le mode Conversation prend fin lorsque votre voix n&apos;est pas détectée pendant %d secondes</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Si vous avez déjà associé vos écouteurs à un téléphone ou une tablette, il vous suffit d&apos;ouvrir le boîtier de chargement pour les connecter à nouveau.\10\10S&apos;ils ne se connectent pas automatiquement, ou si vous souhaitez les associer à un nouveau téléphone ou une nouvelle tablette, insérez vos écouteurs, puis maintenez-les appuyés pendant %d seconde jusqu&apos;à ce que vous entendiez un bip.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Si vous avez déjà associé vos écouteurs à un téléphone ou une tablette, il vous suffit d&apos;ouvrir le boîtier de chargement pour les connecter à nouveau.\10\10S&apos;ils ne se connectent pas automatiquement, ou si vous souhaitez les associer à un nouveau téléphone ou une nouvelle tablette, insérez vos écouteurs, puis maintenez-les appuyés pendant %d secondes jusqu&apos;à ce que vous entendiez un bip.</item>
+    </plurals>
+</resources>

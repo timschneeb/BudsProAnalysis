@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Não é possível adicionar mais de %d caractere.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Não é possível adicionar mais de %d caracteres.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">O modo Conversa é encerrado quando sua voz não é detectada por %d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">O modo Conversa é encerrado quando sua voz não é detectada por %d segundos</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se você já pareou seus fones de ouvido com um telefone ou um tablet, basta abrir a base carregadora para conectá-los novamente.\10\10Se eles não se conectarem automaticamente, ou se você desejar fazer o pareamento com um novo telefone ou tablet, coloque seus fones e, em seguida, mantenha ambos pressionados por %d segundo até ouvir um sinal sonoro.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Se você já pareou seus fones de ouvido com um telefone ou um tablet, basta abrir a base carregadora para conectá-los novamente.\10\10Se eles não se conectarem automaticamente, ou se você desejar fazer o pareamento com um novo telefone ou tablet, coloque seus fones e, em seguida, mantenha ambos pressionados por %d segundos até ouvir um sinal sonoro.</item>
+    </plurals>
+</resources>

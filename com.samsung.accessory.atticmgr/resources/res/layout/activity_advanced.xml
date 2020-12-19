@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:expanded="false" style="@style/Widget.Design.AppBarLayout">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/collapsing_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="3" app:title="@string/settings_advanced" style="@style/Widget.Design.CollapsingToolbar">
+            <androidx.appcompat.widget.Toolbar android:layout_gravity="bottom" android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:layout_collapseMode="1" app:navigationIcon="?attr/homeAsUpIndicator" app:title="@string/settings_advanced"/>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <androidx.core.widget.NestedScrollView android:id="@+id/nested_scroll" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <LinearLayout android:orientation="vertical" android:id="@+id/linear_layout_voice_wakeup" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="horizontal" android:id="@+id/layout_voice_wakeup" android:background="?android:attr/selectableItemBackground" android:paddingTop="16dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+                            <TextView android:id="@+id/textview_voice_wakeup_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/settings_voice_wakeup_title" android:textDirection="locale" android:textAlignment="gravity" android:layout_marginEnd="16dp" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/ListItemTitleTextAppearance"/>
+                        </LinearLayout>
+                        <View android:background="@color/list_item_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height" android:layout_marginStart="19dp" android:layout_marginEnd="20dp"/>
+                    </LinearLayout>
+                    <RelativeLayout android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:id="@+id/layout_seamless_connection_switch" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <RelativeLayout android:id="@+id/seamless_connection_content_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@+id/switch_layout_seamless_connection">
+                            <LinearLayout android:orientation="vertical" android:id="@+id/seamless_connection_textlayout" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" android:layout_centerVertical="true" android:layout_marginStart="@dimen/list_item_content_inset">
+                                <TextView android:id="@+id/textview_seamless_connection_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/settings_seamless_connection" android:textDirection="locale" android:textAlignment="gravity" style="@style/ListItemTitleTextAppearance"/>
+                            </LinearLayout>
+                        </RelativeLayout>
+                        <LinearLayout android:orientation="horizontal" android:id="@+id/switch_layout_seamless_connection" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@+id/seamless_connection_content_layout" android:layout_alignBottom="@+id/seamless_connection_content_layout" android:layout_centerVertical="true" android:layout_alignParentEnd="true">
+                            <View android:layout_gravity="center_vertical" android:id="@+id/seamless_connection_switch_divider" android:background="@color/color_app_d4d4d4_opacity_15" android:layout_width="@dimen/list_item_divider_height" android:layout_height="@dimen/switch_divider_height"/>
+                            <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center_vertical" android:id="@+id/switch_seamless_connection" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_marginEnd="24dp"/>
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <RelativeLayout android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:id="@+id/layout_spatial_audio" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <View android:background="@color/list_item_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height" android:layout_marginStart="19dp" android:layout_marginEnd="20dp"/>
+                        <RelativeLayout android:id="@+id/spatial_audio_content_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@+id/switch_layout_spatial_audio">
+                            <LinearLayout android:orientation="vertical" android:id="@+id/spatial_audio_textlayout" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" android:layout_centerVertical="true" android:layout_marginStart="@dimen/list_item_content_inset">
+                                <TextView android:id="@+id/textview_spatial_audio_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/advanced_spatial_audio" android:textDirection="locale" android:textAlignment="gravity" style="@style/ListItemTitleTextAppearance"/>
+                            </LinearLayout>
+                        </RelativeLayout>
+                        <LinearLayout android:orientation="horizontal" android:id="@+id/switch_layout_spatial_audio" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@+id/spatial_audio_content_layout" android:layout_alignBottom="@+id/spatial_audio_content_layout" android:layout_centerVertical="true" android:layout_alignParentEnd="true">
+                            <View android:layout_gravity="center_vertical" android:id="@+id/spatial_audio_divider" android:background="@color/color_app_d4d4d4_opacity_15" android:layout_width="@dimen/list_item_divider_height" android:layout_height="@dimen/switch_divider_height"/>
+                            <androidx.appcompat.widget.SwitchCompat android:layout_gravity="center_vertical" android:id="@+id/switch_spatial_audio" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="16dp" android:layout_marginEnd="24dp"/>
+                        </LinearLayout>
+                    </RelativeLayout>
+                    <LinearLayout android:orientation="vertical" android:id="@+id/linear_layout_hearing_enhancements" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <View android:background="@color/list_item_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height" android:layout_marginStart="19dp" android:layout_marginEnd="20dp"/>
+                        <LinearLayout android:orientation="horizontal" android:id="@+id/layout_hearing_enhancements" android:background="?android:attr/selectableItemBackground" android:paddingTop="16dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+                            <TextView android:id="@+id/textview_hearing_enhancements" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/advanced_hearing_enhancements" android:textDirection="locale" android:textAlignment="gravity" android:layout_marginEnd="16dp" style="@style/ListItemTitleTextAppearance"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+        </com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

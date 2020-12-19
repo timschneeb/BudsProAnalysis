@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ניתן להוסיף רק %d תו.</item>
+        <item quantity="two">ניתן להוסיף לכל היותר %d תווים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">ניתן להוסיף לכל היותר %d תווים.</item>
+        <item quantity="other">ניתן להוסיף לכל היותר %d תווים.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d שנייה</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d שניות</item>
+        <item quantity="other">%d שניות</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מצב &apos;שיחה&apos; מסתיים כשהקול שלך לא מזוהה במשך שנייה %d</item>
+        <item quantity="two">מצב &apos;שיחה&apos; מסתיים כשהקול שלך לא מזוהה במשך %d שניות</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מצב &apos;שיחה&apos; מסתיים כשהקול שלך לא מזוהה במשך %d שניות</item>
+        <item quantity="other">מצב &apos;שיחה&apos; מסתיים כשהקול שלך לא מזוהה במשך %d שניות</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">אם כבר שייכת את אוזניות הכפתור לטלפון או לטאבלט, פשוט פתח את נרתיק הטעינה כדי לחבר אותן מחדש.\10\10אם הן לא מתחברות באופן אוטומטי או אם אתה מעוניין ליצור שיוך עם טלפון או עם טאבלט אחר, הרכב את אוזניות הכפתור ואז לחץ לחיצה ארוכה (%d שנייה) על שתיהן במקביל, עד שתשמע צפצוף.</item>
+        <item quantity="two">אם כבר שייכת את אוזניות הכפתור לטלפון או לטאבלט, פשוט פתח את נרתיק הטעינה כדי לחבר אותן מחדש.\10\10אם הן לא מתחברות באופן אוטומטי או אם אתה מעוניין ליצור שיוך עם טלפון או עם טאבלט אחר, הרכב את אוזניות הכפתור ואז לחץ לחיצה ארוכה (%d שניות) על שתיהן במקביל, עד שתשמע צפצוף.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">אם כבר שייכת את אוזניות הכפתור לטלפון או לטאבלט, פשוט פתח את נרתיק הטעינה כדי לחבר אותן מחדש.\10\10אם הן לא מתחברות באופן אוטומטי או אם אתה מעוניין ליצור שיוך עם טלפון או עם טאבלט אחר, הרכב את אוזניות הכפתור ואז לחץ לחיצה ארוכה (%d שניות) על שתיהן במקביל, עד שתשמע צפצוף.</item>
+        <item quantity="other">אם כבר שייכת את אוזניות הכפתור לטלפון או לטאבלט, פשוט פתח את נרתיק הטעינה כדי לחבר אותן מחדש.\10\10אם הן לא מתחברות באופן אוטומטי או אם אתה מעוניין ליצור שיוך עם טלפון או עם טאבלט אחר, הרכב את אוזניות הכפתור ואז לחץ לחיצה ארוכה (%d שניות) על שתיהן במקביל, עד שתשמע צפצוף.</item>
+    </plurals>
+</resources>

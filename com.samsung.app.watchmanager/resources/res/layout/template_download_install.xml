@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:id="@+id/download_install_view" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentTop="true">
+        <RelativeLayout android:gravity="center_vertical" android:id="@+id/top_actionbar_title" android:background="@color/daynight_dark_theme_background" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/action_bar_h" android:layout_alignParentTop="true">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gear_device_logo" android:layout_marginStart="25dp"/>
+        </RelativeLayout>
+        <RelativeLayout android:id="@+id/top_image_title" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@+id/topView" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/select_device_bg_default" android:scaleType="fitStart" android:adjustViewBounds="true" android:layout_alignParentTop="true"/>
+            <ImageView android:id="@+id/gearManagerLogo" android:layout_width="156dp" android:layout_height="24dp" android:layout_marginTop="8dp" android:src="@drawable/gear_device_logo" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_marginStart="20dp" android:layout_marginEnd="18dp"/>
+        </RelativeLayout>
+        <ViewStub android:id="@+id/download_install_layout_stub" android:layout="@layout/default_download_install" android:inflatedId="@+id/download_install_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@+id/top_image_title"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/transtition_view" android:visibility="gone" android:fitsSystemWindows="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentTop="true">
+        <include android:id="@+id/transition_included_layout" layout="@layout/activity_setupwizard_check_update_waiting"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/transtition_view_switching" android:visibility="gone" android:fitsSystemWindows="false" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_alignParentTop="true">
+        <include android:id="@+id/switching_included_layout" layout="@layout/infinite_progress_switching"/>
+    </RelativeLayout>
+</RelativeLayout>

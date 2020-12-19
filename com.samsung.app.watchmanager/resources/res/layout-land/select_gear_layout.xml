@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:id="@+id/topViewGradiant" android:background="@drawable/select_device_bg_gradation" android:layout_width="match_parent" android:layout_height="180dp" android:scaleType="fitXY" android:layout_above="@+id/recyclerViewLayout" android:layout_alignParentTop="true"/>
+    <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#fafafa" android:ellipsize="marquee" android:gravity="center" android:id="@+id/title" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="120dp" android:text="@string/pick_gear" android:singleLine="true" style="@style/robotoRegular"/>
+    <FrameLayout android:id="@+id/recyclerViewLayout" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/buttonLayout" android:layout_below="@+id/title">
+        <androidx.recyclerview.widget.RecyclerView android:scrollbarThumbVertical="@drawable/manager_common_scrollbar" android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/grid" android:scrollbars="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </FrameLayout>
+</RelativeLayout>

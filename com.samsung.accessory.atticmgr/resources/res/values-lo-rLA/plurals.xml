@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ບໍ່ສາມາດເພີ່ມໄດ້ຫຼາຍກວ່າ %d ຕົວອັກສອນ.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ວິນາທີ</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ໂໝດການສົນທະນາຈະສິ້ນສຸດເມື່ອບໍ່ພົບສຽງຂອງທ່ານເປັນເວລາ %d ວິນາທີ</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ຖ້າທ່ານໄດ້ຈັບຄູ່ຫູຟັງຂອງທ່ານກັບໂທລະສັບ ຫຼື ແທັບເລັດຮຽບຮ້ອຍແລ້ວ, ພຽງແຕ່ເປີດເຄສສາກເພື່ອເຊື່ອມຕໍ່ພວກມັນອີກຄັ້ງ.\10\10ຖ້າພວກມັນບໍ່ເຊື່ອມຕໍ່ໂດຍອັດຕະໂນມັດ, ຫຼື ຖ້າທ່ານຕ້ອງການຈັບຄູ່ກັບໂທລະສັບ ຫຼື ແທັບເລັດໃໝ່, ໃສ່ຫູຟັງຂອງທ່ານ, ຈາກນັ້ນສຳຜັດຫູຟັງທັງສອງຄ້າງໄວ້ເປັນເວລາ %d ວິນາທີຈົນກວ່າທ່ານໄດ້ຍິນສຽງບີບ.</item>
+    </plurals>
+</resources>

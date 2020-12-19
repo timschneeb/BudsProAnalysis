@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gehienez ere %d karaktere gehi daiteke.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Gehienez ere %d karaktere gehi daitezke.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d segundo</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Elkarrizketa modua amaitu egingo da, ez bada zure ahotsik hautematen %d segundoz</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Elkarrizketa modua amaitu egingo da, ez bada zure ahotsik hautematen %d segundoz</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aurikularrak telefono edo tableta batekin parekatu badituzu jada, ireki kargatzeko oinarria haiek berriz konektatzeko.\10\10Automatikoki konektatzen ez badira, edo beste telefono edo tableta batekin parekatu nahi badituzu, jarri aurikularrak belarrietan, eta, ondoren, ukitu eta eutsi bi aurikularrei %d segundoz soinu bat entzun arte.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Aurikularrak telefono edo tableta batekin parekatu badituzu jada, ireki kargatzeko oinarria haiek berriz konektatzeko.\10\10Automatikoki konektatzen ez badira, edo beste telefono edo tableta batekin parekatu nahi badituzu, jarri aurikularrak belarrietan, eta, ondoren, ukitu eta eutsi bi aurikularrei %d segundoz soinu bat entzun arte.</item>
+    </plurals>
+</resources>

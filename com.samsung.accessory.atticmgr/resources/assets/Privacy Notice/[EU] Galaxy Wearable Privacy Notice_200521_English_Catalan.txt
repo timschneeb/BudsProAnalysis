@@ -1,0 +1,84 @@
+﻿Avís de privadesa de Galaxy Wearable
+
+
+Darrera actualització: 1 de desembre de 2020
+
+A Samsung Electronics Co., Ltd., sabem com és d’important la privadesa per als nostres clients. Samsung és el controlador de dades del seu Galaxy Wearable. Hem creat aquest Avís de privadesa per assegurar-nos que entén com recopilem i utilitzem la seva informació personal. 
+
+La nostra Política de privadesa (que es pot visualitzar a https://account.samsung.com/membership/terms/privacypolicy) també s’aplica a l’ús del seu Galaxy Wearable. La nostra Política de privadesa conté més informació sobre com utilitzem les seves dades. També inclou informació sobre com contactar amb nosaltres. Llegeixi la nostra Política de privadesa a més d’aquest Avís de privadesa. Tanmateix, aquest Avís de privadesa sempre preval sobre la Política de privadesa.
+
+QUINA INFORMACIÓ RECOPILEM?
+
+A través del seu Galaxy Wearable, recopilem i mantenim informació sobre vostè de diferents maneres. 
+
+Informació sobre el seu ús de Galaxy Wearable
+
+• Informació del dispositiu: informació del model i dispositiu de hardware, el número de sèrie i altres identificadors únics del dispositiu, números de telèfon, codi de vendes, versió actual del software, MCC (codi de país mòbil), MNC (codi de xarxa mòbil), adreça MAC, adreça Bluetooth, versions del sistema operatiu i ajustaments dels dispositius que utilitza per a accedir al seu Galaxy Wearable.
+• Informació de registres: informació de diagnòstic, tècnica, d’error i d’ús, com ara el temps i la durada del seu ús del Galaxy Wearable, les aplicacions que ha instal·lat al seu Galaxy Wearable i com utilitza i interactua amb les aplicacions i altres continguts oferts a través del seu Galaxy Wearable, així com qualsevol altra informació emmagatzemada a les cookies que instal·lem als seus dispositius.
+• Informació de la ubicació: el senyal GPS del seu dispositiu o la informació sobre els punts d’accés Wi-Fi propers i les torres cel·lulars se’ns envia a nosaltres i als nostres proveïdors de serveis quan utilitza el seu Galaxy Wearable, quan activa la funció Ubicació i utilitza les funcions Cercar el meu rellotge o Cercar el meu mòbil, o quan utilitza la funció Auxili.
+
+COM UTILITZEM LA SEVA INFORMACIÓ?
+
+• Per ajudar-lo a registrar i utilitzar el seu Galaxy Wearable. 
+• Per proporcionar els serveis i funcions que sol·liciti. 
+• Per respondre a les seves sol·licituds i preguntes i comunicar-nos amb vostè sobre el seu Galaxy Wearable, inclosa la prestació d’assistència quan sol·liciti assistència tècnica relacionada amb el seu Galaxy Wearable. 
+• Per permetre-li interactuar amb aplicacions, funcions i serveis seleccionats de Samsung o de tercers. Per exemple, pot ser que pugui fer una còpia de seguretat de la informació de les seves aplicacions i configuracions a Samsung Cloud o utilitzar Samsung Health al seu Galaxy Wearable.
+• Per proporcionar contingut i serveis personalitzats relacionats amb el seu Galaxy Wearable. 
+• Per oferir-li promocions i ofertes mitjançant comunicacions de màrqueting directe, només quan ens hagi donat el seu consentiment per separat.
+• Per operar, avaluar i millorar Galaxy Wearable i el nostre negoci (incloent-hi el desenvolupament de nous productes i serveis; millora i actualització dels nostres productes i serveis; gestió de les nostres comunicacions; anàlisi dels nostres productes, serveis i cartera de clients; realització d’estudis de mercat; realització d’anàlisi de dades; i realització de tasques de comptabilitat, auditoria i altres funcions internes).
+• Per demanar-li opinions sobre els nostres productes i serveis i per realitzar enquestes a clients; si es requereix, amb el seu consentiment per separat.
+• Per proporcionar actualitzacions de software, serveis de manteniment i suport per al seu Galaxy Wearable.
+• Per identificar, prevenir i protegir-lo contra el frau i altres activitats delictives, reclamacions i altres responsabilitats.
+• Per complir els requisits legals vigents, les corresponents normes del sector i les nostres polítiques, incloent-hi aquest Avís de privadesa i la Política de privadesa.
+
+Samsung tracta la informació personal amb les finalitats indicades anteriorment. A continuació, es descriu la base legal de Samsung per processar informació personal: 
+
+Complim la nostra promesa (article 6, apartat 1, punt b) del RGPD)
+
+• El registrem a vostè i el seu Galaxy Wearable
+• Li proporcionem Galaxy Wearable, com ara li permetem fer una còpia de seguretat de la informació de les aplicacions i la configuració als servidors del núvol
+• Li proporcionem contingut personalitzat
+• Li permetem interactuar amb altres continguts de Samsung i de tercers
+
+Promovem els seus interessos empresarials (article 6, apartat 1, punt f) del RGPD)
+
+• Operem, avaluem i millorem Galaxy Wearable i el nostre negoci
+• Responem a les seves peticions, consultes i instruccions
+• Mantenim les mesures de seguretat, assistència i actualitzacions adequades
+• Protegim contra la responsabilitat, inclòs el compliment de les normes industrials i l'aplicació de les nostres polítiques
+
+Complim amb la legislació i els processos legals (article 6, apartat 1, punt c) del RGPD)
+• Complim els estatuts aplicables i les disposicions reglamentàries i judicials
+
+Amb el seu consentiment (article 6, apartat 1, punt a) del RGPD)
+• Proporcionem notificacions de màrqueting (com ara mitjançant notificacions push, correus electrònics i missatges de text)
+
+AMB QUI COMPARTIM LA SEVA INFORMACIÓ?
+
+Divulgarem la seva informació internament dins del nostre negoci i a les entitats següents, però només per a les finalitats descrites anteriorment.
+
+Associats: altres empreses del grup de Samsung Electronics que controlem o que són de la nostra propietat;
+Proveïdors de serveis: empreses seleccionades amb cura que proporcionen serveis per a nosaltres o en nom nostre, com ara servidors de dades que mantenen dades en nom nostre. Aquests proveïdors també es comprometen a protegir la seva informació;
+Altres parts quan ho requereixi la llei o sigui necessari per protegir el seu Galaxy Wearable: per exemple, pot ser que calgui per llei, procés legal o ordre judicial de les autoritats governamentals que es divulgui la seva informació. També podrien demanar-nos la seva informació amb la finalitat d’aplicar la llei, així com les polítiques de seguretat nacional i d’antiterrorisme, o per altres qüestions relacionades amb la seguretat pública;
+Altres parts relacionades amb les transaccions corporatives: podem divulgar la seva informació a tercers com a part d’una fusió o transferència, una adquisició o venta, o bé en el cas de fer fallida; i
+Altres parts amb el seu consentiment o sota la seva direcció: a més de les divulgacions descrites en aquest Avís de privadesa, podem compartir informació sobre vostè amb tercers sempre i quan hi doni el seu consentiment per separat o en sol·liciti l’ús compartit.
+
+QUANT DE TEMPS CONSERVEM LA INFORMACIÓ I ON VA?
+
+El temps què es conservaran les seves dades depèn de la base legal invocada per processar-les. Per exemple, les dades que processem per dur a terme el nostre contracte amb vostè requereixen que guardem les dades durant el temps que utilitzi el seu Galaxy Wearable. Mentre sigui un usuari actiu del seu Galaxy Wearable, conservarem i processarem aquestes dades. Les dades, com ara informació i identificadors del dispositiu, entren en aquesta categoria.
+
+Les dades que processem per promoure els nostres interessos empresarials, com ara l’ús del seu Galaxy Wearable, només es conservaran durant el temps que sigui necessari per a les finalitats per a les quals es van recollir. Per exemple, es poden recopilar aquestes dades per realitzar anàlisis de manera que puguem desenvolupar millores a Galaxy Wearable o bé podrem processar dades per mantenir un registre de les consultes realitzades a través de o sobre el seu Galaxy Wearable per millorar la seva experiència en el servei d’atenció al client.
+
+A més, també podrem processar les dades en funció del seu consentiment. Si retira el consentiment, seguirem processant les dades recollides abans de la seva retirada fins que s'hagin aconseguit les finalitats per a les quals es van obtenir aquestes dades.
+
+Tingui en compte que, tot i que volem retenir les seves dades durant el període descrit anteriorment, podrien ser processades durant més temps si així ho indica la legislació aplicable. Per exemple, si un estatut específic demana que necessitem una dada determinada, complirem i conservarem aquestes dades fins que finalitzi el període de retenció requerit. 
+
+Sempre que les seves dades siguin conservades, aquestes estaran sempre sotmeses a garanties adequades.
+
+L’ús del seu Galaxy Wearable implicarà la transferència, emmagatzematge i processament de la informació personal a altres països que inclouen, entre d’altres, els països de l’Espai Econòmic Europeu, la República de Corea, els Estats Units, la Xina i el Vietnam. Totes les transferències internacionals de dades estan subjectes a requisits legals per garantir que la informació personal sigui processada de forma segura i tal com s’esperaria.
+
+ACTUALITZACIONS D’AQUEST AVÍS DE PRIVADESA
+
+Aquest Avís de privadesa es pot actualitzar per informar-lo sobre els canvis en la manera en què recopilem i processem la seva informació del Galaxy Wearable o els canvis en la legislació i regulacions pertinents. La data de la darrera actualització del document es mostra a la part superior d'aquest Avís de privadesa.
+
+V2.0

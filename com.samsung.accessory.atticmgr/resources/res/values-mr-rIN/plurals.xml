@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d पेक्षा अधिक वर्ण जोडू शकत नाही.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d पेक्षा अधिक वर्ण जोडू शकत नाहीत.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकंद</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d सेकंदे</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">आपला आवाज %d सेकंद न आढळल्‍यास, संभाषण मोड समाप्‍त होतो</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">आपला आवाज %d सेकंद न आढळल्‍यास, संभाषण मोड समाप्‍त होतो</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">आपण आधीपासूनच फोन किंवा टॅबलेट सह आपले इअरबड पेअर केलेले असल्यास, त्यांना पुन्हा कनेक्ट करण्या साठी फक्त चार्जिंग केस उघडा.\10\10ते स्वयंचलित पणे कनेक्ट होत नसल्यास किंवा आपण नवीन फोन किंवा टॅबलेट सह पेअर करू इच्छित असल्यास आपले ईअरबड घाला, त्यानंतर आपण %d सेकंदा साठी बीप ऐकत नाही तोपर्यंत दोन्ही ईअरबडला स्पर्श करा आणि धरून ठेवा.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">आपण आधीपासूनच फोन किंवा टॅबलेट सह आपले इअरबड पेअर केलेले असल्यास, त्यांना पुन्हा कनेक्ट करण्या साठी फक्त चार्जिंग केस उघडा.\10\10ते स्वयंचलित पणे कनेक्ट होत नसल्यास किंवा आपण नवीन फोन किंवा टॅबलेट सह पेअर करू इच्छित असल्यास आपले ईअरबड घाला, त्यानंतर आपण %d सेकंदां साठी बीप ऐकत नाही तोपर्यंत दोन्ही ईअरबडला स्पर्श करा आणि धरून ठेवा.</item>
+    </plurals>
+</resources>

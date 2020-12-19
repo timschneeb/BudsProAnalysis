@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/layout_widget_battery_container" android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView android:layout_gravity="center" android:id="@+id/widget_background" android:layout_width="match_parent" android:layout_height="match_parent" android:src="@drawable/background_widget"/>
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:minWidth="@dimen/widget_portrait_layout_min_width" android:minHeight="@dimen/widget_portrait_layout_min_height">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="5dp" android:layout_marginEnd="5dp">
+            <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <TextView android:textSize="@dimen/widget_portrait_device_bt_name_text_size" android:ellipsize="end" android:gravity="bottom|center_vertical|center_horizontal|center" android:layout_gravity="center" android:id="@+id/widget_text_device_bt_name" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" android:paddingStart="10dp" android:paddingEnd="10dp" style="@style/WidgetTitleTextAppearance"/>
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5dp">
+                <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:id="@+id/layout_widget_battery_device" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1" android:layoutDirection="ltr">
+                    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="@dimen/widget_portrait_battery_solo_layout_width" android:layout_height="wrap_content" android:layout_weight="1">
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5"/>
+                            <ImageView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/image_widget_device_left" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/widget_buds_left_white" android:adjustViewBounds="true" android:layout_weight="1"/>
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="3dp">
+                            <TextView android:textSize="@dimen/widget_portrait_battery_device_text_size" android:textColor="@color/widget_device_name_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_device_left" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/widget_device_left" android:maxLines="1"/>
+                            <TextView android:textSize="@dimen/widget_portrait_battery_gauge_text_size" android:textColor="@color/widget_title_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_battery_gauge_left" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="1dp" android:text="100%" android:maxLines="1"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:layout_width="@dimen/widget_portrait_battery_solo_layout_width" android:layout_height="wrap_content" android:layout_weight="1">
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5"/>
+                            <ImageView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/image_widget_device_right" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/widget_buds_right_white" android:adjustViewBounds="true" android:layout_weight="1"/>
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="3dp">
+                            <TextView android:textSize="@dimen/widget_portrait_battery_device_text_size" android:textColor="@color/widget_device_name_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_device_right" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/widget_device_right" android:maxLines="1"/>
+                            <TextView android:textSize="@dimen/widget_portrait_battery_gauge_text_size" android:textColor="@color/widget_title_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_battery_gauge_right" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="1dp" android:text="100%" android:maxLines="1"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@+id/layout_widget_battery_common" android:focusable="true" android:visibility="gone" android:layout_width="@dimen/widget_portrait_battery_integrated_layout_width" android:layout_height="wrap_content" android:layout_weight="1">
+                    <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_weight="1" android:layoutDirection="ltr">
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2">
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5"/>
+                            <ImageView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/image_widget_common_left" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/widget_buds_left_white" android:adjustViewBounds="true" android:layout_weight="1"/>
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5.5"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="2">
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5.5"/>
+                            <ImageView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/image_widget_common_right" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/widget_buds_right_white" android:adjustViewBounds="true" android:layout_weight="1"/>
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="5"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="3dp">
+                        <TextView android:textSize="@dimen/widget_portrait_battery_device_text_size" android:textColor="@color/widget_device_name_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_common" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/widget_device_buds" android:maxLines="1"/>
+                        <TextView android:textSize="@dimen/widget_portrait_battery_gauge_text_size" android:textColor="@color/widget_title_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_battery_gauge_common" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="1dp" android:text="100%" android:maxLines="1"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <FrameLayout android:layout_gravity="bottom" android:id="@+id/layout_widget_cradle" android:focusable="true" android:layout_width="@dimen/widget_portrait_battery_case_layout_width" android:layout_height="wrap_content" android:layout_weight="1" android:layout_marginStart="3dp">
+                    <LinearLayout android:gravity="center" android:layout_gravity="start" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                        <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3"/>
+                            <ImageView android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/image_widget_cradle" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/widget_buds_cradle_white" android:adjustViewBounds="true" android:layout_weight="1"/>
+                            <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="3"/>
+                        </LinearLayout>
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="3dp">
+                            <TextView android:textSize="@dimen/widget_portrait_battery_device_text_size" android:textColor="@color/widget_device_name_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_cradle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/widget_cradle" android:maxLines="1"/>
+                            <TextView android:textSize="@dimen/widget_portrait_battery_gauge_text_size" android:textColor="@color/widget_title_color_style_black" android:ellipsize="end" android:gravity="center" android:id="@+id/text_widget_battery_gauge_cradle" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="1dp" android:text="100%" android:maxLines="1"/>
+                        </LinearLayout>
+                    </LinearLayout>
+                </FrameLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

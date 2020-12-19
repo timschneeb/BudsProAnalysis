@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="manage_devices_delete_popup_main_text">
+        <item quantity="one">@string/manage_devices_delete_popup_main_text_one</item>
+        <item quantity="other">@string/manage_devices_delete_popup_main_text_others</item>
+    </plurals>
+</resources>

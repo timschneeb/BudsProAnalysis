@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="48dp" android:width="48dp" android:viewportWidth="48" android:viewportHeight="48">
+    <group android:name="root" android:translateX="24" android:translateY="24">
+        <path android:name="progressBase1" android:fillColor="#00000000" android:pathData="M18.969,0c0,10.494-8.507,19-19,19s-19-8.506-19-19" android:strokeColor="@color/sesl_loading_progress_color1" android:strokeWidth="2" android:trimPathStart="0" android:trimPathEnd="0" android:trimPathOffset="0" android:strokeLineCap="round" android:strokeLineJoin="miter" android:strokeAlpha="1" android:fillAlpha="1"/>
+        <path android:name="progressBase2" android:fillColor="#00000000" android:pathData="M-19.016-0.016c0-10.494,8.507-19,19-19s19,8.506,19,19" android:strokeColor="@color/sesl_loading_progress_color2" android:strokeWidth="2" android:trimPathStart="0" android:trimPathEnd="0" android:trimPathOffset="0" android:strokeLineCap="round" android:strokeLineJoin="miter" android:strokeAlpha="1" android:fillAlpha="1"/>
+    </group>
+</vector>

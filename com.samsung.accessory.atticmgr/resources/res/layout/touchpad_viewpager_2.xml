@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:contentDescription="@string/tips_triple_tap" android:importantForAccessibility="yes">
+    <androidx.constraintlayout.widget.ConstraintLayout android:layout_gravity="center" android:layout_width="@dimen/guide_image_width" android:layout_height="@dimen/guide_image_height">
+        <com.samsung.accessory.hearablemgr.common.ui.VIView android:background="@color/legacy_contents_background" android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintDimensionRatio="1248:680" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" app:rawId="@raw/tips_touchpad_triple_tap"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

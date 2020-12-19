@@ -1,0 +1,84 @@
+﻿Oznámení o ochraně osobních údajů pro Galaxy Wearable
+
+
+Poslední aktualizace: 1. prosince2020
+
+Ve společnosti Samsung Electronics Co., Ltd. víme, jak důležitá je pro naše zákazníky ochrana osobních údajů. Společnost Samsung je správcem údajů vaší aplikace Galaxy Wearable. Toto oznámení o ochraně osobních údajů jsme vytvořili, abychom měli jistotu, že rozumíte, jakým způsobem shromažďujeme a používáme vaše osobní údaje. 
+
+Naše zásady ochrany osobních údajů, které si můžete přečíst na stránkách https://account.samsung.com/membership/terms/privacypolicy, se také vztahují na vaše používání služby Galaxy Wearable. Naše zásady ochrany osobních údajů obsahují další informace o tom, jak používáme vaše údaje. Obsahují také informace o tom, jak nás kontaktovat. Kromě tohoto oznámení o ochraně osobních údajů si prosím přečtěte naše Zásady ochrany osobních údajů. Toto oznámení o ochraně osobních údajů má však vždy přednost před Zásadami ochrany osobních údajů.
+
+JAKÉ ÚDAJE SHROMAŽĎUJEME? 
+
+Prostřednictvím služby Galaxy Wearable o vás různými způsoby shromažďujeme a uchováváme informace. 
+
+Informace o vašem používání služby Galaxy Wearable
+
+• Informace o zařízení: Váš model hardwaru, informace o hardwaru zařízení, sériové číslo a další jedinečné identifikátory zařízení, aktuální verze softwaru, prodejní kód, aktuální verze softwaru, kód MCC (mobilní kód země), kód MNC (kód mobilní sítě), adresa MAC, adresa Bluetooth, verze operačního systému a nastavení zařízení, která používáte pro přístup ke službě Galaxy Wearable.
+• Informace o protokolu: Diagnostické, technické a chybové informace a informace o použití, jako je čas a trvání vašeho používání služby Galaxy Wearable, aplikacích, které si do služby Galaxy Wearable nainstalujete, a způsobu, jakým pracujete a interagujete s obsahem nabízeným prostřednictvím služby Galaxy Wearable, a také jakékoli informace uložené v souborech cookie, které instalujeme do vašich zařízení.
+• Informace o poloze: Signál GPS vašeho zařízení nebo informace o nedalekých přístupových bodech Wi-Fi a buňkových věžích, nám budou zaslány (včetně našich poskytovatelů služeb) při používání aplikace Galaxy Wearable, když zapnete funkci Poloha a používáte funkci Najít moje hodinky nebo Najít můj telefon nebo používáte funkci SOS.
+
+JAK POUŽÍVÁME VAŠE ÚDAJE? 
+
+• Abychom vám pomohli zaregistrovat a používat Galaxy Wearable. 
+• K poskytování služeb a funkcí, které požadujete. 
+• Abychom mohli reagovat na vaše požadavky a odpovídat na otázky a komunikovat s vámi o vašem Galaxy Wearable, včetně pomoci v případě, že žádáte o technickou podporu v souvislosti se svým zařízením Galaxy Wearable. 
+• Abychom vám umožnili interakci s vybranými aplikacemi, funkcemi a službami Samsung nebo jiných výrobců. Můžete mít například možnost zálohovat své aplikace a informace a nastavení v Samsung Cloudu nebo na svém Galaxy Wearable používat aplikaci Samsung Health.
+• Abychom mohli poskytovat přizpůsobený obsah a služby související s vaším Galaxy Wearable. 
+• Abychom mohli poskytovat propagační akce a nabídky prostřednictvím přímé marketingové komunikace, pouze pokud jste nám dali svůj zvláštní souhlas.
+• Abychom mohli provozovat, vyhodnocovat a zdokonalovat Galaxy Wearable a naši obchodní činnost (včetně vývoje nových produktů a služeb, zdokonalování a vylepšování našich produktů a služeb, správy naší komunikace, analýzy našich produktů, zákaznické základny a služeb, provádění průzkumu trhu, provádění analýzy dat, vedení účetnictví, provádění auditu a jiných interních funkcí).
+• Abychom se vás mohli ptát na vaše názory na naše produkty a služby a abychom prováděli zákaznické průzkumy, v případě potřeby s vaším zvláštním souhlasem.
+• Abychom mohli poskytovat aktualizace softwaru, služeb údržby a podporu pro vaše Galaxy Wearable.
+• Abychom mohli zajistit ochranu před podvody a jinou kriminální činností, nároky a jinými odpovědnostmi, jejich identifikace a eliminace.
+• Abychom zajistili dodržování platných zákonných požadavků, příslušných standardů v rámci odvětví a našich zásad, včetně tohoto Oznámení o ochraně osobních údajů a Zásad ochrany osobních údajů.
+
+Společnost Samsung zpracovává osobní údaje pro účely popsané výše. Právní základ pro zpracování údajů společností Samsung: 
+
+Dodržení našeho příslibu vůči vám (článek GDPR 6(1)(b))
+
+• Registrace vás jako uživatele a vaší služby Galaxy Wearable
+• Předání Galaxy Wearable, například umožnění vám zálohovat aplikace a informace o nastavení na cloudové servery
+• Poskytnutí přizpůsobeného obsahu
+• Poskytnutí možnosti používat jiný obsah společnosti Samsung a třetích stran
+
+Propagace našich obchodních zájmů (článek GDPR 6(1)(f))
+
+• Provozování, posuzování a vylepšování Galaxy Wearable a našeho předmětu podnikání
+• Reakce na vaše požadavky, pokyny a dotazy
+• Udržování adekvátních bezpečnostních opatření, podpory a aktualizací
+• Ochrana před odpovědností, včetně dodržování standardů odvětví a vymáhání našich zásad
+
+Vyhovění právním předpisům a legislativním procesům (článek GDPR 6(1)(c))
+• Dodržování platných statutů a regulačních a soudních nařízení
+
+S vaším souhlasem (článek GDPR 6(1)(a))
+• Poskytování marketingových oznámení (jako jsou nabízená oznámení, e-maily a textové zprávy)
+
+S KÝM SDÍLÍME VAŠE INFORMACE? 
+
+Vaše informace budeme moci zpřístupňovat interně, v rámci našich obchodních zájmů, následujícím subjektům, ale pouze k výše uvedeným účelům.
+
+Přidružené subjekty: další společnosti skupiny Samsung Electronics, které řídíme nebo vlastníme;
+Poskytovatelé služeb: pečlivě vybrané společnosti, které poskytují služby pro nás nebo naším jménem. Tito poskytovatelé se rovněž zavazují chránit vaše informace;
+Jiné strany, pokud to vyžaduje legislativa nebo je to nezbytné pro ochranu služby Galaxy Wearable: může jít například o zákonný požadavek nebo soudní příkaz vládních orgánů sdělit vaše informace. Mohou si také od nás vyžádat vaše informace pro účely vymáhání práva, národní bezpečnosti, boje proti terorismu a jiných záležitostí, které souvisí s národní bezpečností;
+Další strany ve spojení s obchodními transakcemi: vaše informace smíme sdělit třetí straně v rámci fúze nebo převodu, nabytí nebo prodeje nebo v případě bankrotu; a
+Ostatní strany s vaším souhlasem nebo na vaši žádost: kromě zpřístupnění popsaných v tomto oznámení o ochraně osobních údajů můžeme informace shromážděné od vás sdílet se třetími stranami s vaším zvláštním souhlasem nebo na vaši žádost.
+
+JAK DLOUHO UCHOVÁVÁME VAŠE ÚDAJE A KAM JE PŘEDÁVÁME?
+
+Doba, po kterou budeme vaše údaje uchovávat, závisí na právním základě zpracování údajů. Údaje, které zpracováváme pro účely výkonu naší smlouvy s vámi, je například nezbytné uchovávat po celou dobu, po kterou používáte Galaxy Wearable. Tyto údaje budeme uchovávat a zpracovávat po celou dobu, po kterou budete aktivním uživatelem Galaxy Wearable. Do této kategorie spadají údaje, jako jsou Informace o zařízení a identifikátory.
+
+Údaje, které zpracováváme pro účely prosazování našich obchodních zájmů, jako je vaše používání Galaxy Wearable, jsou uchovávány pouze po dobu nezbytnou pro účely, pro které byly shromážděny. Tyto údaje je například možné shromažďovat pro účely provádění analýz, abychom mohli vyvíjet zlepšení Galaxy Wearable, případně můžeme údaje zpracovávat, abychom mohli vést záznam dotazů, které jste zadali prostřednictvím Galaxy Wearable nebo v souvislosti s ním, ke zlepšování vašich zkušeností se zákaznickými službami.
+
+Kromě toho můžeme vaše údaje zpracovávat také na základě vašeho souhlasu. Pokud souhlas odvoláte, budeme nadále zpracovávat údaje získané před odvoláním souhlasu, dokud nebude dosaženo účelu, pro který byly tyto údaje shromážděny.
+
+Vezměte prosím na vědomí, že i když je naším cílem uchovávat vaše údaje po výše uvedenou dobu, mohou být zpracovávány déle v souladu s příslušnou legislativou. Pokud například konkrétní právní předpis nařizuje, abychom požadovali konkrétní údaje, vyhovíme a ponecháme tyto údaje až do skončení požadovaného období uchovávání. 
+
+Vaše údaje budou po celou dobu, po kterou je uchováváme, zabezpečeny příslušnými opatřeními.
+
+Vaše používání Galaxy Wearable bude zahrnovat předávání, uložení a zpracování vašich osobních údajů v jiných zemích. Mezi tyto země patří mimo jiné země v rámci EHP, Korejská republika, Spojené státy americké, Čína a Vietnam. Mezinárodní přenosy dat se řídí legislativními požadavky, které zajišťují bezpečné zpracování vašich osobních údajů podle vašeho očekávání.
+
+AKTUALIZACE TOHOTO OZNÁMENÍ
+
+Toto oznámení o ochraně osobních údajů může být aktualizováno s cílem informovat vás o změnách způsobu shromažďování a zpracovávání vašich informací o Galaxy Wearable nebo změnách příslušné legislativy a nařízení. Datum, kdy byl dokument naposledy aktualizován, se zobrazuje v horní části tohoto oznámení o ochraně osobních údajů. 
+
+V 2.0

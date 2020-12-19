@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Не може да се додадат повеќе од %d знак.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Не може да се додадат повеќе од %d знаци.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Режимот за разговор завршува кога Вашиот глас не се открива %d секунда</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Режимот за разговор завршува кога Вашиот глас не се открива %d секунди</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ако веќе сте ги спариле Вашите слушалки со телефон или таблет, едноставно отворете го куќиштето за полнење за повторно да ги поврзете.\10\10Ако не се поврзат автоматски или ако сакате да спарите со нов телефон или таблет, ставете ги Вашите слушалки, а потоа допрете и држете ги и двете слушалки %d секунда, сѐ додека не слушнете звучен сигнал.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ако веќе сте ги спариле Вашите слушалки со телефон или таблет, едноставно отворете го куќиштето за полнење за повторно да ги поврзете.\10\10Ако не се поврзат автоматски или ако сакате да спарите со нов телефон или таблет, ставете ги Вашите слушалки, а потоа допрете и држете ги и двете слушалки %d секунди, сѐ додека не слушнете звучен сигнал.</item>
+    </plurals>
+</resources>

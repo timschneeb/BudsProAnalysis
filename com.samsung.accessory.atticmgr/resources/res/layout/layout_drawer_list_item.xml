@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_1line_min_height" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+    <LinearLayout android:orientation="vertical" android:paddingTop="@dimen/list_item_text_top_bottom_padding" android:paddingBottom="@dimen/list_item_text_top_bottom_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="48dp">
+        <TextView android:textAppearance="@style/DrawerListItemTitleTextAppearance" android:id="@+id/text_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="true"/>
+        <TextView android:textSize="13sp" android:textColor="#909090" android:id="@+id/text_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/connected" android:maxLines="1" android:includeFontPadding="true" android:fontFamily="@string/roboto_regular"/>
+    </LinearLayout>
+    <ImageView android:id="@+id/image_icon" android:layout_width="24dp" android:layout_height="24dp" android:src="@drawable/drawer_ic_add" android:tint="@color/drawer_icon_default" android:layout_centerVertical="true" android:layout_marginStart="8dp"/>
+</RelativeLayout>

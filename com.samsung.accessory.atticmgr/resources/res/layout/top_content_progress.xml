@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/layout_top_content_progress" android:paddingTop="@dimen/top_content_progress_padding_top" android:paddingBottom="@dimen/top_content_progress_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/top_content_layout_height">
+    <TextView android:id="@+id/textview_top_content_progress_title" style="@style/FotaProviderTheme.Widget.TextView.TopContent.Title"/>
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="@dimen/top_content_progressbar_height" android:layout_marginTop="@dimen/top_content_progress_margin_top_bottom" android:layout_marginBottom="@dimen/top_content_progress_margin_top_bottom" android:paddingStart="@dimen/top_content_progress_padding_start_end" android:paddingEnd="@dimen/top_content_progress_padding_start_end">
+        <ProgressBar android:id="@+id/progressbar_top_content_horizontal_progress" android:layout_width="match_parent" android:layout_height="match_parent" style="@style/FotaProviderTheme.Widget.ProgressBar.Horizontal"/>
+        <include android:layout_width="match_parent" android:layout_height="match_parent" layout="@layout/layout_horizontal_progressbar_rounded_corners"/>
+    </RelativeLayout>
+    <TextView android:id="@+id/textview_top_content_progress_size" style="@style/FotaProviderTheme.Widget.TextView.TopContent.ProgressText"/>
+</LinearLayout>

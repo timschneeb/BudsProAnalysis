@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:expanded="false" style="@style/Widget.Design.AppBarLayout">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/collapsing_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="3" app:title="@string/advanced_hearing_enhancements" style="@style/Widget.Design.CollapsingToolbar">
+            <androidx.appcompat.widget.Toolbar android:theme="@style/Theme.AppCompat" android:layout_gravity="bottom" android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:layout_collapseMode="1" app:navigationIcon="?attr/homeAsUpIndicator" app:title="@string/advanced_hearing_enhancements"/>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <com.samsung.accessory.hearablemgr.common.ui.ResponsiveNestedScrollView android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/nested_scroll" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+            <com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerHorizontal="true">
+                <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                    <LinearLayout android:orientation="vertical" android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:layout_marginBottom="14dp" android:text="@string/advanced_sound_balance" android:textDirection="locale" android:textAlignment="gravity" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="@style/ListItemTitleTextAppearance"/>
+                        <com.samsung.accessory.hearablemgr.common.ui.TwoTickMarkSeekBar android:id="@+id/sound_balance_seekbar" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:layout_marginBottom="14dp" android:max="32" android:progressDrawable="@drawable/seekbar_progress" android:thumb="@drawable/seekbar_thumb" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" android:progressBackgroundTint="@color/color_black"/>
+                        <RelativeLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="20dp">
+                            <TextView android:textSize="13sp" android:textColor="@color/colorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/advanced_left" android:layout_marginStart="27dp" android:layout_alignParentStart="true"/>
+                            <TextView android:textSize="13sp" android:textColor="@color/colorPrimary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/advanced_right" android:layout_marginStart="27dp" android:layout_marginEnd="27dp" android:layout_alignParentEnd="true"/>
+                        </RelativeLayout>
+                    </LinearLayout>
+                </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+            </com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout>
+        </RelativeLayout>
+    </com.samsung.accessory.hearablemgr.common.ui.ResponsiveNestedScrollView>
+    <ImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_top_left" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800033"/>
+    <ImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_top_right" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800035"/>
+    <ImageView android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_bottom_left" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800053"/>
+    <ImageView android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_bottom_right" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800055"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

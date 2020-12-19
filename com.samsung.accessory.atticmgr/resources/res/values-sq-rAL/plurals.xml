@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">S‘mund të shtohet më shumë se %d shenjë.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">S‘mund të shtohen më shumë se %d shenja.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekondë</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekonda</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Regjimi bisedë do të mbyllet kur zëri yt të mos pikaset për %d sekondë</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Regjimi bisedë do të mbyllet kur zëri yt të mos pikaset për %d sekonda</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nëse i ke çiftuar tashmë minikufjet e tua me një telefon ose tabletë, thjesht hape kutinë e karikimit, për t’i lidhur sërish.\10\10Nëse ato nuk lidhen automatikisht, ose nëse dëshiron të çiftosh me një telefon ose tabletë të re, vëri minikufjet në vesh, pastaj preki dhe mbaji të dyja minikufjet për %d sekondë, derisa të dëgjosh një bip.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nëse i ke çiftuar tashmë minikufjet e tua me një telefon ose tabletë, thjesht hape kutinë e karikimit, për t’i lidhur sërish.\10\10Nëse ato nuk lidhen automatikisht, ose nëse dëshiron të çiftosh me një telefon ose tabletë të re, vëri minikufjet në vesh, pastaj preki dhe mbaji të dyja minikufjet për %d sekonda, derisa të dëgjosh një bip.</item>
+    </plurals>
+</resources>

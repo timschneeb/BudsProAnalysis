@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="20.7dp" android:width="32dp" android:viewportWidth="96" android:viewportHeight="62">
+    <group android:name="circle_inner_group" android:pivotX="48" android:pivotY="31">
+        <path android:name="circle_inner" android:fillColor="?attr/colorControlActivated" android:pathData="M48,31m-17,0a17,17 0 1,0 34,0a17,17 0 1,0-34,0" android:fillAlpha="0"/>
+    </group>
+    <group android:name="circle_outline_group" android:pivotX="48" android:pivotY="31">
+        <path android:name="circle_outline_normal" android:pathData="M48,31m-29.5,0a29.5,29.5 0 1,0 59,0a29.5,29.5 0 1,0-59,0" android:strokeColor="?attr/colorControlNormal" android:strokeWidth="3"/>
+        <path android:name="circle_outline" android:pathData="M48,31m-29.5,0a29.5,29.5 0 1,0 59,0a29.5,29.5 0 1,0-59,0" android:strokeColor="?attr/colorControlActivated" android:strokeWidth="3" android:strokeAlpha="0"/>
+    </group>
+</vector>

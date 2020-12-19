@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ní féidir níos mó ná %d charachtar a chur leis.</item>
+        <item quantity="two">Ní féidir níos mó ná %d charachtar a chur leis.</item>
+        <item quantity="few">Ní féidir níos mó ná %d charachtar a chur leis.</item>
+        <item quantity="many">Ní féidir níos mó ná %d gcarachtar a chur leis.</item>
+        <item quantity="other">Ní féidir níos mó ná %d carachtar a chur leis.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d soicind</item>
+        <item quantity="two">%d shoicind</item>
+        <item quantity="few">%d shoicind</item>
+        <item quantity="many">%d soicind</item>
+        <item quantity="other">%d soicind</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Scoirtear Mód comhrá nuair nach mbraitear do ghuth ar feadh %d soicind</item>
+        <item quantity="two">Scoirtear Mód comhrá nuair nach mbraitear do ghuth ar feadh %d shoicind</item>
+        <item quantity="few">Scoirtear Mód comhrá nuair nach mbraitear do ghuth ar feadh %d shoicind</item>
+        <item quantity="many">Scoirtear Mód comhrá nuair nach mbraitear do ghuth ar feadh %d soicind</item>
+        <item quantity="other">Scoirtear Mód comhrá nuair nach mbraitear do ghuth ar feadh %d soicind</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Má tá do chluasáin bhachlóige péireáilte cheana agat le fón nó le táibléad, oscail an cás luchtaithe lena nascadh arís.\10\10Mura nasctar go huathoibríoch iad, nó más mian leat iad a phéireáil le fón nó táibléad nua, cuir ort do chluasáin bhachlóige, ansin tadhaill agus coinnigh an dá chluasán bachlóige go ceann %d soicind go dtí go gcloisfidh tú bíp.</item>
+        <item quantity="two">Má tá do chluasáin bhachlóige péireáilte cheana agat le fón nó le táibléad, oscail an cás luchtaithe lena nascadh arís.\10\10Mura nasctar go huathoibríoch iad, nó más mian leat iad a phéireáil le fón nó táibléad nua, cuir ort do chluasáin bhachlóige, ansin tadhaill agus coinnigh an dá chluasán bachlóige go ceann %d shoicind go dtí go gcloisfidh tú bíp.</item>
+        <item quantity="few">Má tá do chluasáin bhachlóige péireáilte cheana agat le fón nó le táibléad, oscail an cás luchtaithe lena nascadh arís.\10\10Mura nasctar go huathoibríoch iad, nó más mian leat iad a phéireáil le fón nó táibléad nua, cuir ort do chluasáin bhachlóige, ansin tadhaill agus coinnigh an dá chluasán bachlóige go ceann %d shoicind go dtí go gcloisfidh tú bíp.</item>
+        <item quantity="many">Má tá do chluasáin bhachlóige péireáilte cheana agat le fón nó le táibléad, oscail an cás luchtaithe lena nascadh arís.\10\10Mura nasctar go huathoibríoch iad, nó más mian leat iad a phéireáil le fón nó táibléad nua, cuir ort do chluasáin bhachlóige, ansin tadhaill agus coinnigh an dá chluasán bachlóige go ceann %d soicind go dtí go gcloisfidh tú bíp.</item>
+        <item quantity="other">Má tá do chluasáin bhachlóige péireáilte cheana agat le fón nó le táibléad, oscail an cás luchtaithe lena nascadh arís.\10\10Mura nasctar go huathoibríoch iad, nó más mian leat iad a phéireáil le fón nó táibléad nua, cuir ort do chluasáin bhachlóige, ansin tadhaill agus coinnigh an dá chluasán bachlóige go ceann %d soicind go dtí go gcloisfidh tú bíp.</item>
+    </plurals>
+</resources>

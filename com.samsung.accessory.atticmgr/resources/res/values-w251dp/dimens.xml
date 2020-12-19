@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sesl_list_divider_inset">20dp</dimen>
+    <dimen name="sesl_list_image_end_padding">20dp</dimen>
+    <dimen name="sesl_list_item_padding_horizontal">24dp</dimen>
+    <dimen name="sesl_switchbar_margin_end">24dp</dimen>
+    <dimen name="sesl_switchbar_margin_start">24dp</dimen>
+</resources>

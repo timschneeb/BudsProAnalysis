@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အက္ခရာ %d လုံးထက်ပိုပြီး ထည့်၍ မရပါ။</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့်အသံကို %d စက္ကန့်ကြာ ရှာမတွေ့သည့်အခါ စကားပြော အနေအထား အဆုံးသတ်သွားပါမည်</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">သင့်နားကြပ်များကို ဖုန်း (သို့) တက်ဘလက်ဖြင့် အတွဲချိတ်နှင့်ထားပြီးဆိုလျှင်၊ ၎င်းတို့ဖြင့် ထပ်မံချိတ်ဆက်ရန် အားသွင်းဘူးကို ဖွင့်လိုက်ရုံမျှပါ။\10\10၎င်းတို့က အလိုအလျောက် ချိတ်မဆက်လျှင်၊ (သို့) ဖုန်းအသစ် (သို့) တက်ဘလက်အသစ်ဖြင့် အတွဲချိတ်လိုလျှင်၊ သင့်နားကြပ်ကို ထိုးထည့်ပြီး တတီတီမြည်သံ ကြားရသည့်အချိန်ထိ သင့်နားကြပ်နှစ်ခုလုံးကို %d စက္ကန့်ခန့် ထိ၍ဖိကိုင်ထားပါ။</item>
+    </plurals>
+</resources>

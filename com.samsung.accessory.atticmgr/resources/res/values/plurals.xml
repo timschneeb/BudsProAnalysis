@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">Can&apos;t add more than %d character.</item>
+        <item quantity="one">Can&apos;t add more than %d character.</item>
+        <item quantity="two">Can&apos;t add more than %d character.</item>
+        <item quantity="few">Can&apos;t add more than %d character.</item>
+        <item quantity="many">Can&apos;t add more than %d character.</item>
+        <item quantity="other">Can&apos;t add more than %d character.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">%d seconds</item>
+        <item quantity="two">%d seconds</item>
+        <item quantity="few">%d seconds</item>
+        <item quantity="many">%d seconds</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">Conversation mode ends when your voice isn&apos;t detected for %d seconds</item>
+        <item quantity="two">Conversation mode ends when your voice isn&apos;t detected for %d seconds</item>
+        <item quantity="few">Conversation mode ends when your voice isn&apos;t detected for %d seconds</item>
+        <item quantity="many">Conversation mode ends when your voice isn&apos;t detected for %d seconds</item>
+        <item quantity="other">Conversation mode ends when your voice isn&apos;t detected for %d seconds</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">If you&apos;ve already paired your earbuds with a phone or tablet, just open the charging case to connect them again.\10\10If they don&apos;t connect automatically, or if you want to pair with a new phone or tablet, put on your earbuds, then touch and hold both earbuds for %d seconds until you hear a beep.</item>
+        <item quantity="one">If you&apos;ve already paired your earbuds with a phone or tablet, just open the charging case to connect them again.\10\10If they don&apos;t connect automatically, or if you want to pair with a new phone or tablet, put on your earbuds, then touch and hold both earbuds for %d second until you hear a beep.</item>
+        <item quantity="two">If you&apos;ve already paired your earbuds with a phone or tablet, just open the charging case to connect them again.\10\10If they don&apos;t connect automatically, or if you want to pair with a new phone or tablet, put on your earbuds, then touch and hold both earbuds for %d seconds until you hear a beep.</item>
+        <item quantity="few">If you&apos;ve already paired your earbuds with a phone or tablet, just open the charging case to connect them again.\10\10If they don&apos;t connect automatically, or if you want to pair with a new phone or tablet, put on your earbuds, then touch and hold both earbuds for %d seconds until you hear a beep.</item>
+        <item quantity="many">If you&apos;ve already paired your earbuds with a phone or tablet, just open the charging case to connect them again.\10\10If they don&apos;t connect automatically, or if you want to pair with a new phone or tablet, put on your earbuds, then touch and hold both earbuds for %d seconds until you hear a beep.</item>
+        <item quantity="other">If you&apos;ve already paired your earbuds with a phone or tablet, just open the charging case to connect them again.\10\10If they don&apos;t connect automatically, or if you want to pair with a new phone or tablet, put on your earbuds, then touch and hold both earbuds for %d seconds until you hear a beep.</item>
+    </plurals>
+</resources>

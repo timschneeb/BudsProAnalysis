@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/textContainer" android:paddingBottom="42dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_marginEnd="24dp">
+        <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="@color/text_color_pulse" android:ellipsize="marquee" android:id="@+id/device_scanning_title_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/scan_for_wearable_devices" android:textAlignment="center" style="@style/robotoRegular"/>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/device_layout_container" android:layout_width="wrap_content" android:layout_height="match_parent">
+        <ListView android:scrollbarThumbVertical="@drawable/manager_common_scrollbar" android:id="@+id/available_devices" android:layout_width="@dimen/setup_devilist_item_width" android:layout_height="match_parent" android:divider="@null" android:dividerHeight="9dp" android:layout_above="@+id/select_gear_to_connect_warning" android:layout_centerHorizontal="true" android:layout_alignParentStart="true"/>
+        <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:textSize="@dimen/normal_text_size" android:textColor="@color/normal_text_color_black2" android:gravity="center_horizontal" android:id="@+id/select_gear_to_connect_warning" android:paddingTop="28dp" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:fontFamily="sans-serif"/>
+    </RelativeLayout>
+</LinearLayout>

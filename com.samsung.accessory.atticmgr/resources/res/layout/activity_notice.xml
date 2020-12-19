@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="wrap_content" app:navigationIcon="?attr/homeAsUpIndicator" app:title="title"/>
+    <com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout android:layout_gravity="center_horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12dp">
+            <ScrollView android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:paddingTop="20dp" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="24dp" android:paddingEnd="24dp">
+                    <TextView android:textSize="15sp" android:textColor="#e5e5e5" android:id="@+id/text_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="description" android:lineSpacingExtra="4sp" android:fontFamily="@string/roboto_medium"/>
+                </LinearLayout>
+            </ScrollView>
+        </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+    </com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout>
+</LinearLayout>

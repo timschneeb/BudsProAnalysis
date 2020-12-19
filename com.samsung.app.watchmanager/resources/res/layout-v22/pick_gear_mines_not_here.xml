@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:id="@+id/buttonLayout" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+    <Button android:textSize="@dimen/large_text_size" android:textStyle="normal" android:textColor="#fafafa" android:gravity="center" android:id="@+id/gearNotHere" android:background="@drawable/button_background_show_shape_grey" android:layout_width="wrap_content" android:layout_height="44dp" android:layout_marginTop="13dp" android:layout_marginBottom="57dp" android:text="@string/scan_all_gear_nearby" android:textAllCaps="false" android:paddingStart="17dp" android:paddingEnd="17dp" android:autoSizeMaxTextSize="@dimen/large_text_size_mines_not_here" style="@style/robotoMedium"/>
+</LinearLayout>

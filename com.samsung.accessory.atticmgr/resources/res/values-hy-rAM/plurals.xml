@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հնարավոր չէ ավելացնել %d նիշից ավելի:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հնարավոր չէ ավելացնել %d նիշից ավելի:</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d վայրկյան</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d վայրկյան</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Խոսակցության ռեժիմը կավարտվի, երբ Ձեր ձայնը չհայտնաբերվի %d վայրկյան</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Խոսակցության ռեժիմը կավարտվի, երբ Ձեր ձայնը չհայտնաբերվի %d վայրկյան</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Եթե գլխիկավոր ականջակալներն արդեն զուգտակել եք հեռախոսի կամ պլանշետի հետ, դրանք կրկին կապակցելու համար պարզապես բացեք լիցքավորիչ պատյանը:\10\10Եթե ինքնաբերաբար չկապակցվեն, կամ եթե ցանկանում եք կապակցել նոր հեռախոսի կամ պլանշետի հետ, դրեք գլխիկավոր ականջակալները, հետո հպեք և %d վայրկյան պահեք երկու ականջակալները, մինչև զումմեր լսեք:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Եթե գլխիկավոր ականջակալներն արդեն զուգտակել եք հեռախոսի կամ պլանշետի հետ, դրանք կրկին կապակցելու համար պարզապես բացեք լիցքավորիչ պատյանը:\10\10Եթե ինքնաբերաբար չկապակցվեն, կամ եթե ցանկանում եք կապակցել նոր հեռախոսի կամ պլանշետի հետ, դրեք գլխիկավոր ականջակալները, հետո հպեք և %d վայրկյան պահեք երկու ականջակալները, մինչև զումմեր լսեք:</item>
+    </plurals>
+</resources>

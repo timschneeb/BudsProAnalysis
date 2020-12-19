@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Niy idzie dodać wiyncyj jak %d znak.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Niy idzie dodać wiyncyj jak %d znaki.</item>
+        <item quantity="many">Niy idzie dodać wiyncyj jak %d znakōw.</item>
+        <item quantity="other">Niy idzie dodać wiyncyj jak %d znakōw.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+        <item quantity="other">%d sekund</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tryb kōnwersacyji sie kōńczy, kej Twōj głos niyma wysznupywany bez %d sekunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Tryb kōnwersacyji sie kōńczy, kej Twōj głos niyma wysznupywany bez %d sekundy</item>
+        <item quantity="many">Tryb kōnwersacyji sie kōńczy, kej Twōj głos niyma wysznupywany bez %d sekund</item>
+        <item quantity="other">Tryb kōnwersacyji sie kōńczy, kej Twōj głos niyma wysznupywany bez %d sekundy</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jak mŏsz już suchŏwki sparowane z telefōnym abo tabletym, ańfach ôdewrzij futerŏl do folowaniŏ, coby pożynić je jeszcze rŏz.\10\10Jak niy pożyniōm sie z autōmatu abo jak chcesz spŏrować je z nowym telefōnym abo tabletym, załōż suchŏwki, a potym tyknij ôbōch suchŏwek i przitrzim bez %d sek. aże usłyszysz sygnōł klangu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jak mŏsz już suchŏwki sparowane z telefōnym abo tabletym, ańfach ôdewrzij futerŏl do folowaniŏ, coby pożynić je jeszcze rŏz.\10\10Jak niy pożyniōm sie z autōmatu abo jak chcesz spŏrować je z nowym telefōnym abo tabletym, załōż suchŏwki, a potym tyknij ôbōch suchŏwek i przitrzim bez %d sek. aże usłyszysz sygnōł klangu.</item>
+        <item quantity="many">Jak mŏsz już suchŏwki sparowane z telefōnym abo tabletym, ańfach ôdewrzij futerŏl do folowaniŏ, coby pożynić je jeszcze rŏz.\10\10Jak niy pożyniōm sie z autōmatu abo jak chcesz spŏrować je z nowym telefōnym abo tabletym, załōż suchŏwki, a potym tyknij ôbōch suchŏwek i przitrzim bez %d sek. aże usłyszysz sygnōł klangu.</item>
+        <item quantity="other">Jak mŏsz już suchŏwki sparowane z telefōnym abo tabletym, ańfach ôdewrzij futerŏl do folowaniŏ, coby pożynić je jeszcze rŏz.\10\10Jak niy pożyniōm sie z autōmatu abo jak chcesz spŏrować je z nowym telefōnym abo tabletym, załōż suchŏwki, a potym tyknij ôbōch suchŏwek i przitrzim bez %d sek. aże usłyszysz sygnōł klangu.</item>
+    </plurals>
+</resources>

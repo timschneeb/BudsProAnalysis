@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d எழுத்திற்கும் மேல் சேர்க்க இயலாது.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d எழுத்துகளுக்கு மேல் சேர்க்க இயலாது.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d வினாடி</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d வினாடிகள்</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d வினாடிக்கு உங்கள் குரல் கண்டறியப்படாத போது உரையாடல் முறை நிறைவடையும்</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d வினாடிகளுக்கு உங்கள் குரல் கண்டறியப்படாத போது உரையாடல் முறை நிறைவடையும்</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">நீங்கள் ஏற்கனவே இயர்பட்டுகளை ஃபோன் அல்லது டேப்லெட் உடன் இணைத்திருந்தால், அவற்றை மீண்டும் இணைப்பதற்கு அதன் சார்ஜிங் உறையைத் திறக்கவும்.\10\10அவை தானாக இணையவில்லை அல்லது புதிய ஃபோன் அல்லது டேப்லெட் உடன் அதனை இணைக்க விரும்பினால், அதனை அணிந்துகொண்டு, பின்னர் நீங்கள் பீப் ஒலியை கேட்கும் வரை %d வினாடிக்கு இரண்டு இயர்பட்களையும் தொட்டுப் பிடிக்கவும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">நீங்கள் ஏற்கனவே இயர்பட்டுகளை ஃபோன் அல்லது டேப்லெட் உடன் இணைத்திருந்தால், அவற்றை மீண்டும் இணைப்பதற்கு அதன் சார்ஜிங் உறையைத் திறக்கவும்.\10\10அவை தானாக இணையவில்லை அல்லது புதிய ஃபோன் அல்லது டேப்லெட் உடன் அதனை இணைக்க விரும்பினால், அதனை அணிந்துகொண்டு, பின்னர் நீங்கள் பீப் ஒலியை கேட்கும் வரை %d வினாடிகளுக்கு இரண்டு இயர்பட்களையும் தொட்டுப் பிடிக்கவும்.</item>
+    </plurals>
+</resources>

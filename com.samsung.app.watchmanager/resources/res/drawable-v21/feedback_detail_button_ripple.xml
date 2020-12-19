@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="?android:attr/colorControlActivated">
+    <item android:drawable="@drawable/tw_btn_grace_default_mtrl"/>
+</ripple>

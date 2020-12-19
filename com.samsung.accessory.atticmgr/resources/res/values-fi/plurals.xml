@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Yli %d merkkiä ei voi lisätä.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Yli %d merkkiä ei voi lisätä.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunti</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekuntia</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Keskustelutila lopetetaan, kun ääntäsi ei ole havaittu %d sekuntiin</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Keskustelutila lopetetaan, kun ääntäsi ei ole havaittu %d sekuntiin</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jos olet jo muodostanut pariliitoksen korvanappien ja puhelimen tai tablet-laitteen välille, voit yhdistää ne uudelleen avaamalla latauskotelon.\10\10Jos yhteyttä ei muodosteta automaattisesti tai haluat muodostaa pariliitoksen uuteen puhelimeen tai tablet-laitteeseen, aseta korvanapit korviin ja paina korvanappeja %d sekunnin ajan, kunnes kuulet äänimerkin.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Jos olet jo muodostanut pariliitoksen korvanappien ja puhelimen tai tablet-laitteen välille, voit yhdistää ne uudelleen avaamalla latauskotelon.\10\10Jos yhteyttä ei muodosteta automaattisesti tai haluat muodostaa pariliitoksen uuteen puhelimeen tai tablet-laitteeseen, aseta korvanapit korviin ja paina korvanappeja %d sekunnin ajan, kunnes kuulet äänimerkin.</item>
+    </plurals>
+</resources>

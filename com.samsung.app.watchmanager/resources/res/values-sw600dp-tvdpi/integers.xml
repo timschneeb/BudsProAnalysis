@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="app_name_text_shadow_dy">1</integer>
+    <integer name="app_name_text_shadow_radius">2</integer>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#fafafa" android:gravity="center" android:id="@+id/messageText" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="19dp" android:text="@string/setup_message_download" android:fontFamily="sans-serif-condensed"/>
+    <TextView android:textSize="@dimen/normal_text_size" android:textColor="#979797" android:gravity="center" android:id="@+id/statusText" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginLeft="24dp" android:layout_marginTop="12dp" android:layout_marginRight="24dp" android:text="@string/setup_message_almost_there" android:layout_below="@+id/messageText" android:alpha="0" android:fontFamily="sans-serif"/>
+    <ViewSwitcher android:id="@+id/download_install_switcher" android:layout_width="match_parent" android:layout_height="60dp" android:layout_centerInParent="true" android:paddingStart="40dp" android:paddingEnd="40dp">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+            <ProgressBar android:id="@+id/setupProgress" android:layout_width="match_parent" android:layout_height="2dp" android:layout_marginBottom="14dp" android:indeterminate="false" style="@style/setupProgressBar"/>
+            <TextView android:textSize="15sp" android:textColor="#252525" android:gravity="center" android:id="@+id/setupPercentage" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </LinearLayout>
+        <com.samsung.android.app.twatchmanager.uiitems.ProgressCircle android:layout_width="match_parent" android:layout_height="match_parent" android:indeterminate="true"/>
+    </ViewSwitcher>
+    <Button android:textSize="@dimen/large_text_size" android:textStyle="bold" android:textColor="#e5e5e5" android:id="@+id/cancel_btn" android:background="@drawable/button_background_show_shape_grey" android:layout_width="205dp" android:layout_height="40dp" android:layout_marginBottom="30dp" android:text="@string/cancel" android:layout_alignParentBottom="true" android:layout_centerInParent="true" android:textAllCaps="false" android:fontFamily="sans-serif-condensed"/>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:importantForAccessibility="yes">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="9dp" android:text="@string/tips_triple_tap" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/TipsManualDescriptionAppearance"/>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tips_previous_track" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/TouchpadTipsDescriptionTextAppearance"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,50 @@
+﻿Galaxy Wearable nutiseadme privaatsusteade
+
+
+Viimati värskendatud: 1. detsember 2020
+
+Me teame ettevõttes Samsung Electronics Co., Ltd., kui tähtis on meie klientidele privaatsus. Koostasime selle privaatsusteate, et saaksite paremini aru, kuidas me teie isikuandmeid kogume ja kasutame. 
+
+Galaxy Wearable nutiseadme teiepoolsele kasutamisele kohaldub ka meie privaatsusavaldus, mis on avaldatud aadressil https://account.samsung.com/membership/pp. Meie privaatsusavaldus sisaldab täpsemat teavet selle kohta, kuidas me teie andmeid kasutame. See sisaldab teavet ka selle kohta, kuidas meiega kontakti saate. Lugege lisaks sellele privaatsusteatele meie privaatsusavaldust. Kuid see privaatsusteade on alati privaatsusavalduse suhtes ülimuslik.
+
+MILLISEID ANDMEID ME KOGUME?
+
+Kogume ja säilitame teie kohta andmeid Galaxy Wearable nutiseadme kaudu mitmel viisil. 
+
+
+Teave Galaxy Wearable nutiseadme teiepoolse kasutuse kohta
+
+• Seadme andmed: seadme riistvara mudel, seadme riistvara andmed, seerianumber ja muud seadme kordumatud identifikaatorid, telefoninumber, müügikood, kehtiv tarkvaraversioon, MCC (mobiiltelefoni riigikood), MNC (mobiilvõrgu kood), MAC-aadress, Bluetooth-aadress, operatsioonisüsteemi versioonid ning Galaxy Wearable nutiseadmele juurdepääsuks kasutatavate seadmete sätted.
+• Logiteave: diagnostilised, tehnilised, vea- ja kasutusandmed, nagu Galaxy Wearable nutiseadme teiepoolse kasutamise aeg ja kestus, teie poolt oma Galaxy Wearable nutiseadmesse paigaldatud rakendused ja see, kuidas te rakendusi ja muud Galaxy Wearable nutiseadme kaudu pakutavat sisu kasutate ja nendega teavet vahetate, ning andmed, mis on talletatud küpsistesse, mis me teie seadmetesse oleme salvestanud.
+• Asukohaandmed: teie seadme GPS-signaal või lähedalasuvate Wi-Fi-pääsupunktide ja mobiilsidemastide andmed edastatakse meile (kaasaarvatud meie teenusepakkujatele), kui te lülitate Galaxy Wearable nutiseadme kasutamisel sisse asukohaandmete funktsiooni ja kasutate funktsiooni “Leia minu kell” või “Leia minu telefon” või kasutate SOS funktsiooni.
+
+KUIDAS ME TEIE ANDMEID KASUTAME?
+
+• Selleks, et aidata teid Galaxy Wearable nutiseadme registreerimisel ja kasutamisel. 
+• Teie soovitud teenuste ja funktsioonide pakkumiseks. 
+• Teie päringutele ja küsimustele vastamiseks ning teiega suhtlemisel seoses Galaxy Wearable nutiseadmega, sh abi pakkumiseks, kui küsite Galaxy Wearable nutiseadmega seotud tehnilist tuge. 
+• Võimaldamaks teil suhelda Samsungi või kolmandate osapoolte rakenduste ja teenustega ja neid kasutada. Näiteks, võite varundada oma rakenduste ja sätete andmed pilvteenusesse Samsung Cloud või kasutada oma Galaxy Wearable nutiseadmes funktsiooni Samsung Health.
+• Galaxy Wearable nutiseadmega seotud kohandatud sisu ja teenuste pakkumiseks. 
+• Reklaamikampaaniate ja pakkumiste tegemiseks otseturundusalase teabe kaudu ainult siis, kui olete selleks andnud eraldi nõusoleku.
+• Meie toodete ja teenuste analüüsimiseks, mis aitab meil paremini klientidest aru saada, et pakkuda teile kõige sobivamaid teadaandeid, teenuseid ja kogemusi.
+• Teie arvamuste küsimiseks meie toodete ja teenuste kohta ning kliendiküsitluste läbiviimiseks teie eraldi nõusoleku alusel, kui see on nõutav.
+• Galaxy Wearable nutiseadmele tarkvaravärskenduste, hooldusteenuste ja toe pakkumiseks.
+• Õigusaktide täitmiseks.
+• Samsung Electronicsi ja kõigi meie sidusettevõtete, äripartnerite ja klientide õiguste, vara ja ohutuse kaitsmiseks.
+
+KELLEGA ME TEIE ISIKUANDMEID JAGAME?
+
+Avaldame teie teavet oma ettevõtte siseselt ja järgmistele üksustele, kuid ainult ülalnimetatud eesmärkidel.
+
+* Sidusettevõtted: muud Samsung Electronics Groupi ettevõtted, mille üle me omame kontrolli või mis kuuluvad meile;
+* Teenusepakkujad: hoolikalt valitud ettevõtted, kes pakuvad teile meie nimel teenuseid, nt andmeserverid, mis meie nimel andmeid säilitavad. Need teenusepakkujad on pühendunud teie isikuandmete kaitsele;
+* Muud osapooled, kui nii on õigusaktidega ette nähtud või kui see on vajalik selleks, et kaitsta Galaxy Wearable nutiseadet: näiteks võivad riigiasutused seaduse, õigusliku protsessi või kohtuotsuse alusel nõuda teie andmete avaldamist. Nad võivad ka paluda meilt teie kohta teavet õigusnormide täitmise tagamiseks, riikliku julgeoleku eesmärgil, terrorismivastaste meetme võtmiseks või muul otstarbel, mis on seotud avaliku julgeolekuga;
+* Korporatiivtehingutega seotud muud osapooled: võime teie teabe kolmandatele isikutele avaldada ühinemise, võõrandamise, omandamise või müümise käigus või pankroti korral; ja
+* Muud osapooled vastavalt teie nõusolekule või äranägemisele: lisaks avaldamistele, mida on kirjeldatud selles privaatsusteates, võime me jagada teid puudutavat teavet kolmandate osapooltega, kui olete andnud selleks eraldi nõusoleku või taotlete sellist jagamist.
+
+KÄESOLEVA PRIVAATSUSTEATE VÄRSKENDUSED
+
+Seda privaatsusteadet võidakse värskendada, et teavitada teid muudatustest selles, kuidas me teie andmeid Galaxy Wearable nutiseadme puhul kogume ja töötleme, ning asjaomaste õigusaktide muudatustest. Dokumendi viimase värskendamise kuupäev on esitatud selle privaatsusteate ülaosas.
+
+
+V 2.0

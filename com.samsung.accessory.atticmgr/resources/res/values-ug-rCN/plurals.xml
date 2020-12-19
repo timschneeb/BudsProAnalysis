@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">‏%d دىن كۆپ ھەرپ-بەلگە قوشۇلمايدۇ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">‏%d دىن كۆپ ھەرپ-بەلگە قوشۇلمايدۇ.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d سېكۇنت</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d سېكۇنت</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">当 %d 秒内未检测到您的语音对话模式结束</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">تىڭشىغۇچنى تېلېفون ياكى تاختا كومپيۇتېرغا جۈپلىگەن بولسىڭىز، توكلاش قېپىنى ئېچىپ، ئۇلارنى قايتا ئۇلاڭ.\10\10ئۆزلۈكىدىن ئۇلانمىسا ياكى يېڭى تېلېفون، تاختا كومپيۇتېرغا ئۇلىماقچى بولسىڭىز، تىڭشىغۇچنى تاقاپ، ھەر ئىككى تىڭشىغۇچنى دىت قىلغان ئاۋاز چىققۇچە %d سېكۇنت بېسىپ تۇرۇڭ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">تىڭشىغۇچنى تېلېفون ياكى تاختا كومپيۇتېرغا جۈپلىگەن بولسىڭىز، توكلاش قېپىنى ئېچىپ، ئۇلارنى قايتا ئۇلاڭ.\10\10ئۆزلۈكىدىن ئۇلانمىسا ياكى يېڭى تېلېفون، تاختا كومپيۇتېرغا ئۇلىماقچى بولسىڭىز، تىڭشىغۇچنى تاقاپ، ھەر ئىككى تىڭشىغۇچنى دىت قىلغان ئاۋاز چىققۇچە %d سېكۇنت بېسىپ تۇرۇڭ.</item>
+    </plurals>
+</resources>

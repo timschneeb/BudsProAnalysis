@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hindi makadagdag ng higit sa %d character.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Hindi makadagdag ng higit sa %d character.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d segundo</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Magwawakas ang Conversation mode kapag hindi nadetekta ang boses mo nang %d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Magwawakas ang Conversation mode kapag hindi nadetekta ang boses mo nang %d segundo</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kung nai-pair mo na ang mga earbud mo sa isang telepono o tablet, buksan lang ang charging case para ikonekta ang mga ito muli.\10\10Kung hindi awtomatikong kumonekta ang mga ito o kung nais mong mag-pair sa isang bagong telepono o tablet, isuot ang mga earbud mo, tapos i-touch at i-hold ang parehong earbud nang %d segundo hanggang makarinig ka ng beep.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kung nai-pair mo na ang mga earbud mo sa isang telepono o tablet, buksan lang ang charging case para ikonekta ang mga ito muli.\10\10Kung hindi awtomatikong kumonekta ang mga ito o kung nais mong mag-pair sa isang bagong telepono o tablet, isuot ang mga earbud mo, tapos i-touch at i-hold ang parehong earbud nang %d segundo hanggang makarinig ka ng beep.</item>
+    </plurals>
+</resources>

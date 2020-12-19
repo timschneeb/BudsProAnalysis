@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kan niet meer dan %d teken toevoegen.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kan niet meer dan %d tekens toevoegen.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d seconde</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d seconden</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gesprekstand eindigt wanneer uw stem %d seconde niet wordt gedetecteerd</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Gesprekstand eindigt wanneer uw stem %d seconden niet wordt gedetecteerd</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Als u uw oortjes al hebt gekoppeld met een telefoon of tablet, opent u de oplaadhoes om ze opnieuw te verbinden.\10\10Als de verbinding niet automatisch tot stand wordt gebracht of als u ze wilt koppelen met een nieuwe telefoon of tablet, plaatst u de oortjes en raakt u beide oortjes %d seconde aan tot u een piep hoort.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Als u uw oortjes al hebt gekoppeld met een telefoon of tablet, opent u de oplaadhoes om ze opnieuw te verbinden.\10\10Als de verbinding niet automatisch tot stand wordt gebracht of als u ze wilt koppelen met een nieuwe telefoon of tablet, plaatst u de oortjes en raakt u beide oortjes %d seconden aan tot u een piep hoort.</item>
+    </plurals>
+</resources>

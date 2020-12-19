@@ -1,0 +1,84 @@
+﻿Integritetsmeddelande för Galaxy Wearable
+
+
+Senast uppdaterat: 1 december 2020
+
+Vi på Samsung Electronics Co., Ltd. vet hur viktigt det är med sekretess för våra kunder. Samsung är personuppgiftsansvarig för din Galaxy Wearable. Vi har skapat detta integritetsmeddelande för att säkerställa att du förstår hur vi samlar in och använder dina personuppgifter. 
+
+Vår sekretesspolicy – som du kan läsa på https://account.samsung.com/membership/terms/privacypolicy gäller också för din användning av Galaxy Wearable. Vår sekretesspolicy innehåller ytterligare information om hur vi använder dina uppgifter. Den innehåller dessutom information om hur du kan kontakta oss. Läs igenom vår Sekretesspolicy utöver detta integritetsmeddelande. Detta integritetsmeddelande ska dock i alla händelser ha företräde framför sekretesspolicyn.
+
+VILKA UPPGIFTER SAMLAR VI IN?
+
+Vi samlar in och upprätthåller uppgifter om dig på olika sätt via din Galaxy Wearable. 
+
+Information om din användning av din Galaxy Wearable
+
+• Enhetsinformation: Maskinvarans modell, enhetens maskinvaruinformation, serienummer och andra unika enhetsidentifierare, telefonnummer, försäljningskod, aktuell programversion, MCC (mobil landskod), MNC (mobil nätverkskod), MAC-adress, Bluetooth-adress, operativsystemversion samt inställningar i de enheter du använder för åtkomst till din Galaxy Wearable.
+• Logginformation: Diagnostisk, teknisk, fel- och användningsinformation, t.ex. när och hur länge du använder din Galaxy Wearable, appar som installeras av dig på din Galaxy Wearable samt hur du använder och interagerar med apparna och annat innehåll som erbjuds via din Galaxy Wearable och all information som lagras i cookies som vi installerar på dina enheter.
+• Platsinformation: Din enhets GPS-signal eller information om närliggande Wi-Fi-åtkomstpunkter och mobilmaster skickas till oss (inklusive våra serviceleverantörer), när du använder din Galaxy Wearable, när du aktiverar och använder någon av funktionerna Plats, Hitta min klocka, Hitta min telefon eller använder SOS-funktionen. 
+
+HUR ANVÄNDER VI DINA UPPGIFTER?
+
+• För att hjälpa dig att registrera och använda din Galaxy Wearable. 
+• För att tillhandahålla tjänster och funktioner som du begär. 
+• För att svara på dina begäranden och frågor och för att kommunicera med dig om din Galaxy Wearable, inbegripet att tillhandahålla hjälp när du ber om teknisk support i samband med din Galaxy Wearable. 
+• För att låta dig interagera med utvalda appar, funktioner och tjänster från Samsung eller tredje part. Till exempel kan du säkerhetskopiera dina appar och din inställningsinformation till Samsung Cloud eller använda Samsung Health på din Galaxy Wearable.
+• För att tillhandahålla anpassat innehåll och anpassade tjänster i samband med din Galaxy Wearable. 
+• För att tillhandahålla kampanjer och erbjudanden genom direktmarknadsföring, men endast om du har givit oss ditt separata samtycke.
+• För att driva, utvärdera och förbättra Galaxy Wearable vår verksamhet (inklusive utveckla nya produkter och tjänster, förbättra våra produkter och tjänster, hantera vår kommunikation, analysera våra produkter, tjänster och kundbas, utföra marknadsundersökningar, ta fram datastatistik samt utföra redovisning, revision och andra interna funktioner).
+• För att fråga dig om dina åsikter kring våra produkter och tjänster samt genomföra kundundersökningar (med ditt separata samtycke om så krävs).
+• För att tillhandahålla programuppdateringar, underhållstjänster och support för din Galaxy Wearable.
+• För att skydda mot, identifiera och förhindra bedrägeri och annan kriminell aktivitet, anspråk och annat ansvar.
+• För att efterleva och verkställa tillämpliga rättsliga krav, relevanta branschstandarder och våra policyer, inklusive detta integritetsmeddelande och sekretesspolicyn.
+
+Samsung behandlar personuppgifter för de ändamål som beskrivs ovan. Samsungs rättsliga grund för att behandla personuppgifter beskrivs nedan: 
+
+Uppfylla vårt löfte till dig (GDPR Artikel 6 1. b))
+
+• registrera dig och din Galaxy Wearable
+• förse dig med Galaxy Wearable, till exempel kan du säkerhetskopiera dina appar och din inställningsinformation till molnservrar
+• förse dig med anpassat innehåll
+• låta dig interagera med annat innehåll från Samsung och tredje parter
+
+För att främja våra affärsintressen (GDPR Artikel 6 1. f))
+
+• drift, utvärdering och förbättring av Galaxy Wearable och vår verksamhet
+• svara på dina begäranden, instruktioner och förfrågningar
+• underhålla adekvata säkerhetsåtgärder, support och uppdateringar
+• skydda mot ansvar, inklusive att följa branschstandarder och upprätthålla våra policyer
+
+För att efterleva lagar och rättsliga processer (GDPR Artikel 6 1. c))
+• följa tillämpliga stadgar och förordningar och domstolsbeslut
+
+Med ditt samtycke (GDPR Artikel 6 1. a))
+• skicka marknadsföringsmeddelanden (t.ex. med pushnotiser, e-postmeddelanden och textmeddelanden)
+
+MED VEM DELAR VI DINA UPPGIFTER?
+
+Vi kommer att avslöja dina uppgifter internt inom vårt företag samt för följande enheter, men endast för de ändamål som beskrivs ovan.
+
+Närstående företag: andra företag inom Samsung Electronics-koncernen som vi kontrollerar eller äger.
+Serviceleverantörer: noggrant utvalda företag som utför tjänster åt oss eller på vårt uppdrag, så som dataservrar som upprätthåller data för vår räkning. Även dessa leverantörer har åtagit sig att skydda dina uppgifter.
+Andra parter när det krävs enligt lag eller är nödvändigt för att skydda din Galaxy Wearable: det kan till exempel bli nödvändigt enligt lag, juridisk process eller domstolsorder från statliga myndigheter att röja dina uppgifter. De kan också söka få dina uppgifter från oss för brottsbekämpande ändamål, nationell säkerhet, terrorismbekämpning eller annat som rör den allmänna säkerheten.
+Andra parter i samband med bolagstransaktioner: vi kan röja dina uppgifter för en tredje part inom ramen för en fusion eller överföring, förvärv eller försäljning, i händelse av konkurs.
+Andra parter med ditt samtycke eller enligt anvisning från dig: utöver de avslöjanden som beskrivs i detta integritetsmeddelande kan vi dela information om dig med tredje parter när du separat samtycker till eller begär att vi ska göra detta.
+
+HUR LÄNGE LAGRAR VI DINA UPPGIFTER OCH VART TAR DE VÄGEN?
+
+Hur länge dina uppgifter kommer att lagras beror på den rättsliga grund som åberopas för att behandla dina uppgifter. Uppgifter som vi behandlar för att utföra vårt kontrakt med dig kräver till exempel att vi lagrar uppgifterna under hela den tid du använder din Galaxy Wearable. Så länge du är en aktiv användare av din Galaxy Wearable, kommer vi att lagra och behandla dessa uppgifter. Uppgifter som enhetsinformation och identifierare ingår i denna kategori.
+
+Uppgifter som vi behandlar för att marknadsföra våra affärsintressen, till exempel din användning av din Galaxy Wearable, lagras endast så länge som det behövs för de ändamål för vilka de samlades in. Dessa uppgifter kan till exempel samlas in för att utföra analyser så att vi kan utveckla förbättringar av Galaxy Wearable, eller så kan vi behandla uppgifter för att föra register över förfrågningar du gjort genom eller om din Galaxy Wearable för att förbättra din upplevelse av vår kundtjänst.
+
+Dessutom kan vi även behandla dina uppgifter baserat på ditt samtycke. Om du återkallar ditt samtycke, kommer vi att fortsätta behandla uppgifter som samlats in före ditt återkallande tills de ändamål för vilka sådana uppgifter samlades in har uppnåtts.
+
+Observera att även om vi strävar efter att lagra dina uppgifter under den tidsperiod som beskrivs ovan, kan dina uppgifter bli behandlade under en längre tid, enligt gällande lag. Om till exempel en specifik stadga kräver att vi lagrar en viss uppgift, kommer vi att efterleva detta och lagra den uppgiften tills den föreskrivna lagringsperioden löper ut. 
+
+Så länge dina uppgifter lagras av oss kommer dina uppgifter alltid att vara föremål för lämpliga skyddsåtgärder.
+
+Din användning av Galaxy Wearable kommer att inkludera överföring, lagring och behandling av dina personuppgifter till andra länder. Sådana länder inkluderar, utan begränsning, det Europeiska ekonomiska samarbetsområdet (EES), Republiken Korea, USA, Kina och Vietnam. All överföring av uppgifter till andra länder regleras av lagstadgade krav för att säkerställa att dina personuppgifter behandlas säkert och som du kan förvänta dig.
+
+UPPDATERINGAR AV DETTA INTEGRITETSMEDDELANDE
+
+Detta integritetsmeddelande kan uppdateras för att informera dig om ändringar i hur vi samlar in och behandlar dina uppgifter för din Galaxy Wearable eller ändringar i relevanta lagar och förordningar. Datum för senaste uppdatering visas högst upp i detta integritetsmeddelande.
+
+V 2.0

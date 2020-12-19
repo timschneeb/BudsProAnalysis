@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:background="@color/activity_base_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/checking_for_update_activity_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:expanded="false" style="@style/FotaProviderTheme.Widget.AppBarLayout">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/checking_for_update_activity_collapsing_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="3" style="@style/FotaProviderTheme.Widget.CollapsingToolbar">
+            <androidx.appcompat.widget.Toolbar android:theme="@style/FotaProviderTheme.Activity" android:layout_gravity="bottom" android:id="@+id/checking_for_update_activity_toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:layout_collapseMode="1"/>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <ProgressBar android:layout_gravity="center_horizontal" android:id="@+id/progress_circle_in_activity" android:layout_width="@dimen/progress_circle_size" android:layout_height="@dimen/progress_circle_size" android:layout_marginBottom="@dimen/activity_checking_for_update_progress_circle_margin_bottom" android:indeterminateOnly="true" android:indeterminateDrawable="@drawable/fotaprovider_widget_progress_circle"/>
+        <TextView android:layout_gravity="center_horizontal" android:id="@+id/tv_checking_for_update_text" android:text="@string/STR_DM_CHECKING_UPDATE" style="@style/FotaProviderTheme.TextAppearance.TextView.CheckingForUpdate"/>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

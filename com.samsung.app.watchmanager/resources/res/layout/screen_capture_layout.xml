@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <RelativeLayout android:id="@+id/onRecordingFrameLayout" android:visibility="gone" android:layout_width="56dp" android:layout_height="56dp">
+        <ImageView android:layout_width="56dp" android:layout_height="56dp" android:src="@drawable/floating_bg" android:tint="#ff00b3e3" android:layout_centerInParent="true"/>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerInParent="true">
+            <ImageView android:layout_width="18dp" android:layout_height="18dp" android:layout_marginBottom="2dp" android:src="@drawable/screen_capture_ic_stop"/>
+            <TextView android:textSize="12dp" android:textStyle="bold" android:textColor="#fffafafa" android:gravity="center" android:id="@+id/recordingTimeTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="00:00" android:includeFontPadding="false"/>
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout android:gravity="start" android:orientation="vertical" android:id="@+id/normalLinLayout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <RelativeLayout android:id="@+id/videoButton" android:layout_width="59dp" android:layout_height="59dp" android:layout_marginBottom="10dp" android:contentDescription="@string/record_screen">
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_alignParentStart="true">
+                <ImageView android:layout_gravity="center" android:id="@+id/buttonBase1" android:layout_width="56dp" android:layout_height="56dp" android:src="@drawable/floating_bg"/>
+                <ImageView android:layout_gravity="center" android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/screen_capture_ic_video"/>
+            </FrameLayout>
+            <TextView android:textSize="11dp" android:textStyle="bold" android:textColor="#fffafafa" android:gravity="center" android:id="@+id/recordingCountTextView" android:background="@drawable/tw_noti_badge_mtrl" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="18dp" android:text="0" android:includeFontPadding="false" android:layout_alignParentTop="true" android:paddingStart="3dp" android:paddingEnd="3dp" android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+        <RelativeLayout android:id="@+id/screenshotButton" android:layout_width="59dp" android:layout_height="59dp" android:layout_marginBottom="13dp" android:contentDescription="@string/capture_screen">
+            <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_alignParentStart="true">
+                <ImageView android:layout_gravity="center" android:id="@+id/buttonBase2" android:layout_width="56dp" android:layout_height="56dp" android:src="@drawable/floating_bg"/>
+                <ImageView android:layout_gravity="center" android:layout_width="25dp" android:layout_height="25dp" android:src="@drawable/screen_capture_ic_camera"/>
+            </FrameLayout>
+            <TextView android:textSize="11dp" android:textStyle="bold" android:textColor="#fffafafa" android:gravity="center" android:id="@+id/captureCountTextView" android:background="@drawable/tw_noti_badge_mtrl" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="18dp" android:text="0" android:includeFontPadding="false" android:layout_alignParentTop="true" android:paddingStart="3dp" android:paddingEnd="3dp" android:layout_alignParentEnd="true"/>
+        </RelativeLayout>
+        <FrameLayout android:id="@+id/doneButton" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center" android:id="@+id/buttonBase3" android:layout_width="56dp" android:layout_height="56dp" android:src="@drawable/floating_bg"/>
+            <TextView android:textSize="15dp" android:textStyle="bold" android:textColor="#ff252525" android:gravity="center" android:layout_gravity="center" android:id="@+id/buttonBase3Text" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/done" android:includeFontPadding="false" android:textAllCaps="true" android:fontFamily="roboto-sec-condensed"/>
+        </FrameLayout>
+    </LinearLayout>
+</FrameLayout>

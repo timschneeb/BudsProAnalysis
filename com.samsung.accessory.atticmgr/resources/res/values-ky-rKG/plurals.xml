@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ашуун белги кошууга болбойт.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ашуун белги кошууга болбойт.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d секунда</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Үнүңүз %d секунда бою аныкталбаса, Сүйлөшүү режими бүтөт</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Үнүңүз %d секунда бою аныкталбаса, Сүйлөшүү режими бүтөт</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Эгер кулакаспаптарыңызды телефон же планшетке эчак байланыштырып, аларды кайра туташтыруу үчүн болгону заряддоочу мукабаны ачыңыз.\10\10Эгер алар автоматтык түрдө туташпаса же эгер сиз аны жаңы телефон же планшет менен байланыштыргыңыз келсе, кулакаспаптарыңызды тагып, андан соң эки кулакаспапты тең бип үнүн укканга чейин %d секунда бою басып кармаңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Эгер кулакаспаптарыңызды телефон же планшетке эчак байланыштырып, аларды кайра туташтыруу үчүн болгону заряддоочу мукабаны ачыңыз.\10\10Эгер алар автоматтык түрдө туташпаса же эгер сиз аны жаңы телефон же планшет менен байланыштыргыңыз келсе, кулакаспаптарыңызды тагып, андан соң эки кулакаспапты тең бип үнүн укканга чейин %d секунда бою басып кармаңыз.</item>
+    </plurals>
+</resources>

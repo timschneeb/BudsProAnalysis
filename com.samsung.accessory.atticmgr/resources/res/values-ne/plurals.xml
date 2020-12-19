@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d भन्दा धेरै वर्ण थप्न सकिँदैन।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d भन्दा धेरै वर्णहरू थप्न सकिँदैन।</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकेन्ड</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d सेकेन्ड</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकेन्डसम्म तपाईको आवाज पत्ता लागेन भने वार्तालापको मोड अन्त्य हुने छ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d सेकेन्डसम्म तपाईको आवाज पत्ता लागेन भने वार्तालापको मोड अन्त्य हुने छ</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">तपाईले पहिलेदेखि नै आफ्ना इयरबडहरूलाई कुनै फोन वा ट्याबलेटसँग जोडा बनाउनुभएको छ भने तिनीहरूलाई फेरि जडान चार्जिङको केस खोले पुग्छ।\10\10तिनीहरू स्वतः जडान नभएको खण्डमा वा तपाई कुनै नयाँ फोन वा ट्याबलेटसँग जोडा बनाउन चाहनुहुन्छ भने आफ्ना इयरबडहरू कानमा लगाउनुहोस्, त्यसपछि बीप ध्वनि नआउन्जेल %d सेकेन्डसम्म दुवै इयरबडहरूलाई छोइराख्नुहोस्।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">तपाईले पहिलेदेखि नै आफ्ना इयरबडहरूलाई कुनै फोन वा ट्याबलेटसँग जोडा बनाउनुभएको छ भने तिनीहरूलाई फेरि जडान चार्जिङको केस खोले पुग्छ।\10\10तिनीहरू स्वतः जडान नभएको खण्डमा वा तपाई कुनै नयाँ फोन वा ट्याबलेटसँग जोडा बनाउन चाहनुहुन्छ भने आफ्ना इयरबडहरू कानमा लगाउनुहोस्, त्यसपछि बीप ध्वनि नआउन्जेल %d सेकेन्डसम्म दुवै इयरबडहरूलाई छोइराख्नुहोस्।</item>
+    </plurals>
+</resources>

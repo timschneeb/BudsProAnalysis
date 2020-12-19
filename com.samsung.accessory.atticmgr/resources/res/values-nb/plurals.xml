@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kan ikke legge til mer enn %d tegn.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kan ikke legge til mer enn %d tegn.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Samtalemodus avsluttes når stemmen din ikke registreres på %d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Samtalemodus avsluttes når stemmen din ikke registreres på %d sekunder</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hvis du allerede har koblet ørepluggene sammen med en telefon eller et nettbrett, åpner du ladeesken for å koble dem til igjen.\10\10Hvis de ikke kobles til automatisk, eller hvis du vil koble sammen med en ny telefon eller et nytt nettbrett, tar du på deg ørepluggene og holder begge ørepluggene i %d sekund til du hører et pip.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Hvis du allerede har koblet ørepluggene sammen med en telefon eller et nettbrett, åpner du ladeesken for å koble dem til igjen.\10\10Hvis de ikke kobles til automatisk, eller hvis du vil koble sammen med en ny telefon eller et nytt nettbrett, tar du på deg ørepluggene og holder begge ørepluggene i %d sekunder til du hører et pip.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <ImageView android:id="@+id/icon" android:background="@drawable/devicelist_icon_bg" android:layout_width="@dimen/list_device_item_icon_size" android:layout_height="@dimen/list_device_item_icon_size" android:tint="#929292" android:layout_centerVertical="true" android:layout_marginStart="@dimen/list_device_icon_padding" android:layout_marginEnd="@dimen/list_device_icon_padding"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/textContainer" android:paddingTop="@dimen/list_device_item_padding" android:paddingBottom="@dimen/list_device_item_padding" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_toEndOf="@+id/icon">
+        <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:id="@+id/device_item_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="New Text" android:layout_marginEnd="@dimen/device_list_item_margin_end" style="@style/TextView_ListDescFirstLine"/>
+        <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:id="@+id/device_status_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="New Text" style="@style/TextView_deviceStatus"/>
+    </LinearLayout>
+    <View android:id="@+id/divider" android:background="#e6e6e6" android:layout_width="match_parent" android:layout_height="@dimen/device_list_item_divider_height" android:layout_below="@+id/textContainer" android:layout_marginStart="@dimen/device_list_divider_margin_start" android:layout_marginEnd="@dimen/device_list_divider_margin_end"/>
+</RelativeLayout>

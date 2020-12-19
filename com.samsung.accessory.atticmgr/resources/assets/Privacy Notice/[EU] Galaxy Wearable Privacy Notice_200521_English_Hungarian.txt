@@ -1,0 +1,83 @@
+﻿Galaxy Wearable Adatvédelmi nyilatkozat
+
+
+Utolsó frissítés: 2020. december 1.
+
+A Samsung Electronics Co., Ltd-nél tudjuk, hogy mennyire fontos az adatvédelem ügyfeleink számára. A Galaxy Wearable eszköz vonatkozásában a Samsung jár el adatkezelőként. A jelen Adatvédelmi nyilatkozatot azért alkottuk meg, hogy Ön tisztában legyen azzal, miként gyűjtjük és használjuk az Ön személyes adatait. 
+
+Adatvédelmi szabályzatunk, amely megtekinthető a https://account.samsung.com/membership/terms/privacypolicy oldalon, a Galaxy Wearable Ön általi használatára is vonatkozik. Adatvédelmi szabályzatunk további információkat tartalmaz arról, hogy miként használjuk az Ön adatait. A szabályzat arra vonatkozó információkat is tartalmaz, hogy Ön miként tud velünk kapcsolatba lépni. Kérjük, hogy a jelen Adatvédelmi nyilatkozat mellett olvassa el az Adatvédelmi szabályzatunkat is. A jelen Adatvédelmi nyilatkozat azonban mindenkor elsőbbséget élvez az Adatvédelmi szabályzattal szemben.
+
+MILYEN ADATOKAT GYŰJTÜNK?
+
+A Galaxy Wearable eszköz útján számos módon gyűjtünk és kezelünk Önre vonatkozó adatokat. 
+
+A Galaxy Wearable eszköz Ön általi használatával kapcsolatos adatok
+
+• Eszközadatok: Az Ön hardvermodellje, az eszköz hardverinformációja, a sorozatszám és egyéb egyedi eszközazonosítók, telefonszám, értékesítési kód, az aktuális szoftver verzió, az MCC (mobil országkód), az MNC (mobilhálózati kód), a MAC-cím, Bluetooth-cím, az operációs rendszer verziói és az Ön által a Galaxy Wearable eléréséhez használt készülékek beállításai.
+• Napló-adatok: Diagnosztikai, technikai, hiba- és használati információk, például a Galaxy Wearable eszköze használatának ideje és időtartama, az Ön által a Galaxy Wearable eszközére telepített alkalmazások, valamint az, hogy miként használja az alkalmazást és az azokkal való interakció a Galaxy Wearable eszközén keresztül kínált alkalmazásokkal és egyéb tartalmakkal, valamint az olyan sütikben tárolt bármilyen információ, amelyeket az Ön készülékére telepítünk.
+• Helyadatok: Az Ön eszközének GPS-jele vagy a közeli Wi-Fi hozzáférési pontokkal és cellatornyokkal kapcsolatos információk elküldésre kerülnek részünkre (ideértve szolgáltatóinkat is), ha a Galaxy Wearable eszközé használata során bekapcsolja a Helymeghatározás funkciót és használja az Óra megkeresése, a Telefon megkeresése, illetve az SOS funkciót.
+
+HOGYAN HASZNÁLJUK AZ ÖN ADATAIT?
+
+• Az Ön Galaxy Wearable eszköze regisztrációjának és használatának elősegítésére. 
+• Kért szolgáltatások és funkciók biztosítására. 
+• Az Ön kérelmeinek és kérdéseinek megválaszolására, valamint az Önnel való kapcsolattartás céljából az Ön Galaxy Wearable eszközével kapcsolatban, ideértve a segítségnyújtást is, amennyiben a Galaxy Wearable eszközéhez kapcsolódóan Önnek technikai támogatásra van szüksége. 
+• A Samsung, illetve harmadik felek által biztosított bizonyos alkalmazásokkal, funkciókkal és szolgáltatásokkal végzett műveleteinek lehetővé tétele céljából. Például Ön biztonsági másolatot készíthet az alkalmazásairól és a beállítási információiról a Samsung Cloud alkalmazásban, vagy használhatja a Samsung Health szolgáltatást a Galaxy Wearable eszközén.
+• Testreszabott tartalom és szolgáltatások biztosítása céljából a Galaxy Wearable eszközzel kapcsolatban. 
+• Promóciók és ajánlatok küldésére direkt marketing értesítéseken keresztül, csak amennyiben Ön ehhez megadta a külön hozzájárulását.
+• A Galaxy Wearable eszköz, valamint a vállalkozásunk működtetése, értékelése és fejlesztése érdekében (ideértve az új termékek és szolgáltatások fejlesztését, termékeink és szolgáltatásaink fejlesztését és javítását, a kommunikációink kezelését, a termékeink, szolgáltatásaink és ügyfélkörünk elemzését, piackutatások végzését, adatelemzést, valamint számviteli, könyvvizsgálati és egyéb belső műveletek végzését).
+• A termékeinkre és szolgáltatásainkra vonatkozó véleményének megkérdezésére, valamint ügyfél-felmérések végzésére, ha az szükséges, az Ön külön hozzájárulásával.
+• A Galaxy Wearable eszközének szoftverfrissítései, karbantartási szolgáltatásai és támogatása érdekében.
+• A csalások és más bűncselekmények, követelések és egyéb felelősségek azonosítása, megelőzése, valamint az ezek ellen való védekezés céljából.
+• A hatályos jogszabályi előírásoknak, a vonatkozó ágazati szabványoknak és szabályzatainknak való megfelelés és azok betartása céljából - ideértve a jelen Adatvédelmi nyilatkozatot és az Adatvédelmi szabályzatot is.
+
+A Samsung a személyes adatokat a fentiekben ismertetett célok érdekében kezeli. A Samsung személyes adatok kezelésére vonatkozó jogalapját az alábbiakban ismertetjük: 
+
+Az Önnek tett ígéretünk betartása (GDPR 6. cikk (1) bekezdés b) pont)
+
+• Az Ön regisztrációja, illetve a Galaxy Wearable eszközének regisztrációja
+• A Galaxy Wearable eszköz biztosítása az Ön számára, például annak lehetővé tétele, hogy az alkalmazásokról és a beállításokról biztonsági másolatot készíthessen a Cloud-szervereken
+• Testreszabott tartalom biztosítása az Ön számára
+• Annak lehetővé tétele az Ön számára, hogy kapcsolódhasson a Samsung és harmadik felek által biztosított tartalmakhoz
+
+Üzleti érdekeinek előmozdítása érdekében (GDPR 6. cikk (1) bekezdés f) pont)
+
+• A Galaxy Wearable és vállalkozásunk működtetése, értékelése és fejlesztése
+• Az Ön kérelmeinek, utasításainak és kérdéseinek megválaszolása
+• Megfelelő biztonsági intézkedések, támogatás és frissítések fenntartása
+• Védelem biztosítása felelősséggel szemben, ideértve az ipari szabványok betartását és a szabályzataink érvényesítését
+
+• A jogszabályok és jogi eljárások betartása érdekében (GDPR 6. cikk (1) bekezdés c) pont)
+• Az alkalmazandó jogszabályok, valamint szabályozói és bírósági határozatok betartása
+
+Az Ön hozzájárulásával (GDPR 6. cikk (1) bekezdés a) pont)
+• Marketing értesítések biztosítása (például push értesítések, e-mailek és szöveges üzenetek formájában)
+
+KIVEL OSZTJUK MEG AZ ÖN ADATAIT?
+
+Az Ön adatait belsőleg, vállalatunkon belül, valamint a következő szervezetekkel fogjuk megosztani, de kizárólag a fentiekben leírt célokból.
+●Társult vállalkozások: egyéb olyan Samsung Electronics csoportvállalatok, amelyek az irányításunk alatt állnak vagy a tulajdonunkat képezik;
+●Szolgáltatók: körültekintően kiválasztott vállalatok, amelyek számunkra vagy a nevünkben szolgáltatásokat nyújtanak, például olyan adatszerverek, amelyek a nevünkben adatokat tartanak fenn. E szolgáltatók elkötelezettek az Ön adatainak védelme mellett is;
+●Egyéb felek, ha azt jogszabály írja elő, vagy az Ön Galaxy Wearable eszközének védelme érdekében szükséges mértékben: például jogszabály, jogi eljárás, bírósági végzés vagy kormányzati hatóság előírhatja számunkra, hogy közöljük az Ön adatait. E szervezetek bűnüldözési, nemzetbiztonsági, antiterrorizmussal összefüggő vagy közbiztonsággal kapcsolatos egyéb ügyek céljából is kérhetik az Ön adatait tőlünk;
+●Egyéb felek vállalati tranzakciókkal kapcsolatban: közölhetjük az Ön adatait harmadik felekkel összeolvadás vagy átruházás, vétel vagy értékesítés részeként is, illetve csődeljárás esetén; és
+●Egyéb felek az Ön hozzájárulásával vagy utasítására: a jelen Adatvédelmi nyilatkozatban leírt közlések mellett megoszthatjuk az Ön adatait harmadik felekkel abban az esetben is, ha Ön külön hozzájárulását adja az ilyen megosztáshoz vagy azt kéri.
+
+MENNYI IDEIG ŐRIZZÜK MEG AZ ÖN ADATAIT ÉS HOVÁ KERÜLNEK?
+
+Az Ön adatai megőrzésének hossza attól függ, hogy mi az a jogalap, amelyre támaszkodva adatkezelést folytatunk. Például az Önnel fennálló szerződés teljesítése érdekében kezelt adatokat a Galaxy Wearable eszköze Ön általi használatának időtartama alatt kötelesek vagyunk megőrizni. Mindaddig, amíg Ön a Galaxy Wearable eszközének aktív felhasználója, ezeket az adatokat megőrizzük és kezeljük. Az olyan adatok, mint az eszköz-adatai, valamint azonosítói ebbe a kategóriába esnek.
+
+Azokat az adatokat, amelyeket az üzleti érdekeink elősegítése érdekében kezelünk, például a Galaxy Wearable eszköze Ön általi használatára vonatkozó adatokat, csak addig őrizzük meg, amíg azok azokból a célokból szükségesek, amelyek érdekében gyűjtöttük azokat. Például az ilyen adatokat gyűjthetjük elemzések végzése céljából, hogy fejleszteni tudjuk a Galaxy Wearable eszközt, vagy a Galaxy Wearable eszköze útján vagy azzal kapcsolatban elküldött kérdéseivel kapcsolatos nyilvántartások vezetése érdekében is kezelhetünk adatokat, az ügyfélszolgálati élmény fejlesztése érdekében.
+
+Emellett az Ön adatait az Ön hozzájárulása alapján is kezelhetjük. Ha Ön visszavonja a hozzájárulását, akkor az Ön általi visszavonás előtt gyűjtött adatokat továbbra is kezeljük mindaddig, amíg nem teljesülnek azok a célok, amelyek miatt az ilyen adatokat gyűjtöttük.
+
+Kérjük, vegye figyelembe, hogy bár törekszünk az Ön adatainak a fentiekben leírtak szerinti időtartamig tartó megőrzésére, azokat az alkalmazandó jogszabályoknak megfelelően hosszabb ideig is kezelhetjük. Például ha egy meghatározott jogszabály azt írja elő, hogy egy bizonyos adatot bekérjünk, ezt be fogjuk tartani és az adatot az előírt megőrzési időszak lejártáig megőrizzük. 
+
+Mindaddig, amíg az adatait őrizzük, azokat mindig megfelelő óvintézkedésekkel fogjuk védeni.
+
+A Galaxy Wearable Ön általi használata magában foglalja az Ön személyes adatainak más országokba történő továbbítását, ottani tárolását és kezelését, korlátozás nélkül ideértve az Európai Gazdasági Térség országait, a Koreai Köztársaságot, az Egyesült Államokat, Kínát és Vietnamot. Minden nemzetközi adattovábbításra jogi előírások vonatkoznak, annak biztosítása érdekében, hogy az Ön személyes adatainak kezelése biztonságosan és az Ön elvárásai szerint történjen.
+
+A JELEN ADATVÉDELMI NYILATKOZAT FRISSÍTÉSEI
+
+A jelen Adatvédelmi nyilatkozatot frissíthetjük annak érdekében, hogy tájékoztassuk Önt a Galaxy Wearable eszközére vonatkozó adatai általunk történő kezelésének módosulásáról, illetve a kapcsolódó jogszabályok vagy előírások változásairól. A dokumentum legutóbbi frissítésének dátuma a jelen Adatvédelmi nyilatkozat elején található.
+
+V 2.0

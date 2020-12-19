@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d таңбадан артық қосу мүмкін емес.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d таңбадан артық қосу мүмкін емес.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Әңгімелесу режимі даусыңыз %d секунд бойы анықталмаған кезде аяқталады</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Әңгімелесу режимі даусыңыз %d секунд бойы анықталмаған кезде аяқталады</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Егер түйме-құлаққаптарды телефонмен немесе планшетпен бұрыннан жұптастырсаңыз, оларды қосу үшін жай ғана зарядтау қорабын ашыңыз.\10\10Егер олар автоматты түрде қосылмаған болса, немесе телефонмен не планшетпен жұптастырғыңыз келген жағдайда, түйме-құлаққаптарды киіп, дыбыстық белгіні естігенше түйме-құлаққаптарының екеуін де %d секунд бойы түртіп ұстап тұрыңыз.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Егер түйме-құлаққаптарды телефонмен немесе планшетпен бұрыннан жұптастырсаңыз, оларды қосу үшін жай ғана зарядтау қорабын ашыңыз.\10\10Егер олар автоматты түрде қосылмаған болса, немесе телефонмен не планшетпен жұптастырғыңыз келген жағдайда, түйме-құлаққаптарды киіп, дыбыстық белгіні естігенше түйме-құлаққаптарының екеуін де %d секунд бойы түртіп ұстап тұрыңыз.</item>
+    </plurals>
+</resources>

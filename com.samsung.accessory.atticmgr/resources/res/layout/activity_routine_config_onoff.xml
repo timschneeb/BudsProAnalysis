@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/color_routine_background" android:paddingLeft="@dimen/routine_list_item_inset" android:paddingRight="@dimen/routine_list_item_inset" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+    <RadioGroup android:id="@+id/radio_group" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="24dp">
+        <RadioButton android:id="@+id/btn_on" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/routine_on" style="@style/RoutineListItemTextAppearance"/>
+        <RadioButton android:id="@+id/btn_off" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/routine_off" style="@style/RoutineListItemTextAppearance"/>
+    </RadioGroup>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="@dimen/routine_button_height" android:layout_marginBottom="20dp">
+        <TextView android:gravity="center" android:id="@+id/btn_cancel" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/routine_cancel" android:layout_weight="1" style="@style/RoutineDialogPositiveButtonAppearance"/>
+        <View android:background="@color/color_routine_divider" android:layout_width="1dp" android:layout_height="match_parent" android:layout_marginTop="9dp" android:layout_marginBottom="9dp"/>
+        <TextView android:gravity="center" android:id="@+id/btn_ok" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="match_parent" android:text="@string/routine_done" android:layout_weight="1" style="@style/RoutineDialogPositiveButtonAppearance"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Не може да се добавят повече от %d знак.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Не може да се добавят повече от %d знака.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d секунди</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Режимът на разговор се прекратява, когато гласът ви не бъде разпознат в продължение на %d секунда</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Режимът на разговор се прекратява, когато гласът ви не бъде разпознат в продължение на %d секунди</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ако вече сте сдвоили слушалките с телефон или таблет, просто отворете зарядната кутия, за да ги свържете отново.\10\10Ако не се свържат автоматично или ако искате да ги сдвоите с нов телефон или таблет, поставете си слушалките, след което докоснете и задръжте двете слушалки за %d секунда, докато чуете сигнал.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ако вече сте сдвоили слушалките с телефон или таблет, просто отворете зарядната кутия, за да ги свържете отново.\10\10Ако не се свържат автоматично или ако искате да ги сдвоите с нов телефон или таблет, поставете си слушалките, след което докоснете и задръжте двете слушалки за %d секунди, докато чуете сигнал.</item>
+    </plurals>
+</resources>

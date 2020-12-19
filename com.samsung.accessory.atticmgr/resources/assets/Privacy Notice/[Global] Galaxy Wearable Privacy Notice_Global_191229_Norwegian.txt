@@ -1,0 +1,59 @@
+﻿Galaxy Wearable personvernmerknad
+
+
+Sist oppdatert: 1. desember 2020
+
+Hos Samsung Electronics Co., Ltd. vet vi hvor viktig personvern er for kundene våre. Vi har opprettet denne personvernmerknaden for å sikre at du forstår hvordan vi innhenter og bruker dine personopplysninger. 
+
+Vår personvernerklæring – som kan finnes på https://account.samsung.com/membership/pp – gjelder også din bruk av din Galaxy Wearable. Vår personvernerklæring inneholder mer informasjon om hvordan vi bruker dataene dine. De inkluderer også informasjon om hvordan du kontakter oss. Les personvernerklæringen i tillegg til denne personvernmerknaden. Imidlertid skal denne personvernmerknaden alltid prioriteres over personvernerklæringen.
+
+
+
+HVILKE OPPLYSNINGER INNHENTER VI?
+
+Gjennom Galaxy Wearable innhenter og opprettholder vi informasjon om deg på ulike måter. 
+
+
+Informasjon om din bruk av din Galaxy Wearable
+
+• Enhetsinformasjon: Maskinvaremodell, enhetsmaskinvareinformasjon, serienummer og andre unike enhetsidentifikatorer, telefonnummer, salgskode, gjeldende programvareversjon, MCC (mobillandskode), MNC (mobilnettverkskode), MAC-adresse, IP-adresse, operativsystemversjoner og innstillinger for enhetene du bruker for å få tilgang til Galaxy Wearable. 
+
+• Logginformasjon: Diagnostikk, teknisk informasjon, feil og bruksinformasjon som tiden og varigheten av din bruk av Galaxy Wearable, apper installert av deg på din Galaxy Wearable og hvordan du bruker og samhandler med appene og annet innhold som tilbys gjennom din Galaxy Wearable, og all informasjon lagret i informasjonskapsler som vi installerer på enhetene dine.
+
+• Stedsinformasjon: Enhetens GPS-signal eller informasjon om nærliggende Wi-Fi-tilgangspunkter og mobiltårn sendes til oss (inkludert våre serviceleverandører) når du bruker din Galaxy Wearable, når du slår på Plassering-funksjonen og bruker Finn klokken min- eller Finn min mobil-funksjonen, eller bruker SOS-funksjonen.
+
+
+
+
+HVORDAN BRUKER VI OPPLYSNINGENE DINE?
+
+• For å hjelpe deg med å registrere deg og bruke Galaxy Wearable. 
+• For å tilby tjenester og funksjoner du ber om. 
+• For å svare på dine forespørsler og spørsmål, og for å kommunisere med deg om din Galaxy Wearable, inkludert gi assistanse når du ber om teknisk støtte relatert til din Galaxy Wearable. 
+• For å gjøre det mulig for deg å samhandle med utvalgte Samsung- eller tredjeparts apper, funksjoner og tjenester. Du kan for eksempel sikkerhetskopiere app- og innstillingsinformasjonen din til Samsung Cloud eller bruke Samsung Health på din Galaxy Wearable.
+• For å tilby tilpasset innhold og tjenester relatert til din Galaxy Wearable. 
+• For å tilby kampanjer og tilbud via direkte markedsføringskommunikasjon, kun når du har gitt oss ditt separate samtykke.
+• For å analysere våre produkter og tjenester, inkludert din Galaxy Wearable, for å hjelpe oss med å forstå våre kunder bedre med sikte på å tilby de mest relevante meldingene, tjenestene og opplevelsene.
+• For å be om dine meninger om våre produkter og tjenester og utføre kundeundersøkelser – med ditt separate samtykke, hvis det er nødvendig.
+• For å tilby programvareoppdateringer, vedlikeholdstjenester og støtte for din Galaxy Wearable.
+• For å overholde lover og forskrifter.
+• For å beskytte Samsung Electronics, og/eller våre tilknyttede selskapers, samarbeidspartneres eller kunders rettigheter, eiendom eller sikkerhet.
+
+HVEM DELER VI INFORMASJONEN DIN MED? 
+
+Vi vil dele informasjonen din internt i virksomheten vår og med følgende enheter, men kun for de formålene som beskrives ovenfor.
+
+* Tilknyttede virksomheter: andre selskaper i Samsung Electronics-gruppen som vi kontrollerer eller eier; 
+* Tjenesteleverandører: nøye utvalgte selskaper som leverer tjenester til eller på vegne av oss, som for eksempel dataservere som opprettholder data på våre vegne. Disse leverandørene er også forpliktet på å beskytte dine opplysninger; 
+* Andre parter når loven krever det eller når det er nødvendig for å beskytte din Galaxy Wearable: det kan for eksempel være nødvendig i henhold til lovbestemmelse, rettslig prosess eller rettskjennelse fra myndighetene å offentliggjøre opplysningene dine. Myndighetene vil også kunne søke informasjonen din fra oss for formål knyttet til rettshåndhevelse, nasjonal sikkerhet, terrorbekjempelse, eller andre spørsmål som er relatert til offentlig sikkerhet; 
+* Andre parter i forbindelse med selskapstransaksjoner: vi vil kunne avsløre dine opplysninger til en tredjepart som del av en fusjon eller overføring, oppkjøp eller salg, eller i tilfelle av konkurs; og 
+* Andre parter med ditt samtykke eller etter din anvisning: i tillegg til de offentliggjøringer som beskrives i denne personvernmerknaden, vil vi kunne dele informasjon om deg med tredjeparter når du separat gir samtykke til eller ber om slik deling. 
+
+
+OPPDATERINGER AV DENNE PERSONVERNMERKNADEN
+
+Denne personvernmerknaden kan oppdateres for å gi deg beskjed om endringer i hvordan vi samler inn og behandler informasjonen din i Galaxy Wearable eller endringer i relaterte lover og regler. Datoen da dokumentet sist ble oppdatert vises øverst i denne personvernmerknaden.
+
+V. 2.0
+
+

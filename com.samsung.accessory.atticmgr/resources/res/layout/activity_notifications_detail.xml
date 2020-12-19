@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout android:id="@+id/col" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.google.android.material.appbar.AppBarLayout android:id="@+id/app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:expanded="false" style="@style/Widget.Design.AppBarLayout">
+            <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/collapsing_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="3" app:title="@string/app_notification_to_read_aloud" style="@style/Widget.Design.CollapsingToolbar">
+                <androidx.appcompat.widget.Toolbar android:theme="@style/Theme.AppCompat" android:layout_gravity="bottom" android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:layout_collapseMode="1" app:navigationIcon="?attr/homeAsUpIndicator" app:title="@string/app_notification_to_read_aloud"/>
+            </com.google.android.material.appbar.CollapsingToolbarLayout>
+        </com.google.android.material.appbar.AppBarLayout>
+        <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+            <RelativeLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerHorizontal="true">
+                    <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                            <LinearLayout android:orientation="vertical" android:id="@+id/app_icon_layout" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <ImageView android:layout_gravity="center_horizontal" android:id="@+id/app_icon_image" android:layout_width="50dp" android:layout_height="50dp" android:layout_marginTop="38dp" android:src="@drawable/gm_list_ic_incomimgcall"/>
+                                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:layout_marginBottom="52dp">
+                                    <TextView android:textSize="26sp" android:textColor="#ffffff" android:layout_gravity="center_horizontal" android:id="@+id/app_icon_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="appname" android:fontFamily="@string/roboto_regular"/>
+                                </LinearLayout>
+                            </LinearLayout>
+                            <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="21dp">
+                                <FrameLayout android:id="@+id/frame_layout" android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                    <LinearLayout android:gravity="center_vertical" android:id="@+id/allow_notification_layout" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp">
+                                        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:focusable="false" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:paddingStart="24dp" android:paddingEnd="24dp">
+                                            <TextView android:textSize="19sp" android:textColor="@color/selector_list_title_color" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/read_notifications_aloud" android:fontFamily="@string/roboto_regular"/>
+                                        </LinearLayout>
+                                        <androidx.appcompat.widget.SwitchCompat android:id="@+id/allow_notifications_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="24dp"/>
+                                    </LinearLayout>
+                                </FrameLayout>
+                            </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                            <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="21dp">
+                                <FrameLayout android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                    <LinearLayout android:orientation="vertical" android:id="@+id/detail_settings_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/detail_settings_sub_layout1" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="52dp">
+                                            <RadioButton android:id="@+id/read_out_notification_radio1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="18dp"/>
+                                            <TextView android:textSize="18sp" android:textColor="@color/selector_list_title_color" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/voice_notification_details01" android:fontFamily="@string/roboto_regular" android:layout_marginStart="18dp"/>
+                                        </LinearLayout>
+                                        <View android:id="@+id/divider" android:background="@color/list_item_divider_color" android:layout_width="match_parent" android:layout_height="1dp" android:layout_marginStart="68dp" android:layout_marginEnd="20dp"/>
+                                        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/detail_settings_sub_layout2" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="52dp">
+                                            <RadioButton android:id="@+id/read_out_notification_radio2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="18dp"/>
+                                            <TextView android:textSize="18sp" android:textColor="@color/selector_list_title_color" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/voice_notification_details02" android:fontFamily="@string/roboto_regular" android:layout_marginStart="18dp"/>
+                                        </LinearLayout>
+                                    </LinearLayout>
+                                </FrameLayout>
+                            </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                            <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                                <FrameLayout android:id="@+id/detali_framelayout" android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                                    <LinearLayout android:gravity="center_vertical" android:id="@+id/repeat_settings_layout" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="70dp">
+                                        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:paddingTop="14dp" android:paddingBottom="14dp" android:focusable="false" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1" android:paddingStart="24dp" android:paddingEnd="24dp">
+                                            <TextView android:textSize="18sp" android:textColor="@color/selector_list_title_color" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/repeat_setting" android:fontFamily="@string/roboto_regular"/>
+                                            <TextView android:textSize="13sp" android:textColor="@color/selector_list_setting_value_color" android:id="@+id/repeat_settings_subtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/repeat_once" android:fontFamily="@string/roboto_regular"/>
+                                        </LinearLayout>
+                                    </LinearLayout>
+                                </FrameLayout>
+                            </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                        </LinearLayout>
+                    </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                </com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout>
+            </RelativeLayout>
+        </androidx.core.widget.NestedScrollView>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/winset_dialog_bg" android:paddingTop="26dp" android:paddingBottom="16dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:shape="rectangle">
+    <TextView android:id="@+id/textview1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/manage_devices_delete_popup_main_text_one" style="@style/TextView_PopupDesc"/>
+    <RelativeLayout android:id="@+id/uninstall_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15dp" android:layout_below="@+id/textview1">
+        <ListView android:id="@+id/listview1" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:dividerHeight="0px" android:layout_marginStart="24dp" android:layout_marginEnd="24dp"/>
+    </RelativeLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:weightSum="1" android:layout_alignParentBottom="true" android:layout_marginStart="24dp" android:layout_marginEnd="24dp">
+        <TextView android:gravity="center" android:id="@+id/btn_cancel" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:singleLine="true" android:layout_weight="0.5" android:textAllCaps="false" style="@style/TextView_PopupButton"/>
+        <View android:layout_gravity="center_horizontal" android:id="@+id/divider" android:background="#d4d4d4" android:layout_width="@dimen/actionbar_divider" android:layout_height="match_parent" android:layout_below="@+id/item_view" android:alpha="0.15"/>
+        <TextView android:gravity="center" android:id="@+id/btn_ok" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ok" android:singleLine="true" android:layout_weight="0.5" android:layout_toRightOf="@+id/btn_cancel" android:textAllCaps="false" style="@style/TextView_PopupButton"/>
+    </LinearLayout>
+</LinearLayout>

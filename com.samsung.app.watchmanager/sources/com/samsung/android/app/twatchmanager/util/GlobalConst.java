@@ -1,0 +1,113 @@
+package com.samsung.android.app.twatchmanager.util;
+
+import com.samsung.android.app.twatchmanager.model.GroupInfo;
+import com.samsung.android.app.watchmanager.setupwizard.HMConnectFragment;
+import java.util.List;
+
+public class GlobalConst {
+    public static final int ACTION_ADD_AC_LE_DEVICE = 1;
+    public static final int ACTION_ADD_BNR_LE_DEVICE = 2;
+    public static final int ACTION_ADD_DEVICE = 1;
+    public static final String ACTION_BACKUP_LOG = "com.samsung.android.plugin.BACKUP_LOG";
+    public static final String ACTION_BOND_STATE_CHANGED = "android.bluetooth.device.action.BOND_STATE_CHANGED";
+    public static final String ACTION_HM_DISCONNECT_DEVICE = "com.samsung.android.watchmanager.ACTION_HM_REQUEST_DISCONNECT";
+    public static final String ACTION_HM_UPDATE_DOWNLOAD_STARTED = "com.samsung.android.watchmanager.ACTION_HM_UPDATE_DOWNLOAD_STARTED";
+    public static final String ACTION_PLUGIN_UPDATE_FINISH_IN_TUHM = "com.samsung.android.app.watchmanager.PLUGIN_UPDATE_FINISH_IN_TUHM";
+    public static final int ACTION_REMOVE_DEVICE = 2;
+    public static final String ACTION_STATE_CHANGED = "android.bluetooth.adapter.action.STATE_CHANGED";
+    public static final String ACTION_STEALTH_FINISH = "com.samsung.uhm.action.STEALTH_FINISH";
+    public static final String ACTION_STEALTH_MODE = "com.samsung.uhm.action.STEALTH_MODE";
+    public static final String ACTION_UHM_DB_CONNECTION_UPDATED = "com.samsung.android.uhm.db.CONNECTION_UPDATED";
+    public static final String ACTION_UHM_GEAR1_DISCONNECT_DEVICE = "com.samsung.android.hostmanager.app.action.DISCONNECT_WEARABLE";
+    public static final String ACTION_UHM_HM_DISCONNECT_DEVICE = "com.samsung.android.action.HOST_DATA_CLEARED";
+    public static final String ACTION_UPDATE_AVAILABLE = "com.samsung.uhm.action.UPDATE_AVAILABLE";
+    public static final String ACTION_UPDATE_DB_REQUEST = "com.samsung.android.hostmanager.REQUEST_UPDATE_DB";
+    public static final String BOND_STATE_CHANGED = "android.bluetooth.device.action.BOND_STATE_CHANGED";
+    public static final int BT_CONNECTED = 2;
+    public static final int BT_DISCONNECTED = 1;
+    public static final int BT_UNPAIRED = 0;
+    public static final String CHECK_TIME = "checkTime";
+    public static final String COMMON_PREF_NAME = "pref_common";
+    public static final String[] CONNECTION_AVAILABLE_LIST_OF_1G_PHONE = {"GT-I9300", "GT-I9300T", "SCH-I939", "SHW-M440S", "SGH-I748", "GT-9308", "GT-I9308", "GT-I9305", "GT-I9305T", "GT-I9305N", "SC-03E", "SGH-N035", "SCH-I939D", "GT-I9300I", "SCH-I939I", "GT-I9301I", "GT-I9301Q", "SHV-E210S", "SHV-E210K", "SHV-E210L", "GT-I9303T", "SGH-T999", "SGH-T999V", "SGH-I747", "SCH-I535", "SGH-I747M", "SCH-R530", "SC-06D", "SGH-N064", "SCH-L710", "SCL21", "SCH-J021", "SCH-R530C", "SGH-T999L", "SCH-S960L", "SGH-T999N", "SCH-R530X", "SCH-I535PP", "SPH-L710", "SGH-I747Z"};
+    public static final String CONNECTION_STATE_CHANGED = "android.bluetooth.adapter.action.CONNECTION_STATE_CHANGED";
+    public static final String CONTAINER_PACKAGE_NAME_GEAR1 = "com.samsung.android.gear1module";
+    public static final String CONTAINER_PACKAGE_NAME_GEAR2S = "com.samsung.android.gear2smodule";
+    public static final String DEVICE_ID = "device_id";
+    public static final String DISCOVERY_MANAGER = "discovery_manager";
+    public static final int DONT_SUPPORT_PAIRING = 0;
+    public static final String DOWNLOAD_PATH = "PreviouslySavedAt";
+    public static final String DO_NOT_SHOW_NETWORK_DIALOG = "DoNotShowNetworkDialog";
+    public static final String EASYPAIRING_MANAGER = "easypairing_manager";
+    public static final String EXTRA_BOND_STATE = "android.bluetooth.device.extra.BOND_STATE";
+    public static final String EXTRA_DATA_FROM_TUHM = "extra_data_from_tuhm";
+    public static String EXTRA_DEVICE_ADDRESS = HMConnectFragment.EXTRA_DEVICE_ADDRESS;
+    public static String EXTRA_DEVICE_MODEL_NAME = "device_model_name";
+    public static final String EXTRA_FROM_DEVICE_DISCOVERY_GUIDE_FRAGMENT = "from_device_discovery_guide_fragment";
+    public static final String EXTRA_FROM_PAIRING_SCREEN = "from_pairing_screen";
+    public static final String EXTRA_FROM_PICK_GEAR_FRAGMENT = "from_pick_gear_fragment";
+    public static final String EXTRA_FROM_PICK_GEAR_FRAGMENT_TO_ALL_PERMISSIONS_FRAGMENTS = "from_pick_gear_fragment_towards_allpermissions_fragment";
+    public static final String EXTRA_FROM_TUHM_PLUGIN_PERMISSIONS_FRAGMENT = "extra_from_tuhm_plugin_permissions_fragment";
+    public static final String EXTRA_FROM_WEARABLE_DEVICE_CONTROLLER = "from_wearable_device_controller";
+    public static final String EXTRA_UPDATE_AVAILABLE = "updateAvailableForApps";
+    public static final int FIRST_VERSION_CODE = 1;
+    public static final String GROUP_NAME_ARG = "group_name";
+    public static final String GW_APP_UPDATE_NOTICHANNEL_ID = "A_GW_APP_UPDATE_CHANNEL_ID";
+    public static final String HFP_STATE_CHANGED_ICS = "android.bluetooth.headset.profile.action.CONNECTION_STATE_CHANGED";
+    public static final String INSTALL_STATE = "InstallingPackage";
+    public static final String IS_DOWNLOAD_FINISH = "IsDownloadFinished";
+    public static final String IS_NORMAL_UPDATE_CANCEL = "IsNormalUpdateCancel";
+    public static final String IS_NOTIFIED = "IsUpdateNotified";
+    public static final String IS_UPDATE_NOTIFIED = "IsUpdateNotified";
+    public static final int LAUNCH_MODE_AFTER_REINSTALL = 1008;
+    public static final int LAUNCH_MODE_AFTER_UPDATE = 1007;
+    public static final int LAUNCH_MODE_AUTO_SWITCH = 1009;
+    public static final int LAUNCH_MODE_BT_SETTING = 1002;
+    public static final int LAUNCH_MODE_DEVICE_LIST = 1003;
+    public static final int LAUNCH_MODE_DRAWER = 1006;
+    public static final int LAUNCH_MODE_IDLE = 1001;
+    public static final int LAUNCH_MODE_NFC = 1005;
+    public static final int LAUNCH_MODE_QR_SCANNER = 1011;
+    public static final int LAUNCH_MODE_QUICK_PANNEL = 1004;
+    public static String LE_DEVICE_ADDRESS = "le_device_address";
+    public static final String MODEL_NAME_GEAR1 = "GALAXY Gear";
+    public static final String PACKAGE_LIST = "PackageList";
+    public static final String PACKAGE_NAME_GEAR1 = "com.samsung.android.gear1plugin";
+    public static final String PACKAGE_NAME_GEAR2S = "com.samsung.android.gear2plugin";
+    public static final String PACKAGE_NAME_OLD_UNIFIED_HOST_MANAGER = "com.samsung.android.hostmanager.app";
+    public static final String PACKAGE_NAME_PLAYSTORE = "com.android.vending";
+    public static final String PACKAGE_NAME_SAMSUNG_ACCESSORY = "com.samsung.accessory";
+    public static final String PACKAGE_NAME_SAMSUNG_MEMBERS = "com.samsung.android.voc";
+    public static final String PENDING_PACKAGE_LIST = "PendingPackageList";
+    public static final String PERM_ACCESS_UNIFIED_HOST_MANAGER = "com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER";
+    public static final String PLUGIN_DOWNLOAD_FOLDER = "PluginDownload";
+    public static final String PREV_UPDATE_TIME = "prev_update_time";
+    public static final int PROMOTION_FRAGMENT_CONNECT_NEW_DEVICE = 2;
+    public static final int PROMOTION_FRAGMENT_NORMAL_CASE = 1;
+    public static final String QASTORE_CONFIRM = "QAStoreConfirm";
+    public static final String REINSTALL_PREFERENCE_APP_NAME = "reinstall_preference_app_name";
+    public static final int RESOURCE_XML_COMPATIBLE_MAJOR_VERSION = 2;
+    public static final int RULES_XML_COMPATIBLE_MAJOR_VERSION = 2;
+    public static final String SHOW_SCANNING_LAYOUT = "show_scanning_layout";
+    public static final String SHOW_UPDATE_NOTI = "ShowUpdateNoti";
+    public static final String SP_UPDATE_LIST_INFO = "update_list_info";
+    public static final int SUPPORTS_PAIRING = 1;
+    public static final int TIME_OUT = 43200000;
+    public static final int TIME_OUT_FOR_FREQUENT_TESTING = 10000;
+    public static final int TIME_OUT_FOR_LOCAL_UPDATE_TEST = 60000;
+    public static final int TIME_OUT_FOR_SOMETIMES_TESTING = 300000;
+    public static final int UPDATE_SKIP_LIMIT_COUNT = 3;
+    public static final String UPDATE_VERSION_POSTFIX = "update_version";
+    public static final String XML_AUTO_UPDATE = "auto_update";
+    public static final String XML_MULTIPLE_UPDATE = "multiple_update";
+    public static final String XML_PROMOTIOIN_IMAGES_AUTO_UPDATE = "promotion_update";
+    public static List<GroupInfo> groupInfos;
+    public static int position;
+
+    public static int getPosition() {
+        return position;
+    }
+
+    public static void setPosition(int i) {
+        position = i;
+    }
+}

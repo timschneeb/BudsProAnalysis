@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textStyle="normal" android:textColor="#e5e5e5" android:gravity="center" android:id="@+id/device_not_appear" android:background="@drawable/button_background_show_shape_black" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/gear_not_presesnt" android:layout_alignBottom="@+id/available_devices" android:layout_centerHorizontal="true" android:fontFamily="sec-roboto-medium" android:autoSizeMaxTextSize="@dimen/large_text_size_mines_not_here"/>
+</LinearLayout>

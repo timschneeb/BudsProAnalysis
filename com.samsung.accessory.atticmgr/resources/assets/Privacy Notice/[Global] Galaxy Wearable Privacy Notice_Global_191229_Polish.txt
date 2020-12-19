@@ -1,0 +1,50 @@
+﻿Zasady prywatności usługi Galaxy Wearable
+
+
+Ostatnia aktualizacja: 1 grudnia 2020 r.
+
+Spółka Samsung Electronics Co., Ltd. wie, jak ważna dla jej klientów jest prywatność. Stworzyliśmy te Zasady prywatności, by przedstawić sposób, w jaki zbieramy i wykorzystujemy dane osobowe użytkowników. 
+
+Do korzystania z usługi Galaxy Wearable zastosowanie ma także nasza Polityka prywatności dostępna na stronie https://account.samsung.com/membership/pp. Nasza Polityka prywatności zawiera więcej informacji na temat sposobu korzystania przez nas z danych osobowych użytkowników. Można w niej też znaleźć nasze dane kontaktowe. Prosimy o zapoznanie się z Polityką prywatności oraz niniejszymi Zasadami prywatności. Jednak niniejsze Zasady prywatności mają zawsze pierwszeństwo przed Polityką prywatności.
+
+JAKIE INFORMACJE GROMADZIMY?
+
+Za pośrednictwem usługi Galaxy Wearable zbieramy i zachowujemy informacje dotyczące użytkowników na wiele sposobów. 
+
+
+Informacje o korzystaniu z usługi Galaxy Wearable
+
+• Informacje o urządzeniu: Model urządzenia, informacje o urządzeniu, numer seryjny oraz inne unikatowe identyfikatory urządzenia, numer telefonu, kod sprzedaży, aktualna wersja oprogramowania, MCC (Mobile Country Code – unikatowy numer identyfikujący kraj, w którym działa dana sieć telefonii bezprzewodowej), MNC (Mobile Network Code – unikatowy w obrębie danego kraju numer, identyfikujący sieć telefonii bezprzewodowej), adres MAC, adres IP, wersje systemu operacyjnego oraz ustawienia urządzeń wykorzystywanych celem uzyskania dostępu do usługi Galaxy Wearable.
+• dane dziennika: Informacje diagnostyczne, techniczne oraz informacje o błędach i użytkowaniu, takie jak godzina i czas użytkowania usługi Galaxy Wearable, zainstalowane przez użytkownika aplikacje w usłudze Galaxy Wearable oraz sposób korzystania z aplikacji i innych treści udostępnianych za pośrednictwem usługi Galaxy Wearable oraz wszelkich informacji dostępnych w plikach cookie zainstalowanych na urządzeniach Użytkownika.
+• Informacje dotyczące lokalizacji: Sygnał GPS urządzenia lub informacje o pobliskich punktach dostępowych Wi-Fi i wieżach komórkowych są wysyłane do nas (w tym naszych usługodawców), podczas korzystania z urządzenia Galaxy Wearable, po włączeniu funkcji lokalizacji i korzystaniu z funkcji Znajdź mój zegarek lub Znajdź mój telefon albo po użyciu funkcji SOS.
+
+W JAKI SPOSÓB WYKORZYSTUJEMY INFORMACJE UŻYTKOWNIKA?
+
+• Do rejestracji i korzystania z usługi Galaxy Wearable; 
+• Do dostarczania usług i funkcji zamówionych przez Użytkownika; 
+• Do udzielania odpowiedzi na prośby i pytania Użytkownika oraz komunikowanie się z Użytkownikiem na temat usługi Galaxy Wearable, w tym do udzielania pomocy w zakresie wsparcia technicznego związanego z usługą Galaxy Wearable. 
+• Do zapewniania Użytkownikowi możliwości interakcji z wybranymi aplikacjami, funkcjami i usługami Samsung lub innych podmiotów; Przykładowo Użytkownik może tworzyć kopie zapasowe swoich aplikacji i ustawień w Samsung Cloud lub używać aplikacji Samsung Health w usłudze Galaxy Wearable.
+• Do dostarczania dostosowanych treści i usług związanych z Galaxy Wearable. 
+• Do prezentowania promocji i ofert w ramach marketingu bezpośredniego wyłącznie w przypadkach, w których Użytkownik udzielił odrębnej zgody;
+• Do analizowania naszych produktów i usług, w tym Galaxy Wearable, w celu ułatwienia lepszego zrozumienia klientów i zapewnienia Użytkownikowi najbardziej odpowiednich komunikatów, usług i doświadczeń;
+• Do pozyskiwania opinii Użytkownika na temat produktów i usług oraz przeprowadzania badań ankietowych wśród klientów, w razie konieczności za odrębną zgodą Użytkownika.
+• Do udostępniania aktualizacji oprogramowania, świadczenia usług utrzymania i wsparcia usługi Galaxy Wearable.
+• Do przestrzegania przepisów i regulacji.
+• Do ochrony praw, własności i bezpieczeństwa Samsung Electronics lub dowolnych spółek powiązanych, partnerów biznesowych lub klientów.
+
+KOMU UDOSTĘPNIAMY INFORMACJE UŻYTKOWNIKA? 
+
+Będziemy ujawniać informacje Użytkownika wewnętrznie w ramach naszej działalności oraz następującym podmiotom, ale wyłącznie w celach opisanych powyżej.
+
+•	Podmioty stowarzyszone: inne spółki z Grupy Samsung Electronics, które kontrolujemy lub posiadamy; 
+•	Dostawcy usług: starannie dobrane spółki świadczące usługi w naszym imieniu, np. przechowujące w naszym imieniu dane na serwerach danych. Tacy dostawcy również zobowiązali się do ochrony informacji Użytkownika; 
+•	Inne strony, jeżeli wymaga tego prawo lub gdy jest to konieczne do ochrony usługi Galaxy Wearable: przykładowo, ujawnienie informacji może być wymagane na mocy prawa, postępowania sądowego lub nakazu sądowego wydanego przez władze rządowe. Strony te mogą również uzyskiwać od nas informacje Użytkownika w celu egzekwowania prawa, zapewnienia bezpieczeństwa narodowego, zwalczania terroryzmu lub w innych celach związanych z bezpieczeństwem publicznym;
+•	Inne podmioty w związku z transakcjami korporacyjnymi: możemy ujawnić informacje Użytkownika stronie trzeciej w ramach fuzji lub przeniesienia, nabycia bądź sprzedaży lub w przypadku bankructwa, oraz 
+•	Inne strony za zgodą Użytkownika lub zgodnie z jego instrukcjami: oprócz ujawnień opisanych w niniejszych Zasadach prywatności możemy udostępniać informacje Użytkownika stronom trzecim, gdy osobno wyrazi on zgodę na takie udostępnienie lub zażąda takiego udostępnienia. 
+
+AKTUALIZACJA NINIEJSZYCH ZASAD PRYWATNOŚCI
+
+Niniejsze Zasady prywatności mogą być aktualizowane w celu powiadomienia Użytkownika o zmianach w sposobie zbierania i przetwarzania danych Użytkownika w usłudze Galaxy Wearable przez firmę Samsung lub o zmianach w powiązanych przepisach prawa. Data ostatniej aktualizacji dokumentu znajduje się na górze niniejszych Zasad prywatności. 
+
+
+V 2.0

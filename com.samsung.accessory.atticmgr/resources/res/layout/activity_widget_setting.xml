@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:id="@+id/widget_setting_background" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.Toolbar android:gravity="center_vertical" android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="?attr/actionBarSize" app:background="@color/basic_background_color" app:navigationIcon="?attr/homeAsUpIndicator" app:title="@string/widget_settings_title" app:titleTextColor="@color/basic_title_main_text_color"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/layout_widget_base_container" android:layout_width="match_parent" android:layout_height="match_parent">
+        <FrameLayout android:id="@+id/layout_widget_base_preview_container" android:background="@drawable/shape_rounded_rectangle_transparent_inner" android:padding="30dp" android:layout_width="match_parent" android:layout_height="match_parent" android:minHeight="480dp" android:layout_weight="1">
+            <FrameLayout android:layout_gravity="center" android:id="@+id/view_widget_preview" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        </FrameLayout>
+        <ScrollView android:orientation="vertical" android:background="@color/basic_background_color" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_weight="0.8">
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+                <TextView android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="36dp" android:text="@string/widget_background_color_title" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/ListItemDescriptionTextAppearance"/>
+                <LinearLayout android:orientation="vertical" android:id="@+id/container_widget_ui_mode" android:background="@drawable/shape_rounded_rectangle_basic" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+                    <RadioGroup android:id="@+id/radio_group_widget_background_color_type" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <RadioButton android:textColor="@color/basic_title_main_text_color" android:id="@+id/radio_widget_setting_background_color_white" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" android:minHeight="52dp" android:text="@string/widget_background_color_white" android:paddingStart="@dimen/radio_button_text_content_inset" android:paddingEnd="@dimen/radio_button_text_content_inset" style="@style/ListItemTitleTextAppearance"/>
+                        <View android:background="@color/basic_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height" android:layout_marginStart="52dp"/>
+                        <RadioButton android:textColor="@color/basic_title_main_text_color" android:id="@+id/radio_widget_setting_background_color_black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="52dp" android:text="@string/widget_background_color_black" android:paddingStart="@dimen/radio_button_text_content_inset" android:paddingEnd="@dimen/radio_button_text_content_inset" style="@style/ListItemTitleTextAppearance"/>
+                    </RadioGroup>
+                    <View android:background="@color/basic_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height"/>
+                    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="52dp">
+                        <TextView android:textColor="@color/basic_title_main_text_color" android:gravity="center" android:id="@+id/text_widget_background_alpha" android:layout_width="50sp" android:layout_height="wrap_content" android:text="0%" style="@style/ListItemTitleTextAppearance"/>
+                        <SeekBar android:layout_gravity="center_vertical" android:id="@+id/seekbar_widget_background_alpha" android:layout_width="match_parent" android:layout_height="wrap_content" android:max="10" android:progressTint="#00000000" android:progressBackgroundTint="#4d979797" android:thumbTint="@color/colorPrimary" android:tickMark="@drawable/tick_mark_basic"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp">
+                    <FrameLayout android:background="@color/basic_background_title_color" android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/layout_widget_base_dark_mode" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="52dp" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+                            <TextView android:textColor="@color/basic_title_main_text_color" android:id="@+id/text_widget_dark_mode" android:layout_width="0dp" android:layout_height="wrap_content" android:text="@string/widget_match_with_dark_mode" android:layout_weight="1" style="@style/ListItemTitleTextAppearance"/>
+                            <androidx.appcompat.widget.SwitchCompat android:id="@+id/switch_widget_base_dark_mode" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+                        </LinearLayout>
+                    </FrameLayout>
+                </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout android:gravity="center" android:background="@color/basic_background_color" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/colorPrimary" android:gravity="center" android:id="@+id/btn_cancel" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp" android:text="@string/widget_cancel" android:includeFontPadding="false" android:layout_weight="1"/>
+            <TextView android:textSize="18sp" android:textStyle="bold" android:textColor="@color/colorPrimary" android:gravity="center" android:id="@+id/btn_ok" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp" android:text="@string/widget_save" android:includeFontPadding="false" android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

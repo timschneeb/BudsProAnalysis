@@ -1,0 +1,84 @@
+﻿Informativa sulla privacy dei Galaxy Wearable
+
+
+Ultimo aggiornamento: 1 dicembre 2020
+
+Noi di Samsung Electronics Co., Ltd. sappiamo quanto sia importante la privacy per i nostri clienti. Samsung è il titolare del trattamento dei dati dei Galaxy Wearable dell’utente. Abbiamo creato la presente Informativa sulla privacy per garantire che l’utente comprenda come raccogliamo e utilizziamo le sue informazioni personali. 
+
+La nostra Informativa sulla privacy, consultabile all’indirizzo https://account.samsung.com/membership/terms/privacypolicy, si applica anche all’utilizzo dei Galaxy Wearable. La nostra Informativa sulla privacy contiene ulteriori informazioni su come utilizziamo i dati dell’utente. Include inoltre informazioni su come contattarci. Si prega di leggere la nostra Informativa sulla privacy generale in aggiunta alla presente Informativa sulla privacy. Tuttavia, la presente Informativa sulla privacy prevarrà sempre sull’Informativa sulla privacy generale.
+
+QUALI INFORMAZIONI RACCOGLIAMO? 
+
+Attraverso i Galaxy Wearable, acquisiamo e conserviamo informazioni relative all’utente in diversi modi. 
+
+Informazioni sull’uso di un Galaxy Wearable da parte dell’utente
+
+• Informazioni sul dispositivo: Modello hardware, informazioni sull’hardware del dispositivo, numero di serie e altri identificativi univoci del dispositivo, numero di telefono, codice di vendita, versione attuale del software, MCC (codice di paese mobile), MNC (codice di rete mobile), indirizzo MAC, indirizzo Bluetooth, versioni del sistema operativo e impostazioni dei dispositivi che l’utente utilizza per accedere al suo Galaxy Wearable.
+• Informazioni di registro: Informazioni diagnostiche, tecniche, di errore e di utilizzo, come l’ora e la durata della sessione in cui è stato usato il Galaxy Wearable, le app installate dall’utente sul Galaxy Wearable e come l’utente utilizza e interagisce con le app e altri contenuti offerti attraverso il Galaxy Wearable, nonché qualsiasi informazione memorizzata nei cookie che installiamo sui suoi dispositivi.
+• Informazioni sulla posizione: Quando l’utente utilizza il suo Galaxy Wearable, quando attiva la funzione Posizione e usa la funzione Trova orologio personale o Trova telefono personale oppure quando usa la funzione SOS, ci vengono inviati (e vengono inviati ai nostri fornitori di servizi) il segnale GPS del suo dispositivo oppure le informazioni sui punti di accesso Wi-Fi e le celle telefoniche vicine.
+
+IN CHE MODO UTILIZZIAMO LE INFORMAZIONI DELL’UTENTE?
+
+• Aiutando l’utente a registrarsi e utilizzare il suo Galaxy Wearable. 
+• Fornendo servizi e funzioni chiesti dall’utente. 
+• Rispondendo alle sue richieste e domande e comunicando con lui a proposito del suo Galaxy Wearable, incluso fornendogli assistenza quando richiede supporto tecnico in relazione al suo Galaxy Wearable. 
+• Consentendogli di interagire con app, funzioni e servizi selezionati di Samsung o di terzi. Ad esempio, l’utente potrebbe riuscire a eseguire il backup delle informazioni delle sue app e impostazioni su Samsung Cloud o a utilizzare Samsung Health sul suo Galaxy Wearable.
+• Fornendo contenuti e servizi personalizzati relativi al suo Galaxy Wearable. 
+• Fornendo promozioni e offerte tramite comunicazioni di marketing diretto, unicamente laddove l’utente ci abbia fornito il suo previo consenso.
+• Gestendo, valutando e migliorando i Galaxy Wearable e le nostre attività (inclusi lo sviluppo di nuovi prodotti e servizi, l’ottimizzazione e il miglioramento dei prodotti e dei servizi esistenti, la gestione delle comunicazioni, l’analisi dei nostri prodotti, servizi e base clienti, lo svolgimento di ricerche di mercato, l’analisi dei dati e l’esecuzione delle funzioni di contabilità, controllo e altre funzioni interne).
+• Chiedendo all’utente di esprimere la propria opinione riguardo ai prodotti e ai servizi e svolgendo sondaggi sulla clientela; se necessario, ottenendone il consenso specifico.
+• Fornendo aggiornamenti software, servizi di manutenzione e supporto per il Galaxy Wearable dell’utente.
+• Proteggendo da frodi e altre attività illecite, da rivendicazioni e altre responsabilità, nonché individuandole e prevenendole.
+• Adempiendo e adottando i requisiti legali, gli standard specifici del settore e le informative di Samsung applicabili, tra cui la presente Informativa sulla privacy e l’Informativa sulla privacy generale.
+
+Samsung tratta i dati personali per le finalità sopra descritte. La base giuridica per il trattamento dei dati personali è descritta di seguito: 
+
+Mantenere la promessa che abbiamo fatto all’utente (Articolo 6(1)(b) GDPR)
+
+• Registrando l’utente e il suo Galaxy Wearable
+• Fornendo il Galaxy Wearable all’utente, ad esempio consentendogli di eseguire il backup delle informazioni delle sue app e impostazioni su server cloud
+• Fornendogli contenuti personalizzati
+• Consentendogli di interagire con altri contenuti di Samsung e di terzi
+
+Promuovere i nostri interessi commerciali (Articolo 6(1)(f) GDPR)
+
+• Gestendo, valutando e migliorando i Galaxy Wearable e le nostre attività
+• Rispondendo alle richieste, alle istruzioni e alle domande dell’utente
+• Mantenendo misure di sicurezza, supporto e aggiornamento adeguati
+• Proteggendo dalla responsabilità, anche rispettando gli standard del settore e applicando i nostri criteri
+
+Rispettare la legge e i procedimenti legali (Articolo 6(1)(c) GDPR)
+• Applicando le normative vigenti e le ordinanze delle autorità e dei tribunali
+
+Con il consenso dell’utente (Articolo 6(1)(a) GDPR)
+• Fornendo notifiche commerciali (come notifiche push, e-mail e messaggi di testo)
+
+CON CHI CONDIVIDIAMO LE INFORMAZIONI DELL’UTENTE? 
+
+Divulgheremo le informazioni dell’utente all’interno della nostra azienda e alle entità indicate di seguito, soltanto per le finalità sopra descritte.
+
+Consociate: altre società del gruppo Samsung Electronics, controllate o di proprietà di Samsung;
+Gestori telefonici: società accuratamente selezionate che forniscono servizi per noi o per conto nostro, come server di dati che conservano dati a nome nostro. Anche questi fornitori si impegnano a proteggere le informazioni dell’utente; 
+Altre parti, ove richiesto dalla legge o se necessario per proteggere il Galaxy Wearable dell’utente: ad esempio, divulgare le informazioni dell’utente potrebbe essere necessario per legge, per dei procedimenti legali o per ordinanze delle autorità governative. Le informazioni dell’utente potrebbero esserci chieste anche ai fini dell’applicazione della legge, della sicurezza nazionale, dell’antiterrorismo o di altre questioni relative alla sicurezza pubblica; 
+Altre parti in relazione a operazioni societarie: possiamo divulgare le informazioni dell’utente a una terza parte nell’ambito di un’operazione di fusione o trasferimento, acquisizione o vendita, o in caso di fallimento; e
+Altre parti, con il consenso dell’utente o su sua indicazione: oltre alle comunicazioni descritte nella presente Informativa sulla privacy, possiamo condividere le informazioni dell’utente con terze parti qualora l’utente ci fornisca separatamente il suo consenso o ci chieda di farlo.
+
+PER QUANTO TEMPO CONSERVIAMO LE INFORMAZIONI DELL’UTENTE E DOVE SONO DESTINATE?
+
+La durata della conservazione dei dati dell’utente dipende dalla base giuridica su cui si basa il loro trattamento. Ad esempio, i dati che trattiamo per rispettare il contratto stipulato con l’utente esigono che li conserviamo per tutto il periodo in cui l’utente usa il suo Galaxy Wearable. Conserveremo e tratteremo questi dati fintanto che l’utente sarà un utente attivo del suo Galaxy Wearable. In questa categoria rientrano dati come le informazioni sui dispositivi e gli identificativi.
+
+I dati che trattiamo per promuovere i nostri interessi commerciali, come l’uso dei Galaxy Wearable da parte dell’utente, vengono conservati solo per il tempo necessario alle finalità per le quali sono stati raccolti. Ad esempio, potremmo raccogliere questi dati per eseguire delle analisi che ci consentano di sviluppare miglioramenti ai Galaxy Wearable, oppure potremmo trattarli per tenere traccia delle domande fatte dall’utente per mezzo o a proposito del suo Galaxy Wearable, per migliorare l’esperienza del servizio clienti.
+
+Inoltre, possiamo trattare i dati dell’utente anche sulla base del suo consenso. Se l’utente ritira il proprio consenso, continueremo a trattare i dati raccolti prima della revoca fino al raggiungimento delle finalità per le quali tali dati sono stati raccolti.
+
+Si noti che, nonostante il nostro obiettivo sia quello di conservare i dati dell’utente per il periodo sopra descritto, tali dati potrebbero essere trattati per un periodo più lungo in base alla legge applicabile. Ad esempio, se una legge specifica ci impone di chiedere un certo dato, la rispetteremo e conserveremo tale dato fino alla scadenza del periodo di conservazione obbligatorio. 
+
+Fintanto che conserveremo i dati dell’utente, questi saranno sempre soggetti a garanzie adeguate.
+
+L’utilizzo del Galaxy Wearable da parte dell’utente comporterà il trasferimento, l’archiviazione e il trattamento delle informazioni personali dell’utente in altri Paesi, tra i quali, a titolo meramente esemplificativo, quelli facenti parte dello Spazio economico europeo, la Repubblica di Corea, gli Stati Uniti, la Cina e il Vietnam. Tutti i trasferimenti internazionali di dati sono soggetti ai requisiti di legge, in modo da garantire che le informazioni personali dell’utente siano trattate in modo sicuro e come l’utente si aspetta.
+
+AGGIORNAMENTI ALL’INFORMATIVA SULLA PRIVACY
+
+La presente Informativa sulla privacy può essere aggiornata per far conoscere all’utente le modifiche al modo in cui raccogliamo e trattiamo le sue informazioni per il suo Galaxy Wearable o le modifiche alle leggi correlate. La data dell’ultimo aggiornamento del documento è indicata nella parte superiore della presente Informativa sulla privacy. 
+
+V 2.0

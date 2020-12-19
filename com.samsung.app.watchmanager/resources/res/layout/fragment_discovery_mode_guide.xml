@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:gravity="center_vertical" android:id="@+id/top_actionbar_title" android:background="@color/daynight_dark_theme_background" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/action_bar_h" android:layout_alignParentTop="true">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gear_device_logo" android:layout_marginStart="25dp"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/top_image_title" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@+id/topView" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/select_device_bg_default" android:scaleType="fitStart" android:adjustViewBounds="true" android:layout_alignParentTop="true" android:layout_centerHorizontal="true"/>
+        <ImageView android:id="@+id/gearManagerLogo" android:layout_width="156dp" android:layout_height="24dp" android:layout_marginTop="8dp" android:src="@drawable/gear_device_logo" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_marginStart="20dp" android:layout_marginEnd="18dp"/>
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#fafafa" android:gravity="center" android:id="@+id/no_device_found_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_gear_description" android:layout_below="@+id/top_image_title" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" style="@style/robotoRegular"/>
+    <TextView android:textSize="@dimen/large_text_size" android:textColor="@color/normal_text_color_black2" android:id="@+id/description" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/discovery_guide_description" android:layout_below="@+id/no_device_found_title" android:fontFamily="sans-serif" android:textAlignment="center" android:layout_marginStart="24dp" android:layout_marginEnd="24dp"/>
+    <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_above="@+id/contact_us" android:layout_below="@+id/description">
+        <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:layout_marginBottom="16dp">
+            <RelativeLayout android:layout_gravity="center_horizontal" android:id="@+id/items_layout_container" android:background="@drawable/item_background_show_shape_grey" android:paddingTop="12dp" android:paddingBottom="15dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="27dp" android:paddingEnd="24dp">
+                <RelativeLayout android:gravity="center_vertical" android:id="@+id/item_1" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@+id/item_1_grid_image" android:background="@drawable/oobe_drawer_ic_watch" android:layout_width="32dp" android:layout_height="32dp" android:adjustViewBounds="true" android:layout_centerVertical="true"/>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_toEndOf="@+id/item_1_grid_image">
+                        <TextView android:textSize="18dp" android:textColor="#e5e5e5" android:gravity="center_vertical" android:id="@+id/item_1_mainText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/watch" android:fontFamily="sans-serif"/>
+                        <TextView android:textSize="13dp" android:textColor="#b0b0b0" android:gravity="center_vertical" android:id="@+id/item_1_subtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:text="@string/watch_guide" android:fontFamily="sans-serif"/>
+                    </LinearLayout>
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_vertical" android:id="@+id/item_2" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:layout_below="@+id/item_1">
+                    <ImageView android:id="@+id/item_2_grid_image" android:background="@drawable/oobe_drawer_ic_band" android:layout_width="32dp" android:layout_height="32dp" android:adjustViewBounds="true" android:layout_centerVertical="true"/>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_toEndOf="@+id/item_2_grid_image">
+                        <TextView android:textSize="18dp" android:textColor="#e5e5e5" android:gravity="center_vertical" android:id="@+id/item_2_mainText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/band" android:fontFamily="sans-serif"/>
+                        <TextView android:textSize="13dp" android:textColor="#b0b0b0" android:gravity="center_vertical" android:id="@+id/item_2_subtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:text="@string/band_guide" android:fontFamily="sans-serif"/>
+                    </LinearLayout>
+                </RelativeLayout>
+                <RelativeLayout android:gravity="center_vertical" android:id="@+id/item_3" android:background="@android:color/transparent" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="30dp" android:layout_below="@+id/item_2">
+                    <ImageView android:id="@+id/item_3_grid_image" android:background="@drawable/oobe_drawer_ic_bud" android:layout_width="32dp" android:layout_height="32dp" android:adjustViewBounds="true" android:layout_centerVertical="true"/>
+                    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="24dp" android:layout_toEndOf="@+id/item_3_grid_image">
+                        <TextView android:textSize="18dp" android:textColor="#e5e5e5" android:gravity="center_vertical" android:id="@+id/item_3_mainText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/earbuds" android:fontFamily="sans-serif"/>
+                        <TextView android:textSize="13dp" android:textColor="#b0b0b0" android:gravity="center_vertical" android:id="@+id/item_3_subtext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="2dp" android:text="@string/earbuds_guide" android:fontFamily="sans-serif"/>
+                    </LinearLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </LinearLayout>
+    <TextView android:textSize="15dp" android:textColor="@color/normal_text_color_white" android:layout_gravity="center" android:id="@+id/contact_us" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="15dp" android:text="@string/welcome_to_samsung_gear_promotion_contact_us" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/robotoMedium"/>
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="permission_guide_contacts_description">登録しているGalaxyアカウントの情報を使用するアカウントに対して、リンクが必要なサービスを提供するために使用します。</string>
+</resources>

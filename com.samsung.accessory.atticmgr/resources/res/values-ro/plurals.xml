@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nu se poate adăuga mai mult de %d caracter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nu se pot adăuga mai mult de %d caractere.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nu se pot adăuga mai mult de %d caractere.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d secundă</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d secunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d secunde</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Modul Conversație se încheie atunci când vocea dvs. nu este detectată timp de %d secundă</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Modul Conversație se încheie atunci când vocea dvs. nu este detectată timp de %d secunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Modul Conversație se încheie atunci când vocea dvs. nu este detectată timp de %d secunde</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dacă ați asociat deja căștile cu un telefon sau o tabletă, este suficient să deschideți caseta de încărcare pentru a le conecta din nou.\10\10Dacă nu se conectează automat sau dacă doriți să le asociați cu un nou telefon sau o nouă tabletă, puneți-vă căștile, apoi mențineți apăsat pe căști timp de %d secundă, până când auziți un semnal sonor.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Dacă ați asociat deja căștile cu un telefon sau o tabletă, este suficient să deschideți caseta de încărcare pentru a le conecta din nou.\10\10Dacă nu se conectează automat sau dacă doriți să le asociați cu un nou telefon sau o nouă tabletă, puneți-vă căștile, apoi mențineți apăsat pe căști timp de %d secunde, până când auziți un semnal sonor.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dacă ați asociat deja căștile cu un telefon sau o tabletă, este suficient să deschideți caseta de încărcare pentru a le conecta din nou.\10\10Dacă nu se conectează automat sau dacă doriți să le asociați cu un nou telefon sau o nouă tabletă, puneți-vă căștile, apoi mențineți apăsat pe căști timp de %d secunde, până când auziți un semnal sonor.</item>
+    </plurals>
+</resources>

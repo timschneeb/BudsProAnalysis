@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@color/navigationbar_color_dark" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerHorizontal="true">
+    <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#ffffff" android:gravity="center" android:id="@+id/no_device_found_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp" android:text="@string/no_gear_description" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" style="@style/robotoRegular"/>
+    <ScrollView android:layout_width="match_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.samsung.android.app.twatchmanager.uiitems.TextViewRegular android:textSize="@dimen/large_text_size" android:textColor="@color/gear_manager_device_list_description_text_color" android:gravity="center_horizontal" android:id="@+id/no_device_found_description" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/no_gear_body" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" style="@style/robotoRegular"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

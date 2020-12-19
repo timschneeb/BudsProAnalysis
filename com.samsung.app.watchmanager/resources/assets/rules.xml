@@ -1,0 +1,266 @@
+<!-- Default Attributes Values:
+     Target Tag Flow <module-info>-<devices>-<group>-<item> : supportTablet="true" , hostMinMemory= "1024" MB , supportNonSamsung="false" , supportMultiConnection="false" , supportsBLEOnly= "false", requiresPairing="true"
+     Target Tag Flow <module-info>-<additional-packages>-<package> : optional="false" , installerPackage="com.samsung.android.app.watchmanager" ,requiredForNonSamsung="false" ,checkForUpdate="false"
+     Target Tag Flow <common-info>-<packages> : disablePackage="true"
+     Target Tag Flow <module-info>-<devices>-<group> : downloadInstallLayout="pop_download_install" wearableType="watch" resetOption="true"
+     Target Tag Flow <module-info> : pluginAppName="<app name for each plugin apk as declared in manifest>"
+-->
+
+<rules>
+    <gear-info version="2.52">
+
+        <module-info containerName="com.samsung.android.gear1module" pluginName="com.samsung.android.gear1plugin" pluginAppName="Gear1Plugin">
+            <devices>
+                <group name="Gear 1">
+                    <item>Galaxy Gear</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package optional="true">com.samsung.svoiceprovider</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gear2smodule" pluginName="com.samsung.android.gear2plugin"  pluginAppName="Gear2SModule">
+            <devices>
+                <group name="Gear 2" wearableType="watch">
+                    <item pairingImageName="oobe_pairing_img_watch_select_02">Gear</item>
+                    <item pairingImageName="oobe_pairing_img_watch_select_02">Gear 2</item>
+                    <item pairingImageName="oobe_pairing_img_watch_select_02">Gear 2 Neo</item>
+                    <item pairingImageName="oobe_pairing_img_watch_select_02">Gear 2 Lite</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package optional="true">com.samsung.svoiceprovider</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gear2smodule" pluginName="com.samsung.android.gear2plugin" pluginAppName="Gear2SModule">
+            <devices>
+                <group name="Gear S" wearableType="watch">
+                    <item supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Gear S</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gearoplugin" pluginName="com.samsung.android.gearoplugin" pluginAppName="Gear S PlugIn">
+            <devices>
+                <group name="Gear S2" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Gear O</item>
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Gear A</item>
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02" switchGearTitleIcon="gm_ab_logo_s2">Gear S2</item>
+                </group>
+                <group name="Gear S3" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Gear C</item>
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02" switchGearTitleIcon="gm_ab_logo_s3">Gear S3</item>
+                </group>
+                <group name="Gear Sport" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Gear POP</item>
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02" switchGearTitleIcon="gm_ab_logo_sport">Gear Sport</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.geargplugin" pluginName="com.samsung.android.geargplugin" pluginAppName="Galaxy Watch PlugIn">
+            <devices>
+                <group name="Gear S4" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Galileo</item>
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02">Gear S4</item>
+                    <item supportNonSamsung="true" supportTablet="false" pairingImageName="oobe_pairing_img_watch_select_02"
+                        switchGearTitleIcon="gm_ab_logo_watch">Galaxy Watch</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gearpplugin" pluginName="com.samsung.android.gearpplugin" pluginAppName="Watch Active Plugin">
+            <devices>
+                <group name="Galaxy Pulse" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false">Galaxy Pulse</item>
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_watch_active">Galaxy Watch Active</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info pluginName="com.samsung.android.neckletplugin" pluginAppName="Circle Plugin">
+            <devices>
+                <group name="Gear Circle" wearableType="earbud" maxAPILevel="28">
+                    <item connectAudio="true" hostMinMemory="0" icon="gm_managerdevices_list_ic_gearcircle" supportMultiConnection="true" supportTablet="false">Gear Circle</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gearfit2plugin" pluginName="com.samsung.android.gearfit2plugin" pluginAppName="Gear Fit Plugin">
+            <devices>
+                <group name="Gear Fit2" wearableType="band">
+                    <item icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_fit2">Gear Fit2</item>
+                    <item icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_fit2_pro">Gear Fit2 Pro</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info pluginName="com.samsung.accessory.triathlonmgr" pluginAppName="Gear IconX Plugin">
+            <devices>
+                <group name="Gear IconX" wearableType="earbud" maxAPILevel="29">
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="false" switchGearTitleIcon="gm_ab_logo_iconx">Gear Triathlon M</item>
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="false" switchGearTitleIcon="gm_ab_logo_iconx">Gear Triathlon S</item>
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="false" switchGearTitleIcon="gm_ab_logo_iconx">Gear IconX R</item>
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="false" switchGearTitleIcon="gm_ab_logo_iconx">Gear IconX L</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info pluginName="com.samsung.accessory.beansmgr" pluginAppName="Gear IconX (2018) Plugin">
+            <devices>
+                <group name="Gear IconX" wearableType="earbud">
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_iconx">Gear IconX</item>
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_iconx">Gear IconX 2</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info pluginName="com.samsung.accessory.fridaymgr" pluginAppName="Galaxy Buds">
+            <devices>
+                <group name="Galaxy Buds" wearableType="earbud">
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_buds">Galaxy Buds</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info pluginName="com.samsung.accessory.popcornmgr" pluginAppName="Galaxy Buds+">
+            <devices>
+                <group name="Galaxy Buds" wearableType="earbud">
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_bud" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_buds_plus">Galaxy Buds+</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info pluginName="com.samsung.accessory.neobeanmgr" pluginAppName="Galaxy Buds Live">
+            <devices>
+                <group name="Galaxy Buds Live" wearableType="earbud">
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_buds_live" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_buds_live">Galaxy Bean</item>
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_buds_live" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_buds_live">Galaxy Buds Live</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info pluginName="com.samsung.accessory.atticmgr" pluginAppName="Galaxy Buds Pro">
+            <devices>
+                <group name="Galaxy Buds Pro" wearableType="earbud">
+                    <item connectAudio="true" hostMinMemory="0" icon="oobe_drawer_ic_buds_pro" supportMultiConnection="true" supportNonSamsung="true" supportTablet="true" switchGearTitleIcon="gm_ab_logo_buds_pro">Galaxy Buds Pro</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info pluginName="com.samsung.android.chironplugin" pluginAppName="Chiron Plugin">
+            <devices>
+                <group name="Gear Chiron" wearableType="none">
+                    <item requiresPairing="false" supportNonSamsung="true" supportTablet="false">Gear Chiron</item>
+                    <item requiresPairing="false" supportNonSamsung="true" supportTablet="false">Samsung Gear Chiron</item>
+                </group>
+            </devices>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.modenplugin" pluginName="com.samsung.android.modenplugin" pluginAppName="Galaxy Fit Plugin">
+            <devices>
+                <group name="Moden" wearableType="band" resetOption="false" requestDisconnectAlways="true">
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false">Moden Lite</item>
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false">Moden</item>
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_band">Galaxy Fit</item>
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_band_lite">Galaxy Fit e</item>
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_band_lite">Galaxy Fitⓔ</item>
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_band_lite">Galaxy Fit ⓔ</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gearrplugin" pluginName="com.samsung.android.gearrplugin" pluginAppName="Watch Active2 Plugin">
+            <devices>
+                <group name="Galaxy Watch Active2" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_watch_active2">Galaxy Watch Active2</item>
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_watch_active2">Watch Active2</item>
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_watch_active2">Watch Active 2</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.gearnplugin" pluginName="com.samsung.android.gearnplugin" pluginAppName="Galaxy Watch3 PlugIn">
+            <devices>
+                <group name="Galaxy Watch3" wearableType="watch">
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_galaxy_watch3">Galaxy Watch 2</item>
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_galaxy_watch3">Galaxy Watch2</item>
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_galaxy_watch3">Galaxy Watch 3</item>
+                    <item supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_galaxy_watch3">Galaxy Watch3</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <module-info containerName="com.samsung.android.neatplugin" pluginName="com.samsung.android.neatplugin" pluginAppName="Galaxy Fit2 Plugin">
+            <devices>
+                <group name="Galaxy Fit2" wearableType="band" resetOption="false" requestDisconnectAlways="true">
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_galaxy_fit2">Galaxy Fit2</item>
+                    <item supportsBLEOnly= "true" icon="oobe_drawer_ic_band" supportNonSamsung="true" supportTablet="false"
+                        switchGearTitleIcon="gm_ab_logo_galaxy_fit2">Galaxy Fit 2</item>
+                </group>
+            </devices>
+            <additional-packages>
+                <package onlyForNonSamsung="true" optional="false">com.samsung.accessory</package>
+            </additional-packages>
+        </module-info>
+
+        <common-info>
+            <packages>
+                <item disablePackage="false">com.samsung.accessory</item>
+            </packages>
+            <discovery-keyword>
+                <item>gear</item>
+                <item>galileo</item>
+                <item>galaxy watch</item>
+                <item>galaxy buds</item>
+                <item>watch active</item>
+                <item>Moden</item>
+                <item>galaxy fit</item>
+                <item>galaxy bean</item>
+            </discovery-keyword>
+            <skip-device>
+                <item>Gear Fit</item>
+            </skip-device>
+        </common-info>
+
+    </gear-info>
+</rules>
+

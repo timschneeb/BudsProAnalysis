@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="25dp">
+    <ImageView android:layout_gravity="center_vertical" android:id="@+id/attach_image" android:layout_width="12dp" android:layout_height="12dp" android:src="@drawable/feedback_list_file_attach" android:tint="#787878" android:layout_marginStart="5dp" android:layout_marginEnd="6dp" android:layout_toEndOf="@+id/type_text"/>
+    <TextView android:textSize="13sp" android:textColor="#252525" android:gravity="top" android:layout_gravity="center_vertical" android:id="@+id/attachmentName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fontFamily="sec-roboto-light"/>
+</LinearLayout>

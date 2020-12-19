@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@color/navigationbar_color_dark" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:gravity="center_vertical" android:id="@+id/top_actionbar_title" android:background="@color/daynight_dark_theme_background" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/action_bar_h" android:layout_alignParentTop="true">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gear_device_logo" android:layout_marginStart="25dp"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/top_image_title" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <ImageView android:id="@+id/topView" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/select_device_bg_default" android:scaleType="fitStart" android:adjustViewBounds="true" android:layout_alignParentTop="true"/>
+        </RelativeLayout>
+        <ImageView android:id="@+id/gearManagerLogo" android:layout_width="156dp" android:layout_height="24dp" android:layout_marginTop="8dp" android:src="@drawable/gear_device_logo" android:layout_alignParentTop="true" android:layout_marginStart="20dp" android:layout_marginEnd="18dp" android:layout_alignParentStart="true"/>
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@+id/view_container" android:layout_width="match_parent" android:layout_height="486dp" android:layout_above="@+id/buttonLayout" android:layout_below="@+id/top_image_title" android:layout_centerHorizontal="true"/>
+    <RelativeLayout android:id="@+id/buttonLayout" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/search_again" android:background="@drawable/button_background_show_shape_grey" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="13dp" android:layout_marginBottom="17dp" android:minWidth="180dp" android:minHeight="36dp" android:layout_centerHorizontal="true" android:paddingStart="20dp" android:paddingEnd="20dp">
+            <com.samsung.android.app.twatchmanager.uiitems.ProgressCircle android:id="@+id/progress_circle" android:padding="4dp" android:visibility="gone" android:layout_width="32dp" android:layout_height="32dp"/>
+            <TextView android:textSize="@dimen/large_text_size" android:textStyle="normal" android:textColor="@color/gear_manager_device_list_bg" android:gravity="center" android:id="@+id/search_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/scan_all_gear_nearby" android:maxLines="2" android:textAllCaps="false" android:autoSizeMaxTextSize="@dimen/large_text_size_mines_not_here" style="@style/robotoMedium"/>
+        </LinearLayout>
+        <TextView android:textStyle="normal" android:textColor="@color/gear_manager_device_list_description_text_color" android:gravity="center" android:id="@+id/contact_us" android:background="@drawable/button_background_show_shape_black" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="22dp" android:text="@string/welcome_to_samsung_gear_promotion_contact_us" android:layout_below="@+id/search_again" android:layout_centerHorizontal="true" android:fontFamily="sec-roboto-medium" android:autoSizeMaxTextSize="@dimen/large_text_size_mines_not_here"/>
+    </RelativeLayout>
+</RelativeLayout>

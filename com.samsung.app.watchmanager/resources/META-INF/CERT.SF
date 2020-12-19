@@ -1,0 +1,3928 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: 1+Hv4gcjpGAzY/hCIKQ1B7Zh2uvO2fCeH9h8H1gj8+4=
+Created-By: 1.0 (Android SignApk)
+
+Name: org/joda/time/tz/data/Europe/Dublin
+SHA-256-Digest: lCyEGkbtkc5RPVFG2vv6zupbO6HrBz/gRv7YyQXeoEs=
+
+Name: org/joda/time/tz/data/America/Pangnirtung
+SHA-256-Digest: Na+goQ9G1InGmn3flgC7g48D/LWTmvXGvbZhi0YWhM8=
+
+Name: org/joda/time/tz/data/Europe/Simferopol
+SHA-256-Digest: 9Fdet9/kVBC9G+sPk8M3FhIXSjvUY+BPLmsf0NkQgCM=
+
+Name: org/joda/time/tz/data/Pacific/Niue
+SHA-256-Digest: W8yUeSNF/1iVCQONn6uCPiPacyYSOUzcyFq/LrKXYa4=
+
+Name: res/layout-land/select_gear_layout.xml
+SHA-256-Digest: PQ25LK0Y8EL0XapGKppFXGsdMOnvVRJ58MdBGhDs9RI=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: JGQwVHfTfdqJMKncDFBJRfVivtQS7RYOsCU7eXSPuPs=
+
+Name: org/joda/time/tz/data/Africa/Ndjamena
+SHA-256-Digest: EkW69Mem6sYNevGiz10U72PcEH5fxee1QKy9ceri6t4=
+
+Name: res/anim/activity_left_to_right_in.xml
+SHA-256-Digest: CPaKXHBNxGa5Ni6zfDf8P/7qjydJB4+uo6gGfAYxEoM=
+
+Name: org/joda/time/tz/data/Pacific/Apia
+SHA-256-Digest: Pi6S8zMSvEF46DTkli9d5X0ckoJ9LD8VblsYRvop52Q=
+
+Name: res/layout/layout_device_list_from_plugin.xml
+SHA-256-Digest: +kTPsRP+wl7suveqHoWtixs3I7DSwhgZDBsHeBILCRg=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_galaxy_watch_active2.web
+ p
+SHA-256-Digest: bOcHMcIS99MEGHjBN6vL7PtoTB+m4/nOx6OtHz14uVM=
+
+Name: org/joda/time/tz/data/America/Cancun
+SHA-256-Digest: 4cT+ZGZrN2vkBqmTgilAKXXKQ7sn+IZZdsRiRy/gIYA=
+
+Name: res/color-v23/abc_btn_colored_text_material.xml
+SHA-256-Digest: dkEzpExhupG0HnJWmQYxFQL5AfsenQMahRdD3parJ/E=
+
+Name: org/joda/time/tz/data/Africa/Maputo
+SHA-256-Digest: 0nua5PCtFQNDksg0ug/6zDQRnh7tkGj+USLWPYOIwlI=
+
+Name: org/joda/time/tz/data/Antarctica/DumontDUrville
+SHA-256-Digest: KjK1LSvDLyHxm5i+PvSk/BBK12HyHPlbnM0cjxZ7uhQ=
+
+Name: org/joda/time/tz/data/Asia/Kabul
+SHA-256-Digest: Ij1Oo3xZuXdWo8X10+q3MSuDwSQNwxXsZkIuvnubAzE=
+
+Name: org/joda/time/tz/data/America/Goose_Bay
+SHA-256-Digest: fuevYm+EocbbaVJ7tbxq+9uQriYrGnZHHlGxTcLuUWM=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: ULKwcbek01H6Fhhbyzov4kBpdlxTCTPRpn42EigemzE=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: NlPSYtOZXvLAcgxYFIvIvBve0JtKmpGyMXjEERHITNw=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA-256-Digest: D2jtxF3cIKsS+xtQtmgr2vtU7TgUhu1KJKmsMO3U5dE=
+
+Name: org/joda/time/tz/data/Africa/Luanda
+SHA-256-Digest: ofXyCAUHgBznJBfpi1fdEzb81/vaWQ/2q9gc3bNzCKU=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_bud.webp
+SHA-256-Digest: BfR3PMl3dzAqTJZm1b/BekwIVnVAppyPiGP6yJPBsbs=
+
+Name: org/joda/time/tz/data/Pacific/Wake
+SHA-256-Digest: Lqm1ri1EOcZO8IfSMU/rEUnrSjavt3ZKQUr0Lr1aTis=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA-256-Digest: M1HTwAsp5+y7zHA7SztDTT7yad99xTtOFhZj+xdq/Sw=
+
+Name: org/joda/time/tz/data/Asia/Macau
+SHA-256-Digest: 1d+LIVeJao6mATb5PdKftgzgxTy5+YLN9zyYx6yR6MY=
+
+Name: org/joda/time/tz/data/Asia/Yakutsk
+SHA-256-Digest: HV6IcLhkH5qlia1JPDvtK4Ie+RcnoCpmO8KeaD1nelE=
+
+Name: META-INF/androidx.customview_customview.version
+SHA-256-Digest: sBXfV6fOpm4gx92kOvMmYlDyT3/2yEwDvZwNUXog7ZY=
+
+Name: org/joda/time/tz/data/Australia/Eucla
+SHA-256-Digest: iCsLXL9+67OBIuUDPQwH6e07OetgfeY4SWIQFrLmYF8=
+
+Name: res/drawable-v21/feedback_detail_button_ripple.xml
+SHA-256-Digest: 5Tnn3/Q3oXvY90xd/sdHrDSq+B2hy307nPBA/QwqzMM=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: 1pFf7RaXvwuuI5WaoLR5KjCa2+Sd423WVrQjDA5nPL4=
+
+Name: res/drawable-xxhdpi-v4/tw_expander_open_mtrl_alpha.9.png
+SHA-256-Digest: /i0p2CMskNUmBFeo5WVHhVuYuyKNpeHRePQENogxV9w=
+
+Name: org/joda/time/tz/data/America/Curacao
+SHA-256-Digest: M6fjynhfYMriqXTopNjn83t5pTEYEMd9ZUnjId+LHxs=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_buds_pro.png
+SHA-256-Digest: VQwqTTv2ncstM1aoaEG1e4D8DjvRRVhSJX9BBIFVomI=
+
+Name: org/joda/time/tz/data/America/Argentina/Catamarca
+SHA-256-Digest: LCqAY8MCn9+jZu1DJaYELUrgy/xGEFbfaXakYb9D5/s=
+
+Name: org/joda/time/tz/data/America/Campo_Grande
+SHA-256-Digest: xWkQnZXGz/q6Y+rmnX/l6F7Hj2LFsBirb+GvVojeDto=
+
+Name: res/layout-v21/systemlog_popup.xml
+SHA-256-Digest: 6i31R/i/tx23XNrkTY86awQZALGuSjDaUNR1Y+OJL1Q=
+
+Name: res/layout/layout_manage_devices.xml
+SHA-256-Digest: RE8dAeFFjAhHDL8nIqYoi41QAo0/r2titEglc+6sJLw=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: 8/3cTphHsVd13ZiF9kG+tKC0SGhobf6oSe64myqLylE=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_iconx.webp
+SHA-256-Digest: uvqi8MzChsbTGZLv8jgOby6Jt6WMeqZ/uGDRDWZR/FM=
+
+Name: res/drawable-ja/gm_ab_logo_s4.png
+SHA-256-Digest: +oc0aMdv4HJpIeqrLjjs1C5DQyhQDl+G/5WqJ9YugUc=
+
+Name: res/xml/network_security_config.xml
+SHA-256-Digest: pUTV8Xvl/eqLgKl2EEYnJ7iSttrwRB25RWulzVZ1LWs=
+
+Name: org/joda/time/tz/data/Asia/Irkutsk
+SHA-256-Digest: A9/co1uw1Km4yxBBf/NnVaXwRvreo9dXpMvSr0eLlq0=
+
+Name: res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: nx6MDBVQWCSxgKuSzta2CD9D6aDk+1Kolt8oeUQXFX8=
+
+Name: res/drawable-xxhdpi-v4/winset_progress_secondary_holo_light.9.pn
+ g
+SHA-256-Digest: WqhEYqJYVSoIz3VUxb37vFptjhXNwAOfemkdmxnaRjQ=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA-256-Digest: Ob9S9lcklMYy/M6Q3XoCCeYmM6+Q2CEXg35gPWQ3N9o=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_budslive.webp
+SHA-256-Digest: SAAbYgWiRn6NmLxYr87D5VZNO2Qe4f4OhD9wyMfMhcY=
+
+Name: res/menu/device_list_menu.xml
+SHA-256-Digest: URf+2j4eSskE0xPuapJx3BNX8q685e/cG1SZwtQb/EQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: wtX9LAiRmgV7Hu83AWzcfmHFVfYvBiJsdaCsQ8Z/4Tk=
+
+Name: res/drawable/list_ripple_effect.xml
+SHA-256-Digest: PfqJ0F9nN9xjwuSk7KleOxd1Sro9S4Q0e8WmWIFfmDc=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA-256-Digest: egkvlSvPz6qkEj2oLGjWEapas8ntU8sU8e65a7rFiUY=
+
+Name: org/joda/time/tz/data/America/Guyana
+SHA-256-Digest: c0u0QdEezUHgEwHT4Af/pK/pcet+G3jB553Mr5Kd/A0=
+
+Name: res/drawable/top_round_corner_ripple_effect.xml
+SHA-256-Digest: KgAP2g/VOnqVp38OeL/ckeCdXgIQHX9AqK008QKNlhE=
+
+Name: res/drawable-xxhdpi-v4/feedback_list_attach.png
+SHA-256-Digest: PHAK8KA0VMJyKPl3mFo65GRntZrXRDYe1XDH7sjmltc=
+
+Name: res/drawable/button_background_show_shape_grey.xml
+SHA-256-Digest: K653umx85Kpv6tGkbhtYR8F/oDK7A/6DZaaFjjRJ3jc=
+
+Name: org/joda/time/tz/data/America/Argentina/La_Rioja
+SHA-256-Digest: EQYUvuZdFUKPECTXromEo0B4frQofHMHrGBJqzmFlek=
+
+Name: res/layout/feedback_detail_footer.xml
+SHA-256-Digest: /XiqMxvFtHdzAGlGMwruisZ7HTbs/2Jow/waZCpT5jo=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA-256-Digest: FfRS7FUYW6/UpKdCaZ2EtQpceoebb/+cVN0owVO9jNE=
+
+Name: org/joda/time/tz/data/Atlantic/Faroe
+SHA-256-Digest: hRu524Pk+kvTBr+Q+60EP/wIeWVP77Sd0/ZZADn6Bcw=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_galaxy_watch_active.webp
+SHA-256-Digest: iX3qBZzPKBEcoe2G47ZDVRZ7D7DneImyLv/dk9YOQ8c=
+
+Name: org/joda/time/tz/data/America/Nipigon
+SHA-256-Digest: fS7KL/ZABcXCUjYBdfAXqkG7SyMTOSE/DFMNGfqWnCA=
+
+Name: res/drawable/button_background.xml
+SHA-256-Digest: MabXzo5YL3E/pCNmzPQkvelKV9DdwsY+IU8CXWJLUJM=
+
+Name: org/joda/time/tz/data/Asia/Magadan
+SHA-256-Digest: Hlh/B8AE9pIw8kGOAXoZ8ev2aHCHFE5KdjkKqQyLTcw=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate3_holo_li
+ ght.png
+SHA-256-Digest: O9EV0jw3OYQQ7RrdFLcK4mHncgRrI5xYcj3X2jEdUKI=
+
+Name: res/anim/abc_popup_exit.xml
+SHA-256-Digest: GxJYXOBZQdoxwJIq2rl70RkH0etbIx6ngLpxlxskFzk=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: sI0stUFfbHJSYlz3e1rUQl441WkEeSeJPtyVYEK4HfY=
+
+Name: res/drawable-v21/item_background_show_shape_grey.xml
+SHA-256-Digest: gx/GVCpI3P3Qnu9nvbpMizMGL7nh0XPvg+06V4VLQ+s=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate1_holo_li
+ ght.png
+SHA-256-Digest: aE+CdsdON6WFAEIUGHXEyDtcnNmjuEbyRYaWbkMDHaQ=
+
+Name: org/joda/time/tz/data/Pacific/Kiritimati
+SHA-256-Digest: 0aHTIpiJWEi3wDq+xBxy4ZSHan/oTGp3rFfNhFMR4R8=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA-256-Digest: rvTRHml/lowwz8JzJ9MT/avDzuFrIHtz1URkMIraiOA=
+
+Name: org/joda/time/tz/data/Australia/Melbourne
+SHA-256-Digest: vGX3BIhZb6xXQvHhdIXus0Co248C9Y7mlZUlpxicWWk=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: Cmbqb3zrgD4A6+Q1X0t24L6HFtCPkQaGO9TfJLzfKBQ=
+
+Name: res/drawable-mdpi-v4/ic_tw_ic_ab_drawer_mtrl.png
+SHA-256-Digest: B12Zupp2jFS0BXURT37zThyQxjdNWOi7pujX4A44/No=
+
+Name: org/joda/time/tz/data/America/Guayaquil
+SHA-256-Digest: av9umq0PkZoXzD5pkTBD59pXFUtC7yVWVHrNajHO7X0=
+
+Name: org/joda/time/tz/data/America/Los_Angeles
+SHA-256-Digest: 6NN4EK0JWnhZlc0rbkgq1IUPOv3Ic52InIt4oD6epVs=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_watch.png
+SHA-256-Digest: aTi/6oPnzfGT2eOyA0wdmtbrZwC8RB/p34tcwLz3m3g=
+
+Name: res/layout-land/left_image_item.xml
+SHA-256-Digest: z+ZrxPZvExaLgPweZUXnSR1V1yQ21Hvj4vzRKlSo+x0=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: EkrUqwbPDFz8IPw/qodovnscqV/Y5X4CHqBnumiEXP8=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA-256-Digest: HJq9P5ksmds8FIDGQ8gZT2gJN5OMvrMjJ9veLDcGdfQ=
+
+Name: res/drawable-xxhdpi-v4/tw_list_icon_miuns.webp
+SHA-256-Digest: 6Y+pcaaYaoP/j3pipWJs8jBdH4TRo2UF/cpjc0g2dkw=
+
+Name: res/drawable/above_shadow.xml
+SHA-256-Digest: rpQh7Rmh9nFGOLOrQzE2bPiHiWjNiNNL29cAC0zRZ60=
+
+Name: res/drawable/list_shape_white_no_radius.xml
+SHA-256-Digest: zBnNfQnmAnXjtyvjrA1BMwxu4/HE5EWzZAyu0XEw17E=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.p
+ ng
+SHA-256-Digest: yAJWXuNfXXi+91to/nY6ciNplHzbi4rTMzkJdPODuIY=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.p
+ ng
+SHA-256-Digest: qXAYptZOPdTPvTIfUK5Sdspx1lmXcuuFtDdhOoJP8oA=
+
+Name: org/joda/time/tz/data/America/Guadeloupe
+SHA-256-Digest: 9/NuEmzRTK/Kh31CiBq3pGb8Uaq18zGbkTs2gsbcsXQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: w7SK/aq2xce1sCkQH5Ztf3BXb7Iy1Q5wNnfflBFcpsM=
+
+Name: res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: RgrVBrT3nBbhbw40StmejZQZ1VtMz92xIKN2SRBcW1Y=
+
+Name: org/joda/time/format/messages_es.properties
+SHA-256-Digest: 1w74QdJjRyqrGaIWK7tjwM2RTi0NPR5RqocOT1NFgUA=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA-256-Digest: GiQV/LX+x3R8R5CHVA79W4kt9uNPsb1xOqfHZhFoAAU=
+
+Name: res/layout/fragment_ask_error_report.xml
+SHA-256-Digest: s3i28AnB+TAX3jpm6Kdqd8Lu+HFiWuAj6N1fMzPpuVQ=
+
+Name: org/joda/time/format/messages_cs.properties
+SHA-256-Digest: v+kI1JEpdm/oox0FLkfx8ljgL1qvLCvNLQNziO53no0=
+
+Name: res/layout/answer_attachment.xml
+SHA-256-Digest: D/YwiO+WTsCcbPof4T0QpT4rC8QQXltUtDK+Z0/4cGc=
+
+Name: res/layout/permission_tuhm_plugin_layout.xml
+SHA-256-Digest: QSoC4EWJZ/DmpMsA3/xLMweM5C2dPnebco9KuR9uHek=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA-256-Digest: 4I9JnLRnL5r9qx5mLV2sm5VZUzJNgwEg2QOSerMuRL0=
+
+Name: org/joda/time/tz/data/Asia/Qyzylorda
+SHA-256-Digest: lczr6AcThZO+ikd/mRUxdLp3toUry4L2oez3mNC4HvY=
+
+Name: org/joda/time/tz/data/Africa/Brazzaville
+SHA-256-Digest: nVBUlY5m3DiBYrxe6l8/3e7QskZR0L9R+lMG5KRBliM=
+
+Name: org/joda/time/tz/data/Europe/Minsk
+SHA-256-Digest: VfPNjjEsMx90Ku6a32+LeQD5cPuKPvCSvA+jkohe+as=
+
+Name: org/joda/time/tz/data/Asia/Aden
+SHA-256-Digest: b01TnTFeIQuIdtAbW9I/Tkb10P0pYjqQY5pQqayrSto=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: nWjeTJyBf7IZCRntsN1OZNqzMhXPlZ/Ezz8GbYK502Y=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA-256-Digest: 4xc1BT2zUjphJlWAySzUv4e0hzT1eCHUdDrYCX4dISY=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: ARhAlJwDuQ/IfaWW36M18otL0R4Eh27YWbTLNGzaLJY=
+
+Name: res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: uWKBX0qG0GFF8TOEmLEHsyhzF3eoE9KTGntXxhvWLGM=
+
+Name: res/drawable/top_rounded_corner_shape_grey_highlight.xml
+SHA-256-Digest: 05JxVXyA7NwI25vx6r16IuogrN87Kc33P8nE0cJe+3g=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_009.p
+ ng
+SHA-256-Digest: 4HF0wfgn4EGtQX1phmm/Cyyi6abN8sR/+2y3hPMUyNY=
+
+Name: res/drawable/navigation_back.xml
+SHA-256-Digest: y+MqqPtrkeAtPz3g7ccZSJOMbq67vkThuvh5pt29RKI=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_budslive.webp
+SHA-256-Digest: T16LD+zeaHxan4YHiF0MYrNSV/Ns/VhLLvYURtUcK/s=
+
+Name: res/drawable-xxxhdpi-v4/winset_buttonbarbutton_selector_focused.
+ 9.png
+SHA-256-Digest: ZEHQOsk3msrELALlkoAwH6u+keRANiDUlQyMrVE41NY=
+
+Name: res/layout/fragment_discovery_mode_guide.xml
+SHA-256-Digest: b0RXsJMLK7rQ9tYm3ehEZjm0IAmh87x5MkQnZ/S1iUE=
+
+Name: res/drawable-xxhdpi-v4/galaxy_wearables.png
+SHA-256-Digest: OxOY/j09Ej13vE99AnS18DM01de7xiGtltJ1PWOH8aw=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_ic_location.png
+SHA-256-Digest: rnyyIppo+Nz47zLn5L/8uVC9Dr5Xw/zPzzslpXbxKpI=
+
+Name: org/joda/time/tz/data/America/Fortaleza
+SHA-256-Digest: k5xXOLjUWgOtJAC29dm0Y4skmw9FVYR0oEx83JQRn60=
+
+Name: org/joda/time/tz/data/Europe/Vienna
+SHA-256-Digest: 24YTxPVXMe6VPJU4pOaZ32qOObghKmZW6XcVC8rs0Yk=
+
+Name: org/joda/time/tz/data/Europe/Sofia
+SHA-256-Digest: orLRKH7pIFuJBJzOHcNWd3aHQszKaJnU0knJQ2dxMUY=
+
+Name: org/joda/time/tz/data/Europe/San_Marino
+SHA-256-Digest: M2QqsCJUgbQQ2LXz1e6FnU6mSdNFRGgDRWcJ/WztXig=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: yIX6rFnkB61k4Du2qTUSqfS6+H5BupbPqQG/Rz5jhlo=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.pn
+ g
+SHA-256-Digest: xM8KfMBRVh48F2jOT5Cg5DjKnYkmnl3uDGNzkY7E/xE=
+
+Name: org/joda/time/tz/data/America/Aruba
+SHA-256-Digest: OWxgdYLLNoWyJ/EHFHGvOiJ+GhX2mXKUGTEAXfw4w/I=
+
+Name: res/anim/abc_popup_enter.xml
+SHA-256-Digest: y1IPhQyL2F7BhuZqL+Ij0RGTO9x84f/WuUuwjFlR+HY=
+
+Name: org/joda/time/tz/data/Arctic/Longyearbyen
+SHA-256-Digest: Q0Q7BGUcWxZCNoEcp9JJ/UrLizNQKtYCmQqMCt5xqx4=
+
+Name: org/joda/time/tz/data/America/Fort_Nelson
+SHA-256-Digest: JcE9qI1ILRYYcSWbrYlAGcujK24rEwi/H0DIq0JxJks=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA-256-Digest: X2HdF6heLiULGrgFVYR/IdPEEY0DYxdjxdfdGnY64NA=
+
+Name: org/joda/time/tz/data/America/Lower_Princes
+SHA-256-Digest: KMxSOk8N//Eqd0rq1IqEnXnCvSUczgIpqq7V2KYxRBc=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA-256-Digest: IuXjrkggJA+2qHPhJdsdd6EG6jr1t3rd0J1b9UJBl1k=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_moden.webp
+SHA-256-Digest: WLURIPgl6oJleYroU+Zwky1s+94aYSrExrdjhVViB9A=
+
+Name: res/layout/item_manage_devices_list.xml
+SHA-256-Digest: yF7aAv7XnoDmXRlvbTLV3NeXNAzksSruGx0JLeM2K1c=
+
+Name: org/joda/time/tz/data/America/St_Barthelemy
+SHA-256-Digest: 2ZQTxIeSpynjUegyG4NhFNDMovnRjDkL3qC+gt1smo4=
+
+Name: res/layout/layout_devicelist_content_no_devices.xml
+SHA-256-Digest: Fc2hWxeLLQrHcgd5DGTQz78BeeOpuc+RD7nnl2iCu/c=
+
+Name: org/joda/time/tz/data/Africa/Casablanca
+SHA-256-Digest: 6FhmUFmFkFY8EPZZErz6/H8FHeizrZ2lsHiC6XGUaDo=
+
+Name: res/drawable-ja/gm_ab_logo_s3.png
+SHA-256-Digest: tElon06hYg0Gd1qnd46sctHJhv3T0MAPC4EJqJAmJGQ=
+
+Name: res/layout-land/right_image_item.xml
+SHA-256-Digest: Tm7SqXbt6Md7czZa7SoGELuYKpYN8lfgEcHfceGAuPw=
+
+Name: res/drawable/tooltip_frame_light.xml
+SHA-256-Digest: xeiIyE9jsg8rpmg5ssgG+iISyZCpYwXna5CM/+whrRQ=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA-256-Digest: rL2bSVamCE8QaingtXg1r4vOaWuDSleXfM5SAVsctgA=
+
+Name: res/layout-land-v21/permission_tuhm_plugin_layout.xml
+SHA-256-Digest: jgfG68jgybdEfYlZZlHUbFChwfHDfmzI+Jz/SIZ21oE=
+
+Name: org/joda/time/tz/data/EST
+SHA-256-Digest: 5Jsu6/AiD8FL8jbuOR9rMSEQetwLxKaQYAb10SHrnD8=
+
+Name: org/joda/time/tz/data/Europe/Sarajevo
+SHA-256-Digest: 9VRQYb/gSS3dkVaKI2mBNpuWkP1YkO+g9QNWlzuwA1I=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_iconx.webp
+SHA-256-Digest: pW3cR0152cB5ZFy3bXxqd1k1BmG4Arfy4kUZp62M9RA=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: o7cIb7duDbf59jdVQlf6NOnv0T135el/kNSBQt3TpSk=
+
+Name: res/drawable-xxhdpi-v4/land_select_device_bg_iconx.webp
+SHA-256-Digest: NLPrv4+u+cxBm27NhBl8UBmcF6qVkGvlJxLStzFc9yE=
+
+Name: res/drawable/item_background_show_shape_grey.xml
+SHA-256-Digest: D3fac+vLx0Jsjruj1iOH3xWp1u1f7G+i6fcq2MrLhdU=
+
+Name: org/joda/time/tz/data/America/Marigot
+SHA-256-Digest: gB6DAiWdJys43pjDe3vs904PAO3jiHYZ2+7wol9XW6s=
+
+Name: res/drawable-xxhdpi-v4/gm_settings_help_ic_ask.png
+SHA-256-Digest: olgLXzYlQVSGPADGFY5X4GD0lShhdSt6i0oyn4J0Zd4=
+
+Name: org/joda/time/tz/data/Africa/Dar_es_Salaam
+SHA-256-Digest: TpCFFLRFEKtJzAqdIo/1gDklgGf+H90bzMQP75oK/b8=
+
+Name: org/joda/time/tz/data/Pacific/Pohnpei
+SHA-256-Digest: ELYwe6MBQawXqA5CnFb0khmzI8JrJrC0kN2U/A0hN8M=
+
+Name: res/drawable-ja/gm_ab_logo_sport.png
+SHA-256-Digest: k3Z8EwFmakE8yWd2p5FbW8YKASaVl6H0++dkGgPUI5A=
+
+Name: res/drawable/dialog_background.xml
+SHA-256-Digest: Z7cCvBj+vDNy+oI3JicovisM6K80OAB9FPXBs7kQq5o=
+
+Name: org/joda/time/tz/data/Pacific/Honolulu
+SHA-256-Digest: fZj/Yzxxa9Ue47CooeBKsIbzwGcL9llaDMj655AZJt4=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: dIPvAkZXWeat87yaDB7awyokywpzJtCN4G3JX2rJ/CA=
+
+Name: res/drawable-v21/abc_ratingbar_small_material.xml
+SHA-256-Digest: RF24rXV/2cDQ4tnabzQC8A4y3EfjdV274yfYJT7vexI=
+
+Name: res/layout-land/template_download_install.xml
+SHA-256-Digest: 84ZDaS5e9MIknJGN7E1/hukYN1mSAFd4wsdLdghwTJM=
+
+Name: org/joda/time/tz/data/Europe/Berlin
+SHA-256-Digest: UxxHT5cI0YLsM/Nd+2D8NvpAR+NXmjv5avQC9lYmu80=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: DLGQEDnBdq46Oc0jO97xDQMiYc5hm5XeX+tBempXCfo=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: SjTV0uBMIVEw1juq5tjQC7ead1R4i6DvdqAlHyvljSo=
+
+Name: org/joda/time/tz/data/America/St_Johns
+SHA-256-Digest: C/7loij/12fq6awwgL3sUJnz4uod4qhSwTbmXfHQomE=
+
+Name: org/joda/time/tz/data/Pacific/Majuro
+SHA-256-Digest: XwM0MTM2o0wFYGubqGQyN8MxpqPQfMdJ8bo7+xxZW4U=
+
+Name: org/joda/time/tz/data/Europe/Zagreb
+SHA-256-Digest: P/a7ICdy0wFl4RpGaxeVz9SfwUKDfqCXFJ9R4OpQ8OI=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: G17PReV6zb2Yxpy2KLgVdsqNEg5Jpz+fftTq6yL7qBo=
+
+Name: org/joda/time/tz/data/Atlantic/Reykjavik
+SHA-256-Digest: soCdofmBQvtbtViQJ0IKWjhKbcw+TvhxuHKhXHsnNvQ=
+
+Name: org/joda/time/tz/data/Indian/Kerguelen
+SHA-256-Digest: txptZ2NiXxaNwcbjQBNvJGhiyq0zQ1UgIRlpCaAdAUw=
+
+Name: org/joda/time/tz/data/Asia/Yerevan
+SHA-256-Digest: 35KmjERdTiSVFAVtOuBakeH8m3BzdW4MSd+DgVFvZDQ=
+
+Name: res/drawable-xhdpi-v4/ic_tw_ic_ab_drawer_mtrl.png
+SHA-256-Digest: uyxbCYlJ7PpfVPIlQDtxs/Ftm89HcgcriiTOSzNIT2E=
+
+Name: org/joda/time/tz/data/Asia/Riyadh
+SHA-256-Digest: 3qzNoWKa9bgDiACS//XfWIwkjXaT7fMSLIMELzQljrU=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.p
+ ng
+SHA-256-Digest: 4NY3M1gEF7+pETLk4IReptYjc9UAi0dDgjekJNPN7Ek=
+
+Name: org/joda/time/tz/data/Pacific/Fakaofo
+SHA-256-Digest: P4uJ7iPbQLu4q7zbCQ0qH2pvi9Fvtv0u413ZLHLMa28=
+
+Name: org/joda/time/tz/data/America/Halifax
+SHA-256-Digest: TZWE94WqqtqAAYmy5E6F1hWHl2U1lDgRcfkiSyFfCIE=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: ggkJIxXPCdG4Jpl5TLmqiLe4iGn6YcIbM5W28Zp5DkI=
+
+Name: res/layout/listitem_feedback_detail.xml
+SHA-256-Digest: w7Ggec2pkG+rsAZPZk2lXaGnjBMNbl1sOMnj4rgLWsA=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: No8F/BkrNYnCwWQjd2r3/g+e7q08sGX1hjiHWhInmPM=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.pn
+ g
+SHA-256-Digest: FMuoCWuNoQW6eQhnGTEFGxGWmUcS8hIU+OgwSKOEW+M=
+
+Name: org/joda/time/tz/data/America/Tegucigalpa
+SHA-256-Digest: QnYj+i3jWH2wVq1Y0XAmoTRDVjQ2kK5DrmRjZCSmaJA=
+
+Name: org/joda/time/tz/data/Atlantic/St_Helena
+SHA-256-Digest: UT2OmyyGsorG0XlocuooUNzhB1DLtv6TXDjgGl9kqfw=
+
+Name: org/joda/time/tz/data/Australia/Darwin
+SHA-256-Digest: OR+Rr7DXr1rAanXdqMyBZPHeqFjwEwCfDX1xFgWe+4E=
+
+Name: org/joda/time/tz/data/Europe/Prague
+SHA-256-Digest: DfNXt0k5/DWtw0ttz86//e+5wj3bvSIU4/sDDEbueg8=
+
+Name: res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: VBHU64GmG4iX9z9KWhtBXhFcZMd9JaBIl5NAUQfY/rA=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA-256-Digest: +X7u9M/+AKdwq6rVh9rme01fIPor09xt467/tehF+q8=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: kvlu/uTkTiENp/t52uxa1lVfZ/i/lwPE0xXCzdWR/tA=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA-256-Digest: CFToJ4qdujGHrlEhZUWwm3sNsW0IP2+l/Oab97IV8Uk=
+
+Name: org/joda/time/tz/data/CET
+SHA-256-Digest: fLvntUh02+yc+JhmCK668CMt/yi/8/CY8/jRUf0xUCk=
+
+Name: res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: FQ55nOLd/tDVrrgXret3T9zZZ5ZZDLr+F+AK7OARTLc=
+
+Name: org/joda/time/tz/data/Antarctica/Davis
+SHA-256-Digest: 3I7D9Ige/bAYB93zCvb+PwRjpNMZuDZz2Ws1+hYe5Jc=
+
+Name: org/joda/time/tz/data/Etc/GMT-14
+SHA-256-Digest: 9YzcSaGbhsv3Zzzqg4+Z9dVGCJI/phFKGBkYyLy4NAE=
+
+Name: org/joda/time/tz/data/Etc/GMT-13
+SHA-256-Digest: EByXskg5BL8Qk4ZU6dsmNg22j0QLwvmuZ0vraEnsFGk=
+
+Name: org/joda/time/tz/data/Etc/GMT-12
+SHA-256-Digest: 1VFDCiTxOeAN59iOgY4aZGL33BCUQfAfJHYlV+olIxE=
+
+Name: org/joda/time/tz/data/Etc/GMT-11
+SHA-256-Digest: ESB977E87uET4nTuMaYAGymspdyKwzg39MjobkVolxw=
+
+Name: org/joda/time/tz/data/Etc/GMT-10
+SHA-256-Digest: ctKcMKK0VUgVpKpBDEiBOgISowYQHe+Pq5ZtxP32sNs=
+
+Name: res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: aBVyg1UKFMEyFJq6TBaPT2PO5BffAIAfFaDmB+4VxQI=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_on_disabled.png
+SHA-256-Digest: t5Mi46+fTeZTLAG0IYVsKWUrXmxGigaOY+J4nw7pkoI=
+
+Name: org/joda/time/format/messages_nl.properties
+SHA-256-Digest: pR4cEUj6Uvcf3H16CDB+kpFgJhtRMWRSp2rp0A/lVxM=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_on_pressed.png
+SHA-256-Digest: aeWVP6JZccA6YL2HpuUHSZem0FAgk1Zts+mN2nkonCs=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA-256-Digest: D1jKwYpiJqi37FOu8hfl5CmG7sq2rdfXtenVFayQWXk=
+
+Name: org/joda/time/tz/data/America/Merida
+SHA-256-Digest: HKFgi/87WYYAKE9gFc1yGErlMuJ7IAEISJ83NTXgGUE=
+
+Name: org/joda/time/tz/data/Europe/Copenhagen
+SHA-256-Digest: VO9Yu/F11NpIF2uWL1vnTjF84Y42jV4+qR7CaFEo5N4=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_band.png
+SHA-256-Digest: 89g75yS6gCW4/MENf8M9I1saDBRbZTdOxAmoQqQ4nVc=
+
+Name: res/layout-land/device_scanning_layout.xml
+SHA-256-Digest: Kq+UP9pirgRJRgE9TMX2kQQW/nlEuK03y/o76PJiiVo=
+
+Name: res/layout/right_image_item.xml
+SHA-256-Digest: +qyWtMTMVRTEljmFH5s2RanJFMjdKwMxa4dFPRj5QMU=
+
+Name: res/drawable-v21/floating_bg.xml
+SHA-256-Digest: 8Z316lHSVy/r8cyfDXC/m98GBZ8fiMUoi31WX2f6xT4=
+
+Name: org/joda/time/tz/data/Asia/Sakhalin
+SHA-256-Digest: s1NA/FOmVJQwdBaiVngSH5Q/qIHNqGUsyTZTStRzRPQ=
+
+Name: org/joda/time/tz/data/Pacific/Norfolk
+SHA-256-Digest: SoWxTc18kNql9LxgsuBQnh5YzFjW5fXblVxYJyAjG2I=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_buds.webp
+SHA-256-Digest: 9TS/KAezSEZIcG6+LvfPOJNmYektg2G8nHVOiXjGV0Q=
+
+Name: org/joda/time/tz/data/America/Glace_Bay
+SHA-256-Digest: yntLi9ToSF4k+cHpFNyzM65JG/HZTHW8HUYRoQ4sipc=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.pn
+ g
+SHA-256-Digest: L+t/BaWoA49wiB4gjkJV5jIz+OSMJd5urJVJPuoHkqE=
+
+Name: res/color/abc_tint_default.xml
+SHA-256-Digest: cp/lWEeG6bF2Iuj2Y42ZSlsUWth4GfPyparrIuiLSRE=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Beulah
+SHA-256-Digest: B7qpqW4KPVCqo/3HwkqF8/Xk1x5XWUoAFnSnU7Mfq1g=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: q0P9khriKWWfwoE0e35cWDqpg4NZ1HWmd3jppuGnbJs=
+
+Name: org/joda/time/tz/data/Pacific/Efate
+SHA-256-Digest: nunVSpJuN7rassonSK+fzijk7TGk7CcdXWzKM295uKM=
+
+Name: org/joda/time/tz/data/America/Edmonton
+SHA-256-Digest: nUhTeMTvDnAmMeJVZbK/Y4Sui3O7KVK8T8SexHuQYbQ=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_008.p
+ ng
+SHA-256-Digest: mNLXaZy8tuZdMXrVW3IefOMVYGZzITKVvxzWCaSLZcw=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: i05+FDaOWefNv++TbIlhDblJf3riBsgmnf7lPYbN/pE=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: GpM2h2SisZHLcn2DS3lFzSYy7Ak4KHubPWwZwGMcwI8=
+
+Name: org/joda/time/tz/data/Asia/Dushanbe
+SHA-256-Digest: SwNUCinzuMyh9vpJW5h0z0hQoDevPxb8YRC12fX8kT8=
+
+Name: res/drawable-v21/top_round_corner_ripple_effect.xml
+SHA-256-Digest: TqQhuMhWl7+h2gkhbXrUMILaIMKvVUuZrBCCgRTtQnk=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.
+ 9.png
+SHA-256-Digest: h7mYzmTizQ2ffjHbEfwYM8OMufaF0cu9l8RWGJH/Vp4=
+
+Name: org/joda/time/tz/data/Asia/Ulaanbaatar
+SHA-256-Digest: 3PRM0iXXczSW+rLnBNUWCYm07cN8yu2HEFJn3bUGwQ4=
+
+Name: org/joda/time/tz/data/Indian/Chagos
+SHA-256-Digest: mTSn+PhtkwRQ0B1IETZ6zJAawKCgiAlO7+kDVN7verA=
+
+Name: res/drawable-xxhdpi-v4/winset_buttonbarbutton_selector_focused.9
+ .png
+SHA-256-Digest: YyEh7TTWJbFkT6ZNxqymytpXF2bfkx23K/f6esH2MjE=
+
+Name: res/drawable/button_shape_orange.xml
+SHA-256-Digest: YXrdasRVRCR/gwe6qM5Jq1W17GLg9nvTf3de49szlw4=
+
+Name: org/joda/time/tz/data/Asia/Dubai
+SHA-256-Digest: 1t+JYZNIgwGtNsgkozbDY5ObtG9QMfFX1cSyneyvwho=
+
+Name: org/joda/time/tz/data/Pacific/Nauru
+SHA-256-Digest: P3EwXC6AyOmhGWQATqEXh5qxleaeG/P8DJGlmIlbKBI=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_watch_active.webp
+SHA-256-Digest: iXanFW1/U/AARx641NEHemj07J5fP6Myvn5uqDVFgYg=
+
+Name: org/joda/time/tz/data/Asia/Almaty
+SHA-256-Digest: Riw6U/LRQbemYNqDSrBDixfF+GxDQsKxVvly25A5qsA=
+
+Name: org/joda/time/tz/data/Europe/Astrakhan
+SHA-256-Digest: YKMCkooEvfxPJD6YdcDpek54qDEEtF3hqePD8V6JDWQ=
+
+Name: res/drawable-xxhdpi-v4/screen_capture.png
+SHA-256-Digest: TDhA5CLL4vwRpw05x48OXqeTTPsCXaZ5Bd4uwOglYlA=
+
+Name: org/joda/time/tz/data/America/Boise
+SHA-256-Digest: ubED1ERic/9qjBcxZFvFY1gBZ1STUdapRTKM/+fsvec=
+
+Name: org/joda/time/tz/data/America/Argentina/Mendoza
+SHA-256-Digest: bZma8aRgT0HFcKBehReJTWYcHLNNgKhCrSPZtyf9GNQ=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: crX+Q2Z5pvIjn41rbsb0IezZmo20DjpzF6xO5H+3lzg=
+
+Name: res/layout-v22/layout_setup_wizard_welcome_device_list_fragment.
+ xml
+SHA-256-Digest: 0CaUnggctn7nDhgKgrvuVnrdd1+i76dSo/rg1mXSTWw=
+
+Name: res/drawable-sw600dp-tvdpi-v13/manager_widget_progressbar.png
+SHA-256-Digest: +1mMoQZITv5jc8FUv+jhjhukw7dDlRmZy71MkmmEiLI=
+
+Name: org/joda/time/tz/data/America/Santiago
+SHA-256-Digest: shegmDcH9ODOGx4c7zkXSwRnKjdhs5L4RosqtbpZqz4=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA-256-Digest: Ib4NnOJaf+vnz1pCabVUbYN2NtHY+hoeM7lmjnNfYtY=
+
+Name: org/joda/time/tz/data/America/Adak
+SHA-256-Digest: g8N5zR/WSjksqIenzE6tHSrQ379xZmil3bOGMyT0ADw=
+
+Name: META-INF/androidx.legacy_legacy-support-v4.version
+SHA-256-Digest: AdThmD3HFNUBM6Wi90XzjLMYLV/bvGUcVnE0dsFqeFc=
+
+Name: org/joda/time/tz/data/Asia/Yekaterinburg
+SHA-256-Digest: r5Ar6WMSwx4Qu/p0mefYl13oCJIEU9iYBiteiAOcB20=
+
+Name: org/joda/time/tz/data/Atlantic/South_Georgia
+SHA-256-Digest: dRMDeFyZEIOdbqgsIrFU37ZYp02zpE4SUaTCqIgZWtQ=
+
+Name: org/joda/time/tz/data/Europe/Volgograd
+SHA-256-Digest: eWZPm8ksCDhWLztdonLnd4xmqDoC0VUgxT4Jmmuw7Hc=
+
+Name: org/joda/time/tz/data/America/Monterrey
+SHA-256-Digest: jPnMjEyRl2DqoCZo/PkT5QMaD6hR3W2QijlLG8PyPSw=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: V6tHcg77U6UxC9RaXJTVatQLJk+cmD845fiOU6hkRPU=
+
+Name: org/joda/time/tz/data/Asia/Tbilisi
+SHA-256-Digest: odOXeH1KSbTjAy3657Sn0Z0Qs6OlHfC8jrPL0Z5/Pvk=
+
+Name: org/joda/time/tz/data/Asia/Beirut
+SHA-256-Digest: 4g9bVix6Zb3vkF7/f9fL+eSGkGNDMfPrQ9ReGuAp95U=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: gzu6w2tCEw5+Gtk1xpoImELATuUwL4tnPsiS5O4zRnM=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA-256-Digest: LgMaIv5ArBFMn+97GON8OQRzOhJ2S/Mev+kTTVJ7erU=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA-256-Digest: K6ffjMRXTr0VZtHIRAxaIRrTI2F6cdMrsYIRuq1ncq0=
+
+Name: res/drawable-v21/abc_dialog_material_background.xml
+SHA-256-Digest: fFxD9qb5BBuoVNP8PzXAMqYkIqhlOpDMuZAJg+QtmIc=
+
+Name: org/joda/time/tz/data/Africa/Gaborone
+SHA-256-Digest: +7zhGx941dlGXhGuHYhnS4TLicdJcqiTYm8Gg/Rwecs=
+
+Name: org/joda/time/tz/data/America/Kentucky/Louisville
+SHA-256-Digest: YpF/IZpwnTN7BJytsdRmgIs0JFxFIWgCuwFgCMIwW8o=
+
+Name: org/joda/time/tz/data/Pacific/Noumea
+SHA-256-Digest: p5Kfhsuxc4tF8ZBdpEdUUWNL67Kkp9uh05OTc5G4nxA=
+
+Name: res/drawable/winset_progress_indeterminate_horizontal.xml
+SHA-256-Digest: XcGMlKhCBaKLmz53+/UAVd/Jawt1UjC6ZRsrpQuxEVw=
+
+Name: res/drawable-xxhdpi-v4/gear_welcome_bg_budslive.webp
+SHA-256-Digest: v4wMxVpPRbLjCJkVMtpEoP3uxH2IpSh4myTf7n5PO20=
+
+Name: org/joda/time/tz/data/EST5EDT
+SHA-256-Digest: pyyaBuX9WH2WYPRDq9JB7sTACYfOMLLcMXYEOLAMgWw=
+
+Name: res/drawable-xxhdpi-v4/winset_progress_bg_holo_light.9.png
+SHA-256-Digest: 3+SDKC/ckgCO5zXuhsEj9DQIE9PgdbaPizMb5sfh8DY=
+
+Name: org/joda/time/tz/data/Europe/Kirov
+SHA-256-Digest: 7jyjRFbm7gGovDVd6PGGO8MiB49jtruI7NVNkbpJWp4=
+
+Name: org/joda/time/tz/data/America/Montserrat
+SHA-256-Digest: KwI95U3ZshWp7eGU4rDyEQ8AjI2ueIlUf8gxTvO+GjI=
+
+Name: org/joda/time/tz/data/Etc/GMT+12
+SHA-256-Digest: XAo7eulgbe1RVeDuEQushBPUe0hPyvOKBzksk0tn37o=
+
+Name: org/joda/time/tz/data/Etc/GMT+11
+SHA-256-Digest: QDhg8JbVaVkFy3ZpNahQ84mxaWdLBfuD9Av5c0iPu2o=
+
+Name: org/joda/time/tz/data/Etc/GMT+10
+SHA-256-Digest: fPm/7Vo4Jlo+nyPVG8p59PnTwFfyvcjd5SLn9Fz7MdI=
+
+Name: res/drawable/screenshot_listitem_background.xml
+SHA-256-Digest: eQZPaoJos93SvFUub+jri1G51pmfWd4mzPYGI9Xc5Xo=
+
+Name: res/drawable/text_shape.xml
+SHA-256-Digest: yzI8JzDDUwZiFKQw3giNQaFBuBR+qkL/oEpVdDEHACk=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: f5vwTVV06Vwnsb33soiaqorHJe49ipKggwRfbraagZo=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: EzMNfsAcCAmiM8GOeNU7nwFLXj4kC9w8+Pa4tYvcquQ=
+
+Name: res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: wVv86GBKGbQEOzSuEjQ7FZrT5IdTHIlEwWeh0q9G9pE=
+
+Name: org/joda/time/tz/data/America/Tijuana
+SHA-256-Digest: kVqz+LGSiEVG3mrQoSLNXIXJHmvauZbjkjOI0WAaoNI=
+
+Name: res/anim/rotate_galaxy.xml
+SHA-256-Digest: cSd/ouxOFLDHEOO0lcdYy5HrItuQ7W86LUG1i6RhMpI=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_007.p
+ ng
+SHA-256-Digest: okH19AwwK+f865LlkffCTjQB2u8G7Z6ALlK5SqE7a3A=
+
+Name: res/layout/select_gear_layout.xml
+SHA-256-Digest: RBgqS7x524jfPLxgCctwdVzkZo6+xqIHYkGQhBZZ39k=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA-256-Digest: 9T2fxzD4G256uuWAiU9HcL2YigWqgarfx7hPeQRyYKU=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: OW7uxS6+Do3ZXk2gahbilVbNaygHfqgtutYXghHvQds=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: H5OF1wtGwcEhnWxVcHruPgMxkv3L+FWintlJDmA1jpk=
+
+Name: org/joda/time/tz/data/Australia/Broken_Hill
+SHA-256-Digest: L8FgvzD+HNYkG3/wMVbyI0lxnfrVkwUONVtHCwpzcT0=
+
+Name: org/joda/time/tz/data/America/Chihuahua
+SHA-256-Digest: qpfU0ckh4cduu4ReMdl/uL6ZNle0p1qldd8ryQtSaxs=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: /EiNls8TTdx1xwWM2vHDzIhvgUGycvY2WR0NLzKzpIE=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: aRkP0QDGdrxmg7VNef16Wcjj5WwrONVhasJYSZeRJjI=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA-256-Digest: Kogz4Bnx64233mxGFDp1sbNu1F4An0Tk/pc5/X46JXA=
+
+Name: org/joda/time/tz/data/Asia/Amman
+SHA-256-Digest: 4kT4NG6ZcQ1x2q0bVWzMrHULOV804I1BFdbkfL8yQXI=
+
+Name: res/drawable/thumnailbackground.xml
+SHA-256-Digest: mbgJ92DgLa/DPYMECWJ9tC6rRoTOLGgHOJAd8DTJYUg=
+
+Name: res/layout-v22/pick_gear_mines_not_here.xml
+SHA-256-Digest: aFneTutvEqm4imM24lIaYOAtAHbO6ohtYELi7Vbj0fw=
+
+Name: res/drawable-xxhdpi-v4/screen_capture_ic_stop.png
+SHA-256-Digest: biD32DeobA/v29wUy32H/InROv7GLBsg63F+3RaEWko=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: kI/eoS7AGr+0IWooAk4nwt3vz6HgEZXreBTOkmHFjo4=
+
+Name: res/drawable/button_shape_dark.xml
+SHA-256-Digest: iT52Dp/4efoZnxzWxRBmc3ev9PX1F2KFap8OkToOrcg=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: dTGC8XFQfUSKXpq/HfnIwSNj8xCb9EGkfm3nJ1z8dB0=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA-256-Digest: SJ+HaiLsJkpiZsKwKqZlP5KnjEbf2568dzXZVXJR2O8=
+
+Name: res/drawable/abc_list_divider_material.xml
+SHA-256-Digest: RB0ijCCLxsy7ROJqZ4+abH7q/3PCBz9NBe2ufsLM2c4=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA-256-Digest: UEAVTKMrDbBmZjI9DCicbeNVt8PMG0XyjyfcLTyyPa8=
+
+Name: org/joda/time/tz/data/America/Iqaluit
+SHA-256-Digest: s4QySJVTWtQPsZyUnLZkAW2NoKbnLjrjmA893jeRIFo=
+
+Name: res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: pHT9truIa4J9JMF6YaEqwHD3YhWxyvZfo41jfbAIb1A=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_buds_plus.png
+SHA-256-Digest: MlAZ7Vvs1IFFx0oxU7uzTQRNRpdpBsuVXhNOgCgDRqk=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate1_holo_l
+ ight.png
+SHA-256-Digest: 3UjaNr36T0Kx8MhskTVBQP5XT0+3VI0ETxCjWDvbxsM=
+
+Name: org/joda/time/tz/data/America/Puerto_Rico
+SHA-256-Digest: NRSwMEkXY+LZXkC9EdMdbZrpNRsKRSio9nKfXv/vczY=
+
+Name: res/drawable-xxhdpi-v4/gear_welcome_bg_buds.webp
+SHA-256-Digest: QjwN5YMh6YXiYquW7mu/IYgLeXsPGCmSjvgRe+bd1K8=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA-256-Digest: L1wPBTwaEvYIT6pWnggj3NCtMoavS+kdIlqFpupBBYI=
+
+Name: org/joda/time/tz/data/America/Yellowknife
+SHA-256-Digest: 4tsLQYBOp1KwKs95KWCAtG6G6q9i228k9gS60Z7KIp0=
+
+Name: res/layout/fragment_contact_us_agreement_chn.xml
+SHA-256-Digest: MKbYOqRQg9Mh7pJA6GkzAfzWzXcidJ5XJDz6cXxAh+Y=
+
+Name: res/xml/xml_listitem_selector.xml
+SHA-256-Digest: ag3mnF1OX3DPYrHwle2wUuQWDKkqF7uzGfhv9kRbESQ=
+
+Name: org/joda/time/tz/data/Europe/Bucharest
+SHA-256-Digest: +N+vhqT7URB+5KD4I2WG/CqAKBAgifO1EcQrJx0pJUU=
+
+Name: org/joda/time/tz/data/Africa/Tunis
+SHA-256-Digest: 9sFspGOKlopxl9zQ54AObLRNhL9wfcyD2TPgvvfLROU=
+
+Name: org/joda/time/tz/data/Asia/Vientiane
+SHA-256-Digest: fGRkyeHPVZQIdwv32e1biJzroRhSeeHXJHfRW3H/9V8=
+
+Name: res/layout-v21/promotion.xml
+SHA-256-Digest: Rz5iJH8tD8UCn3qdGO5JQVeU9/SpVjlhIqtiaEO7Zks=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: n/MVL9Z17kJrHwZSPqbjP97kd3/xv+OuYkfY6h3Lhrc=
+
+Name: org/joda/time/tz/data/Europe/Brussels
+SHA-256-Digest: QOK8QFQTFg6oUKCECxJO1jUq5lhTqm2PWO0RCBv9cVY=
+
+Name: org/joda/time/tz/data/Pacific/Tarawa
+SHA-256-Digest: JsnceJ7q3PsyyZuSEUO+IH+OiawVI+w7ZpKRmhYuI2A=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA-256-Digest: MJ1zxxXQDaYMjg02noPmKNvzTCAJJJ5mCsrs9lLkjik=
+
+Name: org/joda/time/tz/data/Pacific/Saipan
+SHA-256-Digest: dBMgb5qb0Ja2vHirabe+eET5tsGJWr+mdnTkjuC2CAU=
+
+Name: org/joda/time/tz/data/Europe/Chisinau
+SHA-256-Digest: d7XHH+3TeQhTeHfcePlI2GqRH2OjDLflIjNvR95iXoE=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_iconx.png
+SHA-256-Digest: 2I3GXKjAUW4+BWZBeaUPzC377NtkOPvztkPKbXHbzSY=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA-256-Digest: 7JbP8QNR1dWqzmiRM+ksdxk8VDzCMqS4zwrLzbqnGAQ=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.p
+ ng
+SHA-256-Digest: 4yW1KGHEneBrpnBZEF94RM+Fs6pINWr6nLaEDRTWtL8=
+
+Name: res/layout/notification_action.xml
+SHA-256-Digest: +ob8cn0v75lD9eKgJsmSQkS0300O2K+B8wcKzzdfAZ8=
+
+Name: org/joda/time/tz/data/Europe/Bratislava
+SHA-256-Digest: 2petMNBBHl2BtGdVp+mCjoOxoRrNPix/rlRkvMdg1Xc=
+
+Name: org/joda/time/tz/data/Atlantic/Bermuda
+SHA-256-Digest: UcaynXad0etcnIWfV04cPp2btzybieYIaHT5b53Bolw=
+
+Name: org/joda/time/tz/data/America/St_Kitts
+SHA-256-Digest: zTxf6kQ0rAfppaw/fh66fyIHSytB4aCQZP0Sb8kvBSY=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA-256-Digest: coUcNSyJ+9TSeVXK3dxyYLlC4kSuoNKxpe6xN3Wtdig=
+
+Name: org/joda/time/tz/data/Asia/Istanbul
+SHA-256-Digest: 3w2ccX68OEzt+jnJuE4No2M1zsx0LITVmRMnhguKnw0=
+
+Name: res/layout/left_image_item.xml
+SHA-256-Digest: wn1nc4Bc3sr34Do2tDCUGjxR3/+8J5mnUZMStV+BYLk=
+
+Name: res/layout/sa_webview.xml
+SHA-256-Digest: ETChezJz9PpAdBXrB7tOq5XmMAlObyPE7+26Hg/2gu8=
+
+Name: org/joda/time/tz/data/Asia/Kamchatka
+SHA-256-Digest: WGYzJ4PV2up/lkP8ZPcUJCS30qDX90pyLd5WSiIo2Rg=
+
+Name: org/joda/time/tz/data/Europe/Oslo
+SHA-256-Digest: G4ZdApqufpMnaW8Xkcx7toyNSkXBY3xx59CM3bouIGY=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_galaxy_watch3.webp
+SHA-256-Digest: IEcg0/XIgssbf/sHQqeeSzEdtIXU63sGoDphC6NCCnw=
+
+Name: res/drawable-xxhdpi-v4/winset_progress_primary_holo_light.9.png
+SHA-256-Digest: 2H4got4f3SQIgi2eNB+CWkm3SbWSfG8zBMT6pi/XpIg=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.pn
+ g
+SHA-256-Digest: oZ75VN6lJDdCG3cG+LvJA++EY8UULJuswWl0Gsmez+4=
+
+Name: res/layout/fragment_feedback_detail.xml
+SHA-256-Digest: vMAkYgZ1vrHwZRS43yu8E1lz05XVmImcLBiRCEw+OG8=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA-256-Digest: cBgc6sekEWlM+KpRsKxEB/yN/kKnbd3Bm4+WyRMPl7M=
+
+Name: org/joda/time/tz/data/Australia/Sydney
+SHA-256-Digest: tY52bjk8Zt9UTwMHLANJZfuEyrURFXAwMd5KeZPjP6E=
+
+Name: org/joda/time/tz/data/America/Dominica
+SHA-256-Digest: k9INji+fkp+sMy+7lD8KuW+2z7WY413bUY8CA34RDgE=
+
+Name: res/drawable-v21/abc_list_divider_material.xml
+SHA-256-Digest: O0CA24CxKLbjQ/EjgRVtRAsa6j5fCM9Iks3dcFeiqH8=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_arrow.png
+SHA-256-Digest: Te/Dat1lQqi9wRcCUXiHn7yFm1IbePxhVsr6TYRnAUU=
+
+Name: org/joda/time/tz/data/Australia/Adelaide
+SHA-256-Digest: 6chcIv5TCroY606CM4M9yLak/FB1XA0pYnjBtXesn5g=
+
+Name: org/joda/time/tz/data/Europe/Belgrade
+SHA-256-Digest: Nb2QZfGB5hACoelHaqTtIfpb78YxVP22v/OKlyZHMWY=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: BH392HxEPg5NekWz94W06TVbmOezgV9UuZYcN2yXVHw=
+
+Name: org/joda/time/tz/data/Africa/Conakry
+SHA-256-Digest: 1VUYZZDkvU6YrwDkSpsP2ezEKL+k+8TWsYUDXgAaPwA=
+
+Name: org/joda/time/tz/data/Atlantic/Stanley
+SHA-256-Digest: z9NLUOBJTRYiIJCJpz2DqIhjOipGTiBX4GgLfPr8Jv0=
+
+Name: org/joda/time/tz/data/Australia/Currie
+SHA-256-Digest: q4Vy4dMJtBPNqjni7V023iHW01utJ3WOg6B/URFWcXE=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: 8C4ln6xzH/7a1Zr/v13Gw9vF9lJ85KeVqKuMY61s+To=
+
+Name: org/joda/time/tz/data/America/Rainy_River
+SHA-256-Digest: Vq94Ly/cy65mHFWR+ALY57vVUtnqDyl7r5LxDDoSNvk=
+
+Name: org/joda/time/tz/data/Pacific/Wallis
+SHA-256-Digest: nQlZYSCPgusKQ5gaGamN+9qKYf2KKfC/geTH1hK2Gvc=
+
+Name: res/drawable-xhdpi-v4/galaxy_wearables.png
+SHA-256-Digest: eGDHgn2Nl7rul5xX6Ih+FDy19jOg+yomVyOfdsHyz8I=
+
+Name: res/drawable/setup_devicelist_item_bg.xml
+SHA-256-Digest: 52lFh6JJJvM+phpztiaxmBJlPLWBXxd9rbcjPIbfb/s=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_buds_live.png
+SHA-256-Digest: RPkP4cssO6dk/Ba//i9NKPXtfy+X2KA4M3euGF/D1JA=
+
+Name: org/joda/time/tz/data/America/Denver
+SHA-256-Digest: yM3KyO3w6Je1XUMYHnlolm5eubAI6i/JHfeYIu/Vv60=
+
+Name: org/joda/time/tz/data/America/Recife
+SHA-256-Digest: 3h22heoRqCXYvo9WxdjgXwym/g3JbZFlN1hUiNSu+KM=
+
+Name: res/drawable-hdpi-v4/galaxy_wearables.png
+SHA-256-Digest: yqCg+/5a1+a62KV/uyUL7kbAW5kXI+VLkLFIJW3i2fc=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.pn
+ g
+SHA-256-Digest: Dlb3ReTO6CqPHDkeS0jO9d5fEzDa7WmJVj2V1nUhtaI=
+
+Name: res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: PZyvOphOWfi+ro/Ikl3Yu+2rRELlVF7iQx9oJrVS/aM=
+
+Name: res/drawable-xxhdpi-v4/gear_welcome_bg_galaxy_watch3.webp
+SHA-256-Digest: EMO3iY3Y9ZAEmjivLRs8h/zcAoXOEizD5S7EdC30TlM=
+
+Name: org/joda/time/tz/data/America/Whitehorse
+SHA-256-Digest: ppXXgZtPA1WPLykitEYSULqKjvYxfJxPeeX4vmdeSB0=
+
+Name: res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: veqsO7tZaE3reKBiWkYqdLb5uQ4HPlA0nOuVb1TF6Is=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_neat.webp
+SHA-256-Digest: knxl9ScwM8zzxk5I7dLv8Z9kp5hMBpCrbv9uqAZ0OJk=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA-256-Digest: sHO0JOJy1gbbEmmj/f0Rr+qF/it4WVAyDcMzSzMw5L4=
+
+Name: res/layout/attach_chooser.xml
+SHA-256-Digest: Mkco8JMj9nKs+VoZ5BW/UMRny+MydU7PRm3T/KzXCHI=
+
+Name: res/drawable/pick_gear_item_ripple_highlight.xml
+SHA-256-Digest: ywl91CNBI8MVYeXxHfnkSYKHE+ldTjYbl35f2VBql+s=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_neat.webp
+SHA-256-Digest: zoiecwiUWxrLRI6GFa/w+kUlvKJ2xiXWemh+RZndpQg=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA-256-Digest: Ky3DrubwQmP5O0ijYnR3lktL6XiEiq9P86CGeC8oZ/w=
+
+Name: res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: PqL3JTBOMVDTE8o++33busD6l7TwZiS7KAqzKSDoAjw=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: Jn4eM3V/2us8zaxBYPYeLaH2MnnkjhnGbIGkCSRNbrU=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: 4Hvech13xG3erGBmJFFZrVJl74wHUimV29++WpRCXzM=
+
+Name: org/joda/time/tz/data/Pacific/Funafuti
+SHA-256-Digest: Acj0mjHDkggCnvdc+uA/ZNwurQDPQbCINcLWckdzA/I=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_galaxy_watch3.png
+SHA-256-Digest: jrXbPoft9gmV2P5II2GAroMFBnjLLdTvLgRHnAMe9qI=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: E+nflwefiwR9S8AxSqqdC4YdlP6FC3dp3U7y/507B1k=
+
+Name: org/joda/time/tz/data/Pacific/Tongatapu
+SHA-256-Digest: LAq2RvxJih1aeoOcM7qxqRxA8KXcHMpbVxdhK9kIcjw=
+
+Name: res/drawable/winset_dialog_bg.xml
+SHA-256-Digest: VMitt+rP29xgqSD+YTjE/QoUnomT0NtNbSLj8cBh+Tk=
+
+Name: org/joda/time/format/messages_it.properties
+SHA-256-Digest: /tY3fpkdNKv0JVWQ/ZjKS3XfBX7+H3b00HaTf0ZPPAw=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: u8fvk8Yg69XVv1RiPlItv1f47RD9HFAuSS1J7/VP7kQ=
+
+Name: org/joda/time/tz/data/Europe/Malta
+SHA-256-Digest: eaOWy3Jgqrl5sJ5dHgMaLZuWT5ZdSs05RhT4bA977pE=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: 1bbLp2IJsdEZsKZyi57Ds6w2MqWMEuWnFvJCv10mrbc=
+
+Name: org/joda/time/tz/data/America/Argentina/Jujuy
+SHA-256-Digest: iuHFhYnyEEHK9EijT3E7A/bA+PVbuz/8PCQX8pCZNHA=
+
+Name: META-INF/androidx.lifecycle_lifecycle-runtime.version
+SHA-256-Digest: II02oWoXmRCqGREaCRbQzwdo+9TYjpfUAecgWlOX998=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: wnGMeqpfmqovXuCES81WriaWgEtNRJOiEOqnEBJvMFI=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_gears3.webp
+SHA-256-Digest: 44iM/EhAtc/LaECSq660tT6FN50fewsi+CKFmx/jyXk=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA-256-Digest: yNiYaBZUOQKVoFXdqtyJYOyWu2Y4PwuMSPQbbTfxGBE=
+
+Name: org/joda/time/tz/data/Asia/Thimphu
+SHA-256-Digest: m4KjbLTAH+EgeNRvOFyy2By8ABJTYuVGqkew9uN5Xok=
+
+Name: org/joda/time/tz/data/America/Araguaina
+SHA-256-Digest: FMt9UMPRW+7FColyVf60Tm3ZSgnyOwp+CZk6e9ZS8RM=
+
+Name: org/joda/time/tz/data/Asia/Manila
+SHA-256-Digest: AahSuCoQTBhdFgdy01T6uKPhtT8i5vaAqNK9Or4kLrE=
+
+Name: org/joda/time/tz/data/Pacific/Easter
+SHA-256-Digest: 57tUrc3+prNc7+Eck9LaMbp3bCsTq/zkuALggFFs7so=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: LYgAUkh2xwMg1IfF2NtfzywNda73A0RqTFc3YgAMe4I=
+
+Name: org/joda/time/tz/data/America/North_Dakota/New_Salem
+SHA-256-Digest: TUfzJ8+Hkcb3nHyuSh9C0Ip7XnhFxOroASb2VOvzngc=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: Gca+iBEor0WJHrdX4c5zNB0fkKJdst3Px+CBUBpeC1o=
+
+Name: res/drawable/winset_progress_drawable.xml
+SHA-256-Digest: cqnYyYypIgsNQlNVPlzIF1OB79S0I6nPPf3KtAVPfek=
+
+Name: org/joda/time/tz/data/Antarctica/Troll
+SHA-256-Digest: QJCIuSM+GhyIp7zN6aN+Nd4RZRGMqUdtpRU+nwFVEa4=
+
+Name: org/joda/time/tz/data/PST8PDT
+SHA-256-Digest: FotiJhLMjIwvmW7Y0Xpd8cXzR/UV0cRRJLFUZZ4227M=
+
+Name: org/joda/time/tz/data/Pacific/Enderbury
+SHA-256-Digest: +wuZuhSbvh/ls3ApBnGMTXYIHSuthMWvidv3Fk0+b9k=
+
+Name: org/joda/time/format/messages_da.properties
+SHA-256-Digest: 0MhyPybWzUwCi3o0dnUlXyGNTmSMEiuJhhA8I5gK58I=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: uXY6G0jRm/22W3PCh/Bn1QB8m4GwiK1QCuoTeveblDQ=
+
+Name: org/joda/time/tz/data/America/Bahia_Banderas
+SHA-256-Digest: peboZlh2imcX4vD3Pfc3NBhX+mLl2OCFBFfdLYNhaXo=
+
+Name: org/joda/time/tz/data/Pacific/Bougainville
+SHA-256-Digest: Bxc5lm6HzM/bZ9frXrZOMEsy4AFADs5EH4crkfv5teo=
+
+Name: res/layout/feedback_list_fragment.xml
+SHA-256-Digest: 0Fd9TD9vl+LONKyW99VuGPEcQ6yvqc1jTT6QzvGCYAE=
+
+Name: org/joda/time/tz/data/Atlantic/Madeira
+SHA-256-Digest: gS8TGWKym5v7gMxuGJrVIBt7Ic/u0ugehs3IytPSv+0=
+
+Name: res/drawable-xxhdpi-v4/gear_welcom_logo.png
+SHA-256-Digest: WuG52sBUrfaAYck5iBr3Aw7kIFl4bBguC01khmgkR+k=
+
+Name: org/joda/time/tz/data/Atlantic/Cape_Verde
+SHA-256-Digest: LJi6mZhwlSmphqm/SWVuTTD+76juW0qjXB40vDG5osY=
+
+Name: res/drawable-v21/button_background_show_shape_black.xml
+SHA-256-Digest: yymCi4roMcm9b7rfdkVxVDEHSLsy7OCFdfKB5/8z6eI=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.p
+ ng
+SHA-256-Digest: eJVJ7xV02JGFkL4L2iGk3SssoE8BzDzZsMw2RJ/i0EM=
+
+Name: org/joda/time/tz/data/America/Martinique
+SHA-256-Digest: EpFOqFOtkLR5KTRQlAAUlOyk81zFIq1MWzDHsi6MAxA=
+
+Name: res/drawable-xxhdpi-v4/land_select_device_bg_budslive.webp
+SHA-256-Digest: 2cM3rSiMEXFqKIFeWuA1BBh5TbBsHcqirupnapJ+/Lg=
+
+Name: res/drawable/list_shape_grey_highlight.xml
+SHA-256-Digest: 9fUUB1onojbjw63n0MQGOuQdUCPHb1bqXqWyVX5NCgk=
+
+Name: org/joda/time/format/messages_ja.properties
+SHA-256-Digest: Y4bjV05287pkVM9gaeyrCNn3OepP/b1j9nEgnltmXJ4=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: CroyeoMUnzWR1P3NMv7MPpYizqmh0WnmN6rk8NTL/KE=
+
+Name: res/drawable-xxhdpi-v4/gm_settings_help_ic_error.png
+SHA-256-Digest: nBpazVIqdB6l97jilK0kyAiu8syb3ObJlOd88Q94DXU=
+
+Name: org/joda/time/tz/data/Asia/Nicosia
+SHA-256-Digest: WPPNFbtO2cHDS0OgLan1DnlYGJwVTiSKWAYxfWnXPo8=
+
+Name: org/joda/time/tz/data/Asia/Ust-Nera
+SHA-256-Digest: nUNieUd7AFMXNDV0DqBUbejdl/NtA8Tk2Z1o3kmi+KI=
+
+Name: org/joda/time/tz/data/Asia/Kuala_Lumpur
+SHA-256-Digest: i6A2u0Qpc6B+7bNiqcCBMRrXemSlzFRKoBUB+gibTrI=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA-256-Digest: 46+wLPjaT+Lb1rHr6G5Pn+fDDQxALTXXmh8cOijqLlE=
+
+Name: org/joda/time/tz/data/Europe/Stockholm
+SHA-256-Digest: jL2r/G9WVuF8D6yRnICToFhzCfIPPasDS5lwheP0HXA=
+
+Name: res/drawable/button_shape_highlight.xml
+SHA-256-Digest: ckFIoghIsKDrw+JFuaq6hvHswtrZ5r5Ja+rdDExqShs=
+
+Name: res/drawable/list_shape_grey_highlight_no_radius.xml
+SHA-256-Digest: j/EEYe1OZx9OZKZfvh089VIU7phG+Awid4LJyx0EUqc=
+
+Name: org/joda/time/format/messages_no.properties
+SHA-256-Digest: +pcxljGu133PKiE2zWgPonqU7FgcYE5ymmX7ADC7H0o=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_off_disabled_focused.png
+SHA-256-Digest: 5ClaWo4YazOVlIN6jqQ8asgpi9XwchsSfjp6u6ZaqSE=
+
+Name: org/joda/time/tz/data/America/Indiana/Vevay
+SHA-256-Digest: ksBqkpkVqVjI46SspbJ2YT7c3GkoTuvQO6F4UPj9eDU=
+
+Name: res/drawable/dialog_popup_btn.xml
+SHA-256-Digest: fNLsC+jM2xfPOdQu9Zqpyhb6fd+peUc+Yg+c5Kq0L2M=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_watch_active2.png
+SHA-256-Digest: nxajVgRSBF3ue8iTL2XGawmqB38JUb8OQyEEvImjMfI=
+
+Name: org/joda/time/tz/data/Indian/Cocos
+SHA-256-Digest: K55CSSvDo1xQTrtHVp28f3Asr82O6uOy90VExqMBaBo=
+
+Name: org/joda/time/tz/data/America/Creston
+SHA-256-Digest: x66BFEAKIvaP8O8d22VvCY8PZ2KcDkC8GBhYDah7mKY=
+
+Name: org/joda/time/tz/data/Asia/Choibalsan
+SHA-256-Digest: a32LuW1k1+CIAzmhRLGIXXnqxc0YIlQVnWA4XGS5La4=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: G5ruyzr1vHkFMuWJjPJlBlsv87G5Jr0DF8AVdfQTpwY=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: m75Lp/nx0NEM2ZS1ushMa3TsttK9wZUsola1pSugTIA=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: OroIxw0by31vArjHs6vsQMrrc7y1CuhZoMNVXowoB/8=
+
+Name: org/joda/time/tz/data/Asia/Baku
+SHA-256-Digest: mTRuFzkc2b/Jg4Jtr9CQh19LbElR1bZAfAEMtUWccbk=
+
+Name: org/joda/time/tz/data/Atlantic/Canary
+SHA-256-Digest: UtTg79S3im0iJ9GrMDzW0A3n2lJy43VFTtQL/kgtfJA=
+
+Name: res/drawable-xxhdpi-v4/screen_capture_ic_bg.png
+SHA-256-Digest: 3ua3ezwZwguD/mi5f8tYT3vFHeAPLdBMMmb3ZVajBQs=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: ECajb2zOx2GmZX3fcidHNmNHOw3/H+VM7zD5wZ8V4n4=
+
+Name: org/joda/time/tz/data/Australia/Lord_Howe
+SHA-256-Digest: nM03Dzrs5IZGQ/nJ/111TXJjGLlewPAHgBxPH/81miI=
+
+Name: org/joda/time/tz/data/Asia/Hovd
+SHA-256-Digest: 94rMPLhaOk2W7BPAYm3NJqAC1TXZ2Nts0+oDXHidEvE=
+
+Name: res/drawable-xxhdpi-v4/oobe_permission_ic_app_installation.png
+SHA-256-Digest: +2FVvmSyz2QxiMT6bYcYp64wulfbmb8TwBuYBiveR5k=
+
+Name: org/joda/time/tz/data/America/Dawson
+SHA-256-Digest: equxswfopnPKjpDSql7MTI27349WgzXbvVZajAsQ1nA=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: wPmCKHeaADxT0LEsd5fciclHJE2ceViBvz7XpYhNSxY=
+
+Name: org/joda/time/tz/data/Africa/Freetown
+SHA-256-Digest: ZAe06BpIal3ThAErQSg2F9IgX7iV7UjKulJvKnpNgQ8=
+
+Name: org/joda/time/tz/data/Atlantic/Azores
+SHA-256-Digest: isRMW5WPPyS+1hXt1EuCCWH02oHtGk0CM7eDS7diyvY=
+
+Name: org/joda/time/tz/data/Europe/Amsterdam
+SHA-256-Digest: s3TX2dAwiJJUJNfu7GI9+TGS/wz/T4J3PKuBzq1IzeE=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA-256-Digest: paGiknhrd1XAy0YZEt3HgXNDn070a01O1HtDLCwspHM=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA-256-Digest: 0lJO9wGhAEODSGn7FE2K4aNnwrITlTgJuPUjuq98srA=
+
+Name: res/drawable-anydpi-v21/ic_tw_ic_ab_drawer_mtrl.xml
+SHA-256-Digest: 72+AYKxqbBuJCmKjhGGyAkwp9JIoT394DaOLZBX1JGw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: YuN+5zqXSIXpXvXWczv9tc6QfVs4p9hohNPNe0Hfkdg=
+
+Name: res/layout/layout_devicelist_content_searching.xml
+SHA-256-Digest: 4el0zdirHeAcEi6rtTpMTb/IL5ilwncXhYPPmGIRooY=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: gFmXZAvwoDPYTQACDbldkH3IkoHy1dyPERNb/3F65bA=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_sport.webp
+SHA-256-Digest: 9ez8P3YDySv18SAjJhkKA5EaNWETY04DD1fKMYeLKTY=
+
+Name: org/joda/time/tz/data/America/Mazatlan
+SHA-256-Digest: /ejGJsCKKJPGjfOZNR29C0FNxU6qoZBtCeGCLqcRxvI=
+
+Name: res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: W8i/NCILB2giQ/eetq+PZR++MbZm1IE06BvBtZGrYyk=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: yNYf6CZbOV/G59ANetHfXSGcwk0L+naNXZkZbQ/kJ+0=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_moden.webp
+SHA-256-Digest: PzzmVd3LlcizZdtC20LK+vz89XyA6ANYyQ9oQ3hcxOE=
+
+Name: org/joda/time/tz/data/Asia/Samarkand
+SHA-256-Digest: ubV5o3VtuHaCUKtalomoSZDrvNJg73aBB/eigF07dbY=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Juan
+SHA-256-Digest: fyo4vEgPAterrRk/nbBZJaCr5yq8KHBEv7wHxW1Z9cQ=
+
+Name: res/drawable-v21/button_background_show_shape.xml
+SHA-256-Digest: Q7NObMHzgQgRAhbt5ITWwnxyNWV1oVn5FEuZGJw1GSQ=
+
+Name: org/joda/time/tz/data/America/Juneau
+SHA-256-Digest: 1X/qfCmr+JnZwkiKX4YyiqPGzpqqSHdbhbcUUra+xRc=
+
+Name: org/joda/time/tz/data/EET
+SHA-256-Digest: 7XQiI5/Ih+1eEqYNeY6oq/7eiK2Be/b+P0I4T5fZIdk=
+
+Name: res/layout/permission_guide_item_layout.xml
+SHA-256-Digest: H0gphKFv1/cF4sbK1oCstSfBZCUYHwZtiGvoFMZziQw=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA-256-Digest: GKnJ3juG62GKagFIO27UQW7ynVcPCF+nnEnd1bR72PM=
+
+Name: org/joda/time/tz/data/Africa/Juba
+SHA-256-Digest: BcbJv49LhPAN0lPaNXwayOq+zqLxMeXgK2hGI5qFZ5o=
+
+Name: res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: NLwllkvCtmD0+Ljg3DTGlW+vjlwSEViz/WIZncaYfwQ=
+
+Name: res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: AF0P5Gb8kpuNmRCSByi505UM36Kljv214Tr88jMbOXI=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA-256-Digest: RGWYrgVRC36pm7HxF03AEmwIURnBXD+YDj8T8bIZGrM=
+
+Name: res/drawable-xxhdpi-v4/samsung_members_ic_reply.png
+SHA-256-Digest: qf+HYOQTVuiCuigyZ7QQkleeXBz5mq1mWHhzfDBZFCI=
+
+Name: org/joda/time/tz/data/Africa/Sao_Tome
+SHA-256-Digest: FhQmAxpsh4w0irV090Qrk51FYxzi1VaVk20rgIAioXg=
+
+Name: res/layout/notification_media_action.xml
+SHA-256-Digest: yAYqnAa3iaAeHwMQusKlL4jKBu+m6SEtPk4IgCORmtY=
+
+Name: res/drawable-v21/button_background.xml
+SHA-256-Digest: GmBeDCCLqlThwD3644N4uqPnvFr6ARTeVx9lmbFIiB8=
+
+Name: res/drawable/button_background_show_shape_dark.xml
+SHA-256-Digest: oQJywQYfDJgmSCmxKJq6/GnV3gBjxLPpAO0XLRNyEx4=
+
+Name: org/joda/time/format/messages_tr.properties
+SHA-256-Digest: 23oXqU0WbnfWvWAWiWPBh4n5FG0d2ZQNiaGJBCox5gM=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA-256-Digest: zEvWYmDbZ5kfAcjSZWDWwTcoYJgRSmovTDO2jj5+SPo=
+
+Name: res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: JLOmHAdUjBOiLSsc4AJ/G02DkW20ivq90t6inIIWSrI=
+
+Name: res/drawable/devicelist_icon_bg.xml
+SHA-256-Digest: DFeTIHsGCO2Z7gPwW94GjPkvaUWvpzEoV8ozw6DuUFI=
+
+Name: org/joda/time/tz/data/America/Inuvik
+SHA-256-Digest: Skt8iy9tEehuFZzJbbYQFBqJzUPpnXgKgDPO9uB3V94=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: 8BUrTuBHoH6vf478Cn1IdABjnwaybOX9H5OLtyjb8/8=
+
+Name: org/joda/time/tz/data/Asia/Jayapura
+SHA-256-Digest: FeKIYfuIRvQAIuGteO8Pc52cbxfMNKlU0XIopmH4zUM=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA-256-Digest: bms+eZ64zgvJjz+T9ejgOQIOyVlDqhG3MznrDG9UHLI=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: WbiT3s+kcZc3jgUWsmLytDXN73XSJZjJDNMrFQigjMs=
+
+Name: org/joda/time/tz/data/America/St_Vincent
+SHA-256-Digest: OxAfZokbzJeCYzFPgAV3bg3PzZNvYQJLYvlet0EqPNM=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA-256-Digest: QFNhpbR9x1/RhLrf8H5A4Jgw3nO6OISSeDyqcUa/m7w=
+
+Name: org/joda/time/tz/data/Africa/Ceuta
+SHA-256-Digest: UyxoYh/mLDJweEkJ8Y/W1wDXXXE2psSf7AbksbV9cuI=
+
+Name: res/drawable-v21/list_ripple_effect.xml
+SHA-256-Digest: nTx/IF74noj1wdoyGqjmLIs0xkA5gAsqpwuYkjl1baY=
+
+Name: org/joda/time/tz/data/Africa/Djibouti
+SHA-256-Digest: eChQRsm7pWsX6k5sJdc2pyAtDIpMXodnsPBziNEqUkQ=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_watch_band.webp
+SHA-256-Digest: +wmA5bzcTvAdEJM6Q0c/JFT5TJ3YqzDL2+bYVjwXHOo=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA-256-Digest: WuxmdNgm4caVH/VpyV6X2D1y57kULjtIRx4dAySyK94=
+
+Name: res/menu/contact_us_menu.xml
+SHA-256-Digest: Gxm/oqmmPgqFdQE8Vu252La5R7kYUy94nZdQbCES8Nk=
+
+Name: org/joda/time/tz/data/Pacific/Midway
+SHA-256-Digest: kQxEQxmPJSSTdoSBDMIhO5I27hw3AH80jVOz27pp2bE=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_on_disabled_focused.png
+SHA-256-Digest: EUECCECIsYNWiCX4uCVE8UlI0nTLB+A3SaE6BN2IHdo=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: DwxazVMJ+mkbcb6nE+IzlUqinw05mIB20gqTvK+jSss=
+
+Name: res/drawable-xxhdpi-v4/winner_welcome_bg_buds.webp
+SHA-256-Digest: S3KBPgHnFpk2ouprYp6xRWN2vU0ad3ISzcOi+v3eHc0=
+
+Name: res/drawable-xxhdpi-v4/gear_welcome_bg_neat.webp
+SHA-256-Digest: Dq3lxqFcHErzNJKGcbUK+ZLLLZ4qxRfy6Q8MgSk/EL4=
+
+Name: res/layout-land/permission_tuhm_plugin_layout.xml
+SHA-256-Digest: 0Hk3I0hHiISm8PLTCxzxpzs3rtHBfE3aQVRHdxI95+o=
+
+Name: res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: skIlC6rc1fZUOvIXjwujZ+4aZeS4WeLJjDCSXurSML0=
+
+Name: res/layout/abc_tooltip.xml
+SHA-256-Digest: 0o9qJapQWASM2fT5m//rmn6wDfTerIPg4YWCaYGjJKk=
+
+Name: res/layout/rating_dialog.xml
+SHA-256-Digest: 5Y8N25FvL64BURPBBrCyjCIeBgDL6W46xpTCbdGao7E=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: dnA2RgY4J2jum6tqqA9lE14jzLTodqV+4tL+650ljWo=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: 9XRu/G9DaRqwaGACmhIxYQ9KQvW9ycpNngU8DIk9MKU=
+
+Name: res/drawable-xxxhdpi-v4/copypaste_browser_select_handle_bottom_m
+ trl.webp
+SHA-256-Digest: aSLai8j78rohRAcRHiyx9LjWwrqnIjARkTfdFIYuPT0=
+
+Name: res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: d4xsh9tEbGScT/ghmMThU+XH+mr28yNqsRhNFiljgEA=
+
+Name: org/joda/time/tz/data/MST
+SHA-256-Digest: 4ROdc3D7bo6ySRnlmrKwUn6cVH/rk+ZCtIjnF30SPeE=
+
+Name: res/drawable-ja/gm_ab_logo_fit2.png
+SHA-256-Digest: N5/T28xvzTYgWTNtqzGWvgez3aTn7WtSEwAA22QxBJA=
+
+Name: org/joda/time/tz/data/Africa/Windhoek
+SHA-256-Digest: rZgy1HSBJ9hH3aQRzZ79LTo2gn/5TQIkqDV7IB5s/Fc=
+
+Name: res/layout/notification_template_media.xml
+SHA-256-Digest: 5BvhahZxkBb4AjokfZYz5fLXJ0/Y5Nhmp5ktodPu0rI=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_iconx.png
+SHA-256-Digest: rT3/kXDFoHf6Av+qWEbGofFav6zv/CIt17A1LOVUglI=
+
+Name: org/joda/time/tz/data/Asia/Hebron
+SHA-256-Digest: ERk8TnI70e/rjP6I+HY6LhFqlNDgMUETg/i3qc/mGso=
+
+Name: org/joda/time/tz/data/Pacific/Kwajalein
+SHA-256-Digest: w9DCYEuB3qWGagSH9SrhA1Z6kyYrM153NWxj/9pUF7w=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: WoCmTNTw72crd3mDUoH58PAJvQtcWbsmfzTvqdxN1Do=
+
+Name: res/drawable-xxhdpi-v4/screen_capture_ic_camera.png
+SHA-256-Digest: HGFxnYW1fvCyEu+2pBMg9i/JAacqCrGj7jU9axSUN40=
+
+Name: org/joda/time/tz/data/Asia/Novokuznetsk
+SHA-256-Digest: kkpChEDkigh9a58E95cq5nwlKbMUuC3DafSTrQEh8pM=
+
+Name: res/layout-watch-v20/abc_alert_dialog_title_material.xml
+SHA-256-Digest: GiGiUyovvnUvQJCk3ZArIEyu/uLTeBZW7OaULmV7CRk=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: WFIxCh8mqhWQjGCKjiNo/1lFP2uQnTu7bvn+cCmLTQg=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA-256-Digest: qrrlPKKqU14k1qoJ/88h8ffA6nT9Wylc1cgYEOCGgT4=
+
+Name: res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: lecz8oqqNHDE4imaQGfvqS35YbXweyyhmi6I+37MO1Q=
+
+Name: org/joda/time/tz/data/America/Ojinaga
+SHA-256-Digest: FlFqH9tt83/EpuUdKMP3umLVOEu5H6i728KgQUozAp0=
+
+Name: res/layout/systemlog_popup.xml
+SHA-256-Digest: 0tmZLnJOr97pbDGFfPdivgW3kY1t/CuPjBEth3puRGs=
+
+Name: org/joda/time/tz/data/Africa/Bujumbura
+SHA-256-Digest: mgnSB2zyZxFOzuwbehYW7m99se8FkASXvNRlDqJCpzM=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_watch_active.png
+SHA-256-Digest: NvtAzVREHwLXk9rOMY9ahlKu6Gw7RhYkUFp0drEdRRg=
+
+Name: org/joda/time/tz/data/America/Bahia
+SHA-256-Digest: D2GvB3CPfuXqem3Fduu677PNCDIzjbegG23gOwMDGXw=
+
+Name: res/layout/pop_download_install.xml
+SHA-256-Digest: AjB7iNwvbN3330Em8uNo6qNgZDHkm4PyBut1IlDA0bU=
+
+Name: META-INF/androidx.appcompat_appcompat.version
+SHA-256-Digest: xA0Yn0MXO0miZb3fTBVFBojIXFtZniBoYHpgQPv14ic=
+
+Name: org/joda/time/tz/data/America/Maceio
+SHA-256-Digest: CknakIygYrWAKaFIFYbq4s384P6FqY41OmMvRsIWHDU=
+
+Name: res/drawable/button_shape_dark_highlight.xml
+SHA-256-Digest: UPl4LzfNwDpSiJKxur0LeKlGUNuzKX3ZadBBy5jIo0Q=
+
+Name: res/layout/layout_container_main.xml
+SHA-256-Digest: ZptQ/ZFjN80JIIg5UogKc840wma2cKDP9p4wu9fp85E=
+
+Name: org/joda/time/tz/data/Africa/Cairo
+SHA-256-Digest: kUuPrfXhNnx6e0HNUAmvRfe8f4H89mluOUVe7pqmKmk=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA-256-Digest: FtyaNOpvwrbzuCNVw9C/0gC/e/bd5cnhmp1RsYy0O1E=
+
+Name: res/drawable-v21/button_background_show_shape_grey.xml
+SHA-256-Digest: 6eS9qt82zojHLAlqzGUV0+vhQyUnB40/eES82V9njzc=
+
+Name: org/joda/time/format/messages_uk.properties
+SHA-256-Digest: y0nLbnRFy4Aa2EO2UBCQn0jrUR1Xnn51I6HOf0WMlds=
+
+Name: res/drawable-xxhdpi-v4/tw_ab_bottom_transparent_mtrl.9.png
+SHA-256-Digest: aDD3xlyGZUwWjGV7AD6vwy+2o6zwFdL3wfIqzwGWatk=
+
+Name: org/joda/time/tz/data/America/Belem
+SHA-256-Digest: oHcKKvIo6G4yaYGfRA0MLm2nH9gKuufsUl9pXGcinLU=
+
+Name: org/joda/time/tz/data/America/Cambridge_Bay
+SHA-256-Digest: 2/gfew4AbYDqbL19oCYpvlktJkhj4QM+rwcU1o+ipF8=
+
+Name: org/joda/time/tz/data/America/Havana
+SHA-256-Digest: REtI1H+UGOdBpj5hq4+o0ok9xHMXh3xlamlR0nQbK+0=
+
+Name: org/joda/time/tz/data/Africa/Ouagadougou
+SHA-256-Digest: jeExYilTrHMF0pGjqvP1ZuIutiN6rTxZZc2yCp1nAJ0=
+
+Name: res/drawable-xxhdpi-v4/tw_ic_gw_notification_24dp.png
+SHA-256-Digest: cLDK0NB3bN7y7Q0yRYGGOEPTe4QpK/6ogMquGToF+n0=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.pn
+ g
+SHA-256-Digest: hvZx2RypaKL2YCFEQOy4m+UR8RSqhlrgQkejwj/VG1w=
+
+Name: res/drawable/galaxycare_ic_auto_attached_info.webp
+SHA-256-Digest: 5grWaZ5Ur+B9uCpB2veRvMfjsa+2h7NI6s/vIdhFE8E=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA-256-Digest: fSe/QE4SEXRKtoRc0sU1G71BekVhcSBK0Le6TV2d0Gg=
+
+Name: res/drawable-ja/gm_ab_logo_s2.png
+SHA-256-Digest: OzH5/UkDr0C4WW94RHEXcfdBtMxLRoabuhrhdjELypY=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: c/14HFaGWpEdcAQwrspOxIFCm9dL3QPvR2GxA8cfFdY=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+SHA-256-Digest: H0nsFWf0TunDaOcGLJG4UvgKafss76jaQpdKvg/iwSs=
+
+Name: res/drawable-v21/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: dpvey3fk3dfjhIpA3OkmLjHXFQx0TQaInX37w4GGyL8=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_galaxy_watch3.png
+SHA-256-Digest: u2+Nd5/IQoDws8Unf1tS1S6ruWGyJoHIq1gq4bVtDGM=
+
+Name: res/drawable-xhdpi-v4/oobe_pairing_img_watch_select_01.png
+SHA-256-Digest: DOS6cTn2QtPjp3xZuehEMOFoOplla8HMDrK2toEIbQ8=
+
+Name: res/drawable/list_item_shape_recyclerview.xml
+SHA-256-Digest: xaDz8LnZ13PekN03PwTvg7SPXh2FBw4xus5Us+TjuDo=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA-256-Digest: NVdypv1ArFEuIwTq4RI7C+ZBkiesf5La+soIifKhC5o=
+
+Name: org/joda/time/tz/data/Asia/Gaza
+SHA-256-Digest: Wcqz0DKzKsBhS/AqL5yXXzAowKFV6Gqu4GBwcRko5Ns=
+
+Name: org/joda/time/tz/data/America/Boa_Vista
+SHA-256-Digest: M6/tIHpqaU6HX1PI2dLOACj2wS1jExSg+sXa1St6kQs=
+
+Name: org/joda/time/tz/data/America/Managua
+SHA-256-Digest: AeU56eRRqQILMTLe371Wr8kNIj3AbG6uSo1RiiLL6cU=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_off_pressed.png
+SHA-256-Digest: RBTFmews90Nw/9acsnqVjSEDdhOEGyeZSl62ryzZuN0=
+
+Name: org/joda/time/tz/data/Asia/Pyongyang
+SHA-256-Digest: 0rpF41QsVGHEqqwGLxO/ZQ1ww71maTkaoJpHAURbN1I=
+
+Name: org/joda/time/tz/data/MET
+SHA-256-Digest: xQexLSyAFiIHMuZYJSKZ6VsE0x+Fv/08VkpvgYq1zU4=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA-256-Digest: /fNmcwODOpL8vF4cq+gssGCq89KMmqVihdQqL6wKIto=
+
+Name: res/anim/activity_left_to_right_out.xml
+SHA-256-Digest: yV0HVrtCM6GM0aIHAMmP3MsepxhIh7TuCg4AzyqULss=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata.version
+SHA-256-Digest: ZQ9kq6x0Gdn3myiISnhEOD30SZyTE9/+ek7LDZSyu/c=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA-256-Digest: y4Rz7iryFkDoiYYHeMJCDI/bBdZtDjGJqxPTgG3AVIA=
+
+Name: org/joda/time/tz/data/America/Toronto
+SHA-256-Digest: 0sTBMW0f7SAFvhrAgow+cxJtmkzXbdYDjXnBeKeIfic=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: mCpCNEnWJXhMUlUumm0u2RF5+gc42CZMPZAPaetVzkg=
+
+Name: org/joda/time/tz/data/Africa/Maseru
+SHA-256-Digest: Yx4lHsty97P6uqyuPUNccbJmsP7aaUIBptcF7xIXRSQ=
+
+Name: org/joda/time/tz/data/Asia/Vladivostok
+SHA-256-Digest: 8RjpZbEnz2hWqxqDGO6ca7VpwqyR8Q3geuaiCy5nHMM=
+
+Name: res/layout/screen_capture_layout.xml
+SHA-256-Digest: /vBBL0VxPeHzIFwK2qwP0PFnleoIgn5SSWzVzmWm5Mw=
+
+Name: res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: P/swH2Ze6CaSNYkpjSC8EI8c/b1PFKys0rSl4E5a6Pg=
+
+Name: res/drawable-xxhdpi-v4/tw_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: 1V+K+ugxtbUCuDpF0DF+RbZ8ZhLnb/9jZj+6QB9BnQc=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: l5WGBqoentx0GUIngYohGmxcZ9IrZn8GGJ3aPalwcWc=
+
+Name: res/layout-land/fragment_background.xml
+SHA-256-Digest: H6Be1DcYBbcZHlM9iuZi0jNtimgpZ4Yn6LQSn2jC8p0=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA-256-Digest: 4yvMZb8FC9ajqwe+MhdLRuf7pIyGN+6ESaXiVAa/Foc=
+
+Name: org/joda/time/tz/data/Asia/Tomsk
+SHA-256-Digest: SJZK2Ev7Ladss1wklVkF/+R9e9nyr4Rirfg0y61e+vo=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_galaxy_watch.webp
+SHA-256-Digest: Cf5xmJg8udRrjHq8alzR4Q1RLXbh5MukgKqbgcjzg/M=
+
+Name: res/drawable/top_rounded_corner_shape_white.xml
+SHA-256-Digest: B9FRHOgHwnZZ6peQcCvkoi7Llr52paPXAizRXd46Ngg=
+
+Name: org/joda/time/format/messages_fr.properties
+SHA-256-Digest: OjKtj4OdzcBrVdEhBaS3tiIyAywZdwQpliqHR4sMq98=
+
+Name: org/joda/time/tz/data/Africa/Algiers
+SHA-256-Digest: BRJTRar6Q8clS4y1tPFFtBu+caxVlc37PC/xWWOAjKw=
+
+Name: org/joda/time/tz/data/Antarctica/Palmer
+SHA-256-Digest: VIlqJPBKXz5Y/iRZPKoRFSR2tD0B7T0Mu/6VoWCD7h8=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA-256-Digest: Act0KrTaVmDWtJTmZtbfyP2A4i8sDjX0QVYwXa/vAvg=
+
+Name: res/color-v21/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: 8GKpdOeyHY5AQM+bjH890Lny/y0lIiDbrGV9AW62bG4=
+
+Name: res/layout-v21/permission_tuhm_plugin_layout.xml
+SHA-256-Digest: /t6WYB8jwIx/peZLnbUQtrV/97M+vI/MngZUw9JTUO0=
+
+Name: assets/supplierconfig.json
+SHA-256-Digest: 7jysE058d0lHM1+tGqY2CMxLfh5h6RvzJLJ2XxfZuEY=
+
+Name: org/joda/time/tz/data/Africa/Mbabane
+SHA-256-Digest: kBw/X857kJVIM27VBcxzNUOL0bOUm3s+qCRDldxiDb8=
+
+Name: org/joda/time/tz/data/Asia/Oral
+SHA-256-Digest: s+mX146VbqGc6J4RbQ9jxBjRdUsjxzaxcGVIVfqpJ1g=
+
+Name: res/layout/abc_cascading_menu_item_layout.xml
+SHA-256-Digest: quqo4/3g/3V8ZikynYl7ZqUt76BamXi6AXwI995tK1g=
+
+Name: res/drawable-xxxhdpi-v4/winset_buttonbarbutton_selector_pressed.
+ 9.png
+SHA-256-Digest: uriGY99CA3y02O4f4RN8Ue+7Uzry8utO8O28du/wBJo=
+
+Name: org/joda/time/tz/data/Africa/Harare
+SHA-256-Digest: 7QwY6LqEmCqSTPYRQRMPvP3XR3pLvNSkAKIiGyq+NAg=
+
+Name: org/joda/time/tz/data/Europe/Moscow
+SHA-256-Digest: TAdBwp6ihIJYiVQLSTPjPRp8CUoO+TmDyMSoizDWV/E=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_band_lite.png
+SHA-256-Digest: HKINreV75UOPD7io0DQpQRs5UtrdP2AgHeg/JiZjTcc=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: XoIr4+lV6iTgx9OhuVnQ63uD2ITPh6fGKzOKLU8rUEc=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: U3/KxGsaJBvpyPr8cuqYdBbKp1+RXRt7p/pa++5ylUI=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.pn
+ g
+SHA-256-Digest: QneKuaBjRVpiHZf0BcglY++BlM+zG/CY+qRsBUBdo5g=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA-256-Digest: YSXndshWOZCYs4ducVKOctfpy8PuYYScbfYpDg9WXW8=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA-256-Digest: IPJIpkcP1zmvNdTJrf30VBQNxJgoa2PqM2kftpfSHHQ=
+
+Name: org/joda/time/tz/data/Europe/Zaporozhye
+SHA-256-Digest: i+otb88d79S6Pi+vCCzCe5nNBPkUprmWG6G/cHcBlzo=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA-256-Digest: IT2e5+GP64u9m9DSZAhgVGKUQkyP21jU/UL3+2z6W9k=
+
+Name: org/joda/time/tz/data/America/Barbados
+SHA-256-Digest: ML3hWjSWJp7zugvVrLqEmuD4cZFyKdtE6ujHeQuPD8A=
+
+Name: res/drawable/tooltip_frame_dark.xml
+SHA-256-Digest: mvfd6vK4eb+yEM4F17UCxqEgcRJa3PnmJycv1oX2Dww=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: QOOb1eIMbzrS/gisw22DjQJ5P+3J1q/Pem0R6C6c2ts=
+
+Name: org/joda/time/tz/data/Indian/Antananarivo
+SHA-256-Digest: yfEfWk1ByCEQZGe3kMICKkH6GU+91B7RoT7SQkF0s8M=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: kQKThZ6EPfPpc+li4JU6KG/sbHy+JEemqRlEP4ti5UU=
+
+Name: res/drawable-xxhdpi-v4/galaxy_wearable_foreground.png
+SHA-256-Digest: 55Xi8xcGnCU0Ho45JNXEsGim/3vyfW83S/efAkihOOY=
+
+Name: res/drawable/particle.png
+SHA-256-Digest: /cxhNpEbCXmiJ6ryVN0U9Jq9Arp5V/q9ue9kRwxNleE=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: Z8uEbfnROwMYL8KSaQLLHA2A4LgXLSci9H44P+NNTDc=
+
+Name: org/joda/time/tz/data/America/Thunder_Bay
+SHA-256-Digest: BWJtLwLszEONt36g+bInGtko+uW3ffkQsOma6B0GM8M=
+
+Name: org/joda/time/tz/data/Indian/Mauritius
+SHA-256-Digest: IrFz85WYGfI0jfC9gwPNeMivPfbpPWyd1TlqyAVc6QQ=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: RIXPKaNeaGDsbuxjiLiJq9rjEbkCpxWJuR8HIbeZ1V4=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA-256-Digest: A59UyKMqw5qq8HujddStx26evBNC+mQGn98tmRqoIkE=
+
+Name: org/joda/time/tz/data/Asia/Khandyga
+SHA-256-Digest: 0yHOzxxKqFkGdor9hTTp9A1zzctaHZlXaWQV0D3a4b8=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: eXdiXtgfszbkgCa/xt5+StyP++wvXpXjluoD+0ecRLc=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.p
+ ng
+SHA-256-Digest: I5aoP6cPa/dJeU0KFUEAXKq+1TTx4omhAO2t15lCcKU=
+
+Name: org/joda/time/tz/data/Pacific/Kosrae
+SHA-256-Digest: bJgZPohBS85C+e422rmdSyHJEk3KGTIb8peiCZYbS6c=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: 6Ay54/PPtd3vTcDkT61W3u/FQ+IVBiq0DX1+tYt89lg=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA-256-Digest: 9NVKlG7NeVnMyrB1WgWyxDka/xV6GCB5Deq12PVcRHg=
+
+Name: org/joda/time/tz/data/America/Bogota
+SHA-256-Digest: ZZPcU3bGbSDfCDZjziHUdFxlyjEEjKoV6zXwa+Ft8ko=
+
+Name: META-INF/androidx.media_media.version
+SHA-256-Digest: sv16OOa5v/2V7FD7dWO3hDeyiiV5XhjM90ZzdV+qTZU=
+
+Name: res/drawable-xhdpi-v4/oobe_drawer_ic_watch.png
+SHA-256-Digest: VzWlmWJmmMvN9KNJG0hBQ9sgGX38ZJR5krLiJv7T82I=
+
+Name: res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: 1ucOkojU2MdGq+BD0FJkNUOCmmwd47Fn/341dHrRYio=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: /NWVni5Ocj+aSbvedVNzWFhRi8vvmJnj4R1uAN/TCSk=
+
+Name: res/drawable-v21/abc_ratingbar_material.xml
+SHA-256-Digest: Y3xh9g4OQ0UCJ9l5vSSzhJBpqaCCmNQJLR/1xnWG6Uc=
+
+Name: res/drawable-xxhdpi-v4/tw_list_icon_circle_mtrl.png
+SHA-256-Digest: lmeYbxMkjhT9Kcem4BW9UCcbO9QOeuwnnCf9p2dW8fg=
+
+Name: res/drawable/list_divider.xml
+SHA-256-Digest: zgz76DpwKOIkHuxW5Ti83tKZc2Dbzli1pX+f9g+GXbs=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA-256-Digest: 6jk4pgLmkEnt9zf75HC5A/aAY+S86288jzZULzyAjUE=
+
+Name: org/joda/time/tz/data/America/Hermosillo
+SHA-256-Digest: pQiCEWdhUsCR6KG0ZP1v0+YZ8Zi19jXmE4mXcZjPar8=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: zmyuPLQUSVSVb7u4qpugYrSIje/Y8tL7rBm5nrdESvk=
+
+Name: res/layout/layout_welcome_device_name.xml
+SHA-256-Digest: IjtthczKLPJihbqBnMFUye9VpOaXoomEH7IOtZEA8tc=
+
+Name: res/drawable-xhdpi-v4/oobe_pairing_img_watch_select_02.png
+SHA-256-Digest: UCV6yyvDjnH2QWOCF6B2Zl1o+NFcyMoh8wiIaW6HnqE=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA-256-Digest: MsP3TwiY4EF7X47LL1AxwDhW/EugkbduaKv72xOCgQM=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA-256-Digest: 3kAACvudTp2y8zicXxPC2agvcMb9nmZjCTSxv45ZX9g=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: tXo2esGAoJiNjxdCz/8WmMyH0Tet63S6gFmtut14+MY=
+
+Name: org/joda/time/tz/data/Asia/Makassar
+SHA-256-Digest: GIxxJ6Zpf7/fJgsH71cHvZj2MHHnUqhO40BxbtVHmSU=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: 36Ke5xhBaJp+7yPlyRkWFdlfMzubmn3Xm5iFLTb46yY=
+
+Name: res/anim/abc_tooltip_enter.xml
+SHA-256-Digest: NgvRosM2LXaFGWtAVKW26SIz0XsRRnn6PoFhT/0799g=
+
+Name: res/drawable-xxhdpi-v4/feedback_list_reply.webp
+SHA-256-Digest: 3jbUsewvOmCd27v2iuqoxiQh2UwyHC/sPTrVNRGr9fA=
+
+Name: res/drawable/bottom_rounded_corner_shape_white.xml
+SHA-256-Digest: IrLEn3lETqh5umHaggEr8Npwqc1GsbX0rjFY3TiqHEQ=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA-256-Digest: sKrSy9As01OObA5D42goRstIvoTArn38cR3gOloIXK8=
+
+Name: org/joda/time/tz/data/Asia/Jerusalem
+SHA-256-Digest: 8k+XdO7PqnajzeNVeuoUA7UAVmY48veCIYtf2zbeykw=
+
+Name: org/joda/time/tz/data/Asia/Phnom_Penh
+SHA-256-Digest: O6hrMUN5+8FgWDxL93kIhhUIvJzfnH13H7WcYuSQGEM=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: /PItNSPhz1UN7VfEyZ8kRa5sj9QY+F0lydOxu0h8L3A=
+
+Name: res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: gSRaKa613UASmf+b16OSb624yrIFISdAuZ0u+KJ63p8=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: 51prIp9tNpMqV89s7CT806GGWKw88KtBksOlSbotEDA=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable.version
+SHA-256-Digest: 9D2db//mJnIGxKH/5SnguTDg97n5yMbWN+LPLv0jfqo=
+
+Name: org/joda/time/tz/data/Europe/Podgorica
+SHA-256-Digest: +ZnM8Bkd8LXzy9gDz1YosDr7b3E9/816S3Lx4PvLvX8=
+
+Name: org/joda/time/tz/data/Indian/Mayotte
+SHA-256-Digest: yO5ZTwlYuR0n9s9U+LnfirUCdvh/exL5ki8sdIijB7w=
+
+Name: org/joda/time/tz/data/Europe/Uzhgorod
+SHA-256-Digest: BavnM2S/H7U0rZLmhufquELfpBq9JUdfSFoIJqKsraI=
+
+Name: org/joda/time/tz/data/Asia/Omsk
+SHA-256-Digest: uoC3Y5y2xPuHGi254pP2V0SoR/xSEilAf4X6E57+Dmk=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA-256-Digest: pTOwsvb5xDvwCQfi91mkH8r2jlTz5upzvF/BjF4CaHU=
+
+Name: org/joda/time/tz/data/Antarctica/Syowa
+SHA-256-Digest: XhhFk0InrvOaQXVbDhyZuyUl8YLrVVtKDSJ8r/Z8Ves=
+
+Name: res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: ZKWE2GYxFwbORylkQZ1qQDgxkx4Cnkd6CbTvawN2Zmc=
+
+Name: org/joda/time/tz/data/Europe/Kiev
+SHA-256-Digest: HqPLbHA+sMFSfQYs42BndDopjwEFEShe2NSAo66Ehy4=
+
+Name: org/joda/time/tz/data/Asia/Brunei
+SHA-256-Digest: zh7dgfBqJE6OotCADUPfDZAa6DH0xCPtGGfuAIYXeAk=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: k6EWJlue01BLY0s56v5JNynP8/b/U1Qd7tnmAqXbpH0=
+
+Name: res/drawable-ldpi-v4/ic_tw_ic_ab_drawer_mtrl.png
+SHA-256-Digest: gbh/EtefsqVsTfFLcSLvpog0jYY0FtAI7hC8QvZec6w=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: ukgIe6XxA8BIeBpiCpKscdVufr7N3/HFli1R1e0BBDs=
+
+Name: org/joda/time/tz/data/America/Thule
+SHA-256-Digest: mQY1jShaHPCHT7wks3kMmvPRM4taH0oP2MfoG7xRkZg=
+
+Name: org/joda/time/tz/data/Pacific/Auckland
+SHA-256-Digest: 5nfmpN/cvSJWH8EvKhohzLn5nNplwXwSyPulPjhNarw=
+
+Name: org/joda/time/tz/data/Etc/UTC
+SHA-256-Digest: GN9tflQokDDbANPHEhik9i4zjnoygEDtihnMSua0/AU=
+
+Name: res/drawable-sw800dp-mdpi-v13/manager_widget_progressbar.png
+SHA-256-Digest: kWqMXEiqL5BLl5tBOG+uTQm+CkoEdB4VR6E17sTbnBI=
+
+Name: org/joda/time/tz/data/America/Panama
+SHA-256-Digest: 7rIrBxjXxgii+zb/GZrFIMPOxxQdgMM8/xJOXa/TUQ4=
+
+Name: META-INF/androidx.core_core.version
+SHA-256-Digest: wSZrj4UoIk5ZqwFBoGzBHK/tZfhr/iTnnkor9KLk/kU=
+
+Name: res/drawable-xxhdpi-v4/gm_settings_help_ic_feedback.png
+SHA-256-Digest: UnW68Ryj4qYd8XWvGVKeHvvz2udSbRWDlmVbr7Mwfow=
+
+Name: org/joda/time/tz/data/Africa/Khartoum
+SHA-256-Digest: YH4SuXd16OzulazgV8pGr3a3fD0Z++OYsCJa9CYf6Bg=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA-256-Digest: 23BJIhQ+IaY/Pg2sB0AQdTI3L0R11zrxR4kg7V/dgPM=
+
+Name: org/joda/time/tz/data/Africa/Bangui
+SHA-256-Digest: A0mHEcMEBLjeoUXpOn5vwSFSIb7WUnj3HAMO4WrI6TY=
+
+Name: org/joda/time/tz/data/Africa/Malabo
+SHA-256-Digest: jTORjxWYGdGiEP8URk9bTYa3h8mzKznvhdwUi8fja5c=
+
+Name: META-INF/androidx.vectordrawable_vectordrawable-animated.version
+SHA-256-Digest: dWUQfVfYn/yy2kofJZTWmbaPV8vVRMiFD2BhKobpWP0=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: FB+kxslOQ7g/0WnSRzf24m0FOJk6WmbKShW+Jiqa/M0=
+
+Name: res/drawable/section_divider.xml
+SHA-256-Digest: INnj1MIA+Bb9LAwxin68mDyg9ojX1mbbSsVJDppvf5o=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_galaxy_watch.webp
+SHA-256-Digest: SqsPCNuDUNuFTiEoa7xhYMq6O2e+S95eHG8ZqA6JGk4=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: gFq+h2dv+K6GkPh6mm9yxLicIuGT3yA6h9FVyG44aL4=
+
+Name: org/joda/time/tz/data/Asia/Bangkok
+SHA-256-Digest: mFQi0iVV6EGndsmaoGGG8INbzuAkmoFVJKT4BXWI1G8=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: 4RlHlyDIzTYG5Klg5AKe0Fi4c3z+iVWMOHgAh9ZL7Aw=
+
+Name: org/joda/time/tz/data/Asia/Barnaul
+SHA-256-Digest: wXEEwmncZfhKI0MZDhMbQZDdVXdn+b6K6IXYCTlytvg=
+
+Name: res/drawable-xxhdpi-v4/watch_shape_center.png
+SHA-256-Digest: HYpgc4WxS2k6iL0+0DovX0uduCMUROzW/+deiIrBSOU=
+
+Name: classes.dex
+SHA-256-Digest: xSHqZTP0dR2amhu9R6KHnhW8u5asTIXD+5DnbO6AqAQ=
+
+Name: org/joda/time/tz/data/Asia/Dili
+SHA-256-Digest: uSWbPRvdm/ygeXs3GA1tdUh037c93ubygNcQV9UAkkU=
+
+Name: org/joda/time/tz/data/Antarctica/Rothera
+SHA-256-Digest: 5MKXHo9sMO00UtDSNmozILNn7fCvxVyHj25cs00tWBU=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_default.webp
+SHA-256-Digest: 8Z3R0xbEz+7EFN8hNBo+DorbVcKnQ+eVQiTKGSHj9BQ=
+
+Name: res/layout-v21/rating_dialog.xml
+SHA-256-Digest: mURjA7bekdPfUpztvpnxRLh7no9zabua3nrLp/8HhQU=
+
+Name: res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: +pnCqZwU7HDhnwJINRkf/kJPA2/3XuBh4UMu+x/lMR0=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_on.png
+SHA-256-Digest: Fj2fcsSnVhy7nLoTQghA6MihNUcfTa+l0nh66nelGsU=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA-256-Digest: sb0+cDwAjP5MgcQsA42ML+S6rhIM0i61Y6O/e3lcFw4=
+
+Name: res/drawable-xxhdpi-v4/oobe_pairing_img_watch_select_02.png
+SHA-256-Digest: PtC06/zR8mh8Eq9u+uv1ddrPuNzjY4PDibsfKaXNukA=
+
+Name: org/joda/time/tz/data/Europe/Monaco
+SHA-256-Digest: j2fe7Z9UXp860GRxHcxdBtPTCYrzE67CFXkfSyMd3EY=
+
+Name: org/joda/time/tz/data/Antarctica/Mawson
+SHA-256-Digest: J74VHt02LcC5Zo/+X9U8Mi6FNZLg7ulrHzxuVEtv8n4=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: f/QdP0Grwhn/DYrOcK8L48iPdr49tI6JUbIsde2OQaY=
+
+Name: org/joda/time/tz/data/Pacific/Guam
+SHA-256-Digest: 2lfQwroi4IwoVFInzbTDbknELmnCaESAAdNgcDAuJAU=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: 5hMitZfkJHIfwu4E3Gsobsq2YEVskrkcG07vx6aAW3A=
+
+Name: org/joda/time/tz/data/Indian/Christmas
+SHA-256-Digest: q6MtD1mFjIsdxqIQc+77pbmdNDstpRNY+PbVDCHS0FU=
+
+Name: res/drawable/vision_button_shape.xml
+SHA-256-Digest: 8kEGxGD8MUY+1qR7n53QDi04H5VPE6oivQJstJKIubs=
+
+Name: org/joda/time/tz/data/America/Nome
+SHA-256-Digest: csi6SiVzympV90zl340EO7xkBCvzVlalHFoeI40zSjA=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_gradation.webp
+SHA-256-Digest: 9B5f2kNBtlpFobBgk4KuBsoGm93RRqhHHpiK/YlUBhc=
+
+Name: org/joda/time/tz/data/Europe/Vilnius
+SHA-256-Digest: o7ISdXAqEhof+bAB8m6n7zS3XlUJSU42hzYsJ1f9y4k=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_fit2_pro.png
+SHA-256-Digest: Msnvfz9e7GiMYiXLsKagNUWxxYpc43iq6701PU1PjSI=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_watch3.webp
+SHA-256-Digest: rffFFfvnxFRbXeRmbYMT3SXzQEAhKlEKYmYGeI0u8nw=
+
+Name: res/drawable/button_shape_grey_highlight.xml
+SHA-256-Digest: O0uPiseAQYLbgKZ3Bbc8LNL6FIt4ZPBlRUcnw55AoZo=
+
+Name: org/joda/time/tz/data/Etc/GMT-8
+SHA-256-Digest: F/46TevIQ9vfxPYMzmrADyV8+Ck/y4aW8Ay6HUn1wss=
+
+Name: org/joda/time/tz/data/America/Argentina/Ushuaia
+SHA-256-Digest: 6Y8EubmUJAwHbTScHWPxsEgaCNupi/ZZa6coX3/YmO0=
+
+Name: org/joda/time/tz/data/Etc/GMT-9
+SHA-256-Digest: BKBXlzGV92nqsiuyoiv5EKe0uIaBd+I4ZlUMcJDfJf0=
+
+Name: org/joda/time/tz/data/Europe/Gibraltar
+SHA-256-Digest: guhU2501+5vNxRTD2qPmgYR6M1MATuFw7WyqlV8u018=
+
+Name: org/joda/time/tz/data/Pacific/Gambier
+SHA-256-Digest: KkwR1w0V89ja+0WZjcS+veylQzW/fi5ZJG2pUjXqBls=
+
+Name: org/joda/time/tz/data/Etc/GMT-6
+SHA-256-Digest: o0US+jUo9nVTV06yS3zoeDzmEcLHaucpGteyE3LApwU=
+
+Name: org/joda/time/tz/data/Etc/GMT-7
+SHA-256-Digest: /kysU8/XpNfZNjH7c9ti55Sj6aNgNP21aZpJjXuBqE8=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_003.p
+ ng
+SHA-256-Digest: nHHjPmDCwxVLfRzWp+BqESWRt6+GrWEpcDdxUQyjzyE=
+
+Name: org/joda/time/tz/data/Africa/Johannesburg
+SHA-256-Digest: t43UYlhEmte73zBLAvjRD1IDbuRGPJvhorIQt2uCIUI=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA-256-Digest: irkCn2boHrQbhaLCRDQJbMxmCRH1XLFaUpcqjMp1Of8=
+
+Name: org/joda/time/format/messages_en.properties
+SHA-256-Digest: qM9BkTXn8ES1h18nZ1ggWMPYEg/nAsk2dd1ny3epGVo=
+
+Name: org/joda/time/tz/data/Etc/GMT
+SHA-256-Digest: UeZFg28xsMc72s+u4/R4L3zfiNg/gwUGSRfimQa84F0=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: AxsKYh3/nr8SnWb8R0nHznl8qjCAjoXrOe2WwV3miVo=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: j7FWrRJh5IJGkgVMNzcNJwzh78EYq4zlmhKT88xOIwg=
+
+Name: res/drawable-xxxhdpi-v4/copypaste_text_select_handle_mtrl_02.web
+ p
+SHA-256-Digest: NCr1nDSqLmBZDem9F0ImH5lExYAP+aKXJnRsDwRykBE=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: OfYj2XQETch8EzGkl30FeA4BFVRDC4YWy2JgzIYITeQ=
+
+Name: res/drawable-xxhdpi-v4/winset_buttonbarbutton_selector_pressed.9
+ .png
+SHA-256-Digest: CJOdLzvIc9ktbr+Lo8A60ziKp2/JAJLVqn/7NIwa5T8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: fZNICBntsiJ9aAXTtOqzdkUQaldwDMDhLdNDkKQ+JBU=
+
+Name: res/drawable/bottom_rounded_corner_shape_grey_highlight.xml
+SHA-256-Digest: rX0+r2KTQ22opJqPFkCfV8ha3W5Awo39znnfT4TTNdg=
+
+Name: resources.arsc
+SHA-256-Digest: R317JR/33aZPKZRKdnvpJ9nE5SsJm2keh/pAevPpiuY=
+
+Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
+ g
+SHA-256-Digest: kG4YMfmezSbvYTM/6u8NhnsxfzZf8V1ukzHxoXPnKL0=
+
+Name: assets/rules.xml
+SHA-256-Digest: UWbtg9cku2I5Af1OxVIbHRIXXxc5iePD4QbbmTFhgY8=
+
+Name: res/layout/setupwizard_checkbox_layout.xml
+SHA-256-Digest: IbAVLtb1GeCDlIYAbUEh2AobVQMpjC2KZQkfMRLaKX8=
+
+Name: res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: Kj9/GL86D6a0L/5LoDK0PZ3ysESQ/TIXhAgj/kTEV8s=
+
+Name: res/layout/template_download_install.xml
+SHA-256-Digest: o3SwVcIXyHrrCiyiAmTrG50Fdzww4im7NQupHQBP60A=
+
+Name: org/joda/time/tz/data/Pacific/Fiji
+SHA-256-Digest: LRmdVUrU0w+n0hQTGpKaYYD90nfUwF20Nojzd7K+4eM=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: 3FqCv+ZIPUxcVJhE6B0ajcVvJyfIVDv1N7z1NbiSOF4=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: EPBvRsiz8uUWJ2b4AbohfI8+y3bg0p9HRIZmjZKSgdY=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA-256-Digest: 3jnL77h4FCdXWUxVBbOG/LgMJcsTezSi/CvRRocOd5M=
+
+Name: org/joda/time/tz/data/America/Rankin_Inlet
+SHA-256-Digest: yh1jh+IWQ3bqGaE1qxSgfVSTby3jP55WWhw1PbAhALU=
+
+Name: res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: AKjsZnkoiHrlGWvJHpSagJ342dmBeWCmzy/bVWHEF/E=
+
+Name: res/drawable-xxhdpi-v4/assessments_favorite_on.png
+SHA-256-Digest: T+qk70OoOKOgRFtZK2shoyZSgFI4a1VH6AfbMDYHkZA=
+
+Name: org/joda/time/tz/data/America/Tortola
+SHA-256-Digest: 9N7+MmSr7CYR+5dFd5F/gHprkAZRdiSZwcrOGuPBZXQ=
+
+Name: res/color/abc_tint_spinner.xml
+SHA-256-Digest: WeY/XaCBSl8hUUA4L0dzBub8UDRthyBXA1BO24Au53o=
+
+Name: org/joda/time/tz/data/Europe/Helsinki
+SHA-256-Digest: ddoy982MN1+Rz1VzDUJ8smToyUcPOcI9BFzl8+vaZ/s=
+
+Name: res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: fouvgo0cRqLRLU4TD+LlMs691HmeKll6a9scXCnK4OA=
+
+Name: org/joda/time/tz/data/Asia/Kolkata
+SHA-256-Digest: PMP+lJhxW0hIgKf2MWBdU+GvAYhStWFocAORNK4j2E8=
+
+Name: res/layout/item_textview.xml
+SHA-256-Digest: 9UqeigPKJzh99HC4ZemYbAM2tgUOgNa13F8uwMBIKRU=
+
+Name: org/joda/time/tz/data/Africa/Blantyre
+SHA-256-Digest: LDFye7NX0y42fEpZ77B4pMetyVTkHd3xdsQyFnrkj78=
+
+Name: res/drawable-xxhdpi-v4/land_select_device_bg_default.webp
+SHA-256-Digest: vX7XIJfiOMtQaq5CwmmAhqSOTv95vgptUUN2VSGYbMw=
+
+Name: org/joda/time/tz/data/Europe/Ljubljana
+SHA-256-Digest: j5vLHIClBS/dIctnxVXEkhB10KA02LNqKUtoRzNV3F4=
+
+Name: res/drawable-v21/manager_popup_btn.xml
+SHA-256-Digest: J5MxuyytOi4f3zOPh5GpLscC1Z9rQzKLm3umCZF0mhQ=
+
+Name: org/joda/time/tz/data/Etc/GMT-4
+SHA-256-Digest: IOVqEcPpguwVgq+rwH0OBlHsCemXJZ5f5noc4EweHYQ=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA-256-Digest: 80nhcV25PjNwaAsD6iq9j1jbbU4sje05eFOao0uFvMU=
+
+Name: org/joda/time/tz/data/Etc/GMT-5
+SHA-256-Digest: 1wTZWLZujLgkiSzcSUfie7WiNvwZNBFajEP02stuEjE=
+
+Name: res/layout/setup_splash_waiting_layout.xml
+SHA-256-Digest: oAYCm+dqc/Vp96AvJVm/xMeti20l+BBNqBvMYKEIVb4=
+
+Name: org/joda/time/tz/data/Etc/GMT-2
+SHA-256-Digest: xf8S9HtEqzwi9+1C6+o6pUQalmnQmzFj1lvMOnLNqNY=
+
+Name: org/joda/time/tz/data/Etc/GMT-3
+SHA-256-Digest: Ihcv9rHLwrh0VXfoUUGVJ+fLc8YVhEyUcfSnZ0Pne+o=
+
+Name: org/joda/time/tz/data/Africa/Douala
+SHA-256-Digest: lQKTVQPomqfgfIgD/temBSpoKzD7LIhOEiBtcdMLi/8=
+
+Name: org/joda/time/tz/data/Etc/GMT-1
+SHA-256-Digest: 8y2D9YpnCLK4IQInShNYa8JTSvCnlpdtnc5VYTFJrlI=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: D1Xpcp0eT5Aq/BN3oXeFvyGZiAwa+YOLYva+w2YhSQs=
+
+Name: org/joda/time/tz/data/America/New_York
+SHA-256-Digest: 61NhbU+pO9nLvclJUoAcim2uryrxhm+gm8efw0T9qFc=
+
+Name: org/joda/time/tz/data/Africa/Dakar
+SHA-256-Digest: YZraxAgKkxpxy8GzhMUuWY53sfqr2yDqpLjC1tazZJA=
+
+Name: org/joda/time/tz/data/Asia/Damascus
+SHA-256-Digest: hfNQ7GAFIGBFAtIr5/Y+k+nRGun2w/umhrkbsG1LjkQ=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: efz5ARLaFstqCivtFrKjufrhb+26fHnkMpmizS8PIl0=
+
+Name: org/joda/time/tz/data/Etc/GMT+8
+SHA-256-Digest: BHDo9lmxrRTQO/mUf/Qfv7wkCbTEpzuojxVdF7jUiYU=
+
+Name: org/joda/time/tz/data/Pacific/Chatham
+SHA-256-Digest: W3Xl8pXe829FJuGbAdZP4g3InH/6zjniClfimPBloN8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: gjLUCWMCP5BwlWnaIUPhSHBliGPcSn/KDd3X4OZkqBM=
+
+Name: org/joda/time/tz/data/Etc/GMT+9
+SHA-256-Digest: DmM62wnOWQQQWXwyqav8lmQ4zNwHeMo0v05mo8PLDIE=
+
+Name: org/joda/time/tz/data/Etc/GMT+6
+SHA-256-Digest: 4KoapLNzajiRvWFkopUkIAFBjtK/yZAh2N2H//YNDcg=
+
+Name: org/joda/time/tz/data/Etc/GMT+7
+SHA-256-Digest: vdgse66Q7DwPqdEV9q+7sm+ZVXor9S0gO38wQOxZcN4=
+
+Name: org/joda/time/tz/data/Etc/GMT+4
+SHA-256-Digest: NSEvtaZFXtVI4p02ZVWUPMjJZSGjmnVPb/pT7qIrDjk=
+
+Name: org/joda/time/tz/data/Europe/Budapest
+SHA-256-Digest: Urw0YaTkamdb5s+4A9Yke7wixqBJCHTCvGnMzzimfFw=
+
+Name: org/joda/time/tz/data/America/Porto_Velho
+SHA-256-Digest: OF6wR4fo6Ccb3Hx7zs+yAP5wSuauNUpci1OqUCGnoyc=
+
+Name: org/joda/time/tz/data/Etc/GMT+5
+SHA-256-Digest: XeMKX80xAND/cQbW/xms9rU9vwWAoOeH19Zej/xWGV0=
+
+Name: res/anim/abc_fade_in.xml
+SHA-256-Digest: bHDC7/Wyy/ImRgYsm3Ne9JvZxe8DECbLe5IHXzIzdNQ=
+
+Name: assets/resources.xml
+SHA-256-Digest: mM+fTGENDN2ABL1XBKaPEmuOZ5p681Wrm+aggkMeqgc=
+
+Name: org/joda/time/tz/data/America/Scoresbysund
+SHA-256-Digest: bhzkkJXrQr6Z9q3SziRsbtYu2x+7iP2PUJdQzz5cFRw=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: vXSaYBUXU9qZBOlkyh5KtE75L67V1QHQNUoachrm7zo=
+
+Name: org/joda/time/tz/data/Asia/Bishkek
+SHA-256-Digest: ZQASCc5kK5MhhhZTTDXAx/qtCXGmnfNld0x4rVJ0aTg=
+
+Name: res/color/abc_search_url_text.xml
+SHA-256-Digest: sZ4gh9WZJeEaUGorb/UFC6zp3B5fWAcmn9iXhsFMdGs=
+
+Name: res/drawable-v21/setup_devicelist_item_bg.xml
+SHA-256-Digest: uLckkGK0VXPMr6IzN/cNc4vDKeRmin3Faz8PV2zjxBE=
+
+Name: res/drawable-hdpi-v4/ic_tw_ic_ab_drawer_mtrl.png
+SHA-256-Digest: 6itKpz1zbyFmJIP33tk9cmVt78Bk4SUxGLncys4n2gk=
+
+Name: res/drawable-xxhdpi-v4/feedback_list_file_attach.png
+SHA-256-Digest: 4A8KvpZWhGM6YroiNXbm/+oheGPMQ9wfdsRoPUuPP7o=
+
+Name: org/joda/time/tz/data/Africa/Kampala
+SHA-256-Digest: tBxAgJVDzy3d9hn9sbz7nb5SlUutdPpxz/tCtSdpAt4=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: eQiGTmVTB64Co/R28bfqJSGkg/M2/6YoOQ+5NesVRmw=
+
+Name: org/joda/time/tz/data/Asia/Hong_Kong
+SHA-256-Digest: EyGyslA6AnWcmMvLKdyTsQvOAdEKsbzt5fkj5Lj6los=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: O6dfmMBfzRQM23wqMZhyiLYxXYQVLGQJoxY5GLGf5I4=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_010.p
+ ng
+SHA-256-Digest: FQddGDfpHWGXmHW2tKff7+YvO9/Urr6nMPEVwUcWXaM=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: LNQ2Rdm3xAT/RwUGsWj2YGgsp1n1i7VWljfYuhqw7yk=
+
+Name: org/joda/time/tz/data/America/Yakutat
+SHA-256-Digest: 4BTt+WQfcVFW+mhKbUae4faDi1Gh+p5iXVZK1V6KTeM=
+
+Name: org/joda/time/tz/data/America/Nassau
+SHA-256-Digest: q3p/h+YD/vnlYxeH+G4XC02bqV28c1W47/0u9de5ou8=
+
+Name: res/layout/delete_plugin_packages_dialog.xml
+SHA-256-Digest: lzJ9NLLTxsSVRdIt3J/xDjSmg1tajcL6cGcAy36IwZ4=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_fit2.webp
+SHA-256-Digest: 5VNeNzoqLdUj0fbAjxAZO1j5V/5ukrbHwwbxw8WChRQ=
+
+Name: org/joda/time/format/messages_bg.properties
+SHA-256-Digest: u0Vr5L0+I4otZl2eJ/4JRAg/2ZnwdYkHBf5sY75LSEc=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: CA9ocwCQTikl8RltCGoUlkc7A5NLi9Wn5SKiR8vAOSI=
+
+Name: META-INF/androidx.lifecycle_lifecycle-livedata-core.version
+SHA-256-Digest: hWrG8KyIOBXmt95njmjLWy/ottbqClBdVC+zcXYbJN8=
+
+Name: org/joda/time/tz/data/America/Nuuk
+SHA-256-Digest: r1/KpTqUey6gu94zBckWxdkNa+6IxRYiHqSATDczXFg=
+
+Name: org/joda/time/tz/data/Australia/Lindeman
+SHA-256-Digest: vU64FHMG+vKKpkkvk5EstxpL5PYOoQSOlQVtDrMLrMY=
+
+Name: res/drawable-xxhdpi-v4/oobe_permission_ic_phone.png
+SHA-256-Digest: L1HQ2L3CPK9zlBaga/jcrkbafDHyVx4JvEYgg3noCnc=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA-256-Digest: NBd+qrmXdv7yjrsKX6+vUD5SUOtmAIjBXYXfiKN9Ics=
+
+Name: res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: fh1QFmAUHKguTKSs8A0yHv9uVOof9wSoU1y/qH1ejjw=
+
+Name: org/joda/time/tz/data/Europe/Vaduz
+SHA-256-Digest: nzoYV5ggjTex2GtT082n+ufw/gEwvWLOdequVrPlmzU=
+
+Name: org/joda/time/tz/data/Pacific/Guadalcanal
+SHA-256-Digest: z+VCWXZVC65xSm1Sr3HBdusa5y1+x+13uBvedfXWziM=
+
+Name: org/joda/time/tz/data/Europe/Athens
+SHA-256-Digest: J5gtZqE3NZwraGNV7PiATSCGfIZfisHkJxnn9pPmEyw=
+
+Name: res/drawable-xxhdpi-v4/gear_device_logo.png
+SHA-256-Digest: lcT1yBqhqLNOGmZguRdqmE7GObitIywsvI/xs7IhMWQ=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.p
+ ng
+SHA-256-Digest: lNrok+tF1CwpGkXPwy2st7x9iBsM5Y9zpFIWs8nc8Cs=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: vPDmKMKiqjYmhi26bO46qs1KOttdTfXBQv3S6xgfvbk=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_on_focused.png
+SHA-256-Digest: 8fCovA/Z4UPOuerL79mvGWOsFccErwJFhmAbQdKtqeE=
+
+Name: SEC-INF/buildinfo.xml
+SHA-256-Digest: zMr9dUxXHgDAQlvVDcyVkEEKWd6OHmK+BfyrIn/KAqo=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+SHA-256-Digest: C+eg4MTtK/g+q9kEV4MYm8PM3P7cKkIMl9gKQrXSwAE=
+
+Name: res/drawable-xxhdpi-v4/land_welcome_bg_buds.webp
+SHA-256-Digest: n6QoBN16gWgIblBSd6y7j0q+YWXvIyij8zaMiT7XhTs=
+
+Name: org/joda/time/tz/data/America/Winnipeg
+SHA-256-Digest: AUgqiGVkHzPEVFVkyQwTECecBjxUjr004LmwvDys2fc=
+
+Name: res/drawable-xxxhdpi-v4/ic_tw_ic_ab_drawer_mtrl.png
+SHA-256-Digest: 4j9JZyFBnQmuSyImvETcIsPVVUCFAgf1Q11Wy/SSA/g=
+
+Name: org/joda/time/tz/data/Asia/Novosibirsk
+SHA-256-Digest: Eyp7zjwR2GwAcQmwJbqQr17j+ERN+nyGo54b+noRZo0=
+
+Name: org/joda/time/tz/data/Antarctica/Macquarie
+SHA-256-Digest: 7vcoKJxc14JRhmOgRq+t57z5yKPNzu+sGAayLOCr7oA=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA-256-Digest: zZC0iJN8rFbzui4j3m5JprLSxC/9sx6gKu6DdDpx2kg=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: 1TDZZMo8wFyqbqP3jIxP3/U+z5ijjfqcvTzFoW4G79I=
+
+Name: org/joda/time/tz/data/America/Noronha
+SHA-256-Digest: VfWc7UNu924cIRfcWOgrErmuDlsUKrdT9gq1MNIlYyc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: Bn7GMgeGi2Gn7kY/q1Ugz23GhHiozddyzVxAwRzYexg=
+
+Name: res/drawable/item_shape_grey.xml
+SHA-256-Digest: KHAeGJECr7Hab/WO95dTv2cTGVr0l6+cumObdA11sQ8=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: Esl0sHGr9/So2zXqtw2i3SjGLr3w88mbr3cayrX8O4s=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: cLbK7Df/Oxz+LToaGwBQvlZ8EXqgKzmQHjUOkrNhvr8=
+
+Name: res/drawable-xxhdpi-v4/watch_shape_watch.png
+SHA-256-Digest: 7rwBwHxy7hTurh+rH+TFPz6sIJe513mkJImLJorG3n8=
+
+Name: res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: /T5GSyc/SFdCmmkRyiNp6LTo/8E/386q+HGUgqgOW+8=
+
+Name: res/layout/default_download_install.xml
+SHA-256-Digest: YEKYDsnB4JZQsPI/+styIUFH0/W4GnO7GJzyVqXbmOk=
+
+Name: org/joda/time/tz/data/America/St_Thomas
+SHA-256-Digest: 4+ElAqiDvgSk1/l5WbjvObCIZHWm9BLZEoGs5s33tx0=
+
+Name: res/drawable-xhdpi-v4/oobe_drawer_ic_buds_live.png
+SHA-256-Digest: hTBFzJL2opgP2U05bM3OSNhmQHgyzyophFbERaTQ6os=
+
+Name: org/joda/time/tz/data/Europe/Guernsey
+SHA-256-Digest: iCLBfqZS8MKhX61fJ6L1RMLgrN2gDEBmJptNvGJDkwc=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA-256-Digest: pdj/fsvK6p1rUHhBRAUupoWea3to1eDTkw3nAXm+kl0=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000
+ .png
+SHA-256-Digest: JOxyVKBgWsOnuMsM8jzTb+QsaFxlxmHYqqk7ra/U8UA=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_gearfit2.png
+SHA-256-Digest: VuDzula6GAa8AYcIr4JQVOHWD4CTfV2YWPkF7SpRCh0=
+
+Name: org/joda/time/tz/data/Europe/Busingen
+SHA-256-Digest: a4K6ecGYx9UDdL/dD1HBy8b4GGnLPQ1U9exM5IbiRlU=
+
+Name: res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: uTo8tUD35rnLQszJKVe9C2Z5H34htodDfLpUaIIu1kA=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_off_disabled.png
+SHA-256-Digest: z6x0yY7lspTVb4KV1MkGxzWji1sfImkVhVdhJGCISbg=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: 6wnTPP1VP1fa9qrhDwd1HcaUuAmMyIsq2cC9w6NEx/Y=
+
+Name: org/joda/time/tz/data/America/Santo_Domingo
+SHA-256-Digest: lZSzOM0timVdBdS7qOFZ7ZCGT8KdfN1qPr3BPBO+DzA=
+
+Name: res/drawable/pick_gear_item_background.xml
+SHA-256-Digest: YFj4abxpN8NHV5B7iREcUWZ8Wd4nxoP1PVG4mpfCsaU=
+
+Name: res/drawable-xxhdpi-v4/oobe_permission_ic_storage.png
+SHA-256-Digest: KIsZAXAHRYEZLYkc0KsZEDEArNH8aR6BfH1Ndzu7epA=
+
+Name: org/joda/time/tz/data/America/Blanc-Sablon
+SHA-256-Digest: yCG9hj0jEzHQnU++sTnXA3iaAKzs4NdKmgf4Ypn+Mhk=
+
+Name: org/joda/time/tz/data/Asia/Famagusta
+SHA-256-Digest: OOlxGMdMQUlXrXFf4V0Eo0GT8QdrxfgXCZ2tsGbyhzA=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA-256-Digest: 0T8uAFrQPN/wTJqvPuz7taWZ4bCCBSLBNVNInTcmkTo=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate4_holo_li
+ ght.png
+SHA-256-Digest: Izcq2cgZPXkgQmKTMyYzOU8UzjAXNO48U+obimFv4Kg=
+
+Name: org/joda/time/tz/data/Pacific/Pitcairn
+SHA-256-Digest: XOri0LxxLdjRRYL9asufH3x75RziEcNEI8aiepxM2vA=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA-256-Digest: 7YCdp8qL2McLLBh26M1oUQHZhkxf8JYVGCgjR/0YTe4=
+
+Name: res/drawable-ldpi-v4/galaxy_wearables.png
+SHA-256-Digest: kknLkNPdCC3G9D46BuWEkDEda6J9TD5lb+Vpajst6lI=
+
+Name: res/drawable-xxhdpi-v4/galaxycare_detail_ic_ask_again.webp
+SHA-256-Digest: Mdd9ZzzoFUHuXekuuCsJiZvXsQLgnGqw+IvDJyxIy6w=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_galaxy_watch_active2.w
+ ebp
+SHA-256-Digest: qt+p2krtP9cikHkhF4QT86/XllqqMbYg6BJZ2LSgh0k=
+
+Name: res/drawable-xxhdpi-v4/audio.png
+SHA-256-Digest: b7RaSKq9YxqsKM+FiKB/2J2kRl5rqOyUN8ePYLz3Ab4=
+
+Name: res/layout/activity_contact_us.xml
+SHA-256-Digest: tpBgpZzqhEwUD1PvZYbmWRrR9ybnbEhfQVORg4j8hM8=
+
+Name: org/joda/time/tz/data/Asia/Atyrau
+SHA-256-Digest: rfQd94l6Sm6+rnTWxomBaVd7aCJ1u8S4hl8d/eVkjuI=
+
+Name: org/joda/time/tz/data/America/Vancouver
+SHA-256-Digest: ezn4t5Ji7LdUMykZun3Ga1zjnZkUuWcui4nPVTZo4n4=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: bD9vNf5Uk6IWngLosgW8trkqXTbsBsaYsDj4LXJpETg=
+
+Name: org/joda/time/tz/data/America/Sitka
+SHA-256-Digest: a8mNqcL5EKJg25j2V5eeu66XvYaVPJLbC0DnNCojcLM=
+
+Name: res/layout/abc_search_view.xml
+SHA-256-Digest: NpdUFSRhHCZWB/XpDHYGeFtt2LI18SssXDqqquT6/G4=
+
+Name: res/drawable-v21/permission_button_background_show_shape_grey.xm
+ l
+SHA-256-Digest: x/2K4LrWxen3DZQs6tE7gEpmCjtER/XXz3NqwCLG9Hk=
+
+Name: res/drawable-v19/navigation_back.xml
+SHA-256-Digest: fClQw7kLv3ifKu34H8hIgiSTQYHdFAQ6XkLMxexxxiU=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_011.p
+ ng
+SHA-256-Digest: 4qbfaBTXUqihDo2PV/aQQCwKJHuOn1ilkmkRg1H/7eg=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: ceYxmx48ddzJ7hbwaNiazqfWTHTDG32qHu9CM8pIgIs=
+
+Name: res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: 7kyoLfn/WBHJEYVkcDVKId1HZhnRjAfk3ji8FLHUAQ8=
+
+Name: res/drawable-xxhdpi-v4/tw_section_divider_mtrl.9.png
+SHA-256-Digest: Q2oLHvDFe3MUUhP4if7ZOSDiXGGLpF5LswkUUtbRuSM=
+
+Name: org/joda/time/tz/data/Antarctica/Casey
+SHA-256-Digest: QNAF9CT/bpVi9ueQh3hCqDIG//pkrCCEawjtrf83hmE=
+
+Name: org/joda/time/tz/data/Africa/Libreville
+SHA-256-Digest: 8hNhVRUwrOQrdqHcDAbEeMjtFGEz0FuO3gYA5AJXSb4=
+
+Name: org/joda/time/tz/data/Australia/Hobart
+SHA-256-Digest: ZCO8hHFoAo84ksEwLJONCyGh0tNnBkL9FcvCQ4V96HA=
+
+Name: res/drawable-xhdpi-v4/oobe_drawer_ic_buds_pro.png
+SHA-256-Digest: JvEiyJHPMMevFhLb1FOqgEwU6D5SkWRkBNnfUOs6Sf8=
+
+Name: org/joda/time/tz/data/Asia/Qostanay
+SHA-256-Digest: MbA+hFEydAO3GMboJ7am9FODSKGlyFmTstF7K2FI+Yk=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: UcrXW2ElY1qt5dfTsuSlaRj5YzoOKQ6qQH5GeDt/B8E=
+
+Name: org/joda/time/tz/data/Asia/Chita
+SHA-256-Digest: VrYGyfvoAgBDvFcmE4Wa2owvqCZkYsOhdziFavqXNgg=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA-256-Digest: GqIIjocs1HTWKaRirA4VC1kDRh7m0s0MoXNO4pwA52w=
+
+Name: res/drawable/below_shadow.xml
+SHA-256-Digest: +pBNlqv7cvV494j1f9xqTWvpCk/2A0QJGaxD7/Jmuhk=
+
+Name: res/drawable/list_shape_white.xml
+SHA-256-Digest: W01l8MGBb8nqbHfWMfMzePJ8oDzmoQfEO78VRibCNTs=
+
+Name: res/drawable-xxxhdpi-v4/copypaste_text_select_handle_mtrl_01.web
+ p
+SHA-256-Digest: dvoOMvM4qFHkLv0l/wM+lL0FpbiI/3CUq9Y5smAWyyg=
+
+Name: org/joda/time/tz/data/America/Resolute
+SHA-256-Digest: cmwMqXe3a76M7GtkhF9dzatN99CZbWW6GBfn5jRBwpE=
+
+Name: org/joda/time/tz/data/Asia/Shanghai
+SHA-256-Digest: jlmEJwCnMxsYCQxobLXuF/qDcvnEjSW5xvjQUXBTkLs=
+
+Name: res/drawable-v21/dialog_popup_btn.xml
+SHA-256-Digest: SuNcCL1nrSVoZTrWjp8yWGjQ8mbSV5xrcCN7mcng0HM=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: i3bX7KWmY+CW+I9JGf2P5NtR7RogfNDJj4444W0CFec=
+
+Name: org/joda/time/tz/data/America/Chicago
+SHA-256-Digest: y7/v+TinnL2LU8Mbw0NDr9KSaFxJhDsgbi8Ce8xEyQk=
+
+Name: org/joda/time/tz/data/Europe/Riga
+SHA-256-Digest: 7xIlXhwG1hOhzqUsUcWVpJQ1SCrMDK01oOzjZy3kfhg=
+
+Name: res/drawable/tw_noti_badge_mtrl.xml
+SHA-256-Digest: U/IORZ+O4lhbnSFNt2/pp5vOjqNuACaniUPA+grwjws=
+
+Name: res/drawable-xhdpi-v4/oobe_drawer_ic_band.png
+SHA-256-Digest: +EwLM8sYvqnjKeDW/eqgSXMyChhoMwWQzt6U2R59gkI=
+
+Name: org/joda/time/tz/data/America/Cayman
+SHA-256-Digest: TVWfMXKmLoUoreVj3KHro5zCV0uTHgN5eGCIYxDJ6t0=
+
+Name: res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.
+ png
+SHA-256-Digest: Wr3zS670tTwkAm8uocSW88MbhM0Mt2zXv3F0WQoy7+o=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: WiYB9xuFDvyoyVe70IzlKXqOnadjNCTuE1/48i1Cl2c=
+
+Name: res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: BFTzo35y8S2nvZjyWmjfBoAktDhupfuJgLuE42M4X/0=
+
+Name: org/joda/time/tz/data/America/Indiana/Indianapolis
+SHA-256-Digest: /Q0Bv3XEWBq8MwvzXBjPTfaRXieNGiEGBRA4S2Dr70Y=
+
+Name: META-INF/androidx.print_print.version
+SHA-256-Digest: GyoSUnks4q5sEJOfOqlgJVt3iSxcu3SprMMpsSskYIk=
+
+Name: res/drawable-xxxhdpi-v4/winset_progress_primary_holo_light.9.png
+SHA-256-Digest: /ls0j6QXR9VCY3SARPJ73gy5EnKQZlz1pBNtFsr6uT4=
+
+Name: org/joda/time/tz/data/Asia/Krasnoyarsk
+SHA-256-Digest: bGoY9oi9mwfxCrB5oAD9WUBn5qW4++kjJ6TQtOmcZ5c=
+
+Name: res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: uJEj9YCALHOnm1Zu5V+JBwRzL8BfytksYYc6NasmAFQ=
+
+Name: res/drawable-xxhdpi-v4/assessments_favorite_off.png
+SHA-256-Digest: 944M0HRFN4PRx5o6Ujm0hmuBIT4bQSWJVUaIR8MBAxQ=
+
+Name: org/joda/time/format/messages_kk.properties
+SHA-256-Digest: vAtSTBcMd8cNVEr3AhrCXqIrUSbkYMjl49MMyOGPJD4=
+
+Name: res/drawable/button_shape_grey.xml
+SHA-256-Digest: ECSgdXjEEZ6zQqh88LzQdpwTcRXE/9UmG7cEyzIyfcs=
+
+Name: res/drawable-mdpi-v4/galaxy_wearables.png
+SHA-256-Digest: aATZItCmJScIyQLcmnbk08tCikIQyTo8Urwu9rrCLl4=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA-256-Digest: ihh1Kn3nG5s0LvgBt/jRJPPFTZvw5sflPUhGszzy0fs=
+
+Name: org/joda/time/tz/data/America/Swift_Current
+SHA-256-Digest: uMQan0/c3scexqVuyGajxglKUg5+onGKqwMqrOeeNgU=
+
+Name: org/joda/time/format/messages.properties
+SHA-256-Digest: ydvHwpANEkH12wM3l5Hy0OCi6guxMrnz/creDuRLuLE=
+
+Name: org/joda/time/tz/data/MST7MDT
+SHA-256-Digest: cGtAsXrW3mWqoQNt8u4gSABx6oYXgl8BmC4cU2t/m20=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA-256-Digest: FepoKtabezo6LsjEEqbJfB5QDcrTB1jcAqG1EOfFSds=
+
+Name: res/xml/filepaths.xml
+SHA-256-Digest: 1EIKG77rUG/a0o/PoJHxzWAQ5laD3zEMzD2c9cP5x/8=
+
+Name: res/layout/infinite_progress_switching.xml
+SHA-256-Digest: yjoOyZk6zhbdk+VeoSRX7KfH3RRr80e/hdMQWQJnnTE=
+
+Name: res/drawable-xxhdpi-v4/tw_btn_grace_default_mtrl.9.png
+SHA-256-Digest: pFHpGGgDQA7DU6EvtVEs6m65RfWzue0pU3/bQInmQBo=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA-256-Digest: RuXZIiQ/3vpVTOfU2K6f34OuxuLgP6hIT3/ZvxaPic4=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.p
+ ng
+SHA-256-Digest: PYFohSEIkA2CdSKHu62F8Mz7E85Y4yDenX2egX9MRlo=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA-256-Digest: aUuxnP3ckuuPqMnathkDqiIrwvEmOJQ2MBJGm5bFdN0=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA-256-Digest: lMDRELJYsbCQ9QilLe/AecIUWWwdCiyGS5J7IG9zWys=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: Af+RkJ0mjWXd/0I3ClX9TCOqGcTlw5jhenM43g4BfJE=
+
+Name: res/layout/toolbar_layout.xml
+SHA-256-Digest: twcxZOKIbXnyPt58rlEkyTtHMEWS8aNLLv3bwqum/Xc=
+
+Name: org/joda/time/tz/data/America/Lima
+SHA-256-Digest: y1fM2R2Z96d/AXABUVO/p1TigQsS112E7y1tzI4IUAA=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_wearable.png
+SHA-256-Digest: M21/+RTIVe/GPpDNpeOKVSbNKjd8xTuEwCReL2nvL0k=
+
+Name: org/joda/time/tz/data/Africa/Mogadishu
+SHA-256-Digest: f6/OyiXTSVAtxEX6EZdEPBA06oIDX5IRUd+sj2/qVWg=
+
+Name: res/drawable-xxhdpi-v4/winner_welcome_bg_budslive.webp
+SHA-256-Digest: 1FugBWBR5BpiTPeYofX8arPpLrw3PrErv3EqDpPmsiI=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: IN3boHRsyPavFtVhdnvWn8o7rRffu0KK6ZndIrAAdRo=
+
+Name: org/joda/time/tz/data/America/Cuiaba
+SHA-256-Digest: L9cCetJys+2aa6s5z+5IZ8UE5dc5ADdswiO8JDY9avI=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA-256-Digest: xJKGkG/HugSaZJBG9n4ByVxcpUDr126q5unAENDiKfQ=
+
+Name: org/joda/time/tz/data/America/Argentina/Salta
+SHA-256-Digest: ugeFcCjLRUbol5HIJYT0rtRblhdcrj24jpJf8nvKTN0=
+
+Name: res/drawable-xxhdpi-v4/oobe_permission_ic_notification_access.pn
+ g
+SHA-256-Digest: 4IbRZM9ia9MOkY+ziL6DbSDq9jtcsl8rKpFvLQ0SSCM=
+
+Name: res/drawable/button_background_show_shape_black.xml
+SHA-256-Digest: IZdqczLrYxxFQ1byN9n9yk+7dCgb49sp6aUxCgxCLVY=
+
+Name: org/joda/time/tz/data/Pacific/Port_Moresby
+SHA-256-Digest: OAtF9PoGf1Ic8iiQ0uo/MZYyd1lJMqtUKoGwRcbUlWg=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA-256-Digest: NRX3AncN9O5WyxD9DvT6SqJWM1GLY9SK3BYfuN6clK8=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_off_focused.png
+SHA-256-Digest: WIV80IMyfxgXZ1q71oFzsoNnIi/qy5Gz9GZS+DGQ5A4=
+
+Name: res/drawable/edittext_cursor.xml
+SHA-256-Digest: tlcWL9IZfMlMlOEu13IRl+A+wGY+SIdl/5+sG86Q6AE=
+
+Name: org/joda/time/tz/data/Antarctica/Vostok
+SHA-256-Digest: GxLzFruAE56nDbSH0A+WGo5hulEX64W23h4ucqARNyg=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate2_holo_l
+ ight.png
+SHA-256-Digest: O+bXJTo/IF3rddtkHndXngmp/Kw1WuiYiSyKBy3Rh5s=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: vL5JaOIEj+2Br2dc7Jpb63Px1sQeYFpgt99mDh4C2fI=
+
+Name: org/joda/time/tz/data/America/Indiana/Petersburg
+SHA-256-Digest: vrsqj6yZov5/BU5F0uuO2l6C2SiyeNG2d76HL7SDmzY=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA-256-Digest: 1IOBSM3TkPvrlguytZTPhQODbjDiz5jGz2wRu4LgKss=
+
+Name: res/drawable/bottom_rounded_corner_ripple_effect.xml
+SHA-256-Digest: j7xM9i7of/y99oZt9RUBvkOEdN2gbSUOoNl+jI6bj34=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_012.p
+ ng
+SHA-256-Digest: wyxYVxGg+cIAVwDAssLNsP4uwJzsaYLw1eSts7xMOL8=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_s4.png
+SHA-256-Digest: fBktvI7k9Os9wEneLNanC6fYCp01L1ecGeZBEjjOyIA=
+
+Name: org/joda/time/tz/data/America/Argentina/San_Luis
+SHA-256-Digest: uM1ZBU7iVnyZ8lRBqrTZojupEzpUmQHViiC2M0yEARs=
+
+Name: org/joda/time/tz/data/America/El_Salvador
+SHA-256-Digest: 4ZznUf1ONx2h4LA2drcMbRdxEa03qol3YLlpslfjhzU=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_fit2.png
+SHA-256-Digest: kjWoIuOJmpw/U6aLJqGY2RIknOjHe5+aYIt5BuEcKNY=
+
+Name: res/drawable-xhdpi-v4/manager_btn_check_off.png
+SHA-256-Digest: sO/uDYHJ2Q3FWIVufYy2/sWlOigk147sRUvZkHu+sOA=
+
+Name: org/joda/time/tz/data/America/Miquelon
+SHA-256-Digest: l8SHsJQ4rE0vw3ZRz0rT1ATZJ0hxhshSiRSpKGdnRrA=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: iEuQMPD4JA6OfyH6DjlPKH1LAV4x9nLJT3KQnHl9hzQ=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA-256-Digest: LlX43QgPj+bmNSbyVtoXdGPRttXMB/D9Y07utCGaW8w=
+
+Name: res/xml-v21/xml_button_selector.xml
+SHA-256-Digest: mHNx0LuWIt6/AzRTCANQh+hPOlnz3IaoatK1clQvluE=
+
+Name: res/drawable/abc_vector_test.xml
+SHA-256-Digest: 31FhFmJ+Meao7TfxcsgGH09lTma98GW5Di1tfxKMiYw=
+
+Name: res/drawable/list_bg_highlight.xml
+SHA-256-Digest: xrpGyusn73IirfqVydreIlA5xd/uWmaeCKTQQUm+C6g=
+
+Name: org/joda/time/tz/data/America/Argentina/Rio_Gallegos
+SHA-256-Digest: 0gt7mwRK1UpX+Emi4AGBG6oIFZGtQAjcffBF80RZhLY=
+
+Name: res/color/abc_tint_edittext.xml
+SHA-256-Digest: pemc94PXLttdR3rqLO2EioxxBmSQwO+9FIKLMaxfy9Y=
+
+Name: res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: 9r8SPPrM4fwN71sJBakV7FQrouP8IGjkbd8NXnC6gDs=
+
+Name: res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: rGHzkAEK/V2MKZSC1vhj/YX93Cb6IYWXGXGJmoIAgx4=
+
+Name: org/joda/time/tz/data/Asia/Kuching
+SHA-256-Digest: EdsCqve8JCdXGbz6tZVe2jaB2orw07f8u8lPPgOnfss=
+
+Name: res/drawable-ja/gm_ab_logo_iconx.png
+SHA-256-Digest: 7aQI07rS8UsPEmPxgYPuq6KD5fbzmoQ+V8oUR32sSoc=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA-256-Digest: XPm3Z6adffOrCYFXLH3GXzcTWgL34E9h1rjVRDS9M5U=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA-256-Digest: mPnnjDOF9rpIA+AxW0UNpwo7rP9X9smUkGGdae/DI1Y=
+
+Name: res/drawable/roundimage.xml
+SHA-256-Digest: U3wflTvgqEAR9VIIpxZqNcfte29Ro8ikXf6sF/xpasI=
+
+Name: org/joda/time/tz/data/Africa/Asmara
+SHA-256-Digest: JsY92K7z0ILur/UoD2nUSmRo0R09aML2RQ1Y9cM3aLk=
+
+Name: res/drawable/manager_checkbox_selector.xml
+SHA-256-Digest: SjMZCCJhoZ/mLLQAD/ljRmOpBPDCZIqJ++CiVxlgLSQ=
+
+Name: res/layout/screenshot_thumbnail.xml
+SHA-256-Digest: MG9zbcNi3zlgzWQMZoaHosfqIDLmGMih7tw+K4SeN7M=
+
+Name: org/joda/time/tz/data/Europe/Mariehamn
+SHA-256-Digest: bzbXPq5zyFZPRv+5xPJW5ywgwWnLfgqMAJ19fUrJvEg=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: wAEjAhJdVZHXx9VfI2ECNdUvpyNfq0/GiZrAlhofePs=
+
+Name: res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: PDnx9zjJ2NWYeLKI7agYj7iodxgXctPsYgr3y+Sssek=
+
+Name: res/drawable-v21/bottom_rounded_corner_ripple_effect.xml
+SHA-256-Digest: Uu5ocfPJi88QnbzEho5LlcK9xqw+B2L4WgXvxrgTbus=
+
+Name: res/layout/activity_setupwizard_check_update_waiting.xml
+SHA-256-Digest: d9qnNajuC5Ook46kiMdXiezVxMd0ERVQL7XlNISAtLQ=
+
+Name: org/joda/time/tz/data/America/Regina
+SHA-256-Digest: mRZo49MU2XdIE7UoU3yWIcq5zzbUxSlWugd695r7eSc=
+
+Name: org/joda/time/tz/data/Asia/Karachi
+SHA-256-Digest: kCtHuS6q7wB4cXFsG/Lf2ld0vAFFcXCJjiEihMA5/M4=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.
+ png
+SHA-256-Digest: 0hCZppRCwoPmuuTEo1R3JT5SlTSwYOU74aRJmOdo+k0=
+
+Name: org/joda/time/tz/data/Europe/Tirane
+SHA-256-Digest: gr//NAL0U/YmfMEIVh5pbeLP9463ILsl+RzzfnfDl6c=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA-256-Digest: 3Ym7NM5rrfcTPbjg5EOIzZoKGIeynE8dO0aFt2153H8=
+
+Name: org/joda/time/tz/data/America/Jamaica
+SHA-256-Digest: 2LNeAlBVHfVZvMdsaGANab/X3Twy3oTImP2ieDvfu+0=
+
+Name: org/joda/time/tz/data/Pacific/Galapagos
+SHA-256-Digest: xT4b+eucDf8x9uUtSzghph1Gs/xJ96MW7z1Yd1oGifc=
+
+Name: res/drawable-xxhdpi-v4/tw_ic_ab_back_mtrl.png
+SHA-256-Digest: GvRUF5sGfzjvkHtJiN7rfL3P0K4ou/NGga67loKx27g=
+
+Name: res/drawable-xxhdpi-v4/winner_welcome_bg_neat.webp
+SHA-256-Digest: 16xxTQA0lh+lbNRrkMY2zqmW8vheG9blU1b7MxDrmTg=
+
+Name: res/layout/notification_template_big_media.xml
+SHA-256-Digest: 78OALF7BvQsKVZi6Bmop6mGhaah1aS6YZaO6e2nUZQw=
+
+Name: org/joda/time/tz/data/Etc/GMT+2
+SHA-256-Digest: w9ggpDmxrrSlVbPscBSfwY/VSHtXqi8C/pQTp64QuSM=
+
+Name: res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: P+YilZ03vhjl2wdNoRmIO8ihq0R7hFiYTHB9XgweMOM=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: 67QPdl16efoqewpsWxC+LUCYPXl4kxIDPHj9Rad6o9E=
+
+Name: org/joda/time/tz/data/Etc/GMT+3
+SHA-256-Digest: p7RoBNx1X3eCfnfrgZwnGXqfCwXCVjeAAw1ueeaYMps=
+
+Name: org/joda/time/tz/data/Asia/Aqtau
+SHA-256-Digest: iP2xIz3LGR4EUPS1/1LjZhKfbG0zv+5Uw3Uq4Lra1OI=
+
+Name: org/joda/time/tz/data/Etc/GMT+1
+SHA-256-Digest: t6X6xWtNjwSO0vmXDTvpsy/RS8QOU5ECbzqmcFdsvuU=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+SHA-256-Digest: 5U5zZtUNyr/hbpA+tk89gfiJ2rdMTmZmMdqUfF+5gBY=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA-256-Digest: I/MKNI+Qb4Dv/dQ+JW2WYMh63q6JHWeMOf7SPnrdAaM=
+
+Name: org/joda/time/tz/data/Asia/Tokyo
+SHA-256-Digest: Hgw2Su2txjahvXpK0zzzGDS4eKhrkCF2tg+BYRSCW6c=
+
+Name: org/joda/time/tz/data/Pacific/Palau
+SHA-256-Digest: 58E8ACLm2fDnKkAkURy2sNs35QYA1mD0os47GURud9U=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: om1TsrryaqvsqF5GmGIXvMxpItuj2DnLrSkIK2QCGrw=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: e16Z3lBylbmIotIXO0QYkgWhWX879GWDILhD+IqQPrc=
+
+Name: res/drawable-xxhdpi-v4/winner_welcome_bg_galaxy_watch3.webp
+SHA-256-Digest: eR6mZbWUW1ODPhOgEp6bI+yojHBkObxf9t70T5xGCzM=
+
+Name: org/joda/time/tz/data/America/Argentina/Buenos_Aires
+SHA-256-Digest: osRI+Jf1PEmirHf5sY8H2uuJMM0dfX9gac3YXf6k5Q8=
+
+Name: org/joda/time/tz/data/America/Moncton
+SHA-256-Digest: Qyeefs/diQcGsw8YLSLM5n0QhfiQLDa5qXZDDl75LwQ=
+
+Name: res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: HN7MBtO3Z7qIf/CVGSWir37ZcoFSHWYVfzUhyaj1F4Q=
+
+Name: org/joda/time/tz/data/HST
+SHA-256-Digest: bKjvr/1YZdAkWhcgjtjnNs73J4D+PusTjZK295N9y1c=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA-256-Digest: CTaqjsMzG+hmXjU+V1SVASAOFrpxzwt9DCLZKo7Tzlo=
+
+Name: res/layout/fragment_background.xml
+SHA-256-Digest: aYoCLLogWQlw/9M2m9epIuuy8STbip02KCO57Y4AxMM=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_fit2.webp
+SHA-256-Digest: 37hfrPTWuExiN6lFjR4pJlt0ItYePbnLnxofogHBxzM=
+
+Name: res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: i7a7i9upBbRANebzif+gIHRh/DRB4iaLVhLInnMYR5s=
+
+Name: res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: WGjuYWw5AAaerhGiFM6SIdt8gyXYYMt/FKR79fUOji0=
+
+Name: org/joda/time/tz/data/Asia/Ashgabat
+SHA-256-Digest: QkV8LTENNaxIV8rehEumUq1NRUeFH4vUMPEla3PQZTg=
+
+Name: org/joda/time/tz/data/Europe/Samara
+SHA-256-Digest: xnhX+MPzeoEcMmkIOgEDyHwCNYr9kfwmuzntWmpxkdg=
+
+Name: org/joda/time/tz/data/America/Rio_Branco
+SHA-256-Digest: QxoXwn0Gsm2csffiAtziyYe6vzCh5KN+2kKcBlW+BzE=
+
+Name: res/drawable/button_text_selector.xml
+SHA-256-Digest: sUUITRA+7TzmrdQDnfxok62DcRjip2B/inxuAJ4I4rs=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: Of1GLRHfjXsgRz5pwtqKm3INUIVvs0XOur27BXPARHU=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA-256-Digest: ue2g0MLIhRdRfzB7OEZsb6RkeHER8HAMXoJhfjOEVuY=
+
+Name: org/joda/time/tz/data/Pacific/Chuuk
+SHA-256-Digest: zmY8vJkf7ZWrHDlysWxOel0x2YcaJOe16mciCF81s5I=
+
+Name: res/drawable-ja/gm_ab_logo_fit2_pro.png
+SHA-256-Digest: /Q1BPmhn0lhPMf4JdkHqdJO2fw59l+K1RucKTQbd1jY=
+
+Name: res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: Vdky4V1Sqk1up+GYIY0JEQi5oLuRVEkT+YZdqTDQvCQ=
+
+Name: org/joda/time/tz/data/Asia/Muscat
+SHA-256-Digest: BcrzAxIHE1bodPyBfwryt2ppBJe77g55Yt++wnoZfI0=
+
+Name: res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA-256-Digest: Si/x4LOok+hYSDCSo11F6EAQey3TCjZcPSa9pEbt8T8=
+
+Name: res/drawable/manager_popup_btn.xml
+SHA-256-Digest: rFl/AbEuexbtLvWa+XquBajgoJt7/62TIg9eiPwvt/g=
+
+Name: res/drawable-v21/button_background_vision_show_shape.xml
+SHA-256-Digest: JDwwXVDx9Y1LyoRYedJn/wB/DqjDArZAeQihaY/SBDY=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: srOgcma5gf4qwjTbJdMV2tD0j3jnwd53KQD55xwIyhU=
+
+Name: res/drawable-watch-v20/abc_dialog_material_background.xml
+SHA-256-Digest: DQregNAKDfPh+oNd3tUqla+G+8K99l6kmy9cck0eoiY=
+
+Name: org/joda/time/tz/data/Pacific/Marquesas
+SHA-256-Digest: KnzBLLOUNB27zMvq+TB/CzKubQqEUmenEm67x2VaJOg=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA-256-Digest: HGDQaq4HtGXJ5Wojx+H/txl+rAlZdKa/qdHyXqSPXcw=
+
+Name: org/joda/time/tz/data/Europe/Rome
+SHA-256-Digest: PQeRsoKSzL0KDp9NDcEnPOEp01KP1/XibVrnkAA8NyU=
+
+Name: res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: 4x+3uaQJdSDaHiNDdT/DkzuHBjBDb8RmqHTGTJ8GqJ4=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_013.p
+ ng
+SHA-256-Digest: RVzFwyhbKnVlq3uAdQKmbTja7+weEnnqhFyCGTGU4l8=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA-256-Digest: 2nvUq5ZJ12l0aCOx1BWEjwcZ7t2Bl3UUFNnEhpf9lG4=
+
+Name: org/joda/time/tz/data/Indian/Reunion
+SHA-256-Digest: uRL/sE90E5FiDTHDYqQV3MqPJVHS1I6/afyRHK6Ai9Q=
+
+Name: res/anim/activity_fade_in.xml
+SHA-256-Digest: 1CAAKhF7DiW6pFbNLTor7NEcxiOJCP0//66fAITX7L8=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA-256-Digest: 6Wf2NgE1sjcD2iCePyAr+7bi4vx8taZ0nLXzTTmCQKY=
+
+Name: org/joda/time/tz/data/America/Mexico_City
+SHA-256-Digest: o9/qicE2eq3M3O0eGTT14+mEvqgCBExzr/N+aAEGfnA=
+
+Name: org/joda/time/tz/data/ZoneInfoMap
+SHA-256-Digest: zdGBCxbiSipiTdFnj+zaFNFyXNGRPzMFMTsKIdikPaE=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA-256-Digest: AMRfnVzA3PZndIVP+iwO1O00LYnnHRjT4m3hPw5ZS9Q=
+
+Name: META-INF/androidx.arch.core_core-runtime.version
+SHA-256-Digest: PjygIQMN5T6nIKT/hi5PFaxVcEB+W20fr4f0g2n7jrg=
+
+Name: res/layout/abc_screen_simple.xml
+SHA-256-Digest: vD09L2G6hRcminOggUgo49LWuWXsbgt3OjidgZY2JYQ=
+
+Name: res/drawable-xxhdpi-v4/galaxy_wearable_background.png
+SHA-256-Digest: m9T8izb/rndP8yKJsn1SKeVA3bR2yrY3tkJl+Zbvdd0=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA-256-Digest: eHAkpJgcW+O3bevr49AjsyBL+PbxRNxLhShVjLOjo4g=
+
+Name: org/joda/time/tz/data/Asia/Urumqi
+SHA-256-Digest: sMfVwgypi2YxfIzSA4zhxkKgqfT+O12/F2o30VbwApg=
+
+Name: org/joda/time/tz/data/Indian/Maldives
+SHA-256-Digest: qytkG6w5IB0f25i8ErhUe5lxsvDBNj73A1HTHSfWSRg=
+
+Name: res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: SIdhFUIZQbwAiiLoJYLf5k5QwLSHmYHY8d2nrnlil00=
+
+Name: res/layout-v21/fragment_ask_error_report.xml
+SHA-256-Digest: hlaK2mMXA/pVQkZBhjU6hvymYWVYeYzpLh9/tr60U4c=
+
+Name: org/joda/time/tz/data/Europe/Skopje
+SHA-256-Digest: +3ZztYCzQdbTpbHk4cpMgsE0XYyqsiEYKISjYGDgH/4=
+
+Name: res/anim/activity_fade_out.xml
+SHA-256-Digest: kphquF4ZSPaOej0z0C0VNX5patQa2EOkfeksFP9/SXU=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA-256-Digest: ry6o7YaaFdANTkiaTDXv/o/rdVnaDFDOKksAv9Z9Ams=
+
+Name: res/drawable-xxhdpi-v4/manager_list_selected.9.png
+SHA-256-Digest: dzuIeB/2vq8vY+3uupXSJYLJa51Jgl87uCHfJygsCpE=
+
+Name: org/joda/time/tz/data/America/Manaus
+SHA-256-Digest: m25Nr3hmjUfQDdJ7Ze9TOetCC29OXUKAzCakH8Q9zs4=
+
+Name: res/layout/item_list_permission.xml
+SHA-256-Digest: kXjB2iOi5j4XbWZc0/hfcq+xKn/ib4xNWz9geFH/TrA=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA-256-Digest: ZRgmNMigH3LzGrH+eCqzpz0bekVYdovF0906lTl6H7I=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA-256-Digest: yukqtm6PxXMg+RxVhX8ELhS1HYfh9MNk9PS6E8Dc01s=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_s3.png
+SHA-256-Digest: eA3V6dLdb+OOLfjIBs/Jc0PhjgieQTjOVFHDUsC6sho=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_gearcircle.png
+SHA-256-Digest: 8uMzGSIqOg64yBg43jVJy1sJuPlfGHCPQ0BvSviYhqQ=
+
+Name: res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+SHA-256-Digest: 2E9BqyWBKaLyBN6/3kz8PCbK1CQzSEFzrPDu7eJ+1Uo=
+
+Name: res/layout/common_dialog_template.xml
+SHA-256-Digest: 6HE3klL21jpDpcYaaedi2+bR4frbivBGzoXTYPYKyBM=
+
+Name: res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: BOX940hx6pFzV6Fjq+lKR+yo+OS3e+db39CTvMDQnF8=
+
+Name: res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: k33T9ieGdfQ7geIfSJ8fHM6Cd0pKy/POde1nbiqsJnU=
+
+Name: org/joda/time/tz/data/America/Argentina/Cordoba
+SHA-256-Digest: euIGCmvH8GsJZ72RK0fPTXvlaU2043uaY0f3Dtbd/3E=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_s2.png
+SHA-256-Digest: p5XRSGbemccDSpgZ6ow3RcRV9PawQPTeuLjezN8ywhw=
+
+Name: org/joda/time/tz/data/Europe/Zurich
+SHA-256-Digest: qXcSpMKOJycDCwXuQ0Lg7nOrydBaxV+0OUSujbAvl0U=
+
+Name: res/layout/promotion.xml
+SHA-256-Digest: DBx91pMdkqiNw5E6U+1LwQqpTvgGnJ1znZ+vw+LTCMA=
+
+Name: res/drawable-v21/list_shape.xml
+SHA-256-Digest: WyldlUsXVsPjXAWISxXMqoI/fzWjMrOclf1oHw0AOh0=
+
+Name: org/joda/time/tz/data/America/Cayenne
+SHA-256-Digest: eSxVS3BDoWd0Nx1FLoxFVUbdr5jS0fvOeiFOLAAc+MU=
+
+Name: res/drawable-v21/manager_checkbox_selector.xml
+SHA-256-Digest: Axi+b3jkEfwjDxoVE5KJh1+1VYPTOmChKVSO1bJlLwo=
+
+Name: org/joda/time/tz/data/America/North_Dakota/Center
+SHA-256-Digest: AeitJvhV/pQMO4sHuNXvyWykeUoWRf8UrDF8PepHsk0=
+
+Name: org/joda/time/tz/data/America/Phoenix
+SHA-256-Digest: WOd8zXApa26DW7a0qipI1IDMlCU7Ac3k83QrkwPHnh0=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_moden.png
+SHA-256-Digest: oyMKsYQ/TNL4MjBzhFwUSdZCkN5/d1+pyWDqNv9Zt4g=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: dDz77kNUpjqZ4UGQy+QMWnpnqVM9/+MUCCjX+ZZyh1Y=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: tp4XcUjwXrOefCerpWgX9xwSQchSPcEkTwyOB5ffNOo=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: In1xDCNj2qgpHEKoRhasrf95b3aygskUcRA6l3IAT1U=
+
+Name: res/drawable-xxhdpi-v4/oobe_permission_ic_location.png
+SHA-256-Digest: WUyfuNvytZ5v582aCt4wjJC0DOCr3pUQk1vWzRfRvrQ=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_sport.webp
+SHA-256-Digest: FYDqysmlh2ez42OsgRuSMf6Kb2MbtaWwD6UCw/Ip3z8=
+
+Name: org/joda/time/tz/data/America/Antigua
+SHA-256-Digest: 5BLwR/q+JAli5oG0AbnBQ4LRme8vUgFY/YMmZ7n5bDY=
+
+Name: org/joda/time/tz/data/Europe/Saratov
+SHA-256-Digest: NWoNkSdzU+9gFAZd9geqGC4l5mqXwQT7vlnvYKledE0=
+
+Name: org/joda/time/tz/data/Asia/Kuwait
+SHA-256-Digest: GR01iUT00Wmt8vvFNLkwg3n/P4rghKOGQBPjIrmWu4Y=
+
+Name: org/joda/time/tz/data/Europe/Paris
+SHA-256-Digest: entrHv8vVhnH0q5BtBz/ejVROrSXEwz74xqgMAy67Hk=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: tDTw1dKhjjSBLqHxdgpjAwEpbaYpDHtNMxyeEsoJA+I=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA-256-Digest: DG/YLNVzHMwODSGrAQ59x3aKwJ2T1XO5ZOUlgSoPQt0=
+
+Name: org/joda/time/tz/data/America/Dawson_Creek
+SHA-256-Digest: iJf8+Ok76Ia+nqbeoy3L0GM54ySI9uhlBU69IHKHqp4=
+
+Name: res/drawable-xxhdpi-v4/manager_list_pressed.9.png
+SHA-256-Digest: xLjxk85IjjcN0JYEJfOkHaxyHbNENcbreRMZjN5wgG4=
+
+Name: org/joda/time/tz/data/Africa/Banjul
+SHA-256-Digest: RGxdY3PEoQ6WJGrq79zoGkDkRA4vIgHtsNu1/N1s9NY=
+
+Name: org/joda/time/tz/data/America/Kentucky/Monticello
+SHA-256-Digest: ry/7UibV7yw1w3WTGikyd4yYJn/iLcAdE812lRZBw5w=
+
+Name: org/joda/time/tz/data/Indian/Comoro
+SHA-256-Digest: P8/+kyp4Lit9OGcPCZQKa0viNd3m73+WM7y9OGQ7LlE=
+
+Name: res/layout/layout_devicelist_content_no_devices_guide.xml
+SHA-256-Digest: mfxOEMk4T6zIYaOY9Yqa5izvIjm43lzwJQhiVP/vZqQ=
+
+Name: org/joda/time/tz/data/America/Indiana/Winamac
+SHA-256-Digest: wI7Tiea5gd+rPt9qog1pICjltfTv9Hsx3Tj1MnEtehc=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_galaxy_watch_active.we
+ bp
+SHA-256-Digest: HrkZHpCHmJrFVqg/bsBln9qKkSRmvAcqSMuGMDCHYXQ=
+
+Name: res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: ary/YaStk2Q8uMqn0dOzGJ3JxGWFGFUW5k9SG6Ey1Mw=
+
+Name: res/drawable/button_shape.xml
+SHA-256-Digest: R/sZYP2w2Qc0yJzW8yjm986978rcpq0pl3xM4Y/OKMI=
+
+Name: org/joda/time/tz/data/Asia/Srednekolymsk
+SHA-256-Digest: ZvN46stiz1ul33L9EpEdGsBJ9YIU9wJLO2CLx1SUoPA=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: gmIxz/4Tqo1ZCy4cLyVTv6jdddAfBa+i96/HR8omiCY=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA-256-Digest: G/EkKpy2TT4a/xVxV1A/uDePjI2sZf0G3G29N8kjxF4=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate4_holo_l
+ ight.png
+SHA-256-Digest: 0XRWo05cjTQWT0Ws+TrpfD/4jpX1qtJxmBZcUkk9FRk=
+
+Name: res/layout/layout_setup_wizard_welcome_device_list_fragment.xml
+SHA-256-Digest: kZlQqat+wkS82LAZ2Nu8PFHWxemC6KklUOEtqkKl9Mo=
+
+Name: org/joda/time/tz/data/Africa/Kinshasa
+SHA-256-Digest: c/awadru1Ge/cA0cn9qtmuMwl7TNgmbYWvLt3NiPMiQ=
+
+Name: org/joda/time/tz/data/Asia/Colombo
+SHA-256-Digest: WMvpDxS3nhsrIXf8HbV5Hdehu7VC2RHJrsS1xOICXuQ=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_006.p
+ ng
+SHA-256-Digest: WTKiX3VEYkUyS8CvgSgXj2Aq3qHplHPkF4eVSx4vtRE=
+
+Name: org/joda/time/tz/data/America/Montevideo
+SHA-256-Digest: NcySYLTRhTUxj2R2lqBggqtjeGPLiAVlV7EV+H7osIE=
+
+Name: org/joda/time/tz/data/Europe/Tallinn
+SHA-256-Digest: wFm6d3Gb8p2vQR5Oqiv4g5L3r9F53mr0hvehwEw4E5M=
+
+Name: res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: wHzisnfzHEERJh85kL4gAPVv3vibVSOVxjOVvLk9HJY=
+
+Name: res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: RffwD1VvsAuYuBfhuP+iq0dH8irzurg4xBpE71yIlds=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_014.p
+ ng
+SHA-256-Digest: G0/PqBWyg3Pd76FN9DYaq67NEzxH0O1s6VUO7N/5Mj8=
+
+Name: org/joda/time/tz/data/Asia/Taipei
+SHA-256-Digest: 4QEgyL0ZUpCn0hlQzwgnqLqmkKDzirjd3vK0ZN7TBWs=
+
+Name: org/joda/time/tz/data/Africa/Accra
+SHA-256-Digest: 2UkfCFlh038SXyFE2fsYUVXAKJwDRbRWNzXs0KRHox4=
+
+Name: org/joda/time/tz/data/America/Metlakatla
+SHA-256-Digest: kleA8pZsGlLMAvusQxyFl8Er4BuNz2aZROMQ2XjIxv4=
+
+Name: org/joda/time/tz/data/Africa/Lome
+SHA-256-Digest: mfyccOvzxegIxT8dK+4yWkGIMdVqpezLwTqpwBgqQEQ=
+
+Name: res/layout-v22/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: tQ2blMEcik7obJCY1sRIO99MrIFkTo3oHpgUrhEbCNw=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: CR0oNNqiU7GsZOHCC8fxRSpt+kHFN/TjFzhTfpJKRsM=
+
+Name: res/drawable/setupwizard_listitem_effect.xml
+SHA-256-Digest: rVPUD2X0TCGmFp+4CRDkqdcu0yXDtq5ReChe/8EDFvI=
+
+Name: res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: fsj3LiI7bKsRKpOpdo6HyH2+AoAS6yg8mDi9g++CGT8=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: PynoJkLA+za57wms5w3A+rAlnBpKg2M5sKg9EEvyv4M=
+
+Name: res/drawable-v21/top_rounded_corner.xml
+SHA-256-Digest: lbsRTyqa5yO3760XEoPj3LDyL5TXrw3Y9L9lzHhUua0=
+
+Name: org/joda/time/tz/data/America/Port_of_Spain
+SHA-256-Digest: x5t5MNxd0bzJb9pFo52/HN6uMOZxtk3lgR2sEaLiEK4=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_sport.png
+SHA-256-Digest: 20ZYYpIEsjpwScdnpqn6O6436qaCOgZEM2oCm7XPw2Q=
+
+Name: org/joda/time/tz/data/Africa/Lagos
+SHA-256-Digest: NGCbataB+3pWscJU5xLl253eBBkf7+r8jzwQM6xEqoM=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA-256-Digest: hnoSjhx3jjw0BOSHgxVdBtr00NkedYcHu+kZ1t8t0xs=
+
+Name: res/anim/abc_fade_out.xml
+SHA-256-Digest: /SRovlbq2l2Qp7kIIlTMQzh1+yILo1AaaNTO6jT/1qQ=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA-256-Digest: KMx9N21x4KZBavfrRlKofrYtJzfTtX1LHLHCszMMfws=
+
+Name: org/joda/time/tz/data/Asia/Tehran
+SHA-256-Digest: cXOc/nDU3U0xZEq5Qo7gYXWRxqsTu4R9HPH/UJ2ItBM=
+
+Name: org/joda/time/tz/data/Antarctica/McMurdo
+SHA-256-Digest: pcZkW1cMD7HQPtA4E/y7b3fJIUYFrAt7OHJx48nOxF4=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: Hv7sgRVEZQoLeDvGFNSfq+Qs2QopRzOnmyTavptUGtI=
+
+Name: org/joda/time/tz/data/Europe/Jersey
+SHA-256-Digest: y9ow/SeqdjwhZY11b2ZhKM6Yb1AHHFFcS337Rpl7qKk=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: NRz2EbCGEUMdMV2/AI0kU/PVDUH0UWuH+YT7pjcXJf8=
+
+Name: org/joda/time/tz/data/Asia/Bahrain
+SHA-256-Digest: N+zKfqD3Ehj7dZQ79ftmB+pmqzEK1yc2MY4TpPGQoZQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: xKVqzoc4B9/ltYm0fwOSeDfXc7ubSeMRc9PhJJ4P8Ic=
+
+Name: res/menu/frequency_menu.xml
+SHA-256-Digest: Tl0w1FkDWVPbQdqd1Yg2FYzOh+sVuxLJuW+Y/BSaNew=
+
+Name: org/joda/time/tz/data/Asia/Yangon
+SHA-256-Digest: dIrVPM0o9JaKbOnWI7TBD80gL/UbGkrx5bm7eOj4PI8=
+
+Name: res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: Af1FaEuVJa2wIZKvjbeCROSjA3k31KCCwVQj/l3dFBY=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA-256-Digest: BuvRkxNbx6bG+Y0w5LJ6JcZId66h+VHZK4v01fU62EE=
+
+Name: res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005
+ .png
+SHA-256-Digest: ZVmJcwgCMCaCWBNLgH7yzZ+rEmZRIEGQoGk+Tew4nRA=
+
+Name: org/joda/time/tz/data/America/Asuncion
+SHA-256-Digest: G/xO5LuTPMGeLDA+jv8Xwi4d0TNPJ1hbV277KPVT6O8=
+
+Name: res/layout-v21/abc_screen_toolbar.xml
+SHA-256-Digest: R5jQc7cIqX+8lb2/e72eipiIzsFtu3I2Vm+zph8m+Sk=
+
+Name: org/joda/time/tz/data/Africa/Abidjan
+SHA-256-Digest: grXhAki3hi9C1VJbVc80NpDI09CE/JKKDcXj8EedpqU=
+
+Name: res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: skD6rzVEuwCPlW/CSJNzPdykuL6Y/4KWtwegIFU3MZc=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_galaxy_fit2.png
+SHA-256-Digest: QA2KeZAktNG2gLaY1fhBxjFJ/QcFBc3rq2XFAFvvYt0=
+
+Name: org/joda/time/tz/data/America/Argentina/Tucuman
+SHA-256-Digest: bfdLJdwjJxFMeOHCMrCWkMx/+LM7HQtiCzDjdDOXdV8=
+
+Name: org/joda/time/tz/data/Africa/Nouakchott
+SHA-256-Digest: P6OlsaFEEwHhcpGpZpF7amQQRXl+77jgOjeU19ywnOQ=
+
+Name: res/drawable-xxxhdpi-v4/winset_progressbar_indeterminate3_holo_l
+ ight.png
+SHA-256-Digest: FXXDx0PQQYnoIp4RIKDFjV2D4iFrN+mEIYDMLhP0R60=
+
+Name: res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: x7cuBmsJIAreU3JrwkYjc/2lVPtAtWxXbOK/kENrdjs=
+
+Name: SEC-INF/buildConfirm.crt
+SHA-256-Digest: P3ynqIdbDmwF1PsNloTMDkK1dQ1IUV/iAEjaKUKMbUg=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_000.p
+ ng
+SHA-256-Digest: Ao2PQ5xz+UXCgR2JwB1X/lstz0uN08CLwD3qWNR8w04=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: 220BkpTZFDeKgcTFYY4oTwDo8gxvBFqOyhw1Y4voLM4=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA-256-Digest: ev1cdi6MfVTvsmeg4DxA2GqCIaAFtLjdawfK+SddtJ0=
+
+Name: res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: MLu8MIn0wdVa2cloom6UY86AiXXST2fY+ww7F31VsmQ=
+
+Name: res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: YUpB7XdEV3eTC8Ng4y8/cyM2dQKnwTsfOaKWkN8KurI=
+
+Name: org/joda/time/tz/data/Asia/Singapore
+SHA-256-Digest: z64pDp5ZpE4yR7geLezC5k6kSg+eQNw6R45IsUjxJjQ=
+
+Name: org/joda/time/tz/data/Europe/Ulyanovsk
+SHA-256-Digest: dj7UESRSe0CcozHPqykRe9bLRFIM2tO+HbCTcekW86k=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA-256-Digest: cXcB/K2AKR4NBsyLxMJm/YrOYXNSLW1iPNN+HpKtyZ4=
+
+Name: res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9
+ .png
+SHA-256-Digest: wX0HBeZqPmckaVMjSCX4ZpBph3b1GD+14lOwrbu4jwI=
+
+Name: org/joda/time/tz/data/America/Danmarkshavn
+SHA-256-Digest: 7ARJBkPMQN0KaRhb76yqApxs/BM9WkIou7uN7kS4v+I=
+
+Name: res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: LcPLGTPXVjvvnVXY3bsCjyqPLzYF7ExrLOwOXkMZgPw=
+
+Name: res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: zOqYPKD/bAanDz3bk7vjG9OCXlx4+4LBvsDjnuQ0Crg=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA-256-Digest: 3sGM1hlNeBaUtisN6BNlBjWt285YQFHU9m7iXo743Hw=
+
+Name: org/joda/time/tz/data/Asia/Aqtobe
+SHA-256-Digest: IBrUpHG60QKsYgFY/olVNy8rupZ4SBfmIq7Lntdsq0A=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_015.p
+ ng
+SHA-256-Digest: S+N6EUA0QXPiShMZN7VBc7SaVj3djKwbLgBNrWi1B0k=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA-256-Digest: hEeE7cldYefvEY2XN6XPxecD7HVVTccieTLwt3DMcDM=
+
+Name: res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: H9jTKxo2wPDOPg/IF9DH/TCI2k3Ocm4rvrZemd9Elzg=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_galaxy_fit2.webp
+SHA-256-Digest: OE1sjdaOaylCW+R1egbzoCKxd0/qWP8W0JDwfZ5pvvw=
+
+Name: org/joda/time/tz/data/Australia/Perth
+SHA-256-Digest: 0ckdQ9HEYHLwxAl91PSOEAS5j/LH5a2AOjl6MZjwQUk=
+
+Name: res/drawable-v21/button_background_show_shape_dark.xml
+SHA-256-Digest: PrcHhOfiaKhIqUNd1zQ+rDiKeOSGKiyZjkjQg6gExaQ=
+
+Name: org/joda/time/tz/data/America/Grand_Turk
+SHA-256-Digest: 6opusWwDOn3SYHQzSKngAzpGdG4LvNoFLAnqQjlFTMY=
+
+Name: org/joda/time/tz/data/America/Grenada
+SHA-256-Digest: N28VSkdj8PgwejW7HRoPJF6Wv86FCLzUBehWAogt5Es=
+
+Name: org/joda/time/tz/data/America/Sao_Paulo
+SHA-256-Digest: X99ocNvDsaCetahcSblypt2qv19EiH3e9b59VIt7jVo=
+
+Name: org/joda/time/tz/data/Europe/Nicosia
+SHA-256-Digest: wCc8s1hBLmwuKw8oa+cya7Nm6CvS7AVJ6G7PKDbTU+s=
+
+Name: org/joda/time/tz/data/Africa/Lubumbashi
+SHA-256-Digest: nFo30i6BTIyhLinq260xMN4IscZbWRdyq5QSh4owGVE=
+
+Name: org/joda/time/tz/data/Europe/London
+SHA-256-Digest: l0DeCeNTuV/PcNV3c7vVpgcdJ+BgtjG4E3jXmVi3L0Y=
+
+Name: org/joda/time/tz/data/Asia/Qatar
+SHA-256-Digest: JVyjQAtRAf7DCVEVThbPmS/YyyvYJDcsBj2Q3X+JEkk=
+
+Name: org/joda/time/tz/data/Asia/Seoul
+SHA-256-Digest: xf3kzeuie08e/af3236thGB67ZBgBw7pqzWrO/Lv2s4=
+
+Name: org/joda/time/tz/data/WET
+SHA-256-Digest: FiXplFh2jPPojDC0m+3soizvK94hVh3oQ/5WdeQlTtU=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: vg/gP72vh/b3yaE+84dQHojgy5jwUZQN3hC/VrbOPYU=
+
+Name: org/joda/time/tz/data/America/Atikokan
+SHA-256-Digest: vkutzJpdf1mPQQ5gVmWQl934u4PtTGgql/7eLD4g9Fw=
+
+Name: res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: WJLqsWbFj2k/oJy7LPrZZon3oV0v2LLR7Y7sSwk3Cyw=
+
+Name: org/joda/time/tz/data/CST6CDT
+SHA-256-Digest: 4nexaIJhwtwvJFWG0vm8tLkX758XNVHTrSwQLsYwr4A=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: IqXqHI37cqW97NQgwsXc5Vf76DO5P4OwH+yXKWmAZgA=
+
+Name: org/joda/time/tz/data/Africa/Bissau
+SHA-256-Digest: BgEBI7gTTD7GMj9VI47uUUFm1slK6Gmcr3UtTpJNNZ8=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA-256-Digest: MPavkf0XLxRyiCH61hagU3ET2CnJzjpHQ0ncJlZ63l0=
+
+Name: org/joda/time/tz/data/Africa/Nairobi
+SHA-256-Digest: F4e4n6cfMm7NleRBddZXrIKe6/PaMpegCmAHF91IwyM=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.pn
+ g
+SHA-256-Digest: Wy8oRICb/V1D+zaf9OWfhIL2TCqZ0oIa87+jUwuZ9iM=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_gradation.webp
+SHA-256-Digest: N3GEaI7iz8j9rTjYLHeKRyWZLWJlLfdEl7RPTbzX5kg=
+
+Name: META-INF/androidx.lifecycle_lifecycle-viewmodel.version
+SHA-256-Digest: ykohDDryL7o00PsZOMGonSFkiCDJ92l7jlSQoNQdO40=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: fdgyJ61bkVHESSHzWiTHQ5LVNwIge6pbEao7ySrGIjw=
+
+Name: res/layout/delete_plugin_package_item.xml
+SHA-256-Digest: TUuR8rIJwHlEEJbVmH52K3V7Y4YP4ozvLQJIdDMa1SM=
+
+Name: res/layout/pick_gear_mines_not_here.xml
+SHA-256-Digest: XzrOm+z6iN10/pvlPRVC5tT4Hm3fJ7QvDQZ+K4jDeVg=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: 7LoGEcIbxQ69PiLML8ts+XOhBG31agFddwBwe7WH3v4=
+
+Name: org/joda/time/tz/data/Europe/Vatican
+SHA-256-Digest: L8sFf6EqLByXbukkyAC2z/WAnFlTJ37sbILZ21i/In0=
+
+Name: org/joda/time/tz/data/America/Paramaribo
+SHA-256-Digest: ao1i4Vx9RZtecms1tZ/IqHSG0gdcoxk4a4WarSND/YQ=
+
+Name: res/anim/rotate.xml
+SHA-256-Digest: 77NVVprVShuVMIvUXlOjOBa8pgEB5IKeq+hi/t1Jgck=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA-256-Digest: LKS2hGveyXDeH3E8oG5QO5CRvRp/Dgok9xPdS5E1KXA=
+
+Name: org/joda/time/format/messages_pt.properties
+SHA-256-Digest: CreJmcfucrtI0qEV9DMqPQbCk0fClpciT57c3oMF/sk=
+
+Name: org/joda/time/tz/data/Africa/Kigali
+SHA-256-Digest: yhhr0yxQJpOK2VLltgvNG7L3BiPg4Hd3e33xjYl9Fj0=
+
+Name: org/joda/time/tz/data/Asia/Jakarta
+SHA-256-Digest: p/Vkkni1PgQtJC5TWm8VWsOcqUQ7nCTvBXG0J8bnIMU=
+
+Name: org/joda/time/tz/data/America/Costa_Rica
+SHA-256-Digest: uiAeNEaYG/pWWheTYzCVzlFk0PhcrvN4V2xBEf2qBCw=
+
+Name: res/drawable-xxhdpi-v4/oobe_permission_ic_contacts.png
+SHA-256-Digest: pQStjOTxeBzPTDU5su2jN2vNnGlG6meHizJAVAW68kw=
+
+Name: org/joda/time/tz/data/Asia/Dhaka
+SHA-256-Digest: HE3VRrdr9uGtH9CuboLvu5NyIpZXIKT/Soh+klqu21Y=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_budslive.png
+SHA-256-Digest: BK6tcb7uuoD7oLhnC7WlOC4KtP/V/9EUfrseXUaISbE=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_005.p
+ ng
+SHA-256-Digest: p9y/y/IoIIvqjqvoSe0u8SLua3qxKaaA4qxOmMCbbtA=
+
+Name: res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: LChIw4QqvLajFq58k1wyNoad2J/FQ0nFyZ+9fG3oq/Y=
+
+Name: res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: wrTk2jbWguQ0BazweksARr3vUw3TWIaNfbGLu5IXNvg=
+
+Name: org/joda/time/tz/data/Europe/Warsaw
+SHA-256-Digest: Ooc8Y9gKUjBJp7J3llRL755vaianT/3O4huYJY6ktzQ=
+
+Name: org/joda/time/tz/data/America/Santarem
+SHA-256-Digest: BhP8f7ToTqQHikS616XWdX2DybqystD8uf+zBM7kCMw=
+
+Name: org/joda/time/tz/data/Asia/Tashkent
+SHA-256-Digest: o8kz1tXnGuSSnvxXdo/pvzZrdGJRcGFaZdaSyonbQlc=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA-256-Digest: /8NjpvVDe0A4kLDmvlVhtJxk6QT8dVIVtP+cvQEqFFA=
+
+Name: org/joda/time/tz/data/Asia/Anadyr
+SHA-256-Digest: IHKQrBCnmRG9n58lOJ4DPLSdMclH/xoGpmjwqXB0FYU=
+
+Name: res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: pMBfjSNGJVCvmLEdC09ivBc8ntOWLkccLwy4ntbqsPY=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA-256-Digest: J/5Si8G1ytic29GCEbi4y/+KzqKkDDevkonojRnzLmg=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA-256-Digest: AKhj+/PggRNxo4MfPSRaBlX2x2fHR4U1riqdVFD6bqg=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA-256-Digest: zrdtPSnjQ9qQH66z2UPAAP+9D9rb+ifGUkIg8TSkgMg=
+
+Name: res/drawable-xxhdpi-v4/land_welcome_bg_budslive.webp
+SHA-256-Digest: toNOfvRGwD2EMFGg3S+CAyycaIg8ZjJhPFtLHnqjm3o=
+
+Name: res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: qwevx57omHtY5VUrSbmuvjp870Vu1JvQAWTUxP7yQaY=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_001.p
+ ng
+SHA-256-Digest: N+sBUZIjPgvLd+ctP8iHBLNScTs2Z/hY7W7TZ9K1zUI=
+
+Name: org/joda/time/tz/data/Europe/Istanbul
+SHA-256-Digest: e66vTUpIBcyYjxPmIVE7fckUOgVPQ424/5Q0xgVu7N4=
+
+Name: res/drawable-xxxhdpi-v4/winset_progress_bg_holo_light.9.png
+SHA-256-Digest: jKTH1l3QxnLcCyhktWfSvBxGKjldyEcWc1StU48tAlE=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA-256-Digest: nXUpvLzjuL69IZk91oKPRxB6u258l6nXJIfgpZ3zacI=
+
+Name: org/joda/time/tz/data/Africa/El_Aaiun
+SHA-256-Digest: 8aD9Ju7LGQvtHKf4VKHddCBPPX+wqTgBPuhwPonNf10=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA-256-Digest: kJbqeLZJ2OGRUxQpbzYDTfK1jtj3rjkMKemaqYpn0uY=
+
+Name: org/joda/time/tz/data/Africa/Addis_Ababa
+SHA-256-Digest: tGGGvdC/FCoPBKdpCoO4d7UN4bf9rVu6BslQKdx/oNc=
+
+Name: res/drawable-xxhdpi-v4/community_ic_play.png
+SHA-256-Digest: Kz/nwtknTcG7dvKVwsNhpvga7Q+KUPw5HPi6EYZUO8M=
+
+Name: res/drawable-xhdpi-v4/oobe_drawer_ic_bud.png
+SHA-256-Digest: QSny32VOdrSksQRx62FeFhPLir+k5FAOubjARoQlAiU=
+
+Name: res/color/abc_btn_colored_text_material.xml
+SHA-256-Digest: iYYXoeaJ2ycQ41krsSqeq/CtCYL5ZeMoxG2EB1uDA6U=
+
+Name: org/joda/time/tz/data/Asia/Kathmandu
+SHA-256-Digest: t73HQy8LeDHNkaIS/qIhbQipyuHfxf0PribRwaPeXiY=
+
+Name: org/joda/time/tz/data/Africa/Niamey
+SHA-256-Digest: abPdE99JYVf1n/xPUM546YwqNlMpdZ2HY9M0z9ewQzc=
+
+Name: res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: Wazhlp10+dA/JnfcX2vEmjffX9Tkh7ItY5fNqXKL0Xs=
+
+Name: res/drawable/button_background_show_shape.xml
+SHA-256-Digest: rUC3AhwYX+z4HfzHUngqGc7MBDVRa8dVDOat5Fhxyc4=
+
+Name: res/drawable-xxhdpi-v4/land_select_device_bg_buds.webp
+SHA-256-Digest: DWSiFjerX3yqOk+N390dKxnieRYBRjFm8aAWc+XEwHE=
+
+Name: org/joda/time/tz/data/America/La_Paz
+SHA-256-Digest: n0L/+JV8dgf/+lKUr291Lbpdwz2PC9IWyVXA2oMFIP8=
+
+Name: org/joda/time/tz/data/Europe/Andorra
+SHA-256-Digest: 71ycNM0z3SpD6ReNG6S+QaqS/ETGhIDh8JYNd1sg9nM=
+
+Name: org/joda/time/format/messages_de.properties
+SHA-256-Digest: MTfoEaWmDrabsckILDpkcESsZy6RRJA67mvqzVtpwR8=
+
+Name: org/joda/time/tz/data/America/Indiana/Vincennes
+SHA-256-Digest: lyogyPLlmihUDuOFxliH1IO1Hd5NWwbdwu2zIvvbLmY=
+
+Name: res/layout/background_item.xml
+SHA-256-Digest: 8rJXfzQR/INcBPSXHT9+zzBEUyKzOZGSniugoryP6Ks=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: zmEiGPyzW+9U7E2RUmZJmZ6xn67Tio+4KMv66qJNZ4A=
+
+Name: res/drawable-xxhdpi-v4/gm_settings_help_ic_faq.png
+SHA-256-Digest: yRDzsaDt9+ZPNK13K4sy9tNzSK348BJ0Oi+nXucZ4Ug=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA-256-Digest: nd50JK/HcLxxS/4JoFzK+LrxBtV4qP/xJsZ4tChvUk8=
+
+Name: org/joda/time/tz/data/America/Indiana/Marengo
+SHA-256-Digest: PXnU4iLiKJqNEKBRFdXbegpGx8/VPhq3TwdVyJPiqgc=
+
+Name: res/drawable-xxhdpi-v4/manager_scrollbar.9.png
+SHA-256-Digest: rHbuZuNyv6RXwW68k7yNGNykY4nPW0buSwfW1ii/yko=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: qkHqrmsKfwmU3smh/Z2yd4NC0duXT7cWyIgU86U5rW0=
+
+Name: org/joda/time/tz/data/America/Menominee
+SHA-256-Digest: Xk0CcmTeilNe3pQwaH3Z/oxrM+H5wo7JjeF+PJybOFo=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: IPMQCsn39IXvyNfJ0w4xdgkGhCrahsAHIco4W2GB68g=
+
+Name: res/layout/list_device_item_icon_subtext.xml
+SHA-256-Digest: g3KYPXVWpJMOYhtXo+TjTlf/y1t/Pzw3dR0at91MvBk=
+
+Name: org/joda/time/tz/data/Asia/Pontianak
+SHA-256-Digest: LU3nzPHRJ99GqgUFxKrIhaHtHIlALxG5GcTYJwtJH58=
+
+Name: META-INF/androidx.loader_loader.version
+SHA-256-Digest: U/8Mggt0wI0pqD9haINJnmP8D0bZQQ02nLntwOd7zfc=
+
+Name: res/drawable/rating_popup_background.xml
+SHA-256-Digest: BF93qv8xUx7jfxd7SlyKtj7fyQr4X1SrQVQc/awcai0=
+
+Name: org/joda/time/format/messages_pl.properties
+SHA-256-Digest: sJG7LLi8XzRMyKdpwm7T5PtrKqAy2eCAHqGwXiWFDeY=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA-256-Digest: E9Tbcsunmh4PPy7kyzJWq9f6YvxKNT5iwsN6OLpRjuA=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_buds.webp
+SHA-256-Digest: tJ+HcxMDomXnOmvQe38IPYN3tY++LLNSDqiy/jsag38=
+
+Name: org/joda/time/tz/data/Europe/Isle_of_Man
+SHA-256-Digest: sw766dL6kiak7w1HSGebIeOzVgA8PpcZuBaB95hc194=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA-256-Digest: Dl3F15F72dy5mHHcM7ReJJCBcYmlF+A9IBWLeygpGnk=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: VDtucwAimDHbNfqfp/RrP8k0xJ5DE920vwexbzfFmFQ=
+
+Name: org/joda/time/tz/data/Asia/Baghdad
+SHA-256-Digest: xnzPEhrdPpxLV1LelggG6z884O3SXg2yjqwQbV453xQ=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA-256-Digest: vU90lQInBk3t53YggAT4tlv1ISvSbqeBYu+DYpKtTeQ=
+
+Name: org/joda/time/tz/data/Asia/Ho_Chi_Minh
+SHA-256-Digest: zObIjaApKPvEng4NBhKAp2BvipxvLQuhgpnwLO9m0tY=
+
+Name: res/drawable-xxhdpi-v4/select_device_bg_default.webp
+SHA-256-Digest: +/8F6KuF7Rcq0PoJOFVrWve/P0q6nzCwF9p+EpZI2QA=
+
+Name: res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: Lt/ldnHllFGD+iPlK1ArECI4Y8DP0mv3Mq9Am7JYutc=
+
+Name: res/layout-v26/abc_screen_toolbar.xml
+SHA-256-Digest: JLxlr5m/R+0cqlpo18zkMoP0Ji0SWY+nAIGvSfFHAVk=
+
+Name: res/layout/template_item_list_permission.xml
+SHA-256-Digest: j0vF0h+gL0Ws47XntWXmFYJQtaHKvsgsdXnK3QsbQX8=
+
+Name: res/anim/abc_tooltip_exit.xml
+SHA-256-Digest: ZxNemWqoCW1qk/Sr0DmuWr/CRHtIIchx1yDDqv6Rc/g=
+
+Name: res/drawable-xxhdpi-v4/screen_capture_ic_video.png
+SHA-256-Digest: Qdmvh6a43ZUYEk3kQ2GPCyHst+G3bEftzgs36rSS6kI=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA-256-Digest: IdfMJCut3kEUdU1TeK/h+XPNmnqnqCEF8rZLRbqCuLo=
+
+Name: org/joda/time/tz/data/America/Detroit
+SHA-256-Digest: txoZlsSQMrE7no8cpncQOI8yMwZNl2yTA3Lnra9s1EQ=
+
+Name: org/joda/time/tz/data/Europe/Luxembourg
+SHA-256-Digest: tI3nOmjERs+MMA6MugDnmhKs1WV0u49XxRH5u7TDcaQ=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: d6Liv+nKJvyoOfqZzTSNAUyWZSDONwpMKUAcFoCEGpI=
+
+Name: res/xml/xml_button_selector.xml
+SHA-256-Digest: warmfqUUfc1venxGEyVjdKvPpf1X4raeVe/Cuc1eYAU=
+
+Name: org/joda/time/tz/data/America/Port-au-Prince
+SHA-256-Digest: cZ0XL2wS/r3/NlzSDgUmnsPdhEWc6pKMR13wxpuM51M=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_004.p
+ ng
+SHA-256-Digest: /7Trma8AfahIK85mgm+YzJtUF5kW33nMxgzpX/hKM/U=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA-256-Digest: f4sjIR9yXElLU/jjGhD09MjaqEMi08/rIL7Kc0h02WE=
+
+Name: org/joda/time/tz/data/Africa/Monrovia
+SHA-256-Digest: IURd3qRcoOBTCeQ3Yd4WNX5iaAi5+xtdT0AQ9LNQUhw=
+
+Name: res/layout-v21/setup_splash_waiting_layout.xml
+SHA-256-Digest: 8pBpBxkIYxa27YhKMLNf0ML+xcWtPh5IhORZ+3gOf4w=
+
+Name: res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+SHA-256-Digest: yrBCpq0nlBea9w22y3ruEc9Khz2fuqoa1KOP91JSmWQ=
+
+Name: res/layout/fragment_contact_us.xml
+SHA-256-Digest: mLnOSEpx2D6krjzDhaLiKGkX47Mp7UkUL5Pf8qkgJrE=
+
+Name: org/joda/time/tz/data/America/Matamoros
+SHA-256-Digest: ceNPMTcGluD0pG56HEDTa3KdvYTw8W+/uyebIEYc/A4=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA-256-Digest: dVXf6y/Ri937z/ld5r0MGJuLxvE3a2sx3dltCRTwxCI=
+
+Name: org/joda/time/tz/data/America/Belize
+SHA-256-Digest: wgKc7DC6PId6Iw0NrL8LyxgRKuYXm4CXbRnn1BJ9gjA=
+
+Name: org/joda/time/tz/data/Pacific/Pago_Pago
+SHA-256-Digest: mJqRRfrlIjPHRzTXZA96w+Ye5tHTIG6xzk+1IYH/RyI=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA-256-Digest: gFWJnP++0GDkChmMce+O4J43v5ZHvRcy4kSprej15xc=
+
+Name: org/joda/time/tz/data/America/Indiana/Knox
+SHA-256-Digest: GRuepPdEBz/2i/Yc23yEyKR8cyjUVQQ4Nu6N5y8Vt18=
+
+Name: res/drawable-xxhdpi-v4/gm_ab_logo_buds.png
+SHA-256-Digest: bXgmXGwbI+b6MFcOkKTL5DwY3kXjf3RAwQ+YlrnxQiQ=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA-256-Digest: cDfJYXynxmptWYHMqLR4soAlmoUcgZnR8hLK3y3QXnk=
+
+Name: res/drawable-hdpi-v4/manager_scrollbar.9.png
+SHA-256-Digest: /ouyCGXWZZ7yPjXoLIAGz741Q5HAVFdj+CDgT6dx3BM=
+
+Name: org/joda/time/tz/data/Africa/Lusaka
+SHA-256-Digest: McSE6tGcySIPgBiqdkbs1hWGU4nnbCWd8xy+/gGx2Ok=
+
+Name: org/joda/time/tz/data/Africa/Porto-Novo
+SHA-256-Digest: oNkG+P5mZJLfTZb49eSMr/MSg8ppVIds1ny5TAbtV9w=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA-256-Digest: Z8gl1SUrxLLzIctFwF+ktA7ZNUTrgOcP1KrkM3IoPgs=
+
+Name: res/drawable/list_bg.xml
+SHA-256-Digest: jGEqu6DEL6yobn2TbA9hXctH7xiA1eSBedn0olrP5Eg=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: 1DmKCsMgbjm9G5lkjqfobsoY226Bh1buf/XYzDpacKg=
+
+Name: res/drawable-xxhdpi-v4/select_device_img_watch_active2.webp
+SHA-256-Digest: 0FQW53C1gKiWGDwzVVIRf5w6taA1E7LvuGp1H3cVLws=
+
+Name: res/drawable-xxhdpi-v4/formingmap_watch.png
+SHA-256-Digest: Unievd1AvVsiicYNlAxqh71Qiqyn84cDW3C/S/H7Hkk=
+
+Name: org/joda/time/tz/data/America/Eirunepe
+SHA-256-Digest: TO9IIW/4ll4dNp8kuqKRT7J1Wj0mmoyWLvq00vIZnjk=
+
+Name: res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: wblGdn81sa5OoeX9CiOnDynzkSqpAsxUEj2PBmsvj2Q=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: 2/HYwdYP6+bFSlmfP5wcYHqY3XEPH5YCfzkbgJI4Ke4=
+
+Name: org/joda/time/tz/data/America/Guatemala
+SHA-256-Digest: X3FMthhT/mSJUInPGtAHvKpHcZsPShcjTdOe/K8xYzw=
+
+Name: org/joda/time/tz/data/Indian/Mahe
+SHA-256-Digest: HjyTeuAsgvDiCVqPx5L8g2ppGhyWMf58TOFcG0oRfoU=
+
+Name: res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+SHA-256-Digest: yxROUi/mA6lduSsnfyMT51ds3/TY+Hc1bPKYpp8YFTc=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: sFd9+1GgxuGbuewkMeErA+XXuzs5aAOAU8maZ1lZCzQ=
+
+Name: org/joda/time/tz/data/Africa/Bamako
+SHA-256-Digest: Bneu7+jdRespnheyhWQyMHeKSiKMbUYb4yHXPjOhEfg=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: 5cZp2MscxCQXD4/CHBpa0IcjSRpkQQ8TShjhx6yWVhc=
+
+Name: res/layout/feedbacklist_listitem.xml
+SHA-256-Digest: 4xLeeM2pmMcisoBk5WFi4WNiSF/UkBgOIhJhAUyS5HI=
+
+Name: org/joda/time/tz/data/Europe/Madrid
+SHA-256-Digest: GNlG8xT4yVwzSj5zAb+kyxgDaCLA3s1QGc9OiCOP/nI=
+
+Name: org/joda/time/tz/data/America/Caracas
+SHA-256-Digest: X1jacQ7k+1MuVoQyPOQO+xILVTDtWvZY6DvfSAJn1OU=
+
+Name: org/joda/time/tz/data/Australia/Brisbane
+SHA-256-Digest: HY/QYFR0pCq5utxbwdcFzr5YHkh1iBXxJa9QnQjPc7o=
+
+Name: res/drawable-xxxhdpi-v4/winset_progress_secondary_holo_light.9.p
+ ng
+SHA-256-Digest: vCjfjsrxqErQVgiU5B+ZAEDtZ9pzF9W2KORNj+7DVk0=
+
+Name: res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.
+ png
+SHA-256-Digest: BXNOREvdzVFmofuG4aN1kDNhOYgQLcz9OrPZlUnn9Ws=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA-256-Digest: I9jN3SGfV/Rn0x4Smg4BVaBSU5mqlLIUIL7ZNvtlYng=
+
+Name: org/joda/time/tz/data/Europe/Kaliningrad
+SHA-256-Digest: lMFhZs2PwFKIYVY5HCu3M9hW+yOmFwiCTsR6eSZ9gdQ=
+
+Name: res/drawable-xxhdpi-v4/watch_shape_watch2.png
+SHA-256-Digest: ok2TNlRCVgf1zvx20f16ZRb7NTR5k1DWcQ1rwaWGpwk=
+
+Name: org/joda/time/tz/data/Pacific/Rarotonga
+SHA-256-Digest: YenWgj83Igee9nWEyNbyZYBUR/R2EzX219Jc6h283lE=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: QpO86S6qjy93OQJSq/J9fVVQWcP9s8Pv2bUoICK94gI=
+
+Name: res/drawable/pick_gear_item_ripple.xml
+SHA-256-Digest: 9YPnV4gCxFC14bVAXP3Byc/d7XhJxyy2PtoklKarLbA=
+
+Name: res/drawable/permission_button_background_show_shape_grey.xml
+SHA-256-Digest: 21t2C5+e7ZQuLnV7pQkLk981Zc6jcObePL65Iqpwm4o=
+
+Name: res/drawable-xxhdpi-v4/ic_tw_ic_ab_drawer_mtrl.png
+SHA-256-Digest: pvGgJr87X571PjbZUNVji0VgEoq6b6+fewzw/Kqvz4Y=
+
+Name: res/layout/abc_alert_dialog_title_material.xml
+SHA-256-Digest: ytXJZN+qYEArKncpsKmxlOhg2mNtIt8If7oGaNFWW3s=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: cu/HpCBmGR2HldYOnrwO9yFWWw7MiPItXY/UMyrTssM=
+
+Name: org/joda/time/tz/data/America/St_Lucia
+SHA-256-Digest: /dRuMHqYw+EKVCaaXEiS4vPTY7yxN5wl6K48o3zomOU=
+
+Name: res/drawable-xhdpi-v4/sem_checkedtextview_check_to_on_mtrl_002.p
+ ng
+SHA-256-Digest: bzaDugiYrpvt8xtRJQ/OXECIcUuvX65slNQAjbxwwT4=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA-256-Digest: yhFaEdzFlQBwu1Opm/6gmXjbeudXiKPZ+5hA3eDCynA=
+
+Name: res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.pn
+ g
+SHA-256-Digest: 6GEo+eoy2qySWAk+pQnCOh4jx0sCUXLXTE82tJ6ChP0=
+
+Name: org/joda/time/tz/data/America/Punta_Arenas
+SHA-256-Digest: G6WXM/6jSaunPPhu6qvyw11YLZHj9Gl6SMsgV+cG5VE=
+
+Name: org/joda/time/tz/data/Africa/Tripoli
+SHA-256-Digest: McHPtvsTcxWHco/B6X/q7m9HwVNJY95wWPQEqnh/KVA=
+
+Name: res/drawable/manager_common_scrollbar.xml
+SHA-256-Digest: n+TJ9pWVFyawzaVMOlvdo1fxuj0oQCfQEuDPcQBUub8=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA-256-Digest: 0FN2GP3RZfBun1r/f28PVzzOWpllgXOyGzr0MBsqxOE=
+
+Name: org/joda/time/tz/data/America/Kralendijk
+SHA-256-Digest: GCUSJg+KyZkIIqxlijpHHc/yFSIGSWT6HML9+aDHo8s=
+
+Name: res/drawable-xxhdpi-v4/manager_widget_progressbar.png
+SHA-256-Digest: zl5lQmk1IAgHzVnQlGkvLiwCF6JNzWg84tIMTRoT8LM=
+
+Name: res/drawable-v21/bottom_rounded_corner.xml
+SHA-256-Digest: 4/Rt3pexO8q+wCNpvp/5mqkm83ilpQklWsmABHPZu0w=
+
+Name: res/xml-v21/xml_listitem_selector.xml
+SHA-256-Digest: zCQVjC+VKT12/QFeYIndTq9E44I2+j8Ld3l8/d1WZf0=
+
+Name: org/joda/time/tz/data/America/Indiana/Tell_City
+SHA-256-Digest: 0pDrshG/pVvx0wP0eFC9ppCNrrzQOYq3x4qXMUT92w0=
+
+Name: res/drawable-xxhdpi-v4/gm_managerdevices_list_ic_wearable.png
+SHA-256-Digest: JzXak22SDpnrMOj7GUS+XMZJDYwtW5ojkekAr5BGiV4=
+
+Name: res/drawable-xxxhdpi-v4/attach_ic_video_play.webp
+SHA-256-Digest: 7w2XsVKwqvpQkyPyOzgXB968Sf/Wxk+IEYG5omyWdoc=
+
+Name: org/joda/time/tz/data/America/Anchorage
+SHA-256-Digest: 20VewwLE2AnGVvk9i42Q2etjg2Afq98FfWwtAtwm9vQ=
+
+Name: res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: aP9THRcnevJffP3ryMouppp6lYJ02TYW4KtLkttNPJ0=
+
+Name: res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: PUW1w1B4DCKDFU2oj94TTgieG4Rm7zWHJVp7lBZLYtc=
+
+Name: res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: 3LsOONKB69PLWMw82m6vpsV+6G8VoYDn2cpaPF4/oWQ=
+
+Name: res/drawable-xxhdpi-v4/winset_progressbar_indeterminate2_holo_li
+ ght.png
+SHA-256-Digest: FWjZqntft499Jmcn1rBDy9yGLXMxAl+02lBKU9oyZJk=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA-256-Digest: EpkrNdlaQNjtLay20ahC6pOL8E97wQblC7x5tuapppk=
+
+Name: org/joda/time/tz/data/Pacific/Tahiti
+SHA-256-Digest: ZtBmHDbA2cVw3Dugs1nwSs+Qky9lgYsXOo6zB0mzMGA=
+
+Name: res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: wdMeiWANwx1p0qKOPoaUpRbqQzJ+Qb7Ys534xrbXCL8=
+
+Name: org/joda/time/tz/data/Europe/Lisbon
+SHA-256-Digest: QOUM86U44G97XvmpH82ofClN5oFon++ChdXzn4byiF0=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA-256-Digest: O+Euq7I/IyVUChpA/LwMRnQEpBEqODENGq+/9ZuaJoE=
+
+Name: res/drawable-sw420dp-v13/select_device_bg_gears3.webp
+SHA-256-Digest: EdMDB3Ukap4yEAfop6pF1h1gdUhGadRG9DbUjqgviO8=
+
+Name: res/drawable-v21/pick_gear_item_background.xml
+SHA-256-Digest: qnyiRjLXHXjWYAwpFo4ZwF3Lk+YuoNgmKqkXT7Mdc94=
+
+Name: res/layout/device_scanning_layout.xml
+SHA-256-Digest: bpTFC1d3Z63/rlbnLouFOeCaPQTQxajVGuSBYzpmWjY=
+
+Name: res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: 4/2g5TLNkp6b790NqCFeYKllQqSZdFckInFDoOZhxHQ=
+
+Name: org/joda/time/format/messages_ru.properties
+SHA-256-Digest: 5XSqYfoAd2fpYJlaPNdus47fW2/jnaJDWBmqDjyYnWY=
+
+Name: res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: +DCP0bhk1UVHJuNcoNuuK5Gz7vaJ2/4Wfr6rQtGREIo=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA-256-Digest: Y/in6sr1W78mZhDZdZepasOYBoFwSCXFWgsQd3T1ZZo=
+
+Name: res/layout-v22/item_textview.xml
+SHA-256-Digest: 7jYSwLOvX8GH8WzJUvL1A0K1cB2jai3tF2ls9wsSfiQ=
+
+Name: org/joda/time/tz/data/America/Anguilla
+SHA-256-Digest: UGzG/GIjDsEdmf5SNIA8xgv4CtolkTCfYbKTV2uB+H4=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA-256-Digest: ZmdbE2eqkDy0845vJe5ofBxgQH0xRRV8mA6FZVf4lZs=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: R2ot7jptNS4NITpYzXOWw8lhLeXmUvp8G9vuPhk6Z5g=
+

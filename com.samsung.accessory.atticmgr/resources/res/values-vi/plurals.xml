@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Không thể thêm nhiều hơn %d ký tự.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d giây</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Chế độ hội thoại kết thúc khi không phát hiện giọng của bạn trong %d giây</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nếu bạn đã ghép đôi tai nghe với điện thoại hoặc máy tính bảng, chỉ cần mở vỏ sạc để kết nối lại.\10\10Nếu chúng không kết nối tự động hoặc nếu bạn muốn ghép đôi với điện thoại hoặc máy tính bảng mới, hãy đeo tai nghe vào, sau đó chạm và giữ cả hai tai nghe trong %d giây đến khi bạn nghe thấy tiếng bíp.</item>
+    </plurals>
+</resources>

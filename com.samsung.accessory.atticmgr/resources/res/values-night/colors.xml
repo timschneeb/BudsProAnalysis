@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="basic_background_color">#ff010101</color>
+    <color name="basic_background_title_color">#ff252525</color>
+    <color name="basic_divider_color">#26d4d4d4</color>
+    <color name="basic_ripple_color">#33ffffff</color>
+    <color name="basic_title_main_text_color">#fffafafa</color>
+    <color name="basic_title_sub_text_color">#ff9c9c9c</color>
+    <color name="color_routine_background">#252525</color>
+    <color name="color_routine_item_title_color">#fafafa</color>
+    <color name="sesl_fragment_bgcolor">#171717</color>
+    <color name="sesl_fragment_fgcolor">#010101</color>
+    <color name="sesl_text_input_layout_hint_text_color">#999999</color>
+</resources>

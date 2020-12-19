@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_1line_min_height" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+    <TextView android:textSize="17sp" android:textColor="@color/title_text_normal_color" android:id="@+id/text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/list_item_text_top_bottom_padding" android:layout_marginBottom="@dimen/list_item_text_top_bottom_padding" android:text="Option" android:fontFamily="@string/roboto_regular"/>
+    <View android:id="@+id/dummy_view" android:layout_width="20dp" android:layout_height="20dp" android:layout_centerVertical="true" android:layout_marginStart="16dp" android:layout_toEndOf="@+id/text_view"/>
+    <ImageView android:id="@+id/image_view" android:layout_width="20dp" android:layout_height="20dp" android:src="@drawable/tw_dropdown_ic_check" android:tint="@color/colorPrimary" android:layout_centerVertical="true" android:layout_alignParentEnd="true"/>
+</RelativeLayout>

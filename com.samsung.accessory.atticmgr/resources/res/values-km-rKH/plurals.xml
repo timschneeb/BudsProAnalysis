@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">មិន​អាច​ថែម​លើសពី %d តួ។</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d វិនាទី</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ទម្រង់​សន្ទនា​បញ្ចប់ នៅពេល​ចាប់​មិន​បាន​សំឡេង​របស់​អ្នក​ក្នុង​ពេល %d វិនាទី</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">បើ​អ្នក​ធ្លាប់​បាន​ផ្គូ​កាស​របស់​អ្នក​ជាមួយ​ទូរសព្ទ​ឬ​ថេប្លិត​ហើយ សូម​គ្រាន់តែ​បើក​ប្រអប់សាក ដើម្បី​ភ្ជាប់​ពួកវា​ម្ដងទៀត។\10\10បើ​ពួកវា​មិន​ភ្ជាប់​ដោយ​ស្វ័យប្រវត្តិ ឬ​ក៏​បើ​អ្នក​ចង់​ផ្គូ​ជាមួយ​ទូរសព្ទ​ឬ​ថេប្លិត​ថ្មី សូម​ពាក់​កាស​របស់​អ្នក រួច​ប៉ះ​ឲ្យ​ជាប់​លើ​កាស​ទាំងពីរ​ក្នុង​ពេល %d វិនាទី ទាល់តែ​អ្នក​ឮ​សូរ​ប៊ីប។</item>
+    </plurals>
+</resources>

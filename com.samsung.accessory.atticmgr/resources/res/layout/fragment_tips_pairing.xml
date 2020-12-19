@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/tips_pairing_title" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/TipsManualTitleAppearance"/>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+        <androidx.constraintlayout.widget.ConstraintLayout android:layout_width="@dimen/guide_image_width" android:layout_height="@dimen/guide_image_height">
+            <com.samsung.accessory.hearablemgr.common.ui.VIView android:id="@+id/vi_view" android:background="@color/contents_background" android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintDimensionRatio="1248:764" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" app:rawId="@raw/tips_pairing"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+    <com.samsung.accessory.hearablemgr.common.ui.CanAwakeNestedScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="@dimen/tips_manual_description_default_height" android:layout_marginTop="@dimen/tips_manual_description_top_margin" android:overScrollMode="never" android:importantForAccessibility="noHideDescendants">
+        <TextView android:id="@+id/tips_pair_with_a_phone_or_tablet_desc" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/TipsManualDescriptionAppearance"/>
+    </com.samsung.accessory.hearablemgr.common.ui.CanAwakeNestedScrollView>
+</LinearLayout>

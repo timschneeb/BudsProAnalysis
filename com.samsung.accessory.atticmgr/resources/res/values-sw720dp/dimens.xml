@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_landscape_battery_device_text_size">18dp</dimen>
+    <dimen name="widget_landscape_battery_gauge_text_size">20dp</dimen>
+    <dimen name="widget_landscape_device_bt_name_text_size">20dp</dimen>
+    <dimen name="widget_landscape_layout_min_width">720dp</dimen>
+    <dimen name="widget_landscape_master_title_text_size">18dp</dimen>
+    <dimen name="widget_portrait_battery_case_layout_width">90dp</dimen>
+    <dimen name="widget_portrait_battery_device_text_size">17dp</dimen>
+    <dimen name="widget_portrait_battery_gauge_text_size">20dp</dimen>
+    <dimen name="widget_portrait_battery_integrated_layout_width">110dp</dimen>
+    <dimen name="widget_portrait_battery_solo_layout_width">65dp</dimen>
+    <dimen name="widget_portrait_device_bt_name_text_size">22dp</dimen>
+    <dimen name="widget_portrait_layout_min_height">180dp</dimen>
+    <dimen name="widget_portrait_layout_min_width">400dp</dimen>
+    <dimen name="widget_portrait_master_title_text_size">18dp</dimen>
+    <dimen name="widget_portrait_quick_settings_switch_layout_width">115dp</dimen>
+</resources>

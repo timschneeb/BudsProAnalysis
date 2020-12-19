@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="promotion_top_gradation_height">170dp</dimen>
+    <dimen name="promotion_top_image_height">170dp</dimen>
+    <dimen name="promotion_top_title_height">170dp</dimen>
+</resources>

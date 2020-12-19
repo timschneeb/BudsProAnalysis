@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Možete da dodate najviše %d karakter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Možete da dodate najviše %d karaktera.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Možete da dodate najviše %d karaktera.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sekunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekundi</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Režim razgovora se zatvara ako vaš glas nije detektovan %d sekundu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Režim razgovora se zatvara ako vaš glas nije detektovan %d sekunde</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Režim razgovora se zatvara ako vaš glas nije detektovan %d sekundi</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ako ste već uparili bubice sa telefonom ili tabletom, samo otvorite kućište za punjenje da biste ih povezali ponovo.\10\10Ako se ne povežu automatski ili ako želite da ih uparite sa novim telefonom ili tabletom, stavite bubice, a zatim dodirnite i zadržite bubice na %d sekundu dok se ne oglasi zvučni signal.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ako ste već uparili bubice sa telefonom ili tabletom, samo otvorite kućište za punjenje da biste ih povezali ponovo.\10\10Ako se ne povežu automatski ili ako želite da ih uparite sa novim telefonom ili tabletom, stavite bubice, a zatim dodirnite i zadržite bubice na %d sekunde dok se ne oglasi zvučni signal.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ako ste već uparili bubice sa telefonom ili tabletom, samo otvorite kućište za punjenje da biste ih povezali ponovo.\10\10Ako se ne povežu automatski ili ako želite da ih uparite sa novim telefonom ili tabletom, stavite bubice, a zatim dodirnite i zadržite bubice na %d sekundi dok se ne oglasi zvučni signal.</item>
+    </plurals>
+</resources>

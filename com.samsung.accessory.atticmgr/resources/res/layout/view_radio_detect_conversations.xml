@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/radio_button_text_content_inset" android:paddingEnd="@dimen/radio_button_text_content_inset">
+    <View android:id="@+id/divider" android:background="@color/list_item_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height" android:layout_marginStart="48dp" android:layout_marginEnd="24dp"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/radio_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="52dp"/>
+        <TextView android:layout_gravity="center" android:id="@+id/text_radio_option" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/radio_button_text_content_inset" style="@style/ListItemTitleTextAppearance"/>
+    </LinearLayout>
+</LinearLayout>

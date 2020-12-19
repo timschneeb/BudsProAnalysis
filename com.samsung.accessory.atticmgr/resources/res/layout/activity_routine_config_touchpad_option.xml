@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="vertical" android:background="@color/color_routine_background" android:paddingLeft="@dimen/routine_list_item_inset" android:paddingRight="@dimen/routine_list_item_inset" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="18dp">
+    <androidx.core.widget.NestedScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_weight="1">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/radio_group_option_volume_control" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:layout_marginBottom="14dp">
+                <RadioButton android:textSize="16sp" android:id="@+id/btn_option_volume_control" android:paddingTop="@dimen/routine_list_item_top_padding" android:paddingBottom="@dimen/routine_list_item_top_padding" android:clickable="false" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/routine_list_item_inset"/>
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="18sp" android:textColor="@color/color_routine_item_title_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/routine_volume_control"/>
+                    <TextView android:textSize="13sp" android:textColor="#909090" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/routine_volume_control_description" android:textDirection="locale" android:textAlignment="gravity"/>
+                </LinearLayout>
+            </LinearLayout>
+            <RadioButton android:textColor="@color/color_routine_item_title_color" android:id="@+id/btn_option_others" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/routine_actions" style="@style/RoutineListItemTextAppearance"/>
+            <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:paddingStart="@dimen/list_item_content_inset" android:layout_marginStart="36dp">
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14sp" android:textColor="#858585" android:id="@+id/routine_touchpad_option_left_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_left"/>
+                    <com.samsung.accessory.hearablemgr.common.ui.DottedLineView android:layout_width="match_parent" android:layout_height="2dp" android:layout_marginStart="12dp" android:layout_marginEnd="12dp" app:dotColor="#979797"/>
+                </LinearLayout>
+                <RadioGroup android:id="@+id/routine_touchpad_option_left_group" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <RadioButton android:id="@+id/left_option1" android:tag="bixby" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/settings_touchpad_popup_txt1_bixby" style="@style/RoutineTouchpadOptionTextAppearance"/>
+                    <RadioButton android:id="@+id/left_option2" android:tag="ambient_sound" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/settings_ambient_sound" style="@style/RoutineTouchpadOptionTextAppearance"/>
+                    <RadioButton android:id="@+id/left_option3" android:tag="spotify" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Sportify" style="@style/RoutineTouchpadOptionTextAppearance"/>
+                </RadioGroup>
+                <LinearLayout android:gravity="center" android:orientation="horizontal" android:paddingTop="8dp" android:paddingBottom="8dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <TextView android:textSize="14sp" android:textColor="#858585" android:id="@+id/routine_touchpad_option_right_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_right"/>
+                    <com.samsung.accessory.hearablemgr.common.ui.DottedLineView android:layout_width="match_parent" android:layout_height="2dp" android:layout_marginStart="12dp" android:layout_marginEnd="12dp" app:dotColor="#979797"/>
+                </LinearLayout>
+                <RadioGroup android:id="@+id/routine_touchpad_option_right_group" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <RadioButton android:id="@+id/right_option1" android:tag="bixby" android:layout_width="match_parent" android:layout_height="wrap_content" android:checked="true" android:text="@string/settings_touchpad_popup_txt1_bixby" style="@style/RoutineTouchpadOptionTextAppearance"/>
+                    <RadioButton android:id="@+id/right_option2" android:tag="ambient_sound" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/settings_ambient_sound" style="@style/RoutineTouchpadOptionTextAppearance"/>
+                    <RadioButton android:id="@+id/right_option3" android:tag="spotify" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Sportify" style="@style/RoutineTouchpadOptionTextAppearance"/>
+                </RadioGroup>
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+    <LinearLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="24dp" android:layout_marginBottom="20dp" android:minHeight="@dimen/routine_button_height">
+        <TextView android:gravity="center" android:id="@+id/btn_cancel" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/routine_button_height" android:text="@string/routine_cancel" android:layout_weight="1" style="@style/RoutineDialogPositiveButtonAppearance"/>
+        <View android:background="@color/color_routine_divider" android:layout_width="1dp" android:layout_height="match_parent" android:layout_marginTop="9dp" android:layout_marginBottom="9dp"/>
+        <TextView android:gravity="center" android:id="@+id/btn_ok" android:background="@drawable/background_flat_button" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/routine_button_height" android:text="@string/routine_done" android:layout_weight="1" style="@style/RoutineDialogPositiveButtonAppearance"/>
+    </LinearLayout>
+</LinearLayout>

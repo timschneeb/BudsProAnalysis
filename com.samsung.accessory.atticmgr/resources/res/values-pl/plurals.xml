@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nie można dodać więcej niż %d znaku.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nie można dodać więcej niż %d znaków.</item>
+        <item quantity="many">Nie można dodać więcej niż %d znaków.</item>
+        <item quantity="other">Nie można dodać więcej niż %d znaku.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+        <item quantity="other">%d sekund</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tryb konwersacji kończy się, kiedy Twój głos nie jest wykrywany przez %d sekundę</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Tryb konwersacji kończy się, kiedy Twój głos nie jest wykrywany przez %d sekundy</item>
+        <item quantity="many">Tryb konwersacji kończy się, kiedy Twój głos nie jest wykrywany przez %d sekund</item>
+        <item quantity="other">Tryb konwersacji kończy się, kiedy Twój głos nie jest wykrywany przez %d sekundy</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Jeśli masz już słuchawki powiązane z telefonem lub tabletem, po prostu otwórz obudowę do ładowania, aby podłączyć je ponownie.\10\10Jeśli nie połączą się automatycznie lub jeśli chcesz powiązać je z nowym telefonem lub tabletem, załóż słuchawki, a następnie dotknij obu słuchawek i przytrzymaj przez %d sekundę, aż usłyszysz sygnał dźwiękowy.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Jeśli masz już słuchawki powiązane z telefonem lub tabletem, po prostu otwórz obudowę do ładowania, aby podłączyć je ponownie.\10\10Jeśli nie połączą się automatycznie lub jeśli chcesz powiązać je z nowym telefonem lub tabletem, załóż słuchawki, a następnie dotknij obu słuchawek i przytrzymaj przez %d sekundy, aż usłyszysz sygnał dźwiękowy.</item>
+        <item quantity="many">Jeśli masz już słuchawki powiązane z telefonem lub tabletem, po prostu otwórz obudowę do ładowania, aby podłączyć je ponownie.\10\10Jeśli nie połączą się automatycznie lub jeśli chcesz powiązać je z nowym telefonem lub tabletem, załóż słuchawki, a następnie dotknij obu słuchawek i przytrzymaj przez %d sekund, aż usłyszysz sygnał dźwiękowy.</item>
+        <item quantity="other">Jeśli masz już słuchawki powiązane z telefonem lub tabletem, po prostu otwórz obudowę do ładowania, aby podłączyć je ponownie.\10\10Jeśli nie połączą się automatycznie lub jeśli chcesz powiązać je z nowym telefonem lub tabletem, załóż słuchawki, a następnie dotknij obu słuchawek i przytrzymaj przez %d sekund, aż usłyszysz sygnał dźwiękowy.</item>
+    </plurals>
+</resources>

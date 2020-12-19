@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:visibility="visible" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <View android:background="#e6e6e6" android:layout_width="match_parent" android:layout_height="@dimen/actionbar_divider"/>
+        <TextView android:textSize="16sp" android:textColor="#505050" android:id="@+id/textView_message" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="35dp" android:layout_marginBottom="13dp" android:text="@string/contact_us_chn_read_and_agree" android:lineSpacingExtra="3sp" android:fontFamily="sec-roboto-light" android:layout_marginStart="24dp" android:layout_marginEnd="24dp"/>
+        <com.samsung.android.app.twatchmanager.uiitems.SetupwizardCheckboxLayout android:id="@+id/sensitive_personal_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:layout_marginBottom="18dp" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" app:descTextVisible="false" app:learnmoreVisible="true" app:titleText="@string/sensitive_privacy_text"/>
+        <com.samsung.android.app.twatchmanager.uiitems.SetupwizardCheckboxLayout android:id="@+id/transer_personal_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18dp" android:layout_marginBottom="18dp" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" app:descTextVisible="false" app:learnmoreVisible="true" app:titleText="@string/transfer_privacy_text"/>
+    </LinearLayout>
+    <View android:id="@+id/setupwizard_bottom_divider" android:background="@color/oobe_bottom_divider_color" android:layout_width="match_parent" android:layout_height="@dimen/oobe_bottom_divider_height" android:layout_above="@+id/button_container_layout"/>
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/button_container_layout" android:background="@color/oobe_bottom_btn_area_bgcolor" android:layout_width="match_parent" android:layout_height="@dimen/oobe_bottom_btn_area_height" android:layout_alignParentBottom="true">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/prev_button_layout" android:visibility="invisible" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@+id/next_button_layout" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1">
+            <LinearLayout android:gravity="center" android:id="@+id/next_button_items_layout" android:background="@drawable/manager_popup_btn" android:layout_width="wrap_content" android:layout_height="match_parent">
+                <TextView android:id="@+id/next_button_tv" android:padding="5dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/btn_next" android:layout_marginStart="6dp" android:layout_marginEnd="6dp" style="@style/SetupWizardBottomTextStyle"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Der kan ikke tilføjes mere end %d tegn.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Der kan ikke tilføjes mere end %d tegn.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Samtaletilstand afsluttes, når din stemme ikke registreres i %d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Samtaletilstand afsluttes, når din stemme ikke registreres i %d sekunder</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hvis du allerede har parret dine øretelefoner med en telefon eller tablet, skal du blot åbne opladeræsken for at forbinde dem igen.\10\10Hvis de ikke opretter forbindelse automatisk, eller hvis du vil parre med en ny telefon eller tablet, skal du tage dine øretelefoner på og derefter berøre og holde på begge øretelefoner i %d sekund, indtil du hører et bip.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Hvis du allerede har parret dine øretelefoner med en telefon eller tablet, skal du blot åbne opladeræsken for at forbinde dem igen.\10\10Hvis de ikke opretter forbindelse automatisk, eller hvis du vil parre med en ny telefon eller tablet, skal du tage dine øretelefoner på og derefter berøre og holde på begge øretelefoner i %d sekunder, indtil du hører et bip.</item>
+    </plurals>
+</resources>

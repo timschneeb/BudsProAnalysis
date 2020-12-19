@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Impossibile aggiungere più di %d carattere.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Impossibile aggiungere più di %d caratteri.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d secondo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d secondi</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">La modalità Conversazione viene terminata quando la tua voce non viene rilevata per %d secondo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">La modalità Conversazione viene terminata quando la tua voce non viene rilevata per %d secondi</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se hai già associato gli auricolari a uno smartphone o tablet, è sufficiente aprire il case di ricarica per connetterli di nuovo.\10\10Se la connessione non avviene automaticamente o se desideri associarli a un altro smartphone o tablet, indossa gli auricolari e tienili premuti entrambi per %d secondo, finché non senti un segnale acustico.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Se hai già associato gli auricolari a uno smartphone o tablet, è sufficiente aprire il case di ricarica per connetterli di nuovo.\10\10Se la connessione non avviene automaticamente o se desideri associarli a un altro smartphone o tablet, indossa gli auricolari e tienili premuti entrambi per %d secondi, finché non senti un segnale acustico.</item>
+    </plurals>
+</resources>

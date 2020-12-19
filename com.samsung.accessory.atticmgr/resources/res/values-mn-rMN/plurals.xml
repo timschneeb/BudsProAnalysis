@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d-с илүү тэмдэгт нэмэх боломжгүй.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d-с илүү тэмдэгт нэмэх боломжгүй.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d секунд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны дууг %d секундийн турш илрүүлээгүй үед харилцан ярианы горим дуусна</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны дууг %d секундийн турш илрүүлээгүй үед харилцан ярианы горим дуусна</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Хэрэв та чихэвчээ утас эсвэл таблеттай аль хэдийн хослуулсан бол цэнэглэх гэрийг онгойлгоод тэдгээрийг дахин холбоно уу.\10\10Хэрэв тэд автоматаар холбогдохгүй байвал эсвэл та шинэ утас эсвэл таблеттай хослуулмаар байвал чихэвчээ зүүгээд дохио сонсох хүртлээ хоёр чихэвчийн хоёуланг товшиж %d секунд барина уу.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Хэрэв та чихэвчээ утас эсвэл таблеттай аль хэдийн хослуулсан бол цэнэглэх гэрийг онгойлгоод тэдгээрийг дахин холбоно уу.\10\10Хэрэв тэд автоматаар холбогдохгүй байвал эсвэл та шинэ утас эсвэл таблеттай хослуулмаар байвал чихэвчээ зүүгээд дохио сонсох хүртлээ хоёр чихэвчийн хоёуланг товшиж %d секунд барина уу.</item>
+    </plurals>
+</resources>

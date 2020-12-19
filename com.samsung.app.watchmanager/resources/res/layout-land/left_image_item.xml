@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:background="@drawable/list_item_shape_recyclerview" android:layout_width="match_parent" android:layout_height="106dp">
+    <RelativeLayout android:id="@+id/outer_relative_parent" android:background="@drawable/pick_gear_item_background" android:layout_width="match_parent" android:layout_height="match_parent" android:paddingStart="20dp" android:paddingEnd="20dp">
+        <View android:id="@+id/tablet_space_view" android:layout_width="0dp" android:layout_height="match_parent"/>
+        <ImageView android:layout_gravity="center_horizontal" android:id="@+id/grid_image" android:layout_width="142dp" android:layout_height="match_parent" android:adjustViewBounds="true" android:layout_toEndOf="@+id/tablet_space_view"/>
+        <LinearLayout android:orientation="vertical" android:id="@+id/group_text_progress" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginStart="17dp" android:layout_toEndOf="@+id/grid_image">
+            <TextView android:textSize="19dp" android:textColor="#e5e5e5" android:gravity="center_vertical" android:id="@+id/grid_text" android:layout_width="match_parent" android:layout_height="match_parent" style="@style/robotoMedium"/>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

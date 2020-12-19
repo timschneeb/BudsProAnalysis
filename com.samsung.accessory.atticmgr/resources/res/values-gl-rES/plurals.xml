@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Non se pode engadir máis de %d carácter.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Non se poden engadir máis de %d caracteres.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d segundos</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Modo de conversa remata cando non se detecta a túa voz durante %d segundo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Modo de conversa remata cando non se detecta a túa voz durante %d segundos</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Se xa tes vinculados os auriculares cun teléfono ou tableta, abre a caixa de carga para volver conectalos.\10\10Se non se conectan automaticamente ou se queres vinculalos a outro teléfono ou tableta, pon os auriculares e mantén pulsados ambos durante %d segundo ata que escoites un son.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Se xa tes vinculados os auriculares cun teléfono ou tableta, abre a caixa de carga para volver conectalos.\10\10Se non se conectan automaticamente ou se queres vinculalos a outro teléfono ou tableta, pon os auriculares e mantén pulsados ambos durante %d segundos ata que escoites un son.</item>
+    </plurals>
+</resources>

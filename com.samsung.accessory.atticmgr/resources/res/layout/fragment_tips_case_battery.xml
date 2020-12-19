@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/tips_case_battery_title" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset" style="@style/TipsManualTitleAppearance"/>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="18dp">
+        <ImageView android:id="@+id/image_tips_charging_battery_level" android:layout_width="@dimen/guide_image_width" android:layout_height="@dimen/guide_image_height" android:src="@drawable/fd_home_tips_charging_battery_level" android:scaleType="fitXY"/>
+    </LinearLayout>
+    <com.samsung.accessory.hearablemgr.common.ui.CanAwakeNestedScrollView android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="@dimen/tips_manual_description_default_height" android:layout_marginTop="@dimen/tips_manual_description_top_margin" android:overScrollMode="never" android:importantForAccessibility="noHideDescendants">
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/tips_case_battery_desc" style="@style/TipsManualDescriptionAppearance"/>
+            <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14sp" android:text="@string/tips_case_battery_error_desc" style="@style/TipsManualDescriptionAppearance"/>
+        </LinearLayout>
+    </com.samsung.accessory.hearablemgr.common.ui.CanAwakeNestedScrollView>
+</LinearLayout>

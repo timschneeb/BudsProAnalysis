@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/sesl_timepicker_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <View android:id="@+id/sesl_timepicker_margin_left" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0"/>
+    <View android:id="@+id/sesl_timepicker_empty_1" android:visibility="gone" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="174"/>
+    <View android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="188"/>
+    <LinearLayout android:orientation="horizontal" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="450" android:layoutDirection="ltr">
+        <androidx.picker.widget.SeslNumberPicker android:id="@+id/hour" android:focusable="true" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="200"/>
+        <TextView android:textSize="@dimen/sesl_time_picker_spinner_divider_text_size" android:textColor="?attr/colorPrimaryDark" android:gravity="center" android:layout_gravity="center" android:id="@+id/divider" android:layout_width="0dp" android:layout_height="match_parent" android:includeFontPadding="false" android:layout_weight="50" android:importantForAccessibility="no"/>
+        <androidx.picker.widget.SeslNumberPicker android:id="@+id/minute" android:focusable="true" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="200"/>
+    </LinearLayout>
+    <View android:id="@+id/sesl_timepicker_ampm_picker_margin_left" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="34"/>
+    <androidx.picker.widget.SeslNumberPicker android:gravity="center_vertical" android:layout_gravity="center" android:id="@+id/amPm" android:focusable="true" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="140"/>
+    <View android:id="@+id/sesl_timepicker_ampm_picker_margin_right" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0"/>
+    <View android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="188"/>
+    <View android:id="@+id/sesl_timepicker_empty_2" android:visibility="gone" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="174"/>
+    <View android:id="@+id/sesl_timepicker_margin_right" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="0"/>
+</LinearLayout>

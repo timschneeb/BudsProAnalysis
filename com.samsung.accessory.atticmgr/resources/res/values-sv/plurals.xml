@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Det går inte att lägga till fler än %d tecken.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Det går inte att lägga till fler än %d tecken.</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sekunder</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Konversationsläget avslutas när din röst inte har hörts på %d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Konversationsläget avslutas när din röst inte har hörts på %d sekunder</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Om du redan har sammankopplat hörlurarna med en telefon eller surfplatta behöver du bara öppna laddningsfodralet för att sammankoppla dem igen.\10\10Om de inte ansluts automatiskt eller om du vill sammankoppla med en ny telefon eller surfplatta sätter du på dig hörlurarna och håller i bägge i %d sekund tills du hör ett pip.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Om du redan har sammankopplat hörlurarna med en telefon eller surfplatta behöver du bara öppna laddningsfodralet för att sammankoppla dem igen.\10\10Om de inte ansluts automatiskt eller om du vill sammankoppla med en ny telefon eller surfplatta sätter du på dig hörlurarna och håller i bägge i %d sekunder tills du hör ett pip.</item>
+    </plurals>
+</resources>

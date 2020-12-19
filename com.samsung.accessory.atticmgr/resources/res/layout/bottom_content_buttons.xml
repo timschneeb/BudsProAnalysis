@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/layout_bottom_content_buttons" android:background="@color/bottom_content_background" android:paddingTop="@dimen/bottom_content_padding_top" android:paddingBottom="@dimen/bottom_content_padding_bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:weightSum="1" android:splitMotionEvents="false">
+    <LinearLayout android:orientation="vertical" android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="@dimen/bottom_content_button_max_width_ratio">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:divider="@drawable/fotaprovider_bottombar_button_vertical_spacing" android:showDividers="middle">
+            <Button android:id="@+id/button_bottom_content_first" style="@style/FotaProviderTheme.Widget.BottomBarButton.Grey"/>
+            <Button android:id="@+id/button_bottom_content_second" style="@style/FotaProviderTheme.Widget.BottomBarButton.Orange"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

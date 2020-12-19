@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:id="@+id/whole_layout" android:background="@color/navigationbar_color_dark" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <RelativeLayout android:gravity="center_vertical" android:id="@+id/top_actionbar_title" android:background="@color/daynight_dark_theme_background" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/action_bar_h" android:layout_alignParentTop="true">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/gear_device_logo" android:layout_marginStart="25dp"/>
+    </RelativeLayout>
+    <RelativeLayout android:id="@+id/top_image_title" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+            <ImageView android:id="@+id/topView" android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/select_device_bg_default" android:scaleType="fitStart" android:adjustViewBounds="true" android:layout_alignParentTop="true"/>
+        </RelativeLayout>
+        <ImageView android:id="@+id/gearManagerLogo" android:layout_width="156dp" android:layout_height="24dp" android:layout_marginTop="8dp" android:src="@drawable/gear_device_logo" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_marginStart="20dp" android:layout_marginEnd="18dp"/>
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/extra_large_text_size" android:textColor="#fafafa" android:gravity="center" android:id="@+id/pairUpTitle" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/lets_pair_up" android:layout_below="@+id/top_image_title" style="@style/robotoRegular"/>
+    <TextView android:textSize="18dp" android:textColor="#ffffff" android:gravity="center_horizontal" android:id="@+id/messageText" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp" android:text="@string/setup_message_preparing" android:layout_below="@+id/pairUpTitle" android:layout_marginStart="24dp" android:layout_marginEnd="24dp" style="@style/robotoRegular"/>
+    <RelativeLayout android:id="@+id/vi_container_device_pairing" android:visibility="gone" android:layout_width="match_parent" android:layout_height="200dp" android:layout_marginTop="82dp" android:layout_below="@+id/pairUpTitle">
+        <com.samsung.td.particlesystem.watch_oobe.ParticleViewManager_Watch_OOBE android:id="@+id/galaxy_container" android:layout_width="358dp" android:layout_height="match_parent" android:layout_centerInParent="true"/>
+        <ImageView android:id="@+id/pincode_ok_button_image" android:background="@drawable/oobe_pairing_img_watch_select_01" android:layout_width="@dimen/pairing_watch_image_01_width" android:layout_height="@dimen/pairing_watch_image_01_height" android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    <TextView android:textSize="20dp" android:textColor="#ffffff" android:gravity="center" android:id="@+id/particle_animation_text" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="38dp" android:text="@string/pairing_message_for_gear" android:layout_below="@+id/vi_container_device_pairing"/>
+    <ProgressBar android:id="@+id/progress_circle_scanning" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginBottom="151dp" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true"/>
+    <TextView android:textSize="18dp" android:textColor="#ffffff" android:id="@+id/passkey" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="14dp" android:text="Passkey" android:layout_above="@+id/ok_button_layout" android:layout_centerHorizontal="true" style="@style/robotoRegular"/>
+    <LinearLayout android:gravity="center" android:id="@+id/ok_button_layout" android:background="@drawable/button_shape_orange" android:visibility="gone" android:layout_width="180dp" android:layout_height="36dp" android:layout_marginBottom="50dp" android:layout_above="@+id/cancel_bottom_layout" android:layout_centerHorizontal="true">
+        <Button android:textSize="@dimen/large_text_size" android:textStyle="bold" android:textColor="@drawable/button_text_selector" android:id="@+id/ok_btn" android:background="@null" android:layout_width="180dp" android:layout_height="36dp" android:text="@string/pairing_start" android:textAllCaps="false" style="@style/robotoMedium"/>
+        <ProgressBar android:id="@+id/progress_circle" android:layout_width="30dp" android:layout_height="30dp"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:id="@+id/cancel_bottom_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="36dp" android:layout_marginBottom="10dp" android:layout_alignParentBottom="true" android:layout_marginStart="24dp" android:layout_marginEnd="24dp">
+        <TextView android:textSize="16dp" android:textColor="#f2951d" android:id="@+id/cancel_btn" android:background="@drawable/button_background" android:paddingTop="3dp" android:paddingBottom="3dp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/cancel" android:paddingStart="8dp" android:paddingEnd="8dp" style="@style/robotoMedium"/>
+    </LinearLayout>
+</RelativeLayout>

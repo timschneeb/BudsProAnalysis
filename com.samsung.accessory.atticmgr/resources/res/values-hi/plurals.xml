@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="about_earbuds_edit_invalid_length">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d से अधिक वर्ण जोड़ा नहीं जा सकता है।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d से अधिक वर्ण जोड़े नहीं जा सकते हैं।</item>
+    </plurals>
+    <plurals name="detect_conversations_about_seconds">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकंड</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d सेकंड</item>
+    </plurals>
+    <plurals name="detect_conversations_card_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d सेकंड तक आपकी वॉइस की पहचान नहीं होने पर वार्तालाप मोड बंद हो जाता है</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d सेकंड तक आपकी वॉइस की पहचान नहीं होने पर वार्तालाप मोड बंद हो जाता है</item>
+    </plurals>
+    <plurals name="tips_pair_with_a_phone_or_tablet_desc">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">अगर आपने अपने इयरबड्स को पहले से ही किसी फोन या टैबलेट से जोड़ के रखा है, तो उन्हें फिर से कनेक्ट करने के लिए बस चार्जिंग केस खोलें।\10\10अगर वे स्वचालित रूप से कनेक्ट नहीं होते हैं या अगर आप उन्हें किसी नए फोन या टैबलेट से जोड़ना चाहते हैं, तो अपने इयरबड्स लगाएँ, फिर जब तक आपको बीप नहीं सुनाई देती है तब तक %d सेकंड के लिए दोनों इयरबड्स को टच और होल्ड करें।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">अगर आपने अपने इयरबड्स को पहले से ही किसी फोन या टैबलेट से जोड़ के रखा है, तो उन्हें फिर से कनेक्ट करने के लिए बस चार्जिंग केस खोलें।\10\10अगर वे स्वचालित रूप से कनेक्ट नहीं होते हैं या अगर आप उन्हें किसी नए फोन या टैबलेट से जोड़ना चाहते हैं, तो अपने इयरबड्स लगाएँ, फिर जब तक आपको बीप नहीं सुनाई देती है तब तक %d सेकंड के लिए दोनों इयरबड्स को टच और होल्ड करें।</item>
+    </plurals>
+</resources>

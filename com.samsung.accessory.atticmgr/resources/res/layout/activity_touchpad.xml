@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/root_layout" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.google.android.material.appbar.AppBarLayout android:id="@+id/app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:expanded="false" style="@style/Widget.Design.AppBarLayout">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:id="@+id/collapsing_app_bar" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="3" app:title="@string/settings_touchpad" style="@style/Widget.Design.CollapsingToolbar">
+            <androidx.appcompat.widget.Toolbar android:theme="@style/Theme.AppCompat" android:layout_gravity="bottom" android:id="@+id/toolbar" android:layout_width="match_parent" android:layout_height="?attr/actionBarSize" app:layout_collapseMode="1" app:navigationIcon="?attr/homeAsUpIndicator" app:title="@string/settings_touchpad"/>
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <com.samsung.accessory.hearablemgr.common.ui.ResponsiveNestedScrollView android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/nested_scroll" android:scrollbars="vertical" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerHorizontal="true">
+            <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="match_parent">
+                <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+                    <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+                        <LinearLayout android:orientation="vertical" android:background="@color/legacy_contents_background" android:paddingTop="20dp" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <com.samsung.accessory.hearablemgr.common.ui.WrapContentHeightViewPager android:id="@+id/touchpad_viewpager" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+                        </LinearLayout>
+                    </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                    <com.samsung.accessory.hearablemgr.common.ui.PageIndicatorView android:id="@+id/page_indicator" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp" android:layout_marginBottom="16dp" app:pageMax="4"/>
+                    <FrameLayout android:id="@+id/tips_desc_layout" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="75dp"/>
+                    <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="16dp">
+                        <LinearLayout android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:id="@+id/layout_lock_touchpad_" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="1" android:minHeight="@dimen/sub_app_bar_height">
+                                <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="19dp" android:layout_marginBottom="19dp">
+                                    <androidx.appcompat.widget.SwitchCompat android:id="@+id/switch_lock_touchpad" android:saveEnabled="false" android:layout_width="43dp" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="16dp" android:layout_marginEnd="24dp" android:layout_alignParentEnd="true"/>
+                                    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/settings_touchpad_menu1" android:layout_marginStart="@dimen/list_item_content_inset" android:layout_toStartOf="@+id/switch_lock_touchpad" android:layout_alignParentStart="true" style="@style/ListItemTitleTextAppearance"/>
+                                </RelativeLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                    <LinearLayout android:id="@+id/touchpad_option_title" android:paddingTop="@dimen/sub_header_top_padding" android:paddingBottom="@dimen/sub_header_bottom_padding" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/sub_header_height" android:importantForAccessibility="yes" android:paddingStart="24dp" android:paddingEnd="24dp">
+                        <TextView android:gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/settings_touchpad_option_menu" style="@style/SubheaderTextAppearance"/>
+                    </LinearLayout>
+                    <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp">
+                        <LinearLayout android:orientation="vertical" android:id="@+id/touchpad_option_layout" android:background="@color/contents_background" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                            <RelativeLayout android:orientation="vertical" android:id="@+id/left_option_layout" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_2line_min_height">
+                                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/left_option_layout_txt_layout" android:paddingTop="@dimen/list_item_text_top_bottom_padding" android:paddingBottom="@dimen/list_item_text_top_bottom_padding" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_2line_min_height" android:layout_weight="1" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+                                    <TextView android:id="@+id/left_option_main_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_left" style="@style/ListItemTitleTextAppearance"/>
+                                    <TextView android:id="@+id/left_option_sub_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="setting value" android:singleLine="true" style="@style/ListItemSettingValueTextAppearance"/>
+                                </LinearLayout>
+                            </RelativeLayout>
+                            <View android:background="@color/divider_color" android:layout_width="match_parent" android:layout_height="@dimen/list_item_divider_height" android:layout_marginStart="18dp" android:layout_marginEnd="18dp"/>
+                            <RelativeLayout android:orientation="vertical" android:id="@+id/right_option_layout" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_2line_min_height">
+                                <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/right_option_txt_layout" android:paddingTop="@dimen/list_item_text_top_bottom_padding" android:paddingBottom="@dimen/list_item_text_top_bottom_padding" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/list_item_2line_min_height" android:layout_weight="1" android:paddingStart="@dimen/list_item_content_inset" android:paddingEnd="@dimen/list_item_content_inset">
+                                    <TextView android:id="@+id/right_option_main_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_right" style="@style/ListItemTitleTextAppearance"/>
+                                    <TextView android:id="@+id/right_option_sub_txt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="setting value" android:singleLine="true" style="@style/ListItemSettingValueTextAppearance"/>
+                                </LinearLayout>
+                            </RelativeLayout>
+                        </LinearLayout>
+                    </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                    <com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16dp">
+                        <LinearLayout android:background="@color/contents_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+                            <LinearLayout android:id="@+id/layout_check_how_to_tap" android:background="?android:attr/selectableItemBackground" android:layout_width="match_parent" android:layout_height="wrap_content" android:weightSum="1" android:minHeight="@dimen/sub_app_bar_height">
+                                <RelativeLayout android:layout_gravity="center_vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="14dp" android:layout_marginBottom="14dp">
+                                    <TextView android:id="@+id/check_how_to_tap_earbuds_main" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/check_how_to_tap" android:layout_marginStart="@dimen/list_item_content_inset" android:layout_marginEnd="@dimen/list_item_content_inset" android:layout_alignParentStart="true" style="@style/ListItemTitleTextAppearance"/>
+                                    <TextView android:id="@+id/check_how_to_tap_earbuds_sub" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/check_how_to_tap_during_call" android:layout_below="@+id/check_how_to_tap_earbuds_main" android:layout_marginStart="@dimen/list_item_content_inset" android:layout_marginEnd="@dimen/list_item_content_inset" android:layout_alignParentStart="true" style="@style/ListItemDescriptionTextAppearance"/>
+                                </RelativeLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+                </LinearLayout>
+            </com.samsung.accessory.hearablemgr.common.ui.RoundedCornerLayout>
+        </com.samsung.accessory.hearablemgr.common.ui.ResponsiveWidthLayout>
+    </com.samsung.accessory.hearablemgr.common.ui.ResponsiveNestedScrollView>
+    <ImageView android:layout_gravity="bottom|right|center_vertical|center_horizontal|center|end" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_top_left" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800033"/>
+    <ImageView android:layout_gravity="bottom|left|center_vertical|center_horizontal|center|start" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_top_right" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800035"/>
+    <ImageView android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_bottom_left" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800053"/>
+    <ImageView android:layout_gravity="top|left|center_vertical|center_horizontal|center|start" android:layout_width="26dp" android:layout_height="26dp" android:src="@drawable/rc_bottom_right" app:layout_anchor="@+id/nested_scroll" app:layout_anchorGravity="800055"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

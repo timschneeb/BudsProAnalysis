@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.samsung.accessory.wmanager" android:versionCode="2120113061" android:versionName="2.2.36.20113061" android:compileSdkVersion="29" android:compileSdkVersionCodename="10" package="com.samsung.android.app.watchmanager" platformBuildVersionCode="29" platformBuildVersionName="10">
+    <uses-sdk android:minSdkVersion="18" android:targetSdkVersion="29"/>
+    <permission android:label="@string/SS_TRANSFERRING_DATA_VIA_FRAMEWORK_ABB" android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK" android:protectionLevel="normal" android:description="@string/SS_ALLOWS_THE_APP_TO_TRANSFER_YOUR_DATA_VIA_BLUETOOTH_USING_THE_ACCESSORY_FRAMEWORK"/>
+    <permission android:label="@string/access_connected_device_status" android:name="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:protectionLevel="signature" android:description="@string/access_connected_device_status_description"/>
+    <permission android:name="com.samsung.android.hostmanager.permission.WRITE_APP_REGISTRY" android:protectionLevel="signature"/>
+    <permission android:label="@string/access_connected_device_status" android:icon="@drawable/galaxy_wearables" android:name="com.samsung.android.hostmanager.permission.CONTROL_WEARABLE_STATUS" android:protectionLevel="signature" android:description="@string/access_connected_device_status_description"/>
+    <permission android:name="com.samsung.wmanager.RECEIVE_APP_FEATURES"/>
+    <permission android:name="com.samsung.android.gear2plugin.provider.Settings.READ" android:protectionLevel="normal"/>
+    <permission android:name="com.samsung.android.gear2plugin.provider.Settings.WRITE" android:protectionLevel="normal"/>
+    <permission android:name="com.samsung.android.gear1plugin.provider.Settings.READ" android:protectionLevel="normal"/>
+    <permission android:name="com.samsung.android.gear1plugin.provider.Settings.WRITE" android:protectionLevel="normal"/>
+    <uses-permission android:name="com.samsung.android.permission.GEAR_DUMP"/>
+    <uses-permission android:name="com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.CONTROL_WEARABLE_STATUS"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.WRITE_APP_REGISTRY"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.NFC"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.REMOVE_TASKS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.REORDER_TASKS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="com.sec.spp.permission.TOKEN_c96448c395f6a5d7a9de72d04cdfbb6092c57a9b906b091662b1dd3f8e8122e42565eae06dbf3d4003988559ecba44ddaa68740139a04af757ed0d1ccbd82f668aaa183f17519d09dbd5ce31fdafaaa9102681effb8291ee5f0cee5d4279b15265fe4914150215751503cee4da5fb57666c9efd290369d5b3cd012d15d103f36"/>
+    <uses-permission android:name="com.sec.android.diagmonagent.permission.DIAGMON"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.DUMP"/>
+    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES"/>
+    <uses-permission android:name="com.samsung.app.watchmanagerstub.permission.START_ACTIVITY"/>
+    <uses-feature android:name="android.hardware.nfc" android:required="false"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:name="com.samsung.android.app.twatchmanager.TWatchManagerApplication" android:testOnly="false" android:allowBackup="false" android:hardwareAccelerated="true" android:largeHeap="false" android:supportsRtl="true" android:resizeableActivity="true" android:networkSecurityConfig="@xml/network_security_config" android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+        <activity android:theme="@style/TransActivityFullScreenWithActionbar" android:label="@string/app_name" android:name="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity" android:launchMode="singleTask" android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.uhm.action.STEALTH_MODE"/>
+                <action android:name="com.samsung.android.spv.ACTION_VIEW_DETAIL"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:scheme="samsunggear" android:host="launch"/>
+                <data android:scheme="galaxywearablefromqr" android:host="launch"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/Theme.Transparent" android:label="@string/app_name" android:name="com.samsung.android.app.twatchmanager.update.UpdateInstallActivity"/>
+        <provider android:name="com.samsung.android.app.twatchmanager.contentprovider.BaseContentProvider" android:writePermission="com.samsung.android.hostmanager.permission.WRITE_APP_REGISTRY" android:enabled="true" android:exported="true" android:process=":contentprovider" android:authorities="com.samsung.android.uhm.framework.appregistry.BaseContentProvider.provider"/>
+        <provider android:name="com.sec.android.diagmonagent.log.provider.DiagMonProvider" android:permission="com.sec.android.diagmonagent.permission.PROVIDER" android:exported="true" android:authorities="com.sec.android.log.wr7lmx4wui"/>
+        <receiver android:name="com.samsung.android.app.twatchmanager.receiver.PackageControlReceiver" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_FULLY_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <activity android:theme="@style/TransActivityFullScreen" android:name="com.samsung.android.app.watchmanager.nfc.NFCReceiverActivity" android:launchMode="singleTask">
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="application/vnd.sec.oob.watchmanager"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.samsung.android.app.twatchmanager.autoswitch.AutoSwitchIntentService" android:permission="android.permission.BIND_JOB_SERVICE" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.action.AUTO_SWITCH"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.samsung.android.app.twatchmanager.smartswitch.SmartSwitchBackupRestoreService" android:exported="false"/>
+        <receiver android:name="com.samsung.android.app.twatchmanager.update.UpdateCheckingReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER"/>
+        <receiver android:name="com.samsung.android.app.twatchmanager.receiver.LocaleChangedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.app.twatchmanager.smartswitch.SmartSwitchDataReceiver" android:permission="com.wssnps.permission.COM_WSSNPS">
+            <intent-filter>
+                <action android:name="com.samsung.android.intent.action.REQUEST_BACKUP_GALAXY_WEARABLE"/>
+                <action android:name="com.samsung.android.intent.action.REQUEST_RESTORE_GALAXY_WEARABLE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.app.twatchmanager.receiver.CommonStaticReceiver" android:permission="android.permission.DUMP">
+            <intent-filter>
+                <action android:name="com.samsung.android.gearlog_sm_request"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.app.twatchmanager.receiver.LaunchActivityReceiver" android:permission="com.samsung.app.watchmanagerstub.permission.START_ACTIVITY" android:exported="true">
+            <intent-filter>
+                <action android:name="com.samsung.connection.ACTION_LAUNCH_APP"/>
+            </intent-filter>
+        </receiver>
+        <provider android:name="androidx.core.content.FileProvider" android:exported="false" android:authorities="com.samsung.android.app.watchmanager.fileprovider" android:grantUriPermissions="true">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
+        </provider>
+        <meta-data android:name="com.sec.android.app.unblockdisabling" android:value="true"/>
+        <meta-data android:name="com.samsung.android.icon_container.has_icon_container" android:value="true"/>
+        <meta-data android:name="com.samsung.android.icon_container.feature_appicon" android:value="ADAPTIVEICON_SHADOW"/>
+        <meta-data android:name="com.samsung.android.enhancedfeatures.sdk.service" android:value="255"/>
+        <meta-data android:name="com.samsung.android.multiuser.install_only_owner" android:value="true"/>
+        <service android:name="com.samsung.android.app.twatchmanager.plugininfoservice.PluginInfoProvideService" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:exported="true" android:process=":remote">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.action.PLUGIN_INFO_SERVICE"/>
+            </intent-filter>
+        </service>
+        <activity android:theme="@style/FullScreenWithActionbar" android:label="@string/welcome_to_samsung_gear_promotion_contact_us" android:name="com.samsung.android.app.watchmanager.setupwizard.contactus.ContactUsActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:launchMode="singleTask" android:configChanges="keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.action.CONTACT_US"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/WManagerWebViewThemeBase" android:label="Gear Manager" android:name="com.samsung.android.app.watchmanager.setupwizard.contactus.connection.SAWebViewActivity" android:process=":plugin" android:windowSoftInputMode="adjustResize" android:hardwareAccelerated="true"/>
+        <meta-data android:name="DisplayCutoutBackground" android:value="true"/>
+        <meta-data android:name="com.samsung.android.foldable.continue_apps_group" android:value="com.samsung.android.gear1plugin,             com.samsung.android.gear2plugin,             com.samsung.android.gearfit2plugin,             com.samsung.android.neckletplugin,             com.samsung.accessory.triathlonmgr,             com.samsung.accessory.beansmgr,             com.samsung.accessory.fridaymgr,             com.samsung.accessory.popcornmgr,             com.samsung.accessory.neobeanmgr,             com.samsung.accessory.atticmgr,             com.samsung.android.gearoplugin,             com.samsung.android.geargplugin,             com.samsung.android.modenplugin,             com.samsung.android.neatplugin,             com.samsung.android.gearpplugin,             com.samsung.android.gearrplugin,             com.samsung.android.gearnplugin"/>
+        <provider android:name="com.samsung.android.sdk.bixby2.provider.CapsuleProvider" android:exported="true" android:authorities="com.samsung.android.app.watchmanager.CapsuleProvider"/>
+        <meta-data android:name="com.samsung.android.sdk.bixby2.companionApp" android:value="true"/>
+        <meta-data android:name="SPDE.build.signature" android:value="09f221a77264e1afdcec34ae3af58394e61609d9/70611467/wmanager-release/GearManager-100100-1.2.35"/>
+        <meta-data android:name="SPDE.env.version" android:value="3.4.1/G29.2.2/0.9.15"/>
+    </application>
+</manifest>
