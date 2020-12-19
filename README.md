@@ -80,6 +80,15 @@ When in ambient sound mode, you can choose from four volume settings, and while 
 
 Apart from the integration features known from the other models, the Buds Pro's conversation detect and noise control feature can now also be controlled by Bixby.
 
+### Future online manual
+
+You can find the online manual here (not yet release at time of writing):
+<https://www.samsung.com/m-manual/mod/SM-R190/>
+or here:
+<https://www.samsung.com/m-manual/mod/SM-R190/nos/>
+
+These links may not work properly on Desktops with large screens and redirect you to a blank page or error page. Use a phone instead if you experience these problems.
+
 ### Widget
 
 | Battery                                                      | Quick actions                                                |
